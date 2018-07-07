@@ -12,3 +12,5 @@ https://fluentvalidation.net/ - Fluent Validace v .NET
 https://github.com/jerriep/dotnet-outdated - Kontrola verzí Nuget balíčků .NET Core
 
 
+## Examples
+https://github.com/EduardoPires/EquinoxProject - Full ASP.NET Core 2.0 application with DDD, CQRS and Event Sourcing
