@@ -1,7 +1,7 @@
 # DeveloperLinks
 
 
-## Knihovny 
+## Knihovny .NET
 https://morelinq.github.io/ - Extensions to LINQ to Objects
 
 https://github.com/JanKallman/EPPlus/wiki - Work with Excel File in C#
@@ -9,6 +9,10 @@ https://github.com/JanKallman/EPPlus/wiki - Work with Excel File in C#
 https://fluentvalidation.net/ - Fluent Validace v .NET
 
 https://github.com/migueldeicaza/gui.cs - Terminal GUI ,Console GUI C#
+
+
+## Knihovny JavaScript
+https://github.com/smore-inc/clippy.js - Office Sponka :) na Webu
 
 ## Tool
 https://github.com/jerriep/dotnet-outdated - Kontrola verzí Nuget balíčků .NET Core
