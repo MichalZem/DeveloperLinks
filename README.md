@@ -17,5 +17,6 @@ https://github.com/jerriep/dotnet-outdated - Kontrola verzí Nuget balíčků .N
 ## Examples
 https://github.com/EduardoPires/EquinoxProject - Full ASP.NET Core 2.0 application with DDD, CQRS and Event Sourcing
 https://github.com/heynickc/awesome-ddd - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+
 https://github.com/EduardoPires/SOLID - SOLID
 
