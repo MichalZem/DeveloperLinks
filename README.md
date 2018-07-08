@@ -10,6 +10,17 @@ https://fluentvalidation.net/ - Fluent Validace v .NET
 
 https://github.com/migueldeicaza/gui.cs - Terminal GUI ,Console GUI C#
 
+https://github.com/StephenCleary/AsyncEx - A helper library for async/await.
+
+
+
+### Knihovny .NET - Media
+https://github.com/ZeBobo5/Vlc.DotNet - VLC in .NET
+
+https://github.com/naudio/NAudio - Audio and MIDI library for .NET
+
+
+
 
 ## Knihovny JavaScript
 https://github.com/smore-inc/clippy.js - Office Sponka :) na Webu
