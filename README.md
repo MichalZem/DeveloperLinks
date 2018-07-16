@@ -12,6 +12,8 @@ https://github.com/migueldeicaza/gui.cs - Terminal GUI ,Console GUI C#
 
 https://github.com/StephenCleary/AsyncEx - A helper library for async/await.
 
+https://github.com/kannan-ar/MariGold.OpenXHTML - HTML to Word
+
 
 
 ### Knihovny .NET - Media
