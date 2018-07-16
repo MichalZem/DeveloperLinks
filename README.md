@@ -14,6 +14,8 @@ https://github.com/StephenCleary/AsyncEx - A helper library for async/await.
 
 https://github.com/kannan-ar/MariGold.OpenXHTML - HTML to Word
 
+https://flurl.io/ - URL builder and HTTP client library for .NET
+
 
 
 ### Knihovny .NET - Media
