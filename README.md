@@ -17,6 +17,9 @@ https://github.com/kannan-ar/MariGold.OpenXHTML - HTML to Word
 https://flurl.io/ - URL builder and HTTP client library for .NET
 
 
+https://graphql.org/code/#c-net - Graph QL
+https://www.prisma.io/ -  Graph QL ORM SQL
+
 
 ### Knihovny .NET - Media
 https://github.com/ZeBobo5/Vlc.DotNet - VLC in .NET
