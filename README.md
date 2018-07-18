@@ -59,3 +59,8 @@ https://github.com/heynickc/awesome-ddd - A curated list of Domain-Driven Design
 
 https://github.com/EduardoPires/SOLID - SOLID
 
+## SQL Links
+
+https://blog.greglow.com/2018/05/18/sdu-tools-read-csv-file-in-t-sql/ - Import CSV to SQL
+
+
