@@ -16,6 +16,8 @@ https://github.com/kannan-ar/MariGold.OpenXHTML - HTML to Word
 
 https://flurl.io/ - URL builder and HTTP client library for .NET
 
+https://github.com/jason-roberts/FeatureToggle - ON/OFF - funkcí/vlastností programu - feature toggles in .NET - je k tomu i kurz na PluralSight 
+
 
 https://graphql.org/code/#c-net - Graph QL
 https://www.prisma.io/ -  Graph QL ORM SQL
