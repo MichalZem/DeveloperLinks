@@ -22,6 +22,8 @@ https://github.com/jason-roberts/FeatureToggle - ON/OFF - funkcí/vlastností pr
 https://graphql.org/code/#c-net - Graph QL
 https://www.prisma.io/ -  Graph QL ORM SQL
 
+https://aspnetboilerplate.com/ - Web Application Framework - celá šablona + framwork pro projekt
+
 
 ### Knihovny .NET - Media
 https://github.com/ZeBobo5/Vlc.DotNet - VLC in .NET
