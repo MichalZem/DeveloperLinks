@@ -23,6 +23,15 @@ https://graphql.org/code/#c-net - Graph QL
 https://www.prisma.io/ -  Graph QL ORM SQL
 
 https://aspnetboilerplate.com/ - Web Application Framework - celá šablona + framwork pro projekt
+## Logování v .NET
+
+https://serilog.net/ - Logování v .NET  (prý nejrychlejší)
+
+http://nlog-project.org/  - - Logování v .NET
+
+http://jsnlog.com/ - Logování JavcaScript Error
+
+https://github.com/hishamco/jsLogger - Simple Logování JavcaScript Error
 
 
 ### Knihovny .NET - Media
