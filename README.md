@@ -18,6 +18,8 @@ https://flurl.io/ - URL builder and HTTP client library for .NET
 
 https://github.com/jason-roberts/FeatureToggle - ON/OFF - funkcí/vlastností programu - feature toggles in .NET - je k tomu i kurz na PluralSight 
 
+http://www.emgu.com/wiki/index.php/Main_Page - Computer Vision Lmihovna Wraper na OpenCV
+
 
 https://graphql.org/code/#c-net - Graph QL
 https://www.prisma.io/ -  Graph QL ORM SQL
