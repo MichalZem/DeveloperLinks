@@ -20,6 +20,7 @@ https://github.com/jason-roberts/FeatureToggle - ON/OFF - funkcí/vlastností pr
 
 http://www.emgu.com/wiki/index.php/Main_Page - Computer Vision Lmihovna Wraper na OpenCV
 
+http://www.thepollyproject.org/ - Polly - Transient Fault Handling library
 
 https://graphql.org/code/#c-net - Graph QL
 https://www.prisma.io/ -  Graph QL ORM SQL
