@@ -31,6 +31,11 @@ https://graphql.org/code/#c-net - Graph QL
 https://www.prisma.io/ -  Graph QL ORM SQL
 
 https://aspnetboilerplate.com/ - Web Application Framework - celá šablona + framwork pro projekt
+
+https://github.com/amageed/Regextra - Regularní výrazy helper
+https://github.com/VerbalExpressions/CSharpVerbalExpressions - CSharp Regular Expressions made easy
+https://github.com/bcwood/FluentRegex - Fluent Regex
+https://github.com/JosefPihrt/LinqToRegex - LINQ to Regex
 ## Logování v .NET
 
 https://serilog.net/ - Logování v .NET  (prý nejrychlejší)
