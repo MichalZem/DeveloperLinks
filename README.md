@@ -2,8 +2,11 @@
 
 ## Odkazy na Seznamy knihoven/codu
 https://github.com/quozd/awesome-dotnet - knihovny a dalši
-
 http://www.extensionmethod.net/csharp - různé pomocné extension methody
+https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md -  .NET Open Source Developer Projects
+https://github.com/tomasherceg/net-libraries-that-make-your-life-easier - Tomas Herceg Linky
+
+
 
 
 ## Knihovny .NET
@@ -36,6 +39,15 @@ https://github.com/amageed/Regextra - Regularní výrazy helper
 https://github.com/VerbalExpressions/CSharpVerbalExpressions - CSharp Regular Expressions made easy
 https://github.com/bcwood/FluentRegex - Fluent Regex
 https://github.com/JosefPihrt/LinqToRegex - LINQ to Regex
+
+https://joshclose.github.io/CsvHelper/ - CSV Helpers
+
+https://github.com/andrewdavey/postal - Postal - A handy email sending library for ASP.NET MVC
+
+
+https://www.hangfire.io/ - Background tasks in NET + job scheduling system
+https://www.quartz-scheduler.net/index.html  Background tasks in NET + job scheduling system
+
 ## Logování v .NET
 
 https://serilog.net/ - Logování v .NET  (prý nejrychlejší)
