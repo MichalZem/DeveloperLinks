@@ -1,5 +1,7 @@
 # DeveloperLinks
 
+## Odkazy na Seznamy knihoven
+https://github.com/quozd/awesome-dotnet
 
 ## Knihovny .NET
 https://morelinq.github.io/ - Extensions to LINQ to Objects
