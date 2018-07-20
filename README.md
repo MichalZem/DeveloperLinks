@@ -1,7 +1,10 @@
 # DeveloperLinks
 
-## Odkazy na Seznamy knihoven
-https://github.com/quozd/awesome-dotnet
+## Odkazy na Seznamy knihoven/codu
+https://github.com/quozd/awesome-dotnet - knihovny a dalši
+
+http://www.extensionmethod.net/csharp - různé pomocné extension methody
+
 
 ## Knihovny .NET
 https://morelinq.github.io/ - Extensions to LINQ to Objects
@@ -72,5 +75,10 @@ https://blog.greglow.com/2018/05/18/sdu-tools-read-csv-file-in-t-sql/ - Import C
 
 https://mockflow.com
 https://marvelapp.com
+
+## Nástroje
+http://hibernatingrhinos.com/products/efprof  - Entity Framework Profiler
+
+
 
 
