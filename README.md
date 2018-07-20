@@ -68,4 +68,9 @@ https://github.com/EduardoPires/SOLID - SOLID
 
 https://blog.greglow.com/2018/05/18/sdu-tools-read-csv-file-in-t-sql/ - Import CSV to SQL
 
+## Mockapování
+
+https://mockflow.com
+https://marvelapp.com
+
 
