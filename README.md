@@ -48,7 +48,7 @@ https://github.com/andrewdavey/postal - Postal - A handy email sending library f
 https://www.hangfire.io/ - Background tasks in NET + job scheduling system
 https://www.quartz-scheduler.net/index.html  Background tasks in NET + job scheduling system
 
-## Logování v .NET
+### Logování v .NET
 
 https://serilog.net/ - Logování v .NET  (prý nejrychlejší)
 
@@ -63,6 +63,11 @@ https://github.com/hishamco/jsLogger - Simple Logování JavcaScript Error
 https://github.com/ZeBobo5/Vlc.DotNet - VLC in .NET
 
 https://github.com/naudio/NAudio - Audio and MIDI library for .NET
+
+## Linq
+https://github.com/StefH/System.Linq.Dynamic.Core - Dynamic LINQ  (např OrderBy ->OrderBy("MyProperty DESC, MyOtherProperty ASC");)
+
+https://github.com/kahanu/System.Linq.Dynamic - Dynamic LINQ  (např OrderBy ->OrderBy("MyProperty DESC, MyOtherProperty ASC");)
 
 
 ## Bootstrap
@@ -95,6 +100,7 @@ https://marvelapp.com
 
 ## Nástroje
 http://hibernatingrhinos.com/products/efprof  - Entity Framework Profiler
+
 http://www.linqpad.net/ - playground for C#
 
 
