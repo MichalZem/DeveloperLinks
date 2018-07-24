@@ -65,6 +65,8 @@ https://github.com/ZeBobo5/Vlc.DotNet - VLC in .NET
 https://github.com/naudio/NAudio - Audio and MIDI library for .NET
 
 ## Linq
+https://github.com/SurpassSoftware/DynamicExpressionBuilder -  Dynamic Expression Builder - hodi se na např na genereování Where
+
 https://github.com/StefH/System.Linq.Dynamic.Core - Dynamic LINQ  (např OrderBy ->OrderBy("MyProperty DESC, MyOtherProperty ASC");)
 
 https://github.com/kahanu/System.Linq.Dynamic - Dynamic LINQ  (např OrderBy ->OrderBy("MyProperty DESC, MyOtherProperty ASC");)
