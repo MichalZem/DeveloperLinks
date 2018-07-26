@@ -112,5 +112,8 @@ http://hibernatingrhinos.com/products/efprof  - Entity Framework Profiler
 
 http://www.linqpad.net/ - playground for C#
 
+## Programátorské postupy
+
+https://12factor.net/
 
 
