@@ -1,10 +1,17 @@
 # DeveloperLinks
 
-## Odkazy na Seznamy knihoven/codu
+## Odkazy na Seznamy knihoven
 https://github.com/quozd/awesome-dotnet - knihovny a dalši
 http://www.extensionmethod.net/csharp - různé pomocné extension methody
 https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md -  .NET Open Source Developer Projects
 https://github.com/tomasherceg/net-libraries-that-make-your-life-easier - Tomas Herceg Linky
+
+
+## Programátorské výzkumy / statistiky
+https://insights.stackoverflow.com/survey/2018/ - Stackoverflow 2018
+
+https://www.tiobe.com/tiobe-index/ - Index programovacích jazyků
+
 
 
 
