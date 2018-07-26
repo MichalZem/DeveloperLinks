@@ -107,6 +107,9 @@ https://blog.greglow.com/2018/05/18/sdu-tools-read-csv-file-in-t-sql/ - Import C
 https://mockflow.com
 https://marvelapp.com
 
+## Různé
+https://grafana.com/ - Monitoring Dashboard
+
 ## Nástroje
 http://hibernatingrhinos.com/products/efprof  - Entity Framework Profiler
 
