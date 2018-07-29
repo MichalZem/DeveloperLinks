@@ -51,6 +51,7 @@ https://joshclose.github.io/CsvHelper/ - CSV Helpers
 
 https://github.com/andrewdavey/postal - Postal - A handy email sending library for ASP.NET MVC
 
+https://github.com/Tyrrrz/Onova - Auto update Application
 
 https://github.com/jamesmh/coravel - Task Scheduling
 https://www.hangfire.io/ - Background tasks in NET + job scheduling system
