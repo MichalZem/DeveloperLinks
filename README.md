@@ -57,6 +57,8 @@ https://github.com/jamesmh/coravel - Task Scheduling
 https://www.hangfire.io/ - Background tasks in NET + job scheduling system
 https://www.quartz-scheduler.net/index.html  Background tasks in NET + job scheduling system
 
+https://github.com/fszlin/certes/ - Automated Certificate Management Environment (ACME) - hodí se pro Lets Encrypt
+
 ### Logování v .NET
 
 https://serilog.net/ - Logování v .NET  (prý nejrychlejší)
