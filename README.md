@@ -59,6 +59,10 @@ https://www.quartz-scheduler.net/index.html  Background tasks in NET + job sched
 
 https://github.com/fszlin/certes/ - Automated Certificate Management Environment (ACME) - hodí se pro Lets Encrypt
 
+https://github.com/zHaytam/SmartBreadcrumbs  - BreadCrumbs in ASP.NET Core
+
+https://github.com/nabinked/NToastNotify - UI notifikace -  Asp.Net Core abstraction for server side rendered toast notifications using toast.js or noty.js. Supports AJAX calls as well.
+
 ### Logování v .NET
 
 https://serilog.net/ - Logování v .NET  (prý nejrychlejší)
