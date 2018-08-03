@@ -1,6 +1,7 @@
 # SQL Helpers Query
 
 ## Close all connections to a database
+```sql
 USE [master];
 
 DECLARE @kill varchar(8000) = '';  
@@ -9,3 +10,4 @@ FROM sys.dm_exec_sessions
 WHERE database_id  = db_id('MyDB')
 
 EXEC(@kill);
+```
