@@ -63,6 +63,8 @@ https://github.com/zHaytam/SmartBreadcrumbs  - BreadCrumbs in ASP.NET Core
 
 https://github.com/nabinked/NToastNotify - UI notifikace -  Asp.Net Core abstraction for server side rendered toast notifications using toast.js or noty.js. Supports AJAX calls as well.
 
+https://discoverdot.net/projects/imagesharp - Grafika, Resize Obrazku,...
+
 ### Logování v .NET
 
 https://serilog.net/ - Logování v .NET  (prý nejrychlejší)
