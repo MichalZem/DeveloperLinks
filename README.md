@@ -69,6 +69,9 @@ https://github.com/EasyHttp/EasyHttp - HTTP Client
 
 http://www.alachisoft.com/download-ncache.html - Cache i pro Entity framework core
 
+https://github.com/itext/itextsharp - Generování PDF
+
+
 ### Logování v .NET
 
 https://serilog.net/ - Logování v .NET  (prý nejrychlejší)
