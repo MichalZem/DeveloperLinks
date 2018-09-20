@@ -65,6 +65,8 @@ https://github.com/nabinked/NToastNotify - UI notifikace -  Asp.Net Core abstrac
 
 https://discoverdot.net/projects/imagesharp - Grafika, Resize Obrazku,...
 
+https://github.com/EasyHttp/EasyHttp - HTTP Client
+
 ### Logování v .NET
 
 https://serilog.net/ - Logování v .NET  (prý nejrychlejší)
