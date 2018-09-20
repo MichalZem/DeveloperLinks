@@ -67,6 +67,8 @@ https://discoverdot.net/projects/imagesharp - Grafika, Resize Obrazku,...
 
 https://github.com/EasyHttp/EasyHttp - HTTP Client
 
+http://www.alachisoft.com/download-ncache.html - Cache i pro Entity framework core
+
 ### Logování v .NET
 
 https://serilog.net/ - Logování v .NET  (prý nejrychlejší)
