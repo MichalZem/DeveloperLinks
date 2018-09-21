@@ -67,9 +67,13 @@ https://discoverdot.net/projects/imagesharp - Grafika, Resize Obrazku,...
 
 https://github.com/EasyHttp/EasyHttp - HTTP Client
 
-http://www.alachisoft.com/download-ncache.html - Cache i pro Entity framework core
 
 https://github.com/itext/itextsharp - Generování PDF
+
+### Entity Framework Core
+
+https://github.com/Arch/AutoHistory - Automatick Data Row History PlugIn
+http://www.alachisoft.com/download-ncache.html - Cache i pro Entity framework core
 
 
 ### Logování v .NET
