@@ -70,6 +70,8 @@ https://github.com/EasyHttp/EasyHttp - HTTP Client
 
 https://github.com/itext/itextsharp - Generování PDF
 
+https://github.com/zzzprojects/Z.ExtensionMethods - Helpr Extension Methods for C#
+
 ### Entity Framework Core
 
 https://github.com/Arch/AutoHistory - Automatick Data Row History PlugIn
