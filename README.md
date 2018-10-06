@@ -74,6 +74,8 @@ https://github.com/zzzprojects/Z.ExtensionMethods - Helpr Extension Methods for 
 
 https://github.com/khellang/Scrutor - Dependency Injection Automatic Scan for - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
 
+https://github.com/SixLabors/ImageSharp.Web - pro práci s obrázky
+
 ### Entity Framework Core
 
 https://github.com/Arch/AutoHistory - Automatick Data Row History PlugIn
