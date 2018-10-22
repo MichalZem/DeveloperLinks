@@ -80,6 +80,7 @@ https://github.com/SixLabors/ImageSharp.Web - pro práci s obrázky
 
 https://github.com/Arch/AutoHistory - Automatick Data Row History PlugIn
 http://www.alachisoft.com/download-ncache.html - Cache i pro Entity framework core
+https://github.com/spectresystems/spectre.query - Dotazování ala SQL
 
 
 ### Logování v .NET
