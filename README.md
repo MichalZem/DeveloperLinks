@@ -76,6 +76,9 @@ https://github.com/khellang/Scrutor - Dependency Injection Automatic Scan for - 
 
 https://github.com/SixLabors/ImageSharp.Web - pro práci s obrázky
 
+https://github.com/dustinmoris/Firewall - Firewall pro ASP.NET Core - Middleware
+
+
 ### Entity Framework Core
 
 https://github.com/Arch/AutoHistory - Automatick Data Row History PlugIn
