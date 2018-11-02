@@ -85,6 +85,7 @@ https://github.com/toddams/RazorLight - Razor Light - razor from string,...
 https://github.com/Arch/AutoHistory - Automatick Data Row History PlugIn
 http://www.alachisoft.com/download-ncache.html - Cache i pro Entity framework core
 https://github.com/spectresystems/spectre.query - Dotazování ala SQL
+https://github.com/linq2db/linq2db.EntityFrameworkCore - Linq To DB 
 
 
 ### Logování v .NET
