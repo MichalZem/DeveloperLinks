@@ -77,6 +77,7 @@ https://github.com/khellang/Scrutor - Dependency Injection Automatic Scan for - 
 https://github.com/SixLabors/ImageSharp.Web - pro práci s obrázky
 
 https://github.com/dustinmoris/Firewall - Firewall pro ASP.NET Core - Middleware
+https://github.com/toddams/RazorLight - Razor Light - razor from string,...
 
 
 ### Entity Framework Core
