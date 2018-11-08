@@ -79,6 +79,8 @@ https://github.com/SixLabors/ImageSharp.Web - pro práci s obrázky
 https://github.com/dustinmoris/Firewall - Firewall pro ASP.NET Core - Middleware
 https://github.com/toddams/RazorLight - Razor Light - razor from string,...
 
+https://github.com/rflechner/ScrapySharp - WEB Scraper
+
 
 ### Entity Framework Core
 
