@@ -1,4 +1,5 @@
-# DeveloperLinks
+# Michal Zemek - DeveloperLinks
+(odkazy na které jsem narazil, pracoval s nimi, nebo do budoucna se budou hodit)
 
 ## Odkazy na Seznamy knihoven
 https://github.com/quozd/awesome-dotnet - knihovny a dalši
