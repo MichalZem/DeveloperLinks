@@ -110,6 +110,11 @@ https://github.com/ZeBobo5/Vlc.DotNet - VLC in .NET
 
 https://github.com/naudio/NAudio - Audio and MIDI library for .NET
 
+
+## Různé
+https://github.com/aalhour/C-Sharp-Algorithms - C# ALGORITHMS
+
+
 ## Linq
 https://github.com/SurpassSoftware/DynamicExpressionBuilder -  Dynamic Expression Builder - hodi se na např na genereování Where
 
