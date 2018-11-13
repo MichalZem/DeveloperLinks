@@ -92,6 +92,7 @@ https://github.com/Arch/AutoHistory - Automatick Data Row History PlugIn
 http://www.alachisoft.com/download-ncache.html - Cache i pro Entity framework core
 https://github.com/spectresystems/spectre.query - Dotazování ala SQL
 https://github.com/linq2db/linq2db.EntityFrameworkCore - Linq To DB 
+https://www.codeproject.com/Articles/1266510/Application-Triggers-for-ASP-NET-Core-2-1-Entity-F - Triggers in EF Core
 
 
 ### Logování v .NET
