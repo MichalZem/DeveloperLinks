@@ -81,7 +81,10 @@ https://github.com/khellang/Scrutor - Dependency Injection Automatic Scan for - 
 https://github.com/SixLabors/ImageSharp.Web - pro práci s obrázky
 
 https://github.com/dustinmoris/Firewall - Firewall pro ASP.NET Core - Middleware
-https://github.com/toddams/RazorLight - Razor Light - razor from string,...
+
+https://github.com/toddams/RazorLight  - Razor Outside ASP.NET- Razor Light - razor from string,...
+
+https://github.com/mholo65/gazorator - Razor Outside ASP.NET
 
 https://github.com/rflechner/ScrapySharp - WEB Scraper
 
