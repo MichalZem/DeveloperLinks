@@ -88,6 +88,8 @@ https://github.com/mholo65/gazorator - Razor Outside ASP.NET
 
 https://github.com/rflechner/ScrapySharp - WEB Scraper
 
+https://github.com/aliostad/CacheCow - CacheCow NET - Cache pro HTTP WEB API
+
 
 ### Entity Framework Core
 
