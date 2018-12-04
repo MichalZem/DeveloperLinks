@@ -111,6 +111,11 @@ http://jsnlog.com/ - Logování JavcaScript Error
 https://github.com/hishamco/jsLogger - Simple Logování JavcaScript Error
 
 
+### Porovnání Knihoven
+http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison  - Dependency Injection
+
+https://stackify.com/nlog-vs-log4net-vs-serilog/ - Logování (Nlog, Serilog, Llog4net)
+
 ### Knihovny .NET - Media
 https://github.com/ZeBobo5/Vlc.DotNet - VLC in .NET
 
