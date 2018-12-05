@@ -4,6 +4,8 @@
 ## Odkazy na Seznamy knihoven
 https://github.com/thangchung/awesome-dotnet-core  - knihovny .NET CORE a další
 
+https://github.com/denji/awesome-http-benchmark - LoadTestery 
+
 https://github.com/quozd/awesome-dotnet - knihovny a dalši
 
 http://www.extensionmethod.net/csharp - různé pomocné extension methody
