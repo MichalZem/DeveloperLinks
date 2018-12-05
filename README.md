@@ -57,9 +57,16 @@ https://github.com/andrewdavey/postal - Postal - A handy email sending library f
 
 https://github.com/Tyrrrz/Onova - Auto update Application
 
+
 https://github.com/jamesmh/coravel - Task Scheduling
+
 https://www.hangfire.io/ - Background tasks in NET + job scheduling system
+
 https://www.quartz-scheduler.net/index.html  Background tasks in NET + job scheduling system
+
+https://github.com/guryanovev/CrystalQuartz   - Dashboard for Quartz Scheduler
+
+
 
 https://github.com/fszlin/certes/ - Automated Certificate Management Environment (ACME) - hodí se pro Lets Encrypt
 
