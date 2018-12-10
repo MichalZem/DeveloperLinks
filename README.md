@@ -101,6 +101,8 @@ https://github.com/rflechner/ScrapySharp - WEB Scraper
 
 https://github.com/aliostad/CacheCow - CacheCow NET - Cache pro HTTP WEB API
 
+https://github.com/praeclarum/NGraphics - vector graphics on .NET 
+
 
 ### Entity Framework Core
 
