@@ -134,6 +134,8 @@ https://github.com/ZeBobo5/Vlc.DotNet - VLC in .NET
 
 https://github.com/naudio/NAudio - Audio and MIDI library for .NET
 
+### Samply, Examples NET.CORE
+https://github.com/dodyg/practical-aspnetcore  - asp.net core
 
 ## Různé
 https://github.com/aalhour/C-Sharp-Algorithms - C# ALGORITHMS
