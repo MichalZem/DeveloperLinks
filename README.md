@@ -70,6 +70,7 @@ https://www.quartz-scheduler.net/index.html  Background tasks in NET + job sched
 
 https://github.com/guryanovev/CrystalQuartz   - Dashboard for Quartz Scheduler
 
+https://github.com/nodatime/nodatime - Better DateTime
 
 
 https://github.com/fszlin/certes/ - Automated Certificate Management Environment (ACME) - hodí se pro Lets Encrypt
