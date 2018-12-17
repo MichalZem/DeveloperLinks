@@ -88,7 +88,9 @@ https://github.com/itext/itextsharp - Generování PDF
 
 https://github.com/zzzprojects/Z.ExtensionMethods - Helpr Extension Methods for C#
 
-https://github.com/khellang/Scrutor - Dependency Injection Automatic Scan for - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
+https://github.com/khellang/Scrutor - dependency Injection Automatic Scan for - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
+
+https://github.com/dadhi/DryIoc - dependency Injection
 
 https://github.com/SixLabors/ImageSharp.Web - pro práci s obrázky
 
