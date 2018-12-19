@@ -147,6 +147,10 @@ https://github.com/naudio/NAudio - Audio and MIDI library for .NET
 ### Samply, Examples NET.CORE
 https://github.com/dodyg/practical-aspnetcore  - asp.net core
 
+## Tools
+https://github.com/UweKeim/ZetaResourceEditor - Resource Editor C#
+
+
 ## Různé
 https://github.com/aalhour/C-Sharp-Algorithms - C# ALGORITHMS
 
