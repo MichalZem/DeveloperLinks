@@ -106,6 +106,8 @@ https://github.com/aliostad/CacheCow - CacheCow NET - Cache pro HTTP WEB API
 
 https://github.com/praeclarum/NGraphics - vector graphics on .NET 
 
+https://github.com/dotnetcore/EasyCaching - Caching for Net Core
+
 
 ### Entity Framework Core
 
