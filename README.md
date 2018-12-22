@@ -84,7 +84,7 @@ https://discoverdot.net/projects/imagesharp - Grafika, Resize Obrazku,...
 https://github.com/EasyHttp/EasyHttp - HTTP Client
 
 
-https://github.com/itext/itextsharp - Generování PDF
+
 
 https://github.com/zzzprojects/Z.ExtensionMethods - Helpr Extension Methods for C#
 
@@ -108,6 +108,14 @@ https://github.com/praeclarum/NGraphics - vector graphics on .NET
 
 https://github.com/dotnetcore/EasyCaching - Caching for Net Core
 
+## Generování PDF
+https://archive.codeplex.com/?p=fonet   + https://github.com/prepare/FO.NET   XLS-FO - fonet Fo.NET (Pozor asi jen pro .NET Framework)
+
+https://www.nuget.org/packages?q=XSL-FO  - NUgety XLS-FO (Pozor něco i jen pro .NET Framework)
+
+https://github.com/itext/itextsharp - Generování PDF
+
+https://github.com/rdvojmoc/DinkToPdf - Wraper nad wkhtmltopdf.exe 
 
 ### Entity Framework Core
 
