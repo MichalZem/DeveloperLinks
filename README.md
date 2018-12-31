@@ -85,6 +85,7 @@ https://github.com/EasyHttp/EasyHttp - HTTP Client
 
 https://github.com/nicoriff/ORMi - WMI ORM
 
+https://github.com/GitTools/GitReleaseManager - GitReleaseManager 
 
 
 
