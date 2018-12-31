@@ -83,6 +83,8 @@ https://discoverdot.net/projects/imagesharp - Grafika, Resize Obrazku,...
 
 https://github.com/EasyHttp/EasyHttp - HTTP Client
 
+https://github.com/nicoriff/ORMi - WMI ORM
+
 
 
 
