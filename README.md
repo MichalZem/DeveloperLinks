@@ -115,6 +115,8 @@ https://github.com/mj1856/TimeZoneNames - Localization TimeZone
 
 https://github.com/mj1856/TimeZoneConverter  - TimeZoneConverter is a lightweight library to convert quickly between IANA, Windows, and Rails time zone names
 
+https://github.com/TylerBrinks/ExCSS - Parser CSS
+
 ## Generování PDF
 https://archive.codeplex.com/?p=fonet   + https://github.com/prepare/FO.NET   XLS-FO - fonet Fo.NET (Pozor asi jen pro .NET Framework)
 
