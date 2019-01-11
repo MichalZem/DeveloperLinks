@@ -119,6 +119,12 @@ https://github.com/mj1856/TimeZoneConverter  - TimeZoneConverter is a lightweigh
 
 https://github.com/TylerBrinks/ExCSS - Parser CSS
 
+
+## Moq + Fake
+https://github.com/moq/moq4 
+
+https://fakeiteasy.readthedocs.io/en/stable/ 
+
 ## Generování PDF
 https://archive.codeplex.com/?p=fonet   + https://github.com/prepare/FO.NET   XLS-FO - fonet Fo.NET (Pozor asi jen pro .NET Framework)
 
@@ -205,7 +211,8 @@ https://github.com/EduardoPires/SOLID - SOLID
 
 https://blog.greglow.com/2018/05/18/sdu-tools-read-csv-file-in-t-sql/ - Import CSV to SQL
 
-## Mockapování
+## Mockapování 
+
 
 https://mockflow.com
 https://marvelapp.com
