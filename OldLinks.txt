@@ -1,0 +1,2691 @@
+Tento soubor obsahuje různé linky  
+
+(Do budoucna Ješte to utřídi) 
+
+ 
+
+http://codebeautify.org/ - hezký kód 
+
+ 
+
+BrowserSync 
+
+https://browsersync.io/ 
+
+ 
+
+Web Browsery Online 
+
+https://www.browserstack.com 
+
+ 
+
+ 
+
+Fluent URL builder C# 
+
+   http://tmenier.github.io/Flurl/  
+
+ 
+
+Detekce Zařízení na Webu 
+
+ https://51degrees.com/  
+
+WorkFlow C# 
+
+https://github.com/aelassas/Wexflow  
+
+https://www.codeproject.com/Articles/1164009/Wexflow-Open-source-workflow-engine-in-Csharp 
+
+ 
+
+Knihovny v C# 
+
+             https://github.com/terrajobst/nquery  - SQL nad objekty v c# 
+
+https://github.com/Elders/Hystrix.NET -Bulkhead Pattern   
+
+Architektura SW 
+
+http://www.codingthearchitecture.com/2016/03/09/structurizr_for_net.html  
+
+  https://github.com/structurizr/dotnet 
+
+http://c4framework.com/  
+
+https://www.structurizr.com/  
+
+ 
+
+JavaScript Interpreter v .NET 
+
+https://github.com/sebastienros/jint 
+
+ 
+
+Autorizace, identity 
+
+https://github.com/IdentityModel/IdentityModel2  
+
+ 
+
+Template systém .NET c# 
+
+https://github.com/scottrippey/SmartFormat.NET 
+
+http://www.stringtemplate.org/ 
+
+http://dotliquidmarkup.org/ 
+
+https://code.google.com/archive/p/csharptemplates/downloads 
+
+ 
+
+C# HTML XSS attacks 
+
+https://github.com/mganss/HtmlSanitizer  
+
+C# Práce s <> - Html, apod. 
+
+hhttps://github.com/AngleSharp/AngleSharp 
+
+ 
+
+AutoMapper + alternativy 
+
+http://automapper.org/  
+
+http://geekswithblogs.net/mrsteve/archive/2016/11/20/object-mapper-performance-comparison.aspx  
+
+ 
+
+Knihovna API pro Hledání např v produktech - nabízí např našeptávač apod... + interaktivní hledání 
+
+https://www.algolia.com/  
+
+ 
+
+NET frameworky 
+
+https://github.com/quozd/awesome-dotnet  
+
+Knihovna po práci s Obrázky c# 
+
+http://imageprocessor.org/  
+
+Enumy c# 
+
+https://github.com/TylerBrinkley/Enums.NET  
+
+Konfigurace c# 
+
+https://github.com/config-r/config-r/  
+
+Serializace c# / .net 
+
+http://msgpack.org/  
+
+https://github.com/neuecc/ZeroFormatter  
+
+https://developers.google.com/protocol-buffers/  - Protokol od Google  
++ Implementace pro NET https://github.com/mgravell/protobuf-net  
+
+Stateless - statvový automat c# 
+
+https://github.com/dotnet-state-machine/stateless  
+
+ 
+
+https://github.com/dotnet-state-machine/stateless  
+
+Regulární Výrazy 
+
+https://github.com/JosefPihrt/LinqToRegex  
+
+http://nugetmusthaves.com/Tag/regex  
+https://github.com/VerbalExpressions/CSharpVerbalExpressions 
+ 
+
+C# .NET  
+
+https://github.com/anakic/Jot + http://www.codeproject.com/Articles/1152831/Jot-a-NET-library-for-managing-application-state  - Ukládání stavu aplikace 
+
+ 
+
+Programování - Připrava na Interview 
+
+http://www.codeproject.com/Articles/556995/ASP-NET-MVC-interview-questions-with-answers 
+
+http://www.dotnet-tricks.com/Home/MVCInterviewBook - ASP MVC + ASP WEB API 
+
+http://www.c-sharpcorner.com/UploadFile/8ef97c/interview-question-on-net-framework-or-clr/ 
+
+http://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/ 
+
+https://www.google.cz/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Ac-sharpcorner.com%20interview%20question 
+
+ 
+
+ 
+
+Šablony ASP.NET 
+
+ASP.MVC - http://aspnetboilerplate.com/ 
+
+ 
+
+EDI - komunikace 
+
+https://github.com/indice-co/EDI.Net  
+
+ 
+
+Dependency injection - IoC/DI container 
+
+http://structuremap.github.io/ - IoC/DI container for .Net 
+
+ 
+
+OCR -  
+
+http://tesseract.projectnaptha.com/  - ocr JavaScript 
+
+  
+
+ASP MVC CORE Toolkit 
+
+https://github.com/MvcControlsToolkit/Home  
+
+ 
+
+C# Frameworky 
+
+https://servicestack.net/  
+
+ 
+
+API - REST 
+
+ 
+
+https://github.com/domaindrivendev/Swashbuckle  
+
+http://apistylebook.com/ 
+
+http://nancyfx.org/ - framework for building HTTP based services  
+
+http://apir.azurewebsites.net/  - Api pro SQL Store Procedury 
+
+  
+
+Stahovač obsahu webů 
+
+https://www.apifier.com/- robot 
+
+https://websitedownloader.io/  
+
+  
+
+Humanizer  
+
+https://github.com/Humanizr/Humanizer - převod textu do lidsky čtené podoby napr "MainCode převede na Main Code" 
+
+  
+
+  
+
+CheckListy 
+
+http://webdevchecklist.com/asp.net/ WEB vývoj 
+
+http://www.c-sharpcorner.com/UploadFile/36985e/the-web-developer-checklist-a-one-stop-shop-for-improving-t/ 
+
+  
+
+Služby pro Eshopy 
+
+http://wwww.logio.cz - plánování a optimalizace zásob, optimalizace výroby - odhaduje to vývoj 
+
+  
+
+C# moq 
+
+https://github.com/Moq/moq4/wiki/Quickstart 
+
+ 
+
+Knihovna C# - Time Period 
+
+https://www.codeproject.com/articles/168662/time-period-library-for-net 
+
+ 
+
+Moockap, Wirefram , prototypy ,Prototypování 
+
+https://www.mockflow.com/  
+
+https://balsamiq.com/products/mockups/ - Balsamiq Mockups 
+http://www.pixate.com/  
+
+http://pencil.evolus.vn/Downloads.html  
+
+https://moqups.com  
+
+https://www.polymer-project.org/1.0/ - polymer.js - WEB komponent systém 
+https://vaadin.com/elements - UI komponenty 
+
+ 
+
+UnrealEngine 
+
+   http://www.zive.cz/bleskovky/faceware-live-zive-snimani-obliceje-do-unreal-enginu-s-jakoukoli-kamerou/sc-4-a-179343/default.aspx  
+
+  
+
+ 
+
+ 
+
+Pluralizace v .NET 
+
+https://github.com/rudyhuyn/PluralNet  
+
+ASP.NET spoušteč plánovač tasku, jobů,... 
+
+http://www.quartz-scheduler.net/ - Quartz.net 
+
+http://hangfire.io/+ http://www.talkingdotnet.com/integrate-hangfire-with-asp-net-core-web-api/  
+
+http://www.hanselman.com/blog/HowToRunBackgroundTasksInASPNET.aspx 
+
+http://reactivex.io   
+
+  
+
+eu cookies 
+
+http://www.lupa.cz/clanky/na-posledni-chvili-jak-na-web-dot-souhlas-s-pouzivanim-cookies/ 
+
+https://phpfashion.com/jak-na-souhlas-s-cookie-v-eu 
+
+https://github.com/jakubboucek/fucking-eu-cookies 
+
+  
+
+Časopisy - Programování 
+
+https://msdn.microsoft.com/en-us/magazine/ 
+
+http://www.dotnetcurry.com/ 
+
+https://visualstudiomagazine.com/Home.aspx 
+
+http://www.ndcmagazine.com/pdf-editions/ 
+
+  
+
+Live Codování TV (obsahuje různé programovacá jazyky) 
+
+https://www.livecoding.tv/livestreams/ 
+
+  
+
+Programátoři po světě - najdi si svého kolegu 
+
+http://www.codermatch.me/ 
+
+  
+
+c# HTML - ScrapySharp 
+
+https://bitbucket.org/rflechner/scrapysharp/wiki/Home 
+
+  
+
+C# 
+
+https://dotnetfiddle.net/k4esJL - online spouští kod - vhodne pro výuku 
+
+ 
+
+C# Email 
+
+https://github.com/axuno/MailMergeLib  
+
++http://www.codeproject.com/Articles/19546/MailMergeLib-A-NET-Mail-Client-Library  
+
+ 
+
+C# Cache 
+
+https://github.com/alastairtree/LazyCache + http://codeopinion.com/lazycache-caching-service-objectcache/   - Lazy Cache In Memory 
+
+https://github.com/TheCodeKing/SaintModeCache.Net   in-memory cache wrapper 
+
+ 
+
+Automatický Build, Build v c# 
+
+http://cakebuild.net/  + https://visualstudiogallery.msdn.microsoft.com/57a658df-3577-440a-93e5-9f2734d80686  
+
+https://channel9.msdn.com/coding4fun/blog/Cake-Baking-a-new-Build-with-C-Make  
+
+Benchmark c# 
+
+https://github.com/dotnet/BenchmarkDotNet    
+
+ 
+
+Sdílení obrazovky 
+
+http://www.join.me 
+
+http://www.screenleap.com/ 
+
+  
+
+Windows UWP Aplikace -Windows Universal Aplicaion 
+
+https://dev.windows.com/en-us/design/assets 
+
+  
+
+ 
+
+Security & .Net c# 
+
+https://securityheaders.io/  
+
+ http://securitydriven.net/inferno/  
+
+ 
+
+Security 
+
+ 
+
+ 
+
+https://www.owasp.org/index.php/Category:OWASP_.NET_Project - for Net. 
+
+http://www.owasp.org 
+
+http://beefproject.com/ - BeF Framworkk 
+
+  
+
+Algoritmy online 
+
+https://algorithmia.com/ 
+
+  
+
+IP Blocker 
+
+http://www.codeproject.com/Articles/842559/IP-address-blocking-in-ASP-NET 
+
+  
+
+Bezpečnost 
+
+https://www.owasp.org/index.php/Main_Page 
+
+  
+
+Vývojové nástroje 
+
+https://timemachinefor.net/ - (záznam hodnot v progrmech v proběhu času) - Reverse Debugger for .NET 
+
+Visual Studio Addin + Extensiony 
+
+ 
+
+StopOnFirstBuildError - https://visualstudiogallery.msdn.microsoft.com/91aaa139-5d3c-43a7-b39f-369196a84fa5 
+
+TFS AutoShelve for Visual Studio 2015 
+
+Entity Framework Power Tools 
+
+Productivity Power Tools 2015 (zapnout ctrl+click + vypnout view Peek definition ) 
+
+Web Essentials 2015 
+
+C# outline 2015 
+
+VsColoroutput 
+
+T4ToolBox 
+
+GhostDoc 
+
+StyleCop 
+
+SQL Server Data Tools 
+
+Microsoft Visual Studio Team Foundation Server 2015 Power Tools - https://visualstudiogallery.msdn.microsoft.com/898a828a-af00-42c6-bbb2-530dc7b8f2e1 
+
+https://www.nuget.org/packages/SafeNuGet/ 
+
+http://www.codemaid.net/ - codemaid 
+
+https://www.jetbrains.com/decompiler/ 
+
+  
+
+  
+
+Google .NET Api 
+
+https://developers.google.com/api-client-library/dotnet/apis/ 
+
+  
+
+InfoGrafika 
+
+http://www.easel.ly/ 
+
+  
+
+Animace , prezentace 
+
+http://www.GoAnimate.com  
+
+http://www.powtoon.com/ 
+
+  
+
+LocalDB 
+
+https://blogs.msdn.microsoft.com/jerrynixon/2012/02/26/sql-express-v-localdb-v-sql-compact-edition/ 
+
+ 
+
+SQLite 
+
+Sqlite management for Visual Studio - Shttps://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox 
+
++ SQL Server Compact 
+
+ 
+
+NoSQL 
+
+http://sterling.codeplex.com/ - for .NET 
+
+ 
+
+CSV 
+
+http://www.codeproject.com/Articles/1128472/CSV-File-Parser  
+
+http://www.codeproject.com/Articles/9258/A-Fast-CSV-Reader 
+
+http://www.codeproject.com/Tips/823670/Csharp-Light-and-Fast-CSV-Parser 
+
+http://www.codeproject.com/Articles/25133/LINQ-to-CSV-library 
+
+  
+
+LINQ kinohovny a rozšíření 
+
+https://github.com/morelinq/MoreLINQ  
+
+ 
+
+LINQ + Persistence 
+
+http://www.c-sharpcorner.com/uploadfile/scottlysle/generic-data-access-using-linq-to-sql-and-C-Sharp/ 
+
+  
+
+  
+
+Fix headru tabulky 
+
+http://www.aspsnippets.com/Articles/Scrollable-GridView-with-Fixed-Headers-using-jQuery-Plugin.aspx 
+
+  
+
+  
+
+  
+
+HTML/CSS Šablona pro administraci 
+
+Foundation 
+
+http://foundation.zurb.com/ 
+
+http://responsive.vermilion.com/compare.php 
+
+  
+
+Bootstrap 
+
+BootStrap studio  - https://bootstrapstudio.io  
+
+ 
+
+http://www.c-sharpcorner.com/article/top-bootstrap-interview-questions-and-answers/ 
+
+ 
+
+  
+
+Bootstrap + Chosen plugin 
+
+http://harvesthq.github.io/chosen/ - Jquery Plugin - Chosen 
+
+http://alxlit.name/bootstrap-chosen/ 
+
+  
+
+Bootstrap one page template 
+
+http://startbootstrap.com/template-categories/one-page/ 
+
+  
+
+Bootstrap Admin Theme 
+
+http://speckyboy.com/2014/05/16/free-bootstrap-admin-themes/ 
+
+http://startbootstrap.com/template-overviews/sb-admin-2/ 
+
+http://vadimg.com/2013/02/free-bootstrap-admin-theme-updated/ 
+
+http://keaplogik.blogspot.cz/2013/08/free-twitter-bootstrap-admin-theme.html 
+
+http://egrappler.com/templatevamp-free-twitter-bootstrap-admin-template/ 
+
+http://usman.it/free-responsive-admin-template/ 
+
+  
+
+Bootstrap Free theme 
+
+http://speckyboy.com/2014/05/27/free-bootstrap-3-templates/ 
+
+  
+
+Bootstrap - plugins 
+
+http://speckyboy.com/2014/06/16/plugins-for-extending-bootstrap/  
+
+  
+
+BootStrap 
+
+http://startbootstrap.com 
+
+http://www.bootply.com/new - live Editace Bootstrapu 
+
+http://getfuelux.com/ - komponenty přes jquery 
+
+http://strapfork.com/  
+
+http://bootsnipp.com/?page=7 
+
+http://mkoryak.github.io/floatThead/ - fixování Headru tabulky 
+
+http://www.codeproject.com/Tips/825343/Bootstrap-Popups - BootStrap Popup 
+
+ 
+
+http://speckyboy.com/2014/05/16/free-bootstrap-admin-themes/ 
+
+ 
+
+https://wrapbootstrap.com/ - Themata k Zakoupeni 
+
+  
+
+http://twitter.github.io/bootstrap/ -  
+
+http://www.plugolabs.com/twitter-bootstrap-button-generator/ - Button generator 
+
+http://bootswatch.com/ - Themata 
+
+http://pikock.github.io/bootstrap-magic/ - Theme Generator 
+
+http://stylebootstrap.info/ - Theme Generator 
+
+http://www.boottheme.com - generator - placeny 
+
+http://bootsnipp.com/ - různé doplnky  
+
+http://wiki.pixelpress.com.au/2012/07/23/bootstrap-3rd-level-navbar-dropdowns/ - 3level menu NavBAr 
+
+http://imdev.in/twitter-bootstrap-multi-level-dropdown-menu-system/ 
+
+ 
+
+http://www.bootstrapdesigner.com/ - designer 
+
+  
+
+Generátory Webů-šablon 
+
+https://webflow.com 
+
+http://www.layoutit.com/ - Generator 
+
+https://jetstrap.com/ - Generator 
+
+  
+
+  
+
+PURECSS 
+
+http://purecss.io/ 
+
+  
+
+  
+
+http://www.eyecon.ro/colorpicker-and-datepicker-for-twitter-bootstrap.htm - color picker & data Picker do Bootstrapu 
+
+http://addyosmani.github.io/jquery-ui-bootstrap/ - Jquery UI in Bootstrap 
+
+http://fortawesome.github.io/Font-Awesome - vztvareni ikon 
+
+http://themeforest.net - themata ke koupeni 
+
+https://wrapbootstrap.com/ - temata ke kopi 
+
+http://bootstrapstyler.com/ - pekny temata ke koupi mozná i zdarma po registraci 
+
+http://www.templatemonster.com/properties/features/bootstrap-templates/ - Themata ke kopi 
+
+https://www.codebootstrap.com/index/12/ - themata eke koupi 
+
+http://builtwithbootstrap.com/ - Inspirace 
+
+http://lovebootstrap.com/ - inspirace 
+
+http://ajkochanowicz.github.io/Kickstrap/ - nějaké rozšíření 
+
+  
+
+JQUERY 
+
+http://www.c-sharpcorner.com/UploadFile/rohatash/jquery-overview/ - Jquery fast tutorial + Ajax JSON 
+
+http://www.c-sharpcorner.com/UploadFile/rahul4_saxena/preview-image-before-upload-using-jquery-in-Asp-Net/ - image upload with prewiev 
+
+  
+
+Fotky zdarma 
+
+https://clipsan.com/blog/27-zdroju-na-fotky-zdarma-ktere-vam-vezmou-dech/?utm_source=facebook&utm_medium=cpc&utm_campaign=clpwpseo 
+
+  
+
+3D fotky 
+
+https://www.melown.com/ 
+
+  
+
+Klávesové zkratky na Webu 
+
+http://www.ippi.cz/standard-klavesovych-zkratek/ 
+
+  
+
+Barvičky 
+
+http://colorschemedesigner.com/ 
+
+https://kuler.adobe.com/create/color-wheel/ 
+
+Validace Adresy - poštovní 
+
+http://forms.mpsv.cz/uir/ 
+
+http://forms.mpsv.cz/uir/adr/OverAdresuFirst.html 
+
+UIR ADR 
+
+  
+
+Validace c# 
+
+https://github.com/JeremySkinner/fluentvalidation https://github.com/JeremySkinner/FluentValidation 
+
+Validace kodu 
+
+HTML 
+
+http://validator.w3.org/check?uri=http%3A%2F%2Fwww.biovavrinec.cz&charset=%28detect+automatically%29&doctype=Inline&group=0&user-agent=W3C_Validator%2F1.3 
+
+CSS 
+
+http://jigsaw.w3.org/css-validator/validator?uri=www.biovavrinec.cz&profile=css3&usermedium=all&warning=1&vextwarning=&lang=cs 
+
+ 
+
+http://www.modern.ie/en-US - Nástroj od Microsoftu 
+
+  
+
+Minifikace 
+
+http://gruntjs.com/ 
+
+  
+
+Profiler - profilofání kodu 
+
+http://stackify.com/prefix  
+
+http://miniprofiler.com/ 
+
+http://miniprofiler.com/    
+
+  
+
+Foto Zdarma 
+
+http://www.freedigitalphotos.net/ 
+
+http://petr.vaclavek.com/article/535 
+
+  
+
+  
+
+404 chyby 
+
+http://www.zdrojak.cz/clanky/sledujte-chybove-stranky-v-google-analytics/ 
+
+  
+
+  
+
+Validace TextBoxu, Input 
+
+http://encosia.com/using-jquery-validation-with-asp-net-webforms/ 
+
+http://encosia.com/asp-net-webforms-validation-groups-with-jquery-validation/ 
+
+  
+
+JavaScript FrameWork – pro vytváření aplikací 
+
+http://www.qooxdoo.org/  
+
+http://durandaljs.com/ - SPA – Frmawork pro Single Page Application 
+
+ 
+
+Java Script Knihovny 
+
+  http://balupton.github.io/jquery-history/demo/ - jQuery History - Simple History Handler/Remote for Hash, State, Bookmarking, and Forward Back Buttons 
+
+http://momentjs.com/ - práce s datem a časem 
+
+http://raphaeljs.com/ - vektor grafika  (http://www.dotnetcurry.com/aspnet-mvc/1164/raphaeljs-chart-aspnet-mvc) 
+
+http://requirejs.org/ - postupné nahrávání JavaScript Modulů např Jquery, apod... 
+
+  
+
+  
+
+Jquery,Javascript popup, pop-up 
+
+http://www.c-sharpcorner.com/Blogs/46486/ 
+
+http://www.c-sharpcorner.com/UploadFile/5b3fc9/first-look-of-pop-up-without-javascript-help/ 
+
+  
+
+AJXA Progress barr 
+
+http://encosia.com/using-jquery-to-enhance-aspnet-ajax-progress-indication/ 
+
+  
+
+LightBox efekty + foto galerie 
+
+http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ 
+
+http://fancybox.net/ 
+
+ 
+
+Excel a C# 
+
+http://querystorm.com/  
+
+ 
+
+Excel Export + knihovny 
+
+http://epplus.codeplex.com/ + http://www.c-sharpcorner.com/article/export-data-to-excel-file-in-asp-net-using-epplus/  
+
+http://npoi.codeplex.com/(http://www.leniel.net/2009/07/creating-excel-spreadsheets-xls-xlsx-c.html#sthash.t8v51M21.dpbs) 
+
+http://www.c-sharpcorner.com/UploadFile/48c038/create-excel-and-convert-it-to-pdf-by-free-api/ 
+
+http://code.google.com/p/excellibrary/ 
+
+http://epplus.codeplex.com/ - Excel Package Plus 
+
+http://closedxml.codeplex.com/ 
+
+https://github.com/ClosedXML/ClosedXML  
+
+org.in2bits.MyXls 
+
+http://stackoverflow.com/questions/151005/create-excel-xls-and-xlsx-file-from-c-sharp 
+
+http://msdn.microsoft.com/en-us/library/cc850837.aspx - Tabulky Open XML for office 
+
+http://msdn.microsoft.com/en-us/library/bb448854.aspx - Open XML for office 
+
+  
+
+ 
+
+ 
+
+Foto galerie - Photo Gallery 
+
+http://net.tutsplus.com/articles/web-roundups/50-excellent-image-galleries-you-can-use-today/ 
+
+  
+
+Tooltip Jquery 
+
+http://msdn.microsoft.com/en-us/magazine/dn127078.aspx 
+
+  
+
+JavaScript - TextArea - autoresize 
+
+https://www.zdrojak.cz/clanky/jak-na-textareu-s-automatickou-vyskou/ 
+
+  
+
+JavaScript - Knihovny 
+
+http://www.webdesignerdepot.com/2016/11/12-javascript-libraries-to-watch-in-2017/   
+https://www.javascripting.com/ 
+
+http://underscorejs.org/ 
+
+  
+
+Intro Javascript - předstvení novinek 
+
+http://usablica.github.com/intro.js/ 
+
+  
+
+ActiveX 
+
+http://blogs.msdn.com/b/asiatech/archive/2011/12/05/how-to-develop-and-deploy-activex-control-in-c.aspx 
+
+http://www.codeproject.com/Articles/24089/Create-ActiveX-in-NET-Step-by-Step 
+
+  
+
+3D prohlídka 
+
+http://gardengnomesoftware.com/pano2vr.php 
+
+  
+
+Překlad do jiného jazyka - překladače 
+
+viz např. http://www.nutri-exact.cz/ 
+
+  
+
+Certifikace eshopu 
+
+http://www.apek.cz/ 
+
+http://www.apek.cz/8482/2061/clanek/certifikacni-pravidla/  
+
+  
+
+Čárový Kod čtečky - malé 
+
+Dolphin 75e  - http://www.datascan.cz/produkt/mobilni-terminal-honeywell-dolphin-75e/ 
+
+Dolphin Ct50 http://www.datascan.cz/produkt/mobilni-terminal-honeywell-dolphin-ct50/ 
+
+  
+
+Čárový kód Genmerátory Online 
+
+http://online-barcode-generator.net/ 
+
+http://www.terryburton.co.uk/barcodewriter/generator/ 
+
+https://www.barcoderobot.com/ 
+
+  
+
+http://www.dantem.cz/reseni/generator-carovych-kodu/ - český 
+
+ 
+
+http://manytools.org/handy/generate-printable-and-scannable-barcodes/go 
+
+http://www.barcode-generator.de/V2/cs/index.jsp 
+
+http://www.barcoding.com/upc/ 
+
+  
+
+Čárový kod 
+
+http://zxingnet.codeplex.com/   Bar Code Reading / Carové kody čtení - i Windows Phone 
+
+ 
+
+  
+
+http://www.idautomation.com/free-barcode-products/code39-font/ 
+
+http://www.codeproject.com/Articles/30322/Barcodes-in-ASP-NET-applications 
+
+http://stackoverflow.com/questions/544972/load-fonts-from-file-on-a-c-sharp-application 
+
+http://www.barcodesinc.com/free-barcode-font/ 
+
+http://code.google.com/p/nbarcodes/ 
+
+http://www.codeproject.com/Articles/10344/Barcode-NET-Control 
+
+http://www.barcodeasp.com/index.php placene 
+
+  
+
+http://www.vvvsystem.cz/metrolog/navprogramy.htm - firma prodavajici + eshop 
+
+  
+
+  
+
+  
+
+QR Code 
+
+http://platform.twit88.com/projects/mt-barcode/wiki/WiKi_Web 
+
+http://qrcodehelper.codeplex.com/ 
+
+http://qrcodenet.codeplex.com/ 
+
+  
+
+http://www.unitaglive.com/qrcode 
+
+http://www.visualead.com/?VEW=A&utm_expid=62292694-35&utm_referrer=http%3A%2F%2Fwww.zive.cz%2Fclanky%2Fzapomente-na-skarede-cernobile-qr-kody%2Fsc-3-a-168530%2Fdefault.aspx 
+
+http://goqr.me/ 
+
+  
+
+http://www.markhagan.me/Samples/Create_QR_Code_ASPNet 
+
+http://www.codeproject.com/Articles/20574/Open-Source-QRCode-Library 
+
+http://www.twit88.com/home/opensource/qrcode 
+
+  
+
+Mikropráce 
+
+http://easytask.cz/customer/detail/2805 
+
+http://easytask.cz/ 
+
+http://www.pikr.cz 
+
+https://www.fiverr.com/ 
+
+  
+
+Mikroforáty, Mikrodata 
+
+https://developers.google.com/structured-data/testing-tool/ - Tester pro Mikrodata 
+
+Markup Helper Google - https://www.google.com/webmasters/markup-helper/u/0/  + klikátko nas Mikrodata od Googlu 
+
+http://schema.org/ - Vhodné pro Google  
+
+ 
+
+http://www.bing.com/toolbox/markup-validator 
+
+http://www.seoskeptic.com/structured-data-markup-validation-testing-tools/ 
+
+  
+
+http://www.seomoz.org/blog/schema-examples 
+
+http://moz.com/blog/schema-examples 
+
+  
+
+Copywriting 
+
+http://copywriting.cz/ 
+
+http://www.kupclanek.cz 
+
+  
+
+Internet Marketing 
+
+ 
+
+http://vetrovka.cz/ppc-prakticky 
+
+http://imsraz.cz 
+
+http://www.ppcnovinky.cz/ 
+
+http://vetrovka.cz/ 
+
+http://404m.com/ 
+
+http://www.portiscio.net/ 
+
+http://owww.cz/ 
+
+http://blog.kvasnickajan.cz/ 
+
+http://www.bugovo.com/ 
+
+http://seopizza.cz/ 
+
+http://blog.davidlorincz.cz/ 
+
+http://blog.mefistofeles.cz/ 
+
+http://www.affilblog.cz/ 
+
+http://michalkubicek.cz/ 
+
+http://linki.cz/blog/ 
+
+http://blog.komart.cz/ 
+
+http://blog.stencek.com/ 
+
+http://blog.bloxxter.cz/ 
+
+http://blog.rostecky.cz/ 
+
+http://mladypodnikatel.cz/ 
+
+http://www.vceliste.cz/blog/ 
+
+http://www.lukaspitra.cz/blog-2/ 
+
+ 
+
+Internet Marketing - Nástroje 
+
+https://www.marketingminer.com  
+
+  
+
+Email Marketing 
+
+https://www.sendinblue.com/  
+
+https://sendgrid.com/ 
+
+https://azure.microsoft.com/en-us/documentation/articles/sendgrid-dotnet-how-to-send-email/ 
+
+http://www.dailyblogtips.com/11-email-marketing-alternatives-to-aweber/ 
+
+http://alternativeto.net/software/mailchimp/ 
+
+https://aws.amazon.com/ses/ 
+
+http://www.ecomail.cz/cenik  
+
+http://www.smartemailing.cz + Academie http://www.smartemailing.cz/akademie/ 
+
+http://www.smartemailing.cz/blog/ 
+
+http://mailchimp.com/ - je tam free program 
+
+http://www.icontact.com/ 
+
+http://www.getresponse.com/ 
+
+ 
+
+https://chrome.google.com/webstore/detail/gaidpiakchgkapdgbnoglpnbccdepnpk - addon google crhom URL builder pro Google Analytics 
+
+  
+
+Klíčová Slova - návhrháře 
+
+http://mladypodnikatel.cz/jak-udelat-analyzu-klicovych-slov-t24887?utm_source=facebook&utm_medium=social&utm_content=facebook-mp&utm_campaign=pajkrt 
+
+  
+
+Google -  https://adwords.google.cz/o/Targeting/Explorer?__c=1000000000&__u=1000000000&ideaRequestType=KEYWORD_IDEAS  
+
+Sklik -  
+
+  
+
+Statistiky hledanosti slov 
+
+http://search.seznam.cz/stats?collocation=seo 
+
+http://www.google.cz/trends/ 
+
+  
+
+  
+
+WYSIWYG Editory 
+
+ http://summernote.org/  - WYSIWYG Editor pro Bootstrap 
+
+TinyMCE 
+
+http://jhtmlarea.codeplex.com/ 
+
+http://www.aloha-editor.org/index.php 
+
+http://markitup.jaysalvat.com/home/ 
+
+http://nicedit.com/demos.php 
+
+http://jejacks0n.github.com/mercury/ 
+
+https://github.com/jejacks0n/mercury 
+
+  
+
+  
+
+Reklamní systémy 
+
+http://www.sklik.cz 
+
+http://napoveda.sklik.cz/cz/ 
+
+http://www.google.com/adwords 
+
+http://productforums.google.com/forum/#!topic/adwords-cs/WJyzuVPX3M0 
+
+  
+
+Mapy Seznam 
+
+http://ondras.zarovi.cz/slides/mapyapi-vse/ 
+
+  
+
+Mapy ČR 
+
+  
+
+http://www.cezetmap.cz/ 
+
+  
+
+Google Mapy 
+
+http://googlemap.codeplex.com/ 
+
+http://en.googlemaps.subgurim.net/descargar.aspx 
+
+  
+
+http://www.codeproject.com/Articles/291499/Google-Maps-API-V-for-ASP-NET 
+
+http://code-tutor.appspot.com/maps_api#0 
+
+http://econym.org.uk/gmap/ 
+
+http://googlemap.codeplex.com/releases/view/95924 + http://www.dotnetfunda.com/articles/article626-google-map-in-aspnet.aspx 
+
+http://www.w3schools.com/googleAPI/google_maps_api_key.asp 
+
+http://www.c-sharpcorner.com/uploadfile/shabdarghata/google-maps-control-for-asp-net-part-i/ 
+
+http://www.mikeborozdin.com/post/Working-with-Google-Maps-API-in-ASPNET.aspx 
+
+http://stefanzvonar.com/2012/06/30/setting-up-google-maps-for-asp-net-and-sql-server-with-google-maps-api-v3/ 
+
+http://blog.oscarscode.com/dot-net/calling-google-maps-api-from-asp-net-ajax-javascript/ 
+
+http://petr.vaclavek.com/article/471/Navod-zabudovani-Google-maps-do-stranek 
+
+http://clanky.gug.cz/2008/04/google-maps-api.html 
+
+http://www.4guysfromrolla.com/articles/051910-1.aspx jen jako zajímavost: 
+
+  
+
+Feedbacky - postraní 
+
+http://www.9lessons.info/2010/12/magical-feedback-form-with-jquery.html 
+
+http://www.digimantra.com/technology/javascript/sliding-feedback-form-jquery/ 
+
+http://wpaoli.building58.com/2009/09/jquery-tab-slide-out-plugin/ 
+
+  
+
+Jquery TableSort 
+
+http://www.c-sharpcorner.com/Blogs/46650/ 
+
+  
+
+Jquery + Webservice 
+
+http://www.c-sharpcorner.com/UploadFile/rahul4_saxena/jquery-an-open-source-project-r-notebook/ 
+
+http://www.c-sharpcorner.com/UploadFile/bd8b0b/how-to-implement-exception-handling-in-jquery-while-calling/ 
+
+http://www.c-sharpcorner.com/UploadFile/00a8b7/web-service/ 
+
+http://www.c-sharpcorner.com/UploadFile/00a8b7/web-service-vs-wcf-service/ 
+
+  
+
+Jquery Datatable table tabulky 
+
+http://datatables.net/ 
+
+  
+
+  
+
+Jquery - Login as Twiter style 
+
+http://www.c-sharpcorner.com/UploadFile/rohatash/login-with-twitter-style-using-jquery-in-Asp-Net/ 
+
+  
+
+Jquery SLIDER y 
+
+http://www.tripwiremagazine.com/2012/11/jquery-image-slider.html 
+
+  
+
+Užitečné nástroj - jaká stránka je ryhlejší 
+
+http://whichloadsfaster.com/ - jaká stránka je ryhlejší 
+
+  
+
+ 
+
+  
+
+CSS Menu 
+
+http://cssmenumaker.com/ - toto bylo kdysi použito 
+
+  
+
+http://www.css3menu.com  
+
+http://www.webdesignshock.com/css-menu/ 180menu 
+
+  
+
+CSS Frameworky 
+
+http://www.gumbyframework.com/ 
+
+http://www.amazium.co.uk/ * 
+
+http://www.getskeleton.com/ * 
+
+http://semantic.gs/ 
+
+http://thatcoolguy.github.com/gridless-boilerplate/ 
+
+http://responsive.gs/ 
+
+http://foundation.zurb.com/index.php 
+
+http://lessframework.com/#get 
+
+http://www.blueprintcss.org/tests/ 
+
+  
+
+  
+
+Unit Testy, TDD 
+
+http://www.ncrunch.net/   - placené ale super 
+              https://www.youtube.com/watch?v=wUfyUVheLUQ - ASP.NET MVC Unit testy,TDD 
+
+http://storyteller.github.io/  
+
+  
+
+A/B Testování - AB testování 
+
+https://www.optimizely.com 
+
+http://www.abtests.com/ 
+
+http://www.optimics.cz/c/ab-testovani-kompletni-pruvodce#comments 
+
+  
+
+Grafy 
+
+http://www.chartjs.org  
+
+http://www.jqplot.com/ 
+
+https://developers.google.com/chart/interactive/docs/gallery 
+
+https://gephi.org/ 
+
+ 
+
+  
+
+JavaScript 
+
+https://github.com/coodict/javascript-in-one-pic 
+
+  
+
+JavaScript Výuka 
+
+http://www.augi.cz/programovani/javascript-ocima-programatora-v2/ 
+
+http://zerotoprotraining.com/index.php?mode=topic&id=48 
+
+http://eloquentjavascript.net/ ENGLISH 
+
+https://developer.mozilla.org/en-US/docs/JavaScript/Guide - ENGLISH 
+
+  
+
+JavaScript Knihovny 
+
+http://jillix.github.io/piklor.js/ - JavaScript Color Picker 
+
+http://bgrins.github.io/spectrum/ - JavaScript Color Picker 
+
+https://github.com/jaames/iro.js - JavaScript Color Picker 
+
+http://baijs.com/tinycolorpicker/ - JavaScript Color Picker 
+
+http://acko.net/blog/farbtastic-jquery-color-picker-plug-in/ JavaScript Color Picker 
+
+http://www.digitalmagicpro.com/jPicker/ - JavaScript Color Picker 
+
+ 
+
+ 
+
+http://juiceui.com/ - Javascript ASP.NET 
+
+http://socialitejs.com/ - pro sociální sítě 
+
+http://neonux.github.com/LiveScratchpad/ - Live Programování JavaScriptu 
+
+http://chico-ui.com.ar 
+
+JQUERY + UI 
+
+http://ryhan.me/fixie/sample.html - automaticky vytáří text (tedy ne loremipsum) 
+
+http://weblogs.asp.net/jongalloway/juice-ui-open-source-asp-net-web-forms-components-for-jquery-ui-widgets 
+
+ 
+
+Ochrana - Licencování SW v .NET 
+
+ http://www.eziriz.com/intellilock.htm  
+
+ 
+
+  
+
+Free music for video - muzika do videa 
+
+http://www.jewelbeat.com 
+
+http://vimeo.com/forums/topic:15629 
+
+  
+
+Jak vypadají stránky na různých rozlišeních a prohlížečích + tester pro Responsivní design 
+
+http://mattkersley.com/responsive/ 
+
+  
+
+http://screenqueri.es/ 
+
+http://responsive.is/www.biovavrinec.cz 
+
+http://www.responsinator.com/?url=biovavrinec.cz 
+
+  
+
+Monitoring Serverů 
+
+https://www.statuscake.com/plans-2/ 
+
+http://www.pingdom.com - zaregistrovno s emailem internet@biovavrinec.cz , heslo: pingdom261 
+
+http://www.monitoring-serveru.cz/ 
+
+http://www.irokez.cz/ 
+
+http://www.uptimerobot.com/ 
+
+http://www.monitor.us/website-monitoring 
+
+  
+
+SEO nekalé praktitky + odstranení zpetných odkazů 
+
+http://objevit.cz/jak-zjistit-ze-jste-tercem-negativnich-seo-praktik-t98000 
+
+https://www.rmoov.com/index.php 
+
+  
+
+  
+
+  
+
+SEO + Marketing 
+
+http://www.seoskola.cz/ 
+
+http://www.semor.cz/ 
+
+http://www.collabim.cz/ 
+
+http://www.sunitka.sk  
+
+http://www.999.cz/ 
+
+http://blog.seo-expert.cz/ 
+
+http://www.seo-expert.cz/sprava-seo?utm_source=adwords&utm_medium=ppc&utm_campaign=seo&gclid=CPiQ-aSVqrQCFY-6zAodOWwADQ 
+
+http://www.seo.cz/ 
+
+http://www.serp.cz/ 
+
+http://www.ranks.nl/tools/spider.html 
+
+http://search.seznam.cz/stats?collocation=s%C3%BDry&submit=Vyhledat+Seznamem 
+
+http://seo-servis.cz/ 
+
+http://www.seonastroje.cz/ 
+
+http://www.microsoft.com/web/seo/ 
+
+http://www.collabim.cz/ 
+
+http://www.it2test.com/ 
+
+http://www.opensiteexplorer.org 
+
+http://www.seomoz.org/ 
+
+http://www.majesticseo.com/ 
+
+http://monitorbacklinks.com/ 
+
+https://www.facebook.com/MarketingProEshopy - (firma dobrý web) 
+
+http://webova-analytika.robertnemec.com/google-analytics-navod/ 
+
+http://www.jakpsatweb.cz/seo/google-analytics.html 
+
+http://www.portiscio.net/kategorie/typy-clanku/navody 
+
+http://www.portiscio.net/affiliate-marketing-videozaznam-prednasky 
+
+http://blog.komart.cz/prubeh-seo/ 
+
+http://www.studio20.cz/zavedeni-podrobnych-statistik/ 
+
+http://ahrefs.com/ 
+
+  
+
+SEO Canoncial 
+
+http://napoveda.seznam.cz/cz/kanonicke-url.html 
+
+https://support.google.com/webmasters/answer/139394?hl=cs 
+
+  
+
+  
+
+SEO-Google 
+
+https://support.google.com/webmasters/answer/1663744?hl=cs&topic=2371375&ctx=topic - jak na stránkování 
+
+  
+
+  
+
+Facebook - nástroje 
+
+http://www.socialbakers.com 
+
+  
+
+Ecommerce Academy + Marketing 
+
+http://www.youtube.com/playlist?list=PL5003ADF02CAD2B31 -   
+
+  
+
+  
+
+Marketing Kampaně 
+
+http://support.google.com/analytics/bin/answer.py?hl=cs&answer=1033867&rd=1 
+
+např: http://www.biovavrinec.cz/eshop/eshop-start.aspx?utm_source=TEST&utm_medium=e-mail&utm_campaign=TEST1 
+
+  
+
+  
+
+Chat + zákaznická podpora 
+
+http://alternativeto.net/software/zopim/ 
+
+http://www.zopim.com 
+
+http://www.limetalk.com/cz/homepage - česká obdoba ZOPIM 
+
+  
+
+Optimalizace + testování výkonu + test rychlosti webu 
+
+https://gtmetrix.com/ 
+
+http://www.webpagetest.org/ 
+
+http://www.websiteoptimization.com/services/analyze/ 
+
+http://sixrevisions.com/tools/free-website-speed-testing/ 
+
+  
+
+ 
+
+ASP.Net Optimalizace 
+
+https://aspnetoptimization.codeplex.com/ 
+
+  
+
+Testování 
+
+FitNesse 
+
+ 
+
+ 
+
+Testování Webů 
+
+http://www.posilovnawebu.cz  
+
+  
+
+Testování UI – winform, WPF,... 
+
+https://github.com/TestStack/White  
+
+Testování funkčnosti web stránek 
+
+http://www.testomato.com 
+
+http://seleniumhq.org/download/ 
+
+http://www.watin.org 
+
+  Coded Ui - Bohužel bouze ve Visual Studiu Enterprise https://msdn.microsoft.com/en-us/library/dd380742.aspx  
+
+ 
+
+  
+
+HeatMapy 
+
+https://www.inspectlet.com/plans 
+
+http://met.picnet.com.au/  
+
+http://davidwalsh.name/mootools-heatmap - nějaký script  
+
+http://dylanvester.com/post/Creating-Heat-Maps-with-NET-20-(C-Sharp).aspx - pomocné 
+
+http://heatmap.codeplex.com/  +  http://dotnetheatmap.codeplex.com/ Prototyp 
+
+http://www.heatmapapi.com/Default.aspx 
+
+http://mouseflow.com/ - možost i zadarmo 
+
+https://www.hotjar.com/  
+
+http://www.clickdensity.com/SignUp.aspx - možno i zadarmo 
+
+http://www.myx.cz - česká verze 
+
+  
+
+Mouse Record 
+
+http://jsfiddle.net/ARTsinn/xwPgd/ 
+
+  
+
+HeatMapy - programovani - kódy 
+
+http://www.labsmedia.com/clickheat/index.html app v PHP 
+
+http://www.patrick-wied.at/static/heatmapjs/  
+
+http://blog.corunet.com/the-definitive-heatmap/ 
+
+http://nevyan.blogspot.com/2006/12/free-website-click-heatmap-diy.html 
+
+http://www.webdevelopersnotes.com/resources/create_web_page_heatmap.php3 
+
+  
+
+Kreditní karty  
+
+http://www.platiti.cz 
+
+  
+
+XML feed pro zboží + vyhledávače 
+
+http://napoveda.seznam.cz/cz/zbozi/napoveda-pro-internetove-obchody/specifikace-xml/ 
+
+http://admin.vybereme.cz/format-xml-feedu 
+
+http://www.hledejceny.cz/ 
+
+http://www.heureka.cz 
+
+http://www.srovnanicen.cz/ 
+
+http://www.hyperzbozi.cz/ 
+
+http://www.monitor.cz/ 
+
+http://www.mergado.cz/ - služba placeá pro xml feedy - neznám jak funguje a co dělá? 
+
+  
+
+  
+
+  
+
+Odkazy na zajímavé firmy které se zabívají Internetovým marketingem,SEO,Reklamou,Copywritingem,... 
+
+http://www.h1.cz/ + http://www.h1.cz/publikujeme 
+
+http://www.dobryweb.cz/  
+
+http://www.ataxo.cz 
+
+http://www.robertnemec.com 
+
+http://www.acomware.cz/ 
+
+  
+
+eShop - košík 
+
+https://www.ceskykosikroku.cz/zmeny-od-roku-2014/ 
+
+  
+
+eShopy pro Inspiraci + seznam eshopů 
+
+http://www.shopio.cz/ 
+
+http://www.shoptet.cz/ 
+
+http://www.fastcentrik.cz/ 
+
+http://www.besteto.cz/eshopy-cms  - seznam eshopu - výrobců - v CR 
+
+  
+
+  
+
+Tracking chyb: 
+
+http://knowledge-base.havit.cz/net/Jednoduchy-exception-logging-pomoci-Trace-TraceSource-mechanizmu-dotNET.aspx 
+
+http://knowledge-base.havit.cz/asp-net/Health-Monitoring-a-sledovani-chyb-asynchronnich-postbacku-AJAX.aspx 
+
+  
+
+Pohoda - učetní SW 
+
+http://www.stormware.cz/xml - popis XML komunikace + schémata 
+
+http://www.stormware.cz/podpora/faq/obecny_obchod.aspx + info o obecném eShopu a komunikaci s ním 
+
+  
+
+  
+
+Měření a sledování webu - Statistiky 
+
+http://easyreport.cz/ 
+
+http://www.jakmeritweb.cz/ 
+
+http://www.google.com/support/googleanalytics/?hl=cs 
+
+http://www.google.com/support/analytics/bin/answer.py?answer=55518 
+
+http://www.google.com/analytics 
+
+https://developers.google.com/analytics/devguides/collection/gajs/gaTrackingEcommerce - Ecomerce měření 
+
+http://www.toplist.cz/ 
+
+http://navrcholu.cz/ 
+
+  
+
+SMS Služby, zasílání 
+
+  http://profisms.cz/  
+
+        https://www.twilio.com/  
+
+http://www.neogate.cz/ 
+
+http://www.smsbrana.cz 
+
+http://stara.neogenia.cz/ 
+
+http://www.xpay.cz/cz/ 
+
+http://www.telis.cz/jaktofunguje.html 
+
+http://data.idnes.cz/klikniavolej/pdf/SMS_Gateway.pdf (http://klikniavolej.idnes.cz/) 
+
+http://sms.sluzba.cz/ (http://myego.cz/item/php-skript-pro-posilani-sms-z-sms-sluzba-cz) 
+
+http://www.neogenia.cz/motivace/eshopy-obchody-firmy.html 
+
+http://smsmidlet.com 
+
+  
+
+PrizmaView - viewer - online prohlížečka formátů - PDF,Word,Excel, apod 
+
+http://viewer.prizmcloud.com/license.html 
+
+  
+
+PDF čtečky 
+
+https://github.com/andreasgal/pdf.js - JavaScript knihovna pro prohlížení PDF přímo v prohlížeči 
+
+https://github.com/mozilla/pdfjs-dist - JavaScript knihovna pro prohlížení PDF přímo v prohlížeči 
+
+http://pdfobject.com/ PDF in Browser 
+
+http://viewerjs.org/ - prohližečka dokumentů PDF, open office document 
+
+http://stackoverflow.com/questions/14690000/embed-pdf-in-html5 
+
+  
+
+  
+
+  
+
+PDF generování 
+
+https://github.com/webgio/Rotativa - pro MVC 
+
+http://nyveldt.com/blog/page/razorpdf - Razor PDF 
+
+https://www.nuget.org/packages/ExpertPdfHtmlToPdf/ 
+
+http://www.pdfsharp.net/ 
+
+http://www.c-sharpcorner.com/UploadFile/riyazakt/create-pdf-using-razorpdf-in-Asp-Net-mvc/ - RazorPDF 
+
+http://sourceforge.net/projects/itextsharp/ 
+
+http://typecastexception.com/post/2013/03/09/Splitting-and-Merging-Pdf-Files-in-C-Using-iTextSharp.aspx - MERGE PDF 
+
+http://www.codeproject.com/Articles/570682/PDF-File-Writer-Csharp-Class-Library-Version 
+
+http://wkhtmltopdf.org/ - command line render to PDF 
+
+https://github.com/pruiz/WkHtmlToXSharp- .Net wraper pro  wkhtmltopdf 
+
+http://www.nrecosite.com/pdf_generator_net.aspx - .Net wraper pro  wkhtmltopdf 
+
+https://github.com/tuespetre/TuesPechkin - další .Net wraper pro  wkhtmltopdf 
+
+http://doddlereport.codeplex.com/ - reports from any IEnumerable datasource. 
+
+https://github.com/mephraim/ghostscriptsharp - wraper pro GhostScript 
+
+  
+
+  
+
+Tisk, Print 
+
+http://www.codeproject.com/Articles/488737/Storing-and-recalling-printer-settings-in-Csharp-n  
+
+Javascript a PDF Generování 
+
+https://parall.ax/products/jspdf 
+
+ 
+
+Message, messaging Systémy - ukládání a vyzvedvání zpráv (případně jejich zpracování) 
+
+https://www.rabbitmq.com/ - Rabbit MQ 
+
+http://nats.io/ + http://danielwertheim.se/introducing-natsconsumer-and-net-core-support/   
+
+ 
+
+ 
+
+  
+
+PDF - obecně 
+
+http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html - alternativní reader 
+
+  
+
+PDF Tisk 
+
+http://www.codeproject.com/Articles/1134477/Printing-PDF-using-Ghostscript-in-Csharp  
+
+http://stackoverflow.com/questions/273675/print-existing-pdf-or-other-files-in-c-sharp 
+
+  
+
+  
+
+PDF TISK - Acobat - na příkazové řádce 
+
+http://stackoverflow.com/questions/619158/adobe-reader-command-line-reference 
+
+http://forums.adobe.com/thread/1054785 
+
+  
+
+PDF - Alternace 
+
+FOXIT - umi prý také tisk z příkazové řádky 
+
+http://www.coolutils.com/TotalPDFPrinter 
+
+http://www.brooksnet.com/content/how-print-pdf-files-command-line-windows-printer 
+
+http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html 
+
+  
+
+  
+
+ARES + programovani 
+
+http://myego.cz/item/automaticke-nacteni-sidla-firmy-a-dic-podle-zadaneho-ic-ares-xml-pomoci-php-a-jquery 
+
+http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_bas.cgi?ico=86563891  
+
+  
+
+  
+
+Online informace o firmach 
+
+ARES 
+
+http://www.cribis.cz/ 
+
+http://www.creditcheck.cz/ - Prověřujte své obchodní partnery - z webu, z fakturačního programu, emailem. 
+
+  
+
+Facebook - Developer 
+
+https://developers.facebook.com/docs/plugins/ 
+
+ 
+
+ORM , Entitiy Framework nástroje 
+
+https://www.llblgen.com/ - Generátor ORM z DB 
+
+  
+
+Entity framework - VIDEA 
+
+https://www.wug.cz/zaznamy/238-MS-Fest-2014-Brno-Entity-Framework-Code-First-pekne-od-zakladu - EEF Konfigruace -MS Fest 2014 Brno: Entity Framework Code First pěkně od základů 
+
+OK videl jsem https://www.wug.cz/zaznamy/160-Entity-Framework-v-NET-4-5 - novinky v 6 (transakce=začína v cca 55:50 min + 1:10 - 1:26=Funkce z SQL=SqlFunction.Pi/EntityFunction.Right a pod....) 
+
+- v Dotazu(1:31) lzde udělat nakonec napsat AsEnumerable()= vse co následuje bude se dělat jiz v paměti - co je před to se dělá ns SQL serveru 
+
+OK videl jsem https://www.wug.cz/zaznamy/187-MS-Fest-2013-Praha-Entity-Framework-verze-5-6-a-dal-co-mame-co-nas-ceka-a-nemine - MS Fest 2013 Praha: Entity Framework verze 5, 6 a dál – co máme, co nás čeká (a nemine) 
+
+OK videl jsem - pěkné https://www.wug.cz/zaznamy/75-Entity-Framework-co-je-noveho - Entity Framework - co je nového 
+
+https://msdn.microsoft.com/en-us/data/ff191186 - základní Tutorial na MSDN 
+
+  
+
+Entity framework 
+
+http://www.codeproject.com/Articles/702890/MVC-Entity-Framework-and-Many-to-Many-Relation - M:N relace 
+
+https://github.com/loresoft/EntityFramework.Extended - rozšiření - lepší mazání a updaty při více záznamech 
+
+https://msdn.microsoft.com/en-us/library/vstudio/cc716714(v=vs.100).aspx + http://stackoverflow.com/questions/6677160/in-entity-framework-how-to-call-a-method-on-entity-before-saving - BeforeSave 
+
+https://www.youtube.com/watch?v=Z7713GBhi4k&list=PL6n9fhu94yhUPBSX-E2aJCnCR3-_6zBZx - Video tutorial 
+
+  
+
+Editory 
+
+http://ace.ajax.org/#nav=about - spíše na zdrojový kod 
+
+http://www.tinymce.com/ - HTML editor 
+
+  
+
+Logování chyb javaScript 
+
+http://www.codeproject.com/Tips/1061281/Logging-JavaScript-Errors-at-Server-Side 
+
+  
+
+- Logování error javascript na google 
+
+<script type="text/javascript">window.onerror = function(message, file, line) {var errorMSG=file + ':' + line + '\n\n' + message;_gaq.push(['_trackEvent', 'JS ERROR', file, errorMSG]);};</script> 
+
+  
+
+Logování chyb + exception handling c# 
+
+https://serilog.net/ 
+
+http://nlog-project.org/ 
+
+http://onetrueerror.com/  
+http://www.codeproject.com/Articles/1126297/OneTrueError-Automated-exception-handling  
+
+ 
+
+http://code.google.com/p/elmah/ - ELMAH 
+
+https://www.stormconsultancy.co.uk/blog/development/tools-plugins/allowing-secure-remote-access-to-your-elmah-error-log/ 
+
+https://www.stormconsultancy.co.uk/blog/development/tools-plugins/setup-email-alerts-from-elmah-when-exceptions-are-raised/  
+
+  
+
+  
+
+http://www.c-sharpcorner.com/UploadFile/97fc7a/use-log4net-dll-to-logging-the-information/ - Log4net.dll  
+
+  
+
+Logování + trace  
+
+http://getglimpse.com/ 
+
+  
+
+Logování Analýza 
+
+https://technet.microsoft.com/en-us/scriptcenter/dd919274.aspx  - LogParser 
+
+https://www.microsoft.com/en-us/download/details.aspx?id=24659  
+https://visuallogparser.codeplex.com/  
+
+ 
+
+Adit Net - auditování změn Objektu 
+
+https://github.com/thepirat000/Audit.NET  
+
+Audio .NET c# -  
+
+https://github.com/naudio/NAudio 
+
+  
+
+ 
+
+Další Propagace 
+
+http://www.shoproku.cz 
+
+http://kristalova.lupa.cz/ 
+
+  
+
+Free eshopy Open Souce 
+
+http://www.virtuemart.cz/ + http://demo.virtuemart.net/ + http://demo.virtuemart.net/administrator/ (demo,demo) 
+
+http://www.opencart.com/  
+
+  
+
+Cenotvorba zboži 
+
+http://www.karsa.cz 
+
+  
+
+Optimalizace skladových zásob 
+
+http://www.inventoro.cz/ 
+
+  
+
+Externi loginy 
+
+http://www.c-sharpcorner.com/UploadFile/vdtrip/google-plus-authentication-in-Asp-Net-and-C-Sharp/ 
+
+http://code.google.com/p/socialauth-net/ 
+
+http://blog.itplace.cz/facebook-connect-pripojte-se-prosim/ - FAcebook 
+
+http://www.codeproject.com/Articles/450535/Using-Facebook-login-in-ASP-NET-application-withou - facebook 
+
+http://www.dotnetopenauth.net/ - openID 
+
+http://loginwithgoogle.codeplex.com/ - Google 
+
+http://blog.imp.cz/post/2012/06/13/OpenID - OpenID 
+
+http://dotnet.dzone.com/news/implementing-google-account - OpenID,Google, 
+
+http://blog.imp.cz/post/2012/02/24/Autentizace-pomoci-Windows-Live-ID-cast-1 - MS Live ID 
+
+http://blog.imp.cz/post/2012/05/09/Autentizace-pomoci-Facebook-Server-Flow - Facebook 
+
+http://www.zdrojak.cz/clanky/openid-identity-aliasy-a-vlastni-poskytovatel/ openid 
+
+https://frantovo.cz/blog/?q=poridte-si-openid-seznam-cz 
+
+http://blog.imp.cz/post/2012/05/28/Autentizace-pomoci-Google-OAuth-20 
+
+  
+
+AB Testování 
+
+https://www.optimcore.cz/  
+
+http://visualwebsiteoptimizer.com - placený nástroj 
+
+https://www.optimizely.com/ - placené 
+
+http://unbounce.com/ - placené 
+
+http://www.vertster.com/ - placené 
+
+  
+
+Online Sledovače - kdo je online na stránkách 
+
+http://whos.amung.us/ 
+
+http://radarstats.com/ asi free 
+
+http://clicky.com/ + http://clicky.com/compare/ 
+
+https://www.reinvigorate.net/features/ 
+
+http://www.techbu.com/8-free-online-live-website-visitor-tracking-tools 
+
+  
+
+Převod PSD to HTML 
+
+http://www.nakoduji.cz + http://www.tomasgazur.cz/ 
+
+http://www.superkoderi.cz/ 
+
+http://www.kodovani-webu.cz/ 
+
+http://psddohtml.cz/kodovani-html-sablon/psd-do-html/tvorba-html-css-stranek 
+
+http://psdhtml.cz/ 
+
+http://www.myvamtonakodujeme.cz 
+
+http://designborg.com/ 
+
+  
+
+Kontrola Webu + linku 
+
+http://www.screamingfrog.co.uk/seo-spider/  - nástroj pro seo kontrolu 
+
+http://home.snafu.de/tilman/xenulink.html - nástroj pro link kontrolu 
+
+http://www.httrack.com/ - kopírovač WWW stránek na disk 
+
+  
+
+Obchodní podmínky eshopů 
+
+http://www.podnikatel.cz/clanky/obchodni-podminky-eshop/ 
+
+http://www.apek.cz/tiskove-zpravy/vzorove-obchodni-podminky-pro-e-obchody/ 
+
+  
+
+Webináře - systémy pro ně 
+
+http://www.wiziq.com/ 
+
+  
+
+Různé 
+
+http://www.google.com/webfonts - Google Web Fonts 
+
+  
+
+Tisk 
+
+http://www.neodynamic.com/products/printing/raw-data/aspnet-mvc/ - WebClientPrint for ASP.NET 
+
+  
+
+Tisk PDF 
+
+http://social.msdn.microsoft.com/Forums/en-US/csharpgeneral/thread/00c2c76c-9e09-47d0-b34d-52c1a956f15f/ 
+
+http://pages.cs.wisc.edu/~ghost/gsview/gsprint.htm 
+
+http://stackoverflow.com/questions/619158/adobe-reader-command-line-reference 
+
+http://pdfsharp.net/wiki/PrintPdfFile-sample.ashx 
+
+  
+
+HTML Grab 
+
+http://www.codeproject.com/Articles/1040510/Grab-and-parse-HTML-data-through-POST-in-Csharp 
+
+  
+
+Remove HTML tag 
+
+http://www.dotnetperls.com/remove-html-tags 
+
+http://htmlagilitypack.codeplex.com/ 
+
+  
+
+Diskuzní forum 
+
+http://www.sqlteam.com/article/sql-for-threaded-discussion-forums - pomocí SQL 
+
+  
+
+Důležité scripty 
+
+https://gallery.technet.microsoft.com/scriptcenter/Script-for-rebuilding-all-8d079754 - rebuild index 
+
+http://www.mssqltips.com/sqlservertip/1367/sql-server-script-to-rebuild-all-indexes-for-all-tables-and-all-databases/ - rebuild index 
+
+  
+
+SQL Synchronizace 
+
+http://www.wug.cz/brno/akce/168-Microsoft-Sync-Framework 
+
+http://www.netstudent.cz/Articles/microsoft-sync-framework-uvod 
+
+  
+
+http://social.technet.microsoft.com/wiki/contents/articles/2190.tutorial-synchronizing-sql-server-and-sql-server-compact-sync-framework.aspx 
+
+http://evolpin.wordpress.com/2011/09/27/microsoft-sync-framework/ 
+
+http://msdn.microsoft.com/en-us/sync/bb887608.aspx 
+
+http://jtabadero.wordpress.com/2011/03/21/modifying-sync-framework-scope-definition-part-1-introduction/ 
+
+http://www.codeproject.com/Articles/23623/Data-Synchronization-in-SQL-Express 
+
+http://vivekcek.wordpress.com/2012/07/08/synchronizing-sql-server-databases-using-microsoft-sync-framework/ 
+
+http://visualstudiomagazine.com/articles/2012/06/01/database-synchronization-with-the-microsoft-sync-framework.aspx 
+
+http://msdn.microsoft.com/en-us/library/bb726002.aspx 
+
+  
+
+http://www.codeproject.com/Articles/23623/Data-Synchronization-in-SQL-Express 
+
+  
+
+http://www.red-gate.com/products/sql-development/sql-data-compare/ 
+
+http://www.sqldelta.com/ 
+
+  
+
+CRM systémy 
+
+http://www.inex-crm.cz/ 
+
+https://aktiv.io 
+
+https://raynet.cz/prodavam-chytre.html 
+
+http://www.vyber-crm.cz/dodavatele-crm 
+
+http://www.crmportal.cz/ 
+
+http://www.bluejet.cz/ 
+
+http://crmfree.cz/text/galerie.aspx 
+
+ 
+
+Android - programování 
+
+http://www.appinventor.org/ 
+
+http://docs.dot42.com/getting-started 
+
+http://xamarin.com/ 
+
+  
+
+Videobanky, video 
+
+http://videohive.net/ 
+
+  
+
+FotoBanky 
+
+oblíbený autor nem44a 
+
+http://www.pixmac.cz  (http://www.pixmac.cz/fotka/farma+soubor/000082834391) 
+
+http://cz.depositphotos.com 
+
+http://www.shutterstock.co.in/subscribe.mhtml  nem4a 
+
+http://www.shutterstock.co.in/portfolio/search.mhtml?searchterm=farm&submitter=268060&page=1 
+
+  
+
+Výpočet kontrolních číslic - IČ, Rodné, bankovní účet,.... 
+
+http://zin.tym.cz/index.php?k=0601&s=4 
+
+  
+
+JSON 
+
+http://codebeautify.org/jsonviewer - json online  
+
+http://www.jsoneditoronline.org/ 
+
+http://braincast.nl/samples/jsoneditor/ - json editor 
+
+http://jsonlint.com/ - tester 
+
+https://www.nuget.org/packages/Newtonsoft.Json 
+
+  
+
+  
+
+Čáčový kód - Barcode 
+
+https://www.youtube.com/watch?v=VTbfZpc3R2s - jak na WindowsPhone 
+
+http://www.idautomation.com/font-encoders/ - knihovny + i jsou v c# 
+
+http://www.terryburton.co.uk/barcodewriter/generator/ - online generotor 
+
+  
+
+JavaScript Numeric Keypad 
+
+http://jsfiddle.net/XGundam05/cdmej/ 
+
+http://keith-wood.name/keypad.html 
+
+http://www.codeproject.com/Articles/13748/JavaScript-Virtual-Keyboard 
+
+  
+
+ASP.NET Upload File 
+
+http://www.uploadify.com/ 
+
+https://github.com/maxpavlov/jQuery-File-Upload.MVC3 - - Multiple Upload 
+
+http://blueimp.github.io/jQuery-File-Upload/ - Multiple Upload 
+
+http://www.codeproject.com/Articles/697038/Implementing-multiple-file-upload-with-progress-ba 
+
+  
+
+  
+
+Vzdělávání  
+
+https://www.learnnowonline.com 
+
+  
+
+Komponenty  ASp.MVC 
+
+https://demos.shieldui.com/mvc  
+
+ 
+
+Komponenty JavaScrtipt  
+
+http://www.treegrid.com/ -  
+
+ 
+
+http://www.jqwidgets.com/  
+
+http://webix.com/  
+
+ 
+
+Komponenty WinForms 
+
+https://github.com/peters/winforms-modernui  
+http://sourcegrid.codeplex.com/ 
+
+http://www.codeproject.com/Articles/3531/SourceGrid-Open-Source-C-Grid-Control 
+
+http://objectlistview.sourceforge.net/ 
+
+http://www.viblend.com/downloads.aspx 
+
+  
+
+Komponenty .NET 
+
+http://qink.net/page/The-Ultimate-List-of-Freely-Available-_NET-Libraries.aspx 
+
+http://www.codeproject.com/Articles/788434/List-of-rd-Party-NET-UI-Reporting-Components 
+
+  
+
+Angular 
+
+http://www.c-sharpcorner.com/UploadFile/8c19e8/Asp-Net-5-jump-start-to-angularjs-with-mvc-6-web-api/ 
+
+  
+
+Jquery Grid 
+
+http://paramquery.com/grid 
+
+http://datatables.net/  
+
+https://github.com/mleibman/SlickGrid 
+
+http://guriddo.net/ - placené ale pěkné 
+
+  
+
+  
+
+Jquery Komponenty 
+
+http://www.senamion.com/blog/jmultiselect2side.html  
+
+http://www.designchemical.com/blog/index.php/jquery/change-order-multiple-select-lists-using-jquery/ - Select List With Move Down and Up 
+
+http://stackoverflow.com/questions/6713702/move-item-up-and-down-in-select-using-button - List With MoveUp and Down 
+
+http://www.quasipartikel.at/multiselect/ - MultiSelect 
+
+http://www.erichynds.com/blog/jquery-ui-multiselect-widget - MultiSelect 
+
+  
+
+POP3, SMTP, IMAP  - komponenty 
+
+http://www.codeproject.com/Articles/719490/vmime-NET-Smtp-Pop3-Imap-Library-for-Cplusplus-and 
+
+  
+
+Poštovní balíky 
+
+http://balikonos.cz/ 
+
+  
+
+Decompilery 
+
+http://decompiler.fit.vutbr.cz/ + http://www.superlectures.com/barcampbrno2013/embed?id=26&start=5.9&autostart=true&fullScreen=true 
+
+  
+
+Obsah Stránek 
+
+http://www.copyscape.com/ - hledá jestli někdo nekopiruje texty z webu 
+
+http://www.Siteliner.com - hledá duplicity na webu 
+
+  
+
+Komponenty - Calendar, Kalendar 
+
+https://github.com/nhnent/tui.calendar - super javascript calendar, kalendář 
+
+http://dhtmlx.com/ 
+
+http://arshaw.com/fullcalendar/ 
+
+https://www.nuget.org/packages/DHTMLX.Scheduler.WebForms.Sample/ - WebForms 
+
+https://www.nuget.org/packages/DHTMLX.Scheduler.NET/ - asi jen MVC 
+
+  
+
+Windows 8 programování Raz Dva 
+
+http://www.microsoft.com/en-us/projectsiena/default.aspx 
+
+  
+
+  
+
+ASP.NET MVC - Route 
+
+http://www.asp.net/mvc/overview/older-versions-1/controllers-and-routing/asp-net-mvc-routing-overview-cs 
+
+http://stephenwalther.com/archive/2008/08/07/asp-net-mvc-tip-30-create-custom-route-constraints 
+
+http://www.exceptionnotfound.net/attribute-routing-vs-convention-routing/- Attribute routing 
+
+http://blogs.msdn.com/b/webdev/archive/2013/10/17/attribute-routing-in-asp-net-mvc-5.aspx - Attribute routing 
+
+http://stephenwalther.com/archive/2009/02/06/chapter-2-understanding-routing 
+
+  
+
+ASP.NEt MVC - Tutorial 
+
+https://www.wug.cz/zaznamy/74-Moderni-webove-aplikace-v-ASP-NET-MVC-3 - Ok vidě jsem - Tomáš Jecha 
+
+http://www.dotnet-tricks.com/Tutorial/mvc/N50P050314-Understanding-HTML-Helpers-in-ASP.NET-MVC.html - Helpery 
+
+https://www.youtube.com/channel/UCq3CFpp9a3E6deua1lgV6HQ - Jiří Štepánek Super Video Tutorial +  
+
+ 
+
+http://www.codeproject.com/Articles/667841/Learn-MVC-Model-view-controller-Step-by-Step-in-4 
+
+  
+
+ASP.NET MVC - ViewModel + Validation 
+
+http://stackoverflow.com/questions/11064316/what-is-viewmodel-in-mvc  
+
+  
+
+ASP.NET MVC - Validation, Fluent Validation 
+
+https://github.com/JeremySkinner/FluentValidation 
+
+http://stackoverflow.com/questions/11064316/what-is-viewmodel-in-mvc  - je tam ukázka fluent validation 
+
+  
+
+  
+
+ASP.NET MVC GRID 
+
+http://gridmvc.codeplex.com/ - hotové řešení  
+
+http://blog.maartenballiauw.be/post/2008/06/04/Code-based-ASPNET-MVC-GridView.aspx - jak to udělat HTML helper 
+
+http://mvccontrib.codeplex.com/ 
+
+http://weblogs.asp.net/rajbk/Contents/Item/Display/186 - jak udělet GRID pomocí MVCcontrib 
+
+http://mvccontrib.codeplex.com/wikipage?title=Grid 
+
+http://mvcjquerycontrols.codeplex.com/ - jquery + MVC gridy DALŠÍ 
+
+  
+
+  
+
+Eshopy - inspirace 
+
+http://www.BigBrands.cz 
+
+http://www.datart.cz 
+
+http://www.FashionDays.cz  
+
+http://www.alza.cz 
+
+http://mall.cz 
+
+  
+
+Unity 3D 
+
+http://www.c-sharpcorner.com/UploadFile/asmabegam/unity-3d-game-creation-using-C-Sharp-script/ 
+
+  
+
+http://docs.unity3d.com/Manual/VisualStudioIntegration.html 
+
+http://unityvs.com/ 
+
+  
+
+Serializace, Serializer XML 
+
+http://sharpserializer.codeplex.com/ 
+
+  
+
+XML - XSL 
+
+http://www.c-sharpcorner.com/UploadFile/ae8050/applying-xslt-stylesheet-to-an-xml-file-at-runtime/ 
+
+  
+
+Práce Programátor 
+
+http://www.janjuna.cz/blog/ze-zivota/244-10-mist-kde-se-da-sehnat-prace-nejen-pro-programatory/ 
+
+  
+
+Css  + Html online Generation 
+
+http://www.w3schools.com/tags/ref_colorpicker.asp - html color picker 
+
+http://www.sanwebe.com/2013/08/25-useful-css3-online-generators 
+
+http://www.css3maker.com/index.html 
+
+http://www.csstablegenerator.com/ 
+
+http://tablestyler.com/ 
+
+http://www.layzilla.com/ 
+
+  
+
+Kreativita 
+
+http://chytrazed.cz/ 
+
+  
+
+Send SMS in c# 
+
+http://www.c-sharpcorner.com/UploadFile/e881fb/send-sms-using-gsm-modem-with-C-Sharp/ 
+
+http://platform.twit88.com/projects/messagingtoolkit 
+
+https://code.msdn.microsoft.com/windowsapps/Sms-SendReceive-fa02e55e/view/SourceCode#content 
+
+  
+
+CMS in ASP.NET 
+
+http://kaliko.com/ 
+
+ 
