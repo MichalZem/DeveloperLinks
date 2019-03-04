@@ -134,6 +134,10 @@ https://github.com/itext/itextsharp - Generování PDF
 
 https://github.com/rdvojmoc/DinkToPdf - Wraper nad wkhtmltopdf.exe 
 
+### Dapper
+https://github.com/tmsmith/Dapper-Extensions  - CRUD
+
+
 ### Entity Framework Core
 
 https://github.com/Arch/AutoHistory - Automatick Data Row History PlugIn
