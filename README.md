@@ -119,7 +119,8 @@ https://github.com/mj1856/TimeZoneConverter  - TimeZoneConverter is a lightweigh
 
 https://github.com/TylerBrinks/ExCSS - Parser CSS
 
-https://github.com/reustmd/DataAnnotationsValidatorRecursive - Validace objektu pomocí DataAnnotation
+https://github.com/reustmd/DataAnnotationsValidatorRecursive - Validace objektu pomocí DataAnnotation  + podobjekt
+http://www.technofattie.com/2011/10/05/recursive-validation-using-dataannotations.html - Validace objektu pomocí DataAnnotation + podobjekt
 
 ## Moq + Fake
 https://github.com/moq/moq4 
