@@ -122,6 +122,11 @@ https://github.com/TylerBrinks/ExCSS - Parser CSS
 https://github.com/reustmd/DataAnnotationsValidatorRecursive - Validace objektu pomocí DataAnnotation  + podobjekt
 http://www.technofattie.com/2011/10/05/recursive-validation-using-dataannotations.html - Validace objektu pomocí DataAnnotation + podobjekt
 
+http://www.cshtml5.com/ - XAML in HTML
+
+https://bridge.net/ - C# to JavaScript
+
+
 ## Moq + Fake
 https://github.com/moq/moq4 
 
