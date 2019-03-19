@@ -149,6 +149,8 @@ https://github.com/tmsmith/Dapper-Extensions  - CRUD
 
 ### Entity Framework Core
 
+https://docs.microsoft.com/en-us/ef/core/extensions/ - Doporučené Extension od Microsoftu
+
 https://github.com/Arch/AutoHistory - Automatick Data Row History PlugIn
 
 http://www.alachisoft.com/download-ncache.html - Cache i pro Entity framework core
