@@ -117,6 +117,8 @@ https://github.com/mj1856/TimeZoneNames - Localization TimeZone
 
 https://github.com/mj1856/TimeZoneConverter  - TimeZoneConverter is a lightweight library to convert quickly between IANA, Windows, and Rails time zone names
 
+https://github.com/AngleSharp/AngleSharp  Parser HTML obecne cokoliv v <>
+
 https://github.com/TylerBrinks/ExCSS - Parser CSS
 
 https://github.com/reustmd/DataAnnotationsValidatorRecursive - Validace objektu pomocí DataAnnotation  + podobjekt
