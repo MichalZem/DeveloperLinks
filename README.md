@@ -136,6 +136,8 @@ https://github.com/Biarity/Sieve - simple Paging, Order,Filter
 
 https://discoverdot.net/projects/simplegpio - GPIO simple
 
+https://github.com/MichaCo/CacheManager - Cache manager
+
 
 ## Moq + Fake
 https://github.com/moq/moq4 
