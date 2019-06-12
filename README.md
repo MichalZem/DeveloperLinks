@@ -138,6 +138,8 @@ https://discoverdot.net/projects/simplegpio - GPIO simple
 
 https://github.com/MichaCo/CacheManager - Cache manager
 
+https://github.com/antonio-leonardo/FuzzyLogicApi - Fuzzy Logic C#
+
 
 ## Moq + Fake
 https://github.com/moq/moq4 
