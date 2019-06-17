@@ -118,6 +118,7 @@ https://github.com/mj1856/TimeZoneNames - Localization TimeZone
 https://github.com/mj1856/TimeZoneConverter  - TimeZoneConverter is a lightweight library to convert quickly between IANA, Windows, and Rails time zone names
 
 https://github.com/AngleSharp/AngleSharp  Parser HTML obecne cokoliv v <>
+https://html-agility-pack.net/ - HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT.
 
 https://github.com/TylerBrinks/ExCSS - Parser CSS
 
@@ -140,6 +141,7 @@ https://github.com/MichaCo/CacheManager - Cache manager
 
 https://github.com/antonio-leonardo/FuzzyLogicApi - Fuzzy Logic C#
 
+https://github.com/jamesmh/coravel - Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting 
 
 ## Moq + Fake
 https://github.com/moq/moq4 
