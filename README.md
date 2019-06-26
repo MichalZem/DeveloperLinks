@@ -177,6 +177,9 @@ https://www.codeproject.com/Articles/1266510/Application-Triggers-for-ASP-NET-Co
 
 https://www.nuget.org/packages/EntityFrameworkCore.Generator    - EntityFrameworkCore Generator
 
+http://ninjanye.github.io/SearchExtensions/ - funkce pro hledání
+
+
 ### Logování v .NET
 
 https://serilog.net/ - Logování v .NET  (prý nejrychlejší)
