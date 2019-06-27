@@ -266,4 +266,8 @@ http://www.linqpad.net/ - playground for C#
 
 https://12factor.net/
 
+## Testovávní
+https://www.seleniumhq.org/ - Test Webu
+https://temp-mail.org/cs/  - dlužba pro dočasný email tem email
+
 
