@@ -32,6 +32,8 @@ https://www.tiobe.com/tiobe-index/ - Index programovacích jazyků
 
 
 ## Knihovny .NET
+https://github.com/danielgerlag/workflow-core - WorkFlow c# Net.Core
+
 https://morelinq.github.io/ - Extensions to LINQ to Objects
 
 https://github.com/JanKallman/EPPlus/wiki - Work with Excel File in C#
