@@ -279,4 +279,13 @@ https://12factor.net/
 https://www.seleniumhq.org/ - Test Webu
 https://temp-mail.org/cs/  - dlužba pro dočasný email tem email
 
+## HTML editors
+
+http://getcontenttools.com/api/content-tools
+https://summernote.org/
+https://www.tiny.cloud/docs/demo/whats-new/
+https://ckeditor.com
+https://quilljs.com/
+https://alex-d.github.io/Trumbowyg/
+https://github.com/alohaeditor/Aloha-Editor
 
