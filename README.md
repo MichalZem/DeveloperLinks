@@ -281,7 +281,11 @@ https://temp-mail.org/cs/  - dlužba pro dočasný email tem email
 
 ## HTML editors
 
-http://getcontenttools.com/api/content-tools
+http://getcontenttools.com/api/content-tools - inline
+https://editorjs.io/ - inline
+https://www.tiny.cloud/docs/demo/inline/ - inline
+https://ckeditor.com/docs/ckeditor4/latest/examples/inline.html - inline
+
 https://summernote.org/
 https://www.tiny.cloud/docs/demo/whats-new/
 https://ckeditor.com
