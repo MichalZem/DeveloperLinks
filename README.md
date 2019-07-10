@@ -1,4 +1,4 @@
-# Michal Zemek - DeveloperLinks
+# DeveloperLinks
 (odkazy na které jsem narazil, pracoval s nimi, nebo do budoucna se budou hodit)
 
 ## Odkazy na Seznamy knihoven
@@ -33,6 +33,8 @@ https://www.tiobe.com/tiobe-index/ - Index programovacích jazyků
 
 ## Knihovny .NET
 https://github.com/danielgerlag/workflow-core - WorkFlow c# Net.Core
+
+https://github.com/lukencode/FluentEmail - Emailing, SMTP, SendGrid, RAZOR Template ,...
 
 https://morelinq.github.io/ - Extensions to LINQ to Objects
 
