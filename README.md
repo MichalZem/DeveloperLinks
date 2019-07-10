@@ -150,6 +150,8 @@ https://discoverdot.net/projects/simplegpio - GPIO simple
 
 https://github.com/MichaCo/CacheManager - Cache manager
 
+https://github.com/alastairtree/LazyCache - Cache
+
 https://github.com/antonio-leonardo/FuzzyLogicApi - Fuzzy Logic C#
 
 https://github.com/jamesmh/coravel - Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting 
