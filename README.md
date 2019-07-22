@@ -8,6 +8,8 @@ https://github.com/quozd/awesome-dotnet
 
 https://github.com/sindresorhus/awesome
 
+https://dotnet.libhunt.com/
+
 
 
 
