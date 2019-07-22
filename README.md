@@ -144,8 +144,6 @@ https://platform.uno/ - Build native apps for Mobile and Web using XAML and C#.
 
 https://github.com/jamesmh/coravel  - Framework pro : Task Scheduling, Queuing, Caching,Mailing, Invocables, Events, Coravel CLI
 
-https://github.com/Biarity/Sieve - simple Paging, Order,Filter
-
 https://discoverdot.net/projects/simplegpio - GPIO simple
 
 https://github.com/MichaCo/CacheManager - Cache manager
@@ -191,6 +189,8 @@ https://www.codeproject.com/Articles/1266510/Application-Triggers-for-ASP-NET-Co
 https://www.nuget.org/packages/EntityFrameworkCore.Generator    - EntityFrameworkCore Generator
 
 http://ninjanye.github.io/SearchExtensions/ - funkce pro hledání
+
+https://github.com/Biarity/Sieve - Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core 
 
 
 ### Logování v .NET
