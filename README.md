@@ -40,6 +40,8 @@ https://github.com/lukencode/FluentEmail - Emailing, SMTP, SendGrid, RAZOR Templ
 
 https://morelinq.github.io/ - Extensions to LINQ to Objects
 
+https://github.com/scottksmith95/LINQKit - LInq Kit, PredicateBuilder
+
 https://github.com/JanKallman/EPPlus/wiki - Work with Excel File in C#
 
 https://fluentvalidation.net/ - Fluent Validace v .NET
