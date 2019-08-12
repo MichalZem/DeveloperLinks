@@ -196,6 +196,8 @@ http://ninjanye.github.io/SearchExtensions/ - funkce pro hledání
 
 https://github.com/Biarity/Sieve - Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core 
 
+https://github.com/kedonec/Korzh.DbUtils - Seed data(export import data) (není to přímo EF, ale i tak to pomůže:) )
+
 
 ### Logování v .NET
 
