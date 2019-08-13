@@ -210,6 +210,10 @@ http://jsnlog.com/ - Logování JavcaScript Error
 https://github.com/hishamco/jsLogger - Simple Logování JavcaScript Error
 
 
+### Roslyn
+https://github.com/Testura/Testura.Code - Wraper nad roslynem!!
+
+
 ### Porovnání Knihoven
 http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison  - Dependency Injection
 
