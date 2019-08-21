@@ -242,6 +242,10 @@ https://github.com/StefH/System.Linq.Dynamic.Core - Dynamic LINQ  (např OrderBy
 
 https://github.com/kahanu/System.Linq.Dynamic - Dynamic LINQ  (např OrderBy ->OrderBy("MyProperty DESC, MyOtherProperty ASC");)
 
+## Testování
+http://objectfiller.net/ - vyplnovač nahodných dat
+
+
 
 ## Bootstrap
 https://getbootstrap.com/ - Bootstrap Home
