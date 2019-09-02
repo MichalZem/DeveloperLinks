@@ -1,7 +1,7 @@
 # What I Use - Co používám za SW, HW, nástroje
 ### Hardware
 - PC 
---	Intel Core i7-8700
+--	Intel Core i7-8700K, 2x
 - Notebook
 - 
 - Tiskárna - multifunkční
@@ -36,5 +36,6 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjQ3MjMyMCwtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbLTE2MzAyOTQ1MzMsLTE1NzU3MjEzNjhdfQ
+==
 -->
