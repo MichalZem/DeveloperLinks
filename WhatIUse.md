@@ -33,10 +33,12 @@
 
 - Polohovatelný stůl
 	- HOBIS Motion MS 3
+	
 		https://www.ergo-interier.cz/podnoz-ke-stolu-motion-3-segmentova
 	
 - Sezení 
-	- střídám práci ve stoje a v sedě pokud sedím tak na gymnastickém míči 
+	- střídám práci ve stoje a v sedě pokud sedím tak na gymnastickém míči
+	 
 		https://www.alza.cz/sport/lifefit-anti-burst-zeleny)
 
  
@@ -70,7 +72,7 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAwODcwODAsLTgzMTcwNDQwOSwxNz
-MwNzQzNjAzLDkxNjA1ODk2LDE4MTgxMjAwMjMsLTE1NzU3MjEz
-NjhdfQ==
+eyJoaXN0b3J5IjpbMTA0OTIxNjI4MCwtODMxNzA0NDA5LDE3Mz
+A3NDM2MDMsOTE2MDU4OTYsMTgxODEyMDAyMywtMTU3NTcyMTM2
+OF19
 -->
