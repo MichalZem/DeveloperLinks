@@ -2,10 +2,12 @@
 ### Hardware
 - PC (Hlavní vývojářské)
 	Intel Core i7-8700K
-	32 GB RAM
+	Deska MSI Z370
+	32 GB RAM DDR4 3000MHz
 	2x SSD M.2  256GB Samsung Evo 960 zapojen v Raidu 0 (čtení= 2651MBs /zápis=)
-	1x 4TB Sata HDD
+	1x 4TB Sata HDD WD Gold
 	1x 4TB USB WD pro zálohování
+	1x DVD Writer ASUS
 	Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
 
 - Monitory
@@ -64,6 +66,6 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMyODc3MzAsMTczMDc0MzYwMyw5MT
-YwNTg5NiwxODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
+eyJoaXN0b3J5IjpbLTM3ODkxOTM2OCwxNzMwNzQzNjAzLDkxNj
+A1ODk2LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
 -->
