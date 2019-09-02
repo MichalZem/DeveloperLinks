@@ -48,7 +48,7 @@
 - Drivery (Sound,VGA,LAN,..)
 - Tiskárny ovladače
 - Chrome Browser
-- Telnet Client + NetFramework 2.0 + 4.5,
+- Telnet Client + NetFramework 2.0 + 4.5-last version
 - OneDrive + Google Drive
 - Office – poslední verze + aktualizace
 - Adobe Acrobat Reader DC
@@ -62,7 +62,7 @@
 - Antivir – Avast
 - Notepad++ https://notepad-plus-plus.org 
 - Everything – hledání souborů https://www.voidtools.com/downloads/ 
-- ShareX  - https://getsharex.com/ - choco install sharex
+- ShareX  - https://getsharex.com/
 
 
 
@@ -72,7 +72,7 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODE4MzUyMCwxMDQ5MjE2MjgwLC04Mz
-E3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5NiwxODE4MTIwMDIz
-LC0xNTc1NzIxMzY4XX0=
+eyJoaXN0b3J5IjpbNjQxNDU5MTYwLDEwNDkyMTYyODAsLTgzMT
+cwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2LDE4MTgxMjAwMjMs
+LTE1NzU3MjEzNjhdfQ==
 -->
