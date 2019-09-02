@@ -12,7 +12,7 @@
 	Fujitsu NH532 (Intel Core i73610QM, 8GB RAM, SSD 256GB)
 
 - Tiskárna - multifunkční laser color
-Kyocera Ecosys M6526cdn
+	Kyocera Ecosys M6526cdn
 
 - Mobil 
 	Samsung Galaxy S7
@@ -20,11 +20,14 @@ Kyocera Ecosys M6526cdn
 - Sluchátka
 	Sony WH-1000XM3 
 
-- UPS - APC Back-UPS ES 700
+- UPS
+	APC Back-UPS ES 700
 
-- Polohovatelný stůl
-	HOBIS Motion MS 3 (https://www.ergo-interier.cz/podnoz-ke-stolu-motion-3-segmentova)
-střídám prácí ve stoje a v sedě pokud sedím tak na gymnastickém míči [https://www.alza.cz/sport/lifefit-anti-burst-zeleny](https://www.alza.cz/sport/lifefit-anti-burst-zeleny)
+- Polohovatelný stůl	HOBIS Motion MS 3
+	https://www.ergo-interier.cz/podnoz-ke-stolu-motion-3-segmentova
+	
+- Sezení - střídám práci ve stoje a v sedě pokud sedím tak na gymnastickém míči 
+	https://www.alza.cz/sport/lifefit-anti-burst-zeleny)
 
  
 
@@ -57,6 +60,6 @@ střídám prácí ve stoje a v sedě pokud sedím tak na gymnastickém míči [
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTg1MDE3MTEsOTE2MDU4OTYsMTgxOD
-EyMDAyMywtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbMjA0ODgxMTQzOSw5MTYwNTg5NiwxODE4MT
+IwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
