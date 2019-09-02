@@ -1,9 +1,11 @@
 # What I Use - Co používám za SW, HW, nástroje
 ### Hardware
-#### PC
-#### Notebook
-#### Tiskárna - multifunkční
-### Mobil 
+- PC 
+--	Intel Core i7-8700
+- Notebook
+- 
+- Tiskárna - multifunkční
+- Mobil 
 
 ### Základní Software
 - Windows 10 (poslední verze + aktualizace)
@@ -34,6 +36,5 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTczOTY3NDMsLTE1NzU3MjEzNjhdfQ
-==
+eyJoaXN0b3J5IjpbLTc3MjQ3MjMyMCwtMTU3NTcyMTM2OF19
 -->
