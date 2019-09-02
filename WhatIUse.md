@@ -183,6 +183,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Komponenty od DevExpress - https://www.devexpress.com
 - Komponenty od Infragistics - https://www.infragistics.com
 - Komponenty od GrapeCity - https://www.grapecity.com
+- 
 
 ### Podobné seznamy jiných vývojářů
 - https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx 
@@ -190,8 +191,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDAxOTgwMjAsLTE5OTQ5MDM4NjcsNj
-QxNDU5MTYwLDEwNDkyMTYyODAsLTgzMTcwNDQwOSwxNzMwNzQz
-NjAzLDkxNjA1ODk2LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ
-==
+eyJoaXN0b3J5IjpbMTAxMDU5MzAxNSwtMTk5NDkwMzg2Nyw2ND
+E0NTkxNjAsMTA0OTIxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2
+MDMsOTE2MDU4OTYsMTgxODEyMDAyMywtMTU3NTcyMTM2OF19
 -->
