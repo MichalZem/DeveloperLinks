@@ -1,6 +1,6 @@
 # What I Use - Co používám za SW, HW, nástroje
 ### Hardware
-- PC (Hlavní vývojářské )
+- PC (Hlavní vývojářské)
 --	Intel Core i7-8700K, 2x 
 -- Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
 
@@ -10,16 +10,22 @@
 
 - Notebook
 	Fujitsu NH532 (Intel Core i73610QM, 8GB RAM, SSD 256GB)
+
 - Tiskárna - multifunkční laser color
 Kyocera Ecosys M6526cdn
+
 - Mobil 
 	Samsung Galaxy S7
+
 - Sluchátka
 	Sony WH-1000XM3 
-- Polohovatelný stůl
-	HOBIS Motion MS 3 (https://www.ergo-interier.cz/podnoz-ke-stolu-motion-3-segmentova)
 
 - UPS - APC Back-UPS ES 700
+
+- Polohovatelný stůl
+	HOBIS Motion MS 3 (https://www.ergo-interier.cz/podnoz-ke-stolu-motion-3-segmentova)
+střídám prácí ve stoje a v sedě pokud sedím tak na míči
+
  
 
 ### Základní Software
@@ -51,6 +57,6 @@ Kyocera Ecosys M6526cdn
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc3MTEyMTgsOTE2MDU4OTYsMTgxOD
-EyMDAyMywtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbMTA5MzAxMTk0LDkxNjA1ODk2LDE4MTgxMj
+AwMjMsLTE1NzU3MjEzNjhdfQ==
 -->
