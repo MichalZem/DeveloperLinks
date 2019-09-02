@@ -83,7 +83,18 @@
 - JSON Formatter - https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=cs 
 - JSON Viewer - https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=cs 
 
-### Systém tools + Command Line Utility
+### MultiMédia - Video, Music, Image
+- VLC Player
+	- https://github.com/nurupo/vlc-pause-click-plugin   Click to Play/Pause Plugin
+- Paint.Net
+- Image Resizer Right Click - https://www.bricelam.net/ImageResizer/ 
+- HandBrake – Videkonventor
+e.	Audacity - https://www.audacityteam.org/download/windows/    +  Mp3 Export https://lame.buanzo.org/#lamewindl 
+f.	EarTrumpet
+g.	Record Audio Streamu, internet radii -  https://streamwriter.org/en/ 
+
+
+### Systém Tools + Command Line Utility
 - NirSoft File Activity Watch - https://www.nirsoft.net/utils/file_activity_watch.html 
 - Nircmd - http://www.nirsoft.net/utils/nircmd.html 
 
@@ -96,7 +107,7 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODc0ODcyOCw2NDE0NTkxNjAsMTA0OT
+eyJoaXN0b3J5IjpbMTM5ODY0NTQwMiw2NDE0NTkxNjAsMTA0OT
 IxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYs
 MTgxODEyMDAyMywtMTU3NTcyMTM2OF19
 -->
