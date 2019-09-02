@@ -3,10 +3,14 @@
 - PC 
 --	Intel Core i7-8700K, 2x 
 -- Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
+
+- UPS - APC Back-UPS ES 700
+
 - Monittor
 -- 1 x 27" AOC U2777PQU
+
 - Notebook
-- 
+	Fujitsu 
 - Tiskárna - multifunkční
 - Mobil 
 
@@ -39,5 +43,6 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODEyMDAyMywtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbLTYzMzQ3NzcxOSwxODE4MTIwMDIzLC0xNT
+c1NzIxMzY4XX0=
 -->
