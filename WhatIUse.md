@@ -10,7 +10,7 @@
 -- 1 x 27" AOC U2777PQU
 
 - Notebook
-	Fujitsu 
+	Fujitsu NH532 (Intel Core i7)
 - Tiskárna - multifunkční
 - Mobil 
 
@@ -43,6 +43,6 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzQ3NzcxOSwxODE4MTIwMDIzLC0xNT
-c1NzIxMzY4XX0=
+eyJoaXN0b3J5IjpbLTExODcyOTI1NjcsMTgxODEyMDAyMywtMT
+U3NTcyMTM2OF19
 -->
