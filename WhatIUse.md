@@ -8,7 +8,7 @@
 
 - Monittor
 -- 1 x 27" AOC U2777PQU - 4K
--- 1x 25" 25" AOC Q2577PWQ 2K
+-- 1x 25" 25" AOC Q2577PWQ - 2K
 
 - Notebook
 	Fujitsu NH532 (Intel Core i73610QM, 8GB RAM, SSD 256GB)
@@ -18,6 +18,10 @@ Kyocera Ecosys M6526cdn
 	Samsung Galaxy S7
 - Sluchátka
 	Sony WH-1000XM3 
+- Polohovatelný stůl
+	HOBIS Motion MS 3
+
+- 
 
 ### Základní Software
 - Windows 10 (poslední verze + aktualizace)
@@ -48,6 +52,6 @@ Kyocera Ecosys M6526cdn
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc2OTE1NzMsOTE2MDU4OTYsMTgxOD
-EyMDAyMywtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbNDQ0Nzg2NTc4LDkxNjA1ODk2LDE4MTgxMj
+AwMjMsLTE1NzU3MjEzNjhdfQ==
 -->
