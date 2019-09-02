@@ -60,7 +60,7 @@ Last update: 1.9.2019
 - PDF Creator
 - Windows USB/DVD Download Tool
 - TotalComander  (Plná verze koupená)
-- Skype + Skype pro Firmy
+- Skype + Microsoft Teams
 - AnyDesk Client + TeamViewer Client
 - VNC  - http://www.tightvnc.com 
 - 7Zip
@@ -225,9 +225,9 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzYzNzQxMiw1OTY3MTI1ODAsMTQyMT
-IyODU0MywtMTI4MjU0MTcwNiwtMjAxNjYzNjI2NSwtNjIzNzQw
-MjAzLC0xOTk0OTAzODY3LDY0MTQ1OTE2MCwxMDQ5MjE2MjgwLC
-04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5NiwxODE4MTIw
-MDIzLC0xNTc1NzIxMzY4XX0=
+eyJoaXN0b3J5IjpbLTIyMDU3NTMxOCwxNjYzNjM3NDEyLDU5Nj
+cxMjU4MCwxNDIxMjI4NTQzLC0xMjgyNTQxNzA2LC0yMDE2NjM2
+MjY1LC02MjM3NDAyMDMsLTE5OTQ5MDM4NjcsNjQxNDU5MTYwLD
+EwNDkyMTYyODAsLTgzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1
+ODk2LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
 -->
