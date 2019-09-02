@@ -166,10 +166,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - ProcesExplorer - https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer 
 - Zeta Resource Editor - *resx editor - https://www.zeta-resource-editor.com/index.html 
 - Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-explorer/
-- TinyGet – Web StressTest -  https://www.microsoft.com/en-us/download/details.aspx?id=17275 (součást IIS nutno vpre)
-
-
-- Jmeter - https://jmeter.apache.org/TestWebu, Web Loadtest,Web StressTest,
+- Tinyget.Exe – Web StressTest -  https://www.microsoft.com/en-us/download/details.aspx?id=17275 (součást IIS Resource Kitu Tools - nutno vypreparovat)
+- Appache JMeter - https://jmeter.apache.org/TestWebu, Web Loadtest,Web StressTest,
 	--https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi - doplněk který umí generovat scénáře pro JMeter (nutná registrace a přihlášení na https://www.blazemeter.com/ )
 - Appache AB - Apache HTTP server benchmarking tool - https://www.apachehaus.com/cgi-bin/download.plx (stáhnout zip a vyndat BIN/AB.EXE + ABS.EXE(pro HTTSP + libeay32.dll, ssleay32.dll )) -  - documentation: https://httpd.apache.org/docs/2.4/programs/ab.html 
 - Appache AB GUI - https://github.com/gaurangsinha/ab-viz 
@@ -217,8 +215,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDc0MzE2LC02MjM3NDAyMDMsLTE5OT
-Q5MDM4NjcsNjQxNDU5MTYwLDEwNDkyMTYyODAsLTgzMTcwNDQw
-OSwxNzMwNzQzNjAzLDkxNjA1ODk2LDE4MTgxMjAwMjMsLTE1Nz
-U3MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbLTIwMTY2MzYyNjUsLTYyMzc0MDIwMywtMT
+k5NDkwMzg2Nyw2NDE0NTkxNjAsMTA0OTIxNjI4MCwtODMxNzA0
+NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYsMTgxODEyMDAyMywtMT
+U3NTcyMTM2OF19
 -->
