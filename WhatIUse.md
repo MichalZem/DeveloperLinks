@@ -149,12 +149,12 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Stackify Profiler - https://stackify.com/prefix-download/  - enable custom  (https://support.stackify.com/custom-profiling-configure-for-net/)
 - LINQPAD  - https://www.linqpad.net
 - NSwagStudio - https://github.com/RSuter/NSwag - https://github.com/RSuter/NSwag/wiki/NSwagStudio (installer)
-- AutoRest - Genrátor códu z OpenApi - https://github.com/Azure/autorest
-- POSTMAN
+- AutoRest - Generátor códu z OpenApi - https://github.com/Azure/autorest
+- POSTMAN - API Development Environment - https://www.getpostman.com
 - Fiddler - Web Debugger - https://www.telerik.com/fiddler 
 - JetBrains dotPeak – C# Decompiler - https://www.jetbrains.com/decompiler/ - má s sobě symbol sever
 - JustDecompile – C# Decompiler https://www.telerik.com/download-trial-file/v2/justdecompile 
-dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/releases 
+- dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/releases 
 - Codetrack -  http://www.getcodetrack.com - A free .net performance profiler and execution analyzer
 - ProcesExplorer - https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer 
 - Zeta Resource Editor - *resx editor - https://www.zeta-resource-editor.com/index.html 
@@ -185,7 +185,7 @@ dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/rel
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTkyNzI1Myw2NDE0NTkxNjAsMTA0OT
-IxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYs
-MTgxODEyMDAyMywtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbLTE1NzI5NDE4OTYsNjQxNDU5MTYwLDEwND
+kyMTYyODAsLTgzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2
+LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
 -->
