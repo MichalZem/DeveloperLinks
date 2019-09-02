@@ -176,7 +176,7 @@ dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/rel
 ### Co si p5eji do budoucna a je placené
 - LinqPad  premium
 - https://www.oz-code.com/
-- Resharper - https://www.jetbrains.com/resharper/
+- Resharper -  All Products Pack - https://www.jetbrains.com/resharper/
 - DotTrace profiler - https://www.jetbrains.com/profiler/
 
 ### Podobné seznamy jiných vývojářů
@@ -185,7 +185,7 @@ dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/rel
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Nzk2NjM5Myw2NDE0NTkxNjAsMTA0OT
+eyJoaXN0b3J5IjpbMTkzNTE0MDQ5OCw2NDE0NTkxNjAsMTA0OT
 IxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYs
 MTgxODEyMDAyMywtMTU3NTcyMTM2OF19
 -->
