@@ -1,34 +1,35 @@
 # What I Use - Co používám za SW, HW, nástroje
 ### Hardware
 - PC (Hlavní vývojářské) - koupen (27.1.2018)
-	Intel Core i7-8700K
-	Deska MSI Z370
-	RAM Corsair - 32 GB  DDR4 3000MHz
-	2x SSD M.2  256GB Samsung Evo 960 zapojen v Raidu 0 (čtení= 2651MBs /zápis=)
-	1x 4TB Sata HDD WD Gold
-	1x DVD Writer ASUS
-	1x Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
-	1x Zdroj Be quiet! dark power PRO 11 650W
-	1x 4TB USB WD My Passport Ultra - pro zálohování
+	-	Intel Core i7-8700K
+	- Deska MSI Z370
+	- RAM Corsair - 32 GB  DDR4 3000MHz
+	- 2x SSD M.2  256GB Samsung Evo 960 zapojen v Raidu 0 (čtení= 2651MBs /zápis=)
+	- 1x 4TB Sata HDD WD Gold
+	- 1x DVD Writer ASUS
+	- 1x Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
+	- 1x Zdroj Be quiet! dark power PRO 11 650W
+	- 1x 4TB USB WD My Passport Ultra - pro zálohování
 
 - Monitory
-	1 x 27" AOC U2777PQU - 4K
-	1x 25" 25" AOC Q2577PWQ - 2K
+	- 1 x 27" AOC U2777PQU - 4K
+	- 1x 25" 25" AOC Q2577PWQ - 2K
 
 - Notebook
-	Fujitsu NH532 (Intel Core i73610QM, 8GB RAM, SSD 256GB)
+	- Fujitsu NH532
+(Intel Core i73610QM, 8GB RAM, SSD 256GB)
 
 - Tiskárna - multifunkční laser color
-	Kyocera Ecosys M6526cdn
+	- Kyocera Ecosys M6526cdn
 
 - Mobil 
-	Samsung Galaxy S7
+	- Samsung Galaxy S7
 
 - Sluchátka
-	Sony WH-1000XM3 
+	- Sony WH-1000XM3 
 
 - UPS
-	APC Back-UPS ES 700
+	- APC Back-UPS ES 700
 
 - Polohovatelný stůl	HOBIS Motion MS 3
 	https://www.ergo-interier.cz/podnoz-ke-stolu-motion-3-segmentova
@@ -67,6 +68,7 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNj
-A1ODk2LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbODg1MjQ4NDQzLC04MzE3MDQ0MDksMTczMD
+c0MzYwMyw5MTYwNTg5NiwxODE4MTIwMDIzLC0xNTc1NzIxMzY4
+XX0=
 -->
