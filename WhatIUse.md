@@ -152,10 +152,10 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - AutoRest - Genrátor códu z OpenApi - https://github.com/Azure/autorest
 - POSTMAN
 - Fiddler - Web Debugger - https://www.telerik.com/fiddler 
-f.	JetBrains dotPeak – C# Decompiler - https://www.jetbrains.com/decompiler/ - má s sobě symbol sever
-g.	JustDecompile – C# Decompiler https://www.telerik.com/download-trial-file/v2/justdecompile 
-h.	dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/releases 
-i.	http://www.getcodetrack.com - A FREE .NET PERFORMANCE PROFILER AND EXECUTION ANALYZER
+- JetBrains dotPeak – C# Decompiler - https://www.jetbrains.com/decompiler/ - má s sobě symbol sever
+- JustDecompile – C# Decompiler https://www.telerik.com/download-trial-file/v2/justdecompile 
+dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/releases 
+- Codetrack http://www.getcodetrack.com - A free .net performance profiler and execution analyzer
 j.	ProcesExplorer - https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer 
 k.	Zeta Resource Editor - https://www.zeta-resource-editor.com/index.html 
 l.	Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-explorer/
@@ -167,7 +167,7 @@ l.	Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-e
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTEzOTY2Miw2NDE0NTkxNjAsMTA0OT
-IxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYs
-MTgxODEyMDAyMywtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbMTA1MzM4MDgxLDY0MTQ1OTE2MCwxMDQ5Mj
+E2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5Niwx
+ODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
