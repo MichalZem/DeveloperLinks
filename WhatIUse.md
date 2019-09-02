@@ -163,6 +163,21 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - ProcesExplorer - https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer 
 - Zeta Resource Editor - *resx editor - https://www.zeta-resource-editor.com/index.html 
 - Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-explorer/
+- Jmeter - https://jmeter.apache.org/TestWebu, Loadtest,StressTest,
+	--https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi - doplněk který umí generovat scénáře pro JMeter (nutná registrace a přihlášení na https://www.blazemeter.com/ )
+•	Appache AB - Apache HTTP server benchmarking tool - https://www.apachehaus.com/cgi-bin/download.plx (stáhnout zip a vyndat BIN/AB.EXE + ABS.EXE(pro HTTSP + libeay32.dll, ssleay32.dll )) -  - doc: ttps://httpd.apache.org/docs/2.4/programs/ab.html 
+•	Appache AB GUI - https://github.com/gaurangsinha/ab-viz 
+•	NeoLoad - Performance testing - https://www.neotys.com/neoload/download-confirmation
+•	WebLoad – Webtesty - https://www.radview.com/webload-download/ 
+•	CURL - https://curl.haxx.se/windows/ 
+•	WGET - https://eternallybored.org/misc/wget/  + gui http://winwget.sourceforge.net/ 
+•	Git Client 
+o	 https://www.gitkraken.com/git-client  - GitKraken
+o	https://tortoisegit.org/ - Windows Shell Git Client
+
+
+
+
 
 ### Databáze
 - SQL Server 2016 + Latest version
@@ -198,8 +213,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM0NTgzNTYsLTYyMzc0MDIwMywtMT
-k5NDkwMzg2Nyw2NDE0NTkxNjAsMTA0OTIxNjI4MCwtODMxNzA0
-NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYsMTgxODEyMDAyMywtMT
-U3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbLTg3MzQ4NDEyNCwtNjIzNzQwMjAzLC0xOT
+k0OTAzODY3LDY0MTQ1OTE2MCwxMDQ5MjE2MjgwLC04MzE3MDQ0
+MDksMTczMDc0MzYwMyw5MTYwNTg5NiwxODE4MTIwMDIzLC0xNT
+c1NzIxMzY4XX0=
 -->
