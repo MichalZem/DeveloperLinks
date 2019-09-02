@@ -71,11 +71,10 @@
 - Wayback Machine
 - Window Resizer
 - Sprint Reader - Speed Reading Extension
-- Reading Time
-Read Aloud: A Text to Speech Voice Reader
-i.	right-click QRcode reader
-j.	Postman, Swager Inspector Extension
-k.	Switchmark (záložky)- https://chrome.google.com/webstore/detail/switchmark/bnocffbiglfjjcgmifcampfmcbkfbhgc/related
+- Read Aloud: A Text to Speech Voice Reader
+- Right-click QRcode reader
+- Postman, Swager Inspector Extension
+- Switchmark (záložky)- https://chrome.google.com/webstore/detail/switchmark/bnocffbiglfjjcgmifcampfmcbkfbhgc/related
 l.	https://accessibilityinsights.io/en/ - nástroj pro kontrolu HTML pro přístupnost apod.
 m.	https://sourcegraph.com/welcome - (pro Git -něco jako ve Visual studio F12)
 n.	https://github.com/ovity/octotree - tree file view pro Git 
@@ -92,7 +91,7 @@ r.	JSON Viewer - https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbip
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg1MDA2NjYsNjQxNDU5MTYwLDEwND
-kyMTYyODAsLTgzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2
-LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbMzI5MDU2NTA4LDY0MTQ1OTE2MCwxMDQ5Mj
+E2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5Niwx
+ODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
