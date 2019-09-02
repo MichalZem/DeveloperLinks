@@ -68,7 +68,7 @@
 - feedly Mini
 - Google Translator + TransOver
 - Chrome Remote Desktop
-- Wayback Machine
+- Wayback Machine (Archive.org)
 - Window Resizer
 - Sprint Reader - Speed Reading Extension
 - Read Aloud: A Text to Speech Voice Reader
@@ -83,6 +83,9 @@
 - JSON Formatter - https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=cs 
 - JSON Viewer - https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=cs 
 
+Systém tools + Command Line Utility
+a.	NirSoft File Activity Watch - https://www.nirsoft.net/utils/file_activity_watch.html 
+b.	Nircmd - http://www.nirsoft.net/utils/nircmd.html 
 
 
 ### Podobné seznamy jiných vývojářů
@@ -91,7 +94,7 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMDQxNzE4LDY0MTQ1OTE2MCwxMDQ5Mj
-E2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5Niwx
-ODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
+eyJoaXN0b3J5IjpbLTk2NjA2MDY3OCw2NDE0NTkxNjAsMTA0OT
+IxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYs
+MTgxODEyMDAyMywtMTU3NTcyMTM2OF19
 -->
