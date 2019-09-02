@@ -103,6 +103,46 @@
 - Visual Studio Code Latest Version
 
 ### Visual Studio Extensions
+- IntelliCode Microsoft
+- Web Compiler - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebCompiler (compile LESS, Scss, Stylus, JSX,..)
+- CodeMetrices – Měří počet Ifů - https://marketplace.visualstudio.com/items?itemName=vkacmar.RoslynCodeMetrices
+nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices 
+- T4 Editor
+	- Devart - https://www.devart.com/t4-editor/download.html  nebo  https://marketplace.visualstudio.com/items?itemName=DevartSoftware.DevartT4EditorforVisualStudio 
+	- T4Editor – Tangible -  https://t4-editor.tangible-engineering.com/T4-Editor-Visual-T4-Editing.html nebo https://marketplace.visualstudio.com/items?itemName=tangibleengineeringGmbH.tangibleT4Editor2019 
+- RegExTester - https://github.com/sharomank/regex-tester  nebo https://marketplace.visualstudio.com/items?itemName=RomanKurbangaliyev.RegexTester 
+- RegEx editor - https://marketplace.visualstudio.com/items?itemName=GeorgyLosenkov.RegexEditorLite 
+- REST API Client Code Generator  - https://marketplace.visualstudio.com/items?itemName=ChristianResmaHelle.ApiClientCodeGenerator 
+- Open Command Line -  https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine 
+- Add New File - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile 
+- String Resource Visualizer - https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer 
+- ResXManager - https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager XPath Tools  -  https://marketplace.visualstudio.com/items?itemName=UliWeltersbach.XPathInformation 
+- Find in Solution Explorer - https://marketplace.visualstudio.com/items?itemName=SamHarwell.FindinSolutionExplorer
+- Local History - https://github.com/LostAlloy/LocalHistory-for-Visual-Studio/releases/  + https://github.com/curzona/local-history-visual-studio  
+- VSHistory jako LocalHisotry ale jede i pod 2019 - Visual Studio File Histories - https://marketplace.visualstudio.com/items?itemName=KenCross.VSHistory 
+- jQuery Code Snippets
+- Roslyn Security Guard
+- SemanticColorizer(Andreas Reischuck)  + Případně CoCo
+- AllocationChanger – prohození parametrů - https://xevelopy.github.io/AllocationChanger/    (též možno použít trik https://stackoverflow.com/questions/12312670/c-sharp-swap-2-sides-of-an-operator )
+- P4Merge – pouze pokud se bude více dělat mergocání
+- BuildVision
+- Markdown Editor
+22.	Match Margin - Microsoft
+23.	Automatic Versions 1
+24.	Error Catcher
+25.	Solution Error Visualizer
+26.	Trailing Whitespace Visualizer
+27.	Expression Debug Visualizer
+28.	css tools
+29.	Learn the Shortcut
+30.	C# Methods Code Snippets
+31.	Code Cracker for C#
+32.	Disable Solution Explorer's Dynamic Nodes 
+33.	Multi Edit Mode
+34.	Macro Editor - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MacrosforVisualStudio 
+35.	GhostDoc – dokumentace codu- https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc nebo https://submain.com/products/ghostdoc.aspx 
+36.	Codist A productivity enhancer for C# - https://marketplace.visualstudio.com/items?itemName=wmj.Codist 
+37.	AutoRunCustomTool - Automatically runs the custom tool on another file when a file is modified.  https://marketplace.visualstudio.com/items?itemName=ThomasLevesque.AutoRunCustomTool 
 
 
 
@@ -112,7 +152,7 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxMDQzNTIyLDY0MTQ1OTE2MCwxMDQ5Mj
+eyJoaXN0b3J5IjpbNTU1ODE1NjM0LDY0MTQ1OTE2MCwxMDQ5Mj
 E2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5Niwx
 ODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
