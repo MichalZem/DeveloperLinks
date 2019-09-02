@@ -41,14 +41,14 @@
 	 
 		https://www.alza.cz/sport/lifefit-anti-burst-zeleny)
 
- 
+
 
 ### Základní Software
 - Windows 10 (poslední verze + aktualizace)
 - Drivery (Sound,VGA,LAN,..)
-- Tiskárny
+- Tiskárny ovladače
 - Chrome Browser
-- Telnet Client + NetFramework 2.0 + 4.5,6,7
+- Telnet Client + NetFramework 2.0 + 4.5,
 - OneDrive + Google Drive
 - Office – poslední verze + aktualizace
 - Adobe Acrobat Reader DC
@@ -72,7 +72,7 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTIxNjI4MCwtODMxNzA0NDA5LDE3Mz
-A3NDM2MDMsOTE2MDU4OTYsMTgxODEyMDAyMywtMTU3NTcyMTM2
-OF19
+eyJoaXN0b3J5IjpbMTM1ODE4MzUyMCwxMDQ5MjE2MjgwLC04Mz
+E3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5NiwxODE4MTIwMDIz
+LC0xNTc1NzIxMzY4XX0=
 -->
