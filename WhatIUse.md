@@ -64,6 +64,26 @@
 - Everything – hledání souborů https://www.voidtools.com/downloads/ 
 - ShareX  - https://getsharex.com/
 
+### Doplňky do Chromu
+- feedly Mini
+- Google Translator + TransOver
+- Chrome Remote Desktop
+- Wayback Machine
+- Window Resizer
+- Sprint Reader - Speed Reading Extension
+- Reading Time
+Read Aloud: A Text to Speech Voice Reader
+i.	right-click QRcode reader
+j.	Postman, Swager Inspector Extension
+k.	Switchmark (záložky)- https://chrome.google.com/webstore/detail/switchmark/bnocffbiglfjjcgmifcampfmcbkfbhgc/related
+l.	https://accessibilityinsights.io/en/ - nástroj pro kontrolu HTML pro přístupnost apod.
+m.	https://sourcegraph.com/welcome - (pro Git -něco jako ve Visual studio F12)
+n.	https://github.com/ovity/octotree - tree file view pro Git 
+o.	https://autonomiq.io/chropath/ - Xpath pomocník do Chromu
+p.	https://chrome.google.com/webstore/detail/timeouts-and-intervals/oagmfffelnnohpbidjknmhfangoahcan - Zobrazení aktuálních časovačů v JavaScriptu (setTimeout,SetInterval)
+q.	JSON Formatter - https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=cs 
+r.	JSON Viewer - https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=cs 
+
 
 
 ### Podobné seznamy jiných vývojářů
@@ -72,7 +92,7 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNDU5MTYwLDEwNDkyMTYyODAsLTgzMT
-cwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2LDE4MTgxMjAwMjMs
-LTE1NzU3MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbLTEyODg1MDA2NjYsNjQxNDU5MTYwLDEwND
+kyMTYyODAsLTgzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2
+LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
 -->
