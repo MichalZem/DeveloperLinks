@@ -118,6 +118,7 @@ Last update: 1.9.2019
 
 ### Visual Studio Extensions
 - IntelliCode Microsoft
+- Codist A productivity enhancer for C# - https://marketplace.visualstudio.com/items?itemName=wmj.Codist 
 - Web Compiler - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebCompiler (compile LESS, Scss, Stylus, JSX,..)
 - CodeMetrices – Měří počet Ifů - https://marketplace.visualstudio.com/items?itemName=vkacmar.RoslynCodeMetrices
 nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices 
@@ -155,7 +156,6 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Multi Edit Mode
 - Macro Editor - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MacrosforVisualStudio 
 - GhostDoc – dokumentace codu- https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc nebo https://submain.com/products/ghostdoc.aspx 
-- Codist A productivity enhancer for C# - https://marketplace.visualstudio.com/items?itemName=wmj.Codist 
 - AutoRunCustomTool - Automatically runs the custom tool on another file when a file is modified.  https://marketplace.visualstudio.com/items?itemName=ThomasLevesque.AutoRunCustomTool 
 
 ### Other Developer Tools
@@ -228,10 +228,10 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4ODUxNTI0LDkyMTA3MjUxNiwxMTk0Mz
-A3MzY3LC0yMjA1NzUzMTgsMTY2MzYzNzQxMiw1OTY3MTI1ODAs
-MTQyMTIyODU0MywtMTI4MjU0MTcwNiwtMjAxNjYzNjI2NSwtNj
-IzNzQwMjAzLC0xOTk0OTAzODY3LDY0MTQ1OTE2MCwxMDQ5MjE2
-MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5NiwxOD
-E4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
+eyJoaXN0b3J5IjpbNTgzNTUzMjAwLDMwODg1MTUyNCw5MjEwNz
+I1MTYsMTE5NDMwNzM2NywtMjIwNTc1MzE4LDE2NjM2Mzc0MTIs
+NTk2NzEyNTgwLDE0MjEyMjg1NDMsLTEyODI1NDE3MDYsLTIwMT
+Y2MzYyNjUsLTYyMzc0MDIwMywtMTk5NDkwMzg2Nyw2NDE0NTkx
+NjAsMTA0OTIxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOT
+E2MDU4OTYsMTgxODEyMDAyMywtMTU3NTcyMTM2OF19
 -->
