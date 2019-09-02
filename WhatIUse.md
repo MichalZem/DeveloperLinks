@@ -160,13 +160,13 @@ dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/rel
 - Zeta Resource Editor - *resx editor - https://www.zeta-resource-editor.com/index.html 
 - Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-explorer/
 
-SQL
-a.	SQL ManaGement Studio
-a.	ApexSQL Complete https://www.apexsql.com/sql_tools_complete.aspx (mají i další utility)
-b.	ApexSQl Plan https://www.apexsql.com/sql_tools_plan.aspx 
-c.	https://www.sentryone.com/plan-explorer 
-2.	Azure Data Studiohttps://docs.microsoft.com/cs-cz/sql/azure-data-studio/download
-Doplňky
+### Databáze
+- SQL ManaGement Studio 17.x + 18.x  (verze 17.x v sobě má ještě Diagramy v 18 je již odstranily)
+- ApexSQL Complete https://www.apexsql.com/sql_tools_complete.aspx (mají i další utility)
+- ApexSQl Plan https://www.apexsql.com/sql_tools_plan.aspx 
+- Plan Explorer - https://www.sentryone.com/plan-explorer 
+- Azure Data Studio https://docs.microsoft.com/cs-cz/sql/azure-data-studio/download
+	-Doplňky
 a.	SandDance  - visualizace dat – grafy,… - SUPER
 b.	https://www.valentina-db.com – Alternativa k ManagementStudiu
 c.	https://dbeaver.io/download      – Alternativa k ManagementStudiu
@@ -179,7 +179,7 @@ c.	https://dbeaver.io/download      – Alternativa k ManagementStudiu
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY5MDY5NDYsNjQxNDU5MTYwLDEwND
-kyMTYyODAsLTgzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2
-LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbODM2OTg3MzAsNjQxNDU5MTYwLDEwNDkyMT
+YyODAsLTgzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2LDE4
+MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
 -->
