@@ -155,10 +155,22 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - JetBrains dotPeak – C# Decompiler - https://www.jetbrains.com/decompiler/ - má s sobě symbol sever
 - JustDecompile – C# Decompiler https://www.telerik.com/download-trial-file/v2/justdecompile 
 dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/releases 
-- Codetrack http://www.getcodetrack.com - A free .net performance profiler and execution analyzer
-j.	ProcesExplorer - https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer 
-k.	Zeta Resource Editor - https://www.zeta-resource-editor.com/index.html 
-l.	Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-explorer/
+- Codetrack -  http://www.getcodetrack.com - A free .net performance profiler and execution analyzer
+- ProcesExplorer - https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer 
+- Zeta Resource Editor - *resx editor - https://www.zeta-resource-editor.com/index.html 
+- Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-explorer/
+
+SQL
+a.	SQL ManaGement Studio
+a.	ApexSQL Complete https://www.apexsql.com/sql_tools_complete.aspx (mají i další utility)
+b.	ApexSQl Plan https://www.apexsql.com/sql_tools_plan.aspx 
+c.	https://www.sentryone.com/plan-explorer 
+2.	Azure Data Studiohttps://docs.microsoft.com/cs-cz/sql/azure-data-studio/download
+Doplňky
+a.	SandDance  - visualizace dat – grafy,… - SUPER
+b.	https://www.valentina-db.com – Alternativa k ManagementStudiu
+c.	https://dbeaver.io/download      – Alternativa k ManagementStudiu
+
 
 
 ### Podobné seznamy jiných vývojářů
@@ -167,7 +179,7 @@ l.	Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-e
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzM4MDgxLDY0MTQ1OTE2MCwxMDQ5Mj
-E2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5Niwx
-ODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
+eyJoaXN0b3J5IjpbLTExNjY5MDY5NDYsNjQxNDU5MTYwLDEwND
+kyMTYyODAsLTgzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2
+LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
 -->
