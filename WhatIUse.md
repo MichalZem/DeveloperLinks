@@ -183,8 +183,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Appache AB GUI - https://github.com/gaurangsinha/ab-viz 
 - GitKraken - Git Client -  https://www.gitkraken.com/git-client  
 - TortoiseGit - Git Client - https://tortoisegit.org/ - Windows Shell Git Client
-	-- Nastavení Gitu set LANG=en_GB.UTF-8
-set LC_ALL=en_GB.UTF-8
+		- Nastavení Git Clienta UTF v CommandLine -  set LANG=en_GB.UTF-8 + set LC_ALL=en_GB.UTF-8
 
 
 
@@ -228,9 +227,9 @@ set LC_ALL=en_GB.UTF-8
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDcyMjI0NiwxNDIxMjI4NTQzLC0xMj
-gyNTQxNzA2LC0yMDE2NjM2MjY1LC02MjM3NDAyMDMsLTE5OTQ5
-MDM4NjcsNjQxNDU5MTYwLDEwNDkyMTYyODAsLTgzMTcwNDQwOS
-wxNzMwNzQzNjAzLDkxNjA1ODk2LDE4MTgxMjAwMjMsLTE1NzU3
-MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbNTk2NzEyNTgwLDE0MjEyMjg1NDMsLTEyOD
+I1NDE3MDYsLTIwMTY2MzYyNjUsLTYyMzc0MDIwMywtMTk5NDkw
+Mzg2Nyw2NDE0NTkxNjAsMTA0OTIxNjI4MCwtODMxNzA0NDA5LD
+E3MzA3NDM2MDMsOTE2MDU4OTYsMTgxODEyMDAyMywtMTU3NTcy
+MTM2OF19
 -->
