@@ -1,4 +1,9 @@
 # What I Use - Co používám za SW, HW, nástroje
+### Hardware
+#### PC
+#### Notebook
+#### Tiskárna - multifunkční
+### Mobil 
 
 ### Základní Software
 - Windows 10 (poslední verze + aktualizace)
@@ -19,7 +24,7 @@
 - Antivir – Avast
 - Notepad++ https://notepad-plus-plus.org 
 - Everything – hledání souborů https://www.voidtools.com/downloads/ 
-ShareX  - https://getsharex.com/ - choco install sharex
+- ShareX  - https://getsharex.com/ - choco install sharex
 
 
 
@@ -29,5 +34,6 @@ ShareX  - https://getsharex.com/ - choco install sharex
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTU3NjI2OCwtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbLTEwNTczOTY3NDMsLTE1NzU3MjEzNjhdfQ
+==
 -->
