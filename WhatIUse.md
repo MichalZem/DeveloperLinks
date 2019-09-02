@@ -177,6 +177,9 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://dbeaver.io/download – Alternativa k ManagementStudiu
 
 
+### Online Nástroje
+- MarkDownEditor Wysiwyg - https://stackedit.io/app
+
 ### Co si přeji pořídit do budoucna a je placené
 - LinqPad  premium - https://www.linqpad.net
 - OzCode - Makes Debugging Easier, Faster and more intuitive - https://www.oz-code.com/
@@ -188,7 +191,6 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Komponenty od DevExpress - https://www.devexpress.com
 - Komponenty od Infragistics - https://www.infragistics.com
 - Komponenty od GrapeCity - https://www.grapecity.com
-- 
 
 ### Podobné seznamy jiných vývojářů
 - https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx 
@@ -196,7 +198,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjkwMzczODUsLTYyMzc0MDIwMywtMT
+eyJoaXN0b3J5IjpbLTE2OTM0NTgzNTYsLTYyMzc0MDIwMywtMT
 k5NDkwMzg2Nyw2NDE0NTkxNjAsMTA0OTIxNjI4MCwtODMxNzA0
 NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYsMTgxODEyMDAyMywtMT
 U3NTcyMTM2OF19
