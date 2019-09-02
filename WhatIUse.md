@@ -179,7 +179,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Resharper -  All Products Pack - https://www.jetbrains.com/resharper/
 - DotTrace profiler - https://www.jetbrains.com/profiler/
 - Komponenty od Teleriku -  https://www.telerik.com
-- komponenty od Dev
+- Komponenty od DevExpress - https://www.devexpress.com
+- Komponenty od 
 
 ### Podobné seznamy jiných vývojářů
 - https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx 
@@ -187,7 +188,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwMTc3NzMwLDY0MTQ1OTE2MCwxMDQ5Mj
-E2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5Niwx
-ODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
+eyJoaXN0b3J5IjpbMTE1NTQ5MzIyMyw2NDE0NTkxNjAsMTA0OT
+IxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYs
+MTgxODEyMDAyMywtMTU3NTcyMTM2OF19
 -->
