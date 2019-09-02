@@ -1,6 +1,7 @@
 # What I Use - Co používám za SW, HW, nástroje
 
-Last Updaet
+Last update: 1.9.2019
+
 ! Doplnit chocolatey script
 
 ### Hardware
@@ -224,9 +225,9 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3ODczMDQ2LDU5NjcxMjU4MCwxNDIxMj
-I4NTQzLC0xMjgyNTQxNzA2LC0yMDE2NjM2MjY1LC02MjM3NDAy
-MDMsLTE5OTQ5MDM4NjcsNjQxNDU5MTYwLDEwNDkyMTYyODAsLT
-gzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2LDE4MTgxMjAw
-MjMsLTE1NzU3MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbMTY2MzYzNzQxMiw1OTY3MTI1ODAsMTQyMT
+IyODU0MywtMTI4MjU0MTcwNiwtMjAxNjYzNjI2NSwtNjIzNzQw
+MjAzLC0xOTk0OTAzODY3LDY0MTQ1OTE2MCwxMDQ5MjE2MjgwLC
+04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5NiwxODE4MTIw
+MDIzLC0xNTc1NzIxMzY4XX0=
 -->
