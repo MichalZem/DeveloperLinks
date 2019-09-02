@@ -144,6 +144,20 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Codist A productivity enhancer for C# - https://marketplace.visualstudio.com/items?itemName=wmj.Codist 
 - AutoRunCustomTool - Automatically runs the custom tool on another file when a file is modified.  https://marketplace.visualstudio.com/items?itemName=ThomasLevesque.AutoRunCustomTool 
 
+### Other Developer Tools
+- Diagramy - https://www.eclipse.org/sirius/download.html
+- Stackify Profiler - https://stackify.com/prefix-download/  - enable custom  (https://support.stackify.com/custom-profiling-configure-for-net/)
+- LINQPAD  - https://www.linqpad.net
+- NSwagStudio - https://github.com/RSuter/NSwag - https://github.com/RSuter/NSwag/wiki/NSwagStudio (installer)
+d.	POSTMAN
+e.	Fiddler - Web Debugger - https://www.telerik.com/fiddler 
+f.	JetBrains dotPeak – C# Decompiler - https://www.jetbrains.com/decompiler/ - má s sobě symbol sever
+g.	JustDecompile – C# Decompiler https://www.telerik.com/download-trial-file/v2/justdecompile 
+h.	dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/releases 
+i.	http://www.getcodetrack.com - A FREE .NET PERFORMANCE PROFILER AND EXECUTION ANALYZER
+j.	ProcesExplorer - https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer 
+k.	Zeta Resource Editor - https://www.zeta-resource-editor.com/index.html 
+l.	Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-explorer/
 
 
 ### Podobné seznamy jiných vývojářů
@@ -152,7 +166,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExNTA2NDg0LDY0MTQ1OTE2MCwxMDQ5Mj
-E2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5Niwx
-ODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
+eyJoaXN0b3J5IjpbLTE0OTk0MjcwNSw2NDE0NTkxNjAsMTA0OT
+IxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYs
+MTgxODEyMDAyMywtMTU3NTcyMTM2OF19
 -->
