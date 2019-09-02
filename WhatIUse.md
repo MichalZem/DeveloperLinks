@@ -124,25 +124,25 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Roslyn Security Guard
 - SemanticColorizer(Andreas Reischuck)  + Případně CoCo
 - AllocationChanger – prohození parametrů - https://xevelopy.github.io/AllocationChanger/    (též možno použít trik https://stackoverflow.com/questions/12312670/c-sharp-swap-2-sides-of-an-operator )
-- P4Merge – pouze pokud se bude více dělat mergocání
+- P4Merge – Instalovat pouze pokud se bude více dělat mergování
 - BuildVision
 - Markdown Editor
-22.	Match Margin - Microsoft
-23.	Automatic Versions 1
-24.	Error Catcher
-25.	Solution Error Visualizer
-26.	Trailing Whitespace Visualizer
-27.	Expression Debug Visualizer
-28.	css tools
-29.	Learn the Shortcut
-30.	C# Methods Code Snippets
-31.	Code Cracker for C#
-32.	Disable Solution Explorer's Dynamic Nodes 
-33.	Multi Edit Mode
-34.	Macro Editor - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MacrosforVisualStudio 
-35.	GhostDoc – dokumentace codu- https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc nebo https://submain.com/products/ghostdoc.aspx 
-36.	Codist A productivity enhancer for C# - https://marketplace.visualstudio.com/items?itemName=wmj.Codist 
-37.	AutoRunCustomTool - Automatically runs the custom tool on another file when a file is modified.  https://marketplace.visualstudio.com/items?itemName=ThomasLevesque.AutoRunCustomTool 
+- Match Margin - Microsoft
+- Automatic Versions 1
+- Error Catcher
+- Solution Error Visualizer
+- Trailing Whitespace Visualizer
+- Expression Debug Visualizer
+- CSS Tools
+- Learn the Shortcut
+- C# Methods Code Snippets
+- Code Cracker for C#
+- Disable Solution Explorer's Dynamic Nodes 
+- Multi Edit Mode
+- Macro Editor - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MacrosforVisualStudio 
+- GhostDoc – dokumentace codu- https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc nebo https://submain.com/products/ghostdoc.aspx 
+- Codist A productivity enhancer for C# - https://marketplace.visualstudio.com/items?itemName=wmj.Codist 
+- AutoRunCustomTool - Automatically runs the custom tool on another file when a file is modified.  https://marketplace.visualstudio.com/items?itemName=ThomasLevesque.AutoRunCustomTool 
 
 
 
@@ -152,7 +152,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1ODE1NjM0LDY0MTQ1OTE2MCwxMDQ5Mj
+eyJoaXN0b3J5IjpbNzExNTA2NDg0LDY0MTQ1OTE2MCwxMDQ5Mj
 E2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5Niwx
 ODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
