@@ -86,17 +86,20 @@
 ### MultiMédia - Video, Music, Image
 - VLC Player
 	- https://github.com/nurupo/vlc-pause-click-plugin   Click to Play/Pause Plugin
-- Paint.Net - Image Editor - https://www.getpaint.net/
+- Paint .Net - Image Editor - https://www.getpaint.net/
 - Image Resizer - Right Click - https://www.bricelam.net/ImageResizer/ 
 - HandBrake – Videkonventor
 - Audacity , sound editor - https://www.audacityteam.org/download/windows/    +  Mp3 Export https://lame.buanzo.org/#lamewindl 
 - EarTrumpet - Volume Control
-g.	Record Audio Streamu, internet radii -  https://streamwriter.org/en/ 
+- StreamWriter - Record Audi Stream & Internet Radio  -  https://streamwriter.org/en/ 
 
 
 ### Systém Tools + Command Line Utility
 - NirSoft File Activity Watch - https://www.nirsoft.net/utils/file_activity_watch.html 
 - Nircmd - http://www.nirsoft.net/utils/nircmd.html 
+
+### Developer tool
+- V
 
 
 
@@ -107,7 +110,7 @@ g.	Record Audio Streamu, internet radii -  https://streamwriter.org/en/
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE0MDU2NzgsNjQxNDU5MTYwLDEwND
-kyMTYyODAsLTgzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2
-LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbMTc4NzU4NTk0LDY0MTQ1OTE2MCwxMDQ5Mj
+E2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5Niwx
+ODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
