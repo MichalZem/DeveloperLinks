@@ -24,7 +24,7 @@ Kyocera Ecosys M6526cdn
 
 - Polohovatelný stůl
 	HOBIS Motion MS 3 (https://www.ergo-interier.cz/podnoz-ke-stolu-motion-3-segmentova)
-střídám prácí ve stoje a v sedě pokud sedím tak na míči
+střídám prácí ve stoje a v sedě pokud sedím tak na gymnastickém míči [https://www.alza.cz/sport/lifefit-anti-burst-zeleny](https://www.alza.cz/sport/lifefit-anti-burst-zeleny)
 
  
 
@@ -57,6 +57,6 @@ střídám prácí ve stoje a v sedě pokud sedím tak na míči
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzAxMTk0LDkxNjA1ODk2LDE4MTgxMj
-AwMjMsLTE1NzU3MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbLTE1OTg1MDE3MTEsOTE2MDU4OTYsMTgxOD
+EyMDAyMywtMTU3NTcyMTM2OF19
 -->
