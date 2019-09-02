@@ -111,6 +111,8 @@ Chocolateyscript
 - CURL - https://curl.haxx.se/windows/ 
 - WGET - https://eternallybored.org/misc/wget/  + gui http://winwget.sourceforge.net/ 
 
+### Others
+- Windows Performance recorder - https://answers.microsoft.com/en-us/windows/forum/windows_10-update/windows-performance-recorder/a1648e8c-50c7-4243-9f1d-4216385c7ff3?auth=1
 
 ### Hlavní - Developer Tools
 - Visual Studio Latest Version (Proffesional + Enterprise edition)
@@ -223,7 +225,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTc5OTc2NCwtMTI4MjU0MTcwNiwtMj
+eyJoaXN0b3J5IjpbMTQyMTIyODU0MywtMTI4MjU0MTcwNiwtMj
 AxNjYzNjI2NSwtNjIzNzQwMjAzLC0xOTk0OTAzODY3LDY0MTQ1
 OTE2MCwxMDQ5MjE2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMy
 w5MTYwNTg5NiwxODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
