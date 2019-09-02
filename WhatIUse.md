@@ -1,8 +1,9 @@
 # What I Use - Co používám za SW, HW, nástroje
 ### Hardware
 - PC 
---	Intel Core i7-8700K, 2x
-- Monitor
+--	Intel Core i7-8700K, 2x 
+-- Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
+- Monittor
 -- 1 x 27" AOC U2777PQU
 - Notebook
 - 
@@ -38,5 +39,5 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjI4OTAxLC0xNTc1NzIxMzY4XX0=
+eyJoaXN0b3J5IjpbMTgxODEyMDAyMywtMTU3NTcyMTM2OF19
 -->
