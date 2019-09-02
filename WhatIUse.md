@@ -179,6 +179,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Resharper -  All Products Pack - https://www.jetbrains.com/resharper/
 - DotTrace profiler - https://www.jetbrains.com/profiler/
 - SQL nástroje od Red-gate - https://www.red-gate.com/products
+- komponenty od Syncfusion - https://www.syncfusion.com
 - Komponenty od Teleriku -  https://www.telerik.com
 - Komponenty od DevExpress - https://www.devexpress.com
 - Komponenty od Infragistics - https://www.infragistics.com
@@ -191,7 +192,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDU5MzAxNSwtMTk5NDkwMzg2Nyw2ND
+eyJoaXN0b3J5IjpbLTYyMzc0MDIwMywtMTk5NDkwMzg2Nyw2ND
 E0NTkxNjAsMTA0OTIxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2
 MDMsOTE2MDU4OTYsMTgxODEyMDAyMywtMTU3NTcyMTM2OF19
 -->
