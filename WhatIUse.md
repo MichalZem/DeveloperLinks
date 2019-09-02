@@ -101,6 +101,9 @@
 ### Systém Tools + Command Line Utility
 - NirSoft File Activity Watch - https://www.nirsoft.net/utils/file_activity_watch.html 
 - Nircmd - http://www.nirsoft.net/utils/nircmd.html 
+- CURL - https://curl.haxx.se/windows/ 
+- WGET - https://eternallybored.org/misc/wget/  + gui http://winwget.sourceforge.net/ 
+
 
 ### Hlavní - Developer Tools
 - Visual Studio Latest Version (Proffesional + Enterprise edition)
@@ -165,14 +168,9 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-explorer/
 - Jmeter - https://jmeter.apache.org/TestWebu, Loadtest,StressTest,
 	--https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi - doplněk který umí generovat scénáře pro JMeter (nutná registrace a přihlášení na https://www.blazemeter.com/ )
-•	Appache AB - Apache HTTP server benchmarking tool - https://www.apachehaus.com/cgi-bin/download.plx (stáhnout zip a vyndat BIN/AB.EXE + ABS.EXE(pro HTTSP + libeay32.dll, ssleay32.dll )) -  - doc: ttps://httpd.apache.org/docs/2.4/programs/ab.html 
+•	Appache AB - Apache HTTP server benchmarking tool - https://www.apachehaus.com/cgi-bin/download.plx (stáhnout zip a vyndat BIN/AB.EXE + ABS.EXE(pro HTTSP + libeay32.dll, ssleay32.dll )) -  - documentation: https://httpd.apache.org/docs/2.4/programs/ab.html 
 •	Appache AB GUI - https://github.com/gaurangsinha/ab-viz 
-•	NeoLoad - Performance testing - https://www.neotys.com/neoload/download-confirmation
-•	WebLoad – Webtesty - https://www.radview.com/webload-download/ 
-•	CURL - https://curl.haxx.se/windows/ 
-•	WGET - https://eternallybored.org/misc/wget/  + gui http://winwget.sourceforge.net/ 
-•	Git Client 
-o	 https://www.gitkraken.com/git-client  - GitKraken
+- Git Client -  https://www.gitkraken.com/git-client  - GitKraken
 o	https://tortoisegit.org/ - Windows Shell Git Client
 
 
@@ -194,6 +192,9 @@ o	https://tortoisegit.org/ - Windows Shell Git Client
 
 ### Online Nástroje
 - MarkDownEditor Wysiwyg - https://stackedit.io/app
+- NeoLoad - Performance testing - https://www.neotys.com/neoload/download-confirmation
+- WebLoad – Webtesty - https://www.radview.com/webload-download/ 
+
 
 ### Co si přeji pořídit do budoucna a je placené
 - LinqPad  premium - https://www.linqpad.net
@@ -213,7 +214,7 @@ o	https://tortoisegit.org/ - Windows Shell Git Client
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzQ4NDEyNCwtNjIzNzQwMjAzLC0xOT
+eyJoaXN0b3J5IjpbMTM4NDk0NDAzOSwtNjIzNzQwMjAzLC0xOT
 k0OTAzODY3LDY0MTQ1OTE2MCwxMDQ5MjE2MjgwLC04MzE3MDQ0
 MDksMTczMDc0MzYwMyw5MTYwNTg5NiwxODE4MTIwMDIzLC0xNT
 c1NzIxMzY4XX0=
