@@ -178,6 +178,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - OzCode - Makes Debugging Easier, Faster and more intuitive - https://www.oz-code.com/
 - Resharper -  All Products Pack - https://www.jetbrains.com/resharper/
 - DotTrace profiler - https://www.jetbrains.com/profiler/
+- Komponenty od Teleriku -  https://www.telerik.com
+- komponenty od Dev
 
 ### Podobné seznamy jiných vývojářů
 - https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx 
@@ -185,7 +187,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI5NDE4OTYsNjQxNDU5MTYwLDEwND
-kyMTYyODAsLTgzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2
-LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbOTQwMTc3NzMwLDY0MTQ1OTE2MCwxMDQ5Mj
+E2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5Niwx
+ODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
