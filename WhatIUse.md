@@ -64,7 +64,7 @@
 - Everything – hledání souborů https://www.voidtools.com/downloads/ 
 - ShareX  - https://getsharex.com/
 - Chocolate + Chocolate Gui
-- MaincTime - evidence práce na PC
+- MaincTime free version - evidence práce na PC
 - Toogle (local client) - evidence práce na Projektech - Online + Local Client
 
 
@@ -196,7 +196,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMxMjg0MjcsLTYyMzc0MDIwMywtMT
+eyJoaXN0b3J5IjpbLTExNjkwMzczODUsLTYyMzc0MDIwMywtMT
 k5NDkwMzg2Nyw2NDE0NTkxNjAsMTA0OTIxNjI4MCwtODMxNzA0
 NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYsMTgxODEyMDAyMywtMT
 U3NTcyMTM2OF19
