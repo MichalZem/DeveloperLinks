@@ -2,6 +2,8 @@
 ### Hardware
 - PC 
 --	Intel Core i7-8700K, 2x
+- Monitor
+-- 1 x 27" AOC U2777PQU
 - Notebook
 - 
 - Tiskárna - multifunkční
@@ -36,6 +38,5 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzAyOTQ1MzMsLTE1NzU3MjEzNjhdfQ
-==
+eyJoaXN0b3J5IjpbMTk3NjI4OTAxLC0xNTc1NzIxMzY4XX0=
 -->
