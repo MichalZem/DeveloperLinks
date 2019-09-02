@@ -149,8 +149,9 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Stackify Profiler - https://stackify.com/prefix-download/  - enable custom  (https://support.stackify.com/custom-profiling-configure-for-net/)
 - LINQPAD  - https://www.linqpad.net
 - NSwagStudio - https://github.com/RSuter/NSwag - https://github.com/RSuter/NSwag/wiki/NSwagStudio (installer)
-d.	POSTMAN
-e.	Fiddler - Web Debugger - https://www.telerik.com/fiddler 
+- AutoRest - Genrátor códu z OpenApi - https://github.com/Azure/autorest
+- POSTMAN
+- Fiddler - Web Debugger - https://www.telerik.com/fiddler 
 f.	JetBrains dotPeak – C# Decompiler - https://www.jetbrains.com/decompiler/ - má s sobě symbol sever
 g.	JustDecompile – C# Decompiler https://www.telerik.com/download-trial-file/v2/justdecompile 
 h.	dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/releases 
@@ -166,7 +167,7 @@ l.	Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-e
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk0MjcwNSw2NDE0NTkxNjAsMTA0OT
+eyJoaXN0b3J5IjpbMTQ4NTEzOTY2Miw2NDE0NTkxNjAsMTA0OT
 IxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYs
 MTgxODEyMDAyMywtMTU3NTcyMTM2OF19
 -->
