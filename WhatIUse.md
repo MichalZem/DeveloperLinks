@@ -86,11 +86,11 @@
 ### MultiMédia - Video, Music, Image
 - VLC Player
 	- https://github.com/nurupo/vlc-pause-click-plugin   Click to Play/Pause Plugin
-- Paint.Net
-- Image Resizer Right Click - https://www.bricelam.net/ImageResizer/ 
+- Paint.Net - Image Editor - https://www.getpaint.net/
+- Image Resizer - Right Click - https://www.bricelam.net/ImageResizer/ 
 - HandBrake – Videkonventor
-e.	Audacity - https://www.audacityteam.org/download/windows/    +  Mp3 Export https://lame.buanzo.org/#lamewindl 
-f.	EarTrumpet
+- Audacity , sound editor - https://www.audacityteam.org/download/windows/    +  Mp3 Export https://lame.buanzo.org/#lamewindl 
+- EarTrumpet - Volume Control
 g.	Record Audio Streamu, internet radii -  https://streamwriter.org/en/ 
 
 
@@ -107,7 +107,7 @@ g.	Record Audio Streamu, internet radii -  https://streamwriter.org/en/
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODY0NTQwMiw2NDE0NTkxNjAsMTA0OT
-IxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYs
-MTgxODEyMDAyMywtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbLTExNTE0MDU2NzgsNjQxNDU5MTYwLDEwND
+kyMTYyODAsLTgzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2
+LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
 -->
