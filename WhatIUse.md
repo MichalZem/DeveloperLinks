@@ -162,17 +162,22 @@ dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/rel
 
 ### Databáze
 - SQL Server 2016 + Latest version
-- SQL ManaGement Studio 17.x + 18.x  (verze 17.x v sobě má ještě Diagramy v 18 je již odstranily)
+- SQL Management Studio 17.x + 18.x  (verze 17.x má v sobě ještě Diagramy v 18 je již odstranily)
 - ApexSQL Complete https://www.apexsql.com/sql_tools_complete.aspx (mají i další utility)
 - ApexSQl Plan https://www.apexsql.com/sql_tools_plan.aspx 
 - Plan Explorer - https://www.sentryone.com/plan-explorer 
 - Azure Data Studio https://docs.microsoft.com/cs-cz/sql/azure-data-studio/download
-	- Doplňky
+	- Doplňky do Azure Data Studio
 		- SandDance  - visualizace dat – grafy,… - SUPER
 - https://www.valentina-db.com – Alternativa k ManagementStudiu
 - https://dbeaver.io/download – Alternativa k ManagementStudiu
 
 
+### Co si p5eji do budoucna a je placené
+LINQPAD  Full version
+a.	https://www.oz-code.com/
+b.	https://www.jetbrains.com/resharper/
+c.	https://www.jetbrains.com/profiler/ - dotTrace profiler
 
 ### Podobné seznamy jiných vývojářů
 - https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx 
@@ -180,7 +185,7 @@ dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/rel
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTM1NTEwMiw2NDE0NTkxNjAsMTA0OT
-IxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYs
-MTgxODEyMDAyMywtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbMzQ0MjE3OTg2LDY0MTQ1OTE2MCwxMDQ5Mj
+E2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5Niwx
+ODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
