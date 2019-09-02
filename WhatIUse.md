@@ -9,7 +9,7 @@ Last update: 1.9.2019
 	-	Intel Core i7-8700K
 	- Deska MSI Z370
 	- RAM Corsair - 32 GB  DDR4 3000MHz
-	- 2x SSD M.2  256GB Samsung Evo 960 zapojen v Raidu 0 (čtení= 3000MBs /zápis=)
+	- 2x SSD M.2  256GB Samsung Evo 960 zapojen v Raidu 0 (čtení= 3000MBs /zápis=2500MBs)
 	- 1x 4TB Sata HDD WD Gold
 	- 1x DVD Writer ASUS
 	- 1x Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
@@ -225,10 +225,10 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDMwNzM2NywtMjIwNTc1MzE4LDE2Nj
-M2Mzc0MTIsNTk2NzEyNTgwLDE0MjEyMjg1NDMsLTEyODI1NDE3
-MDYsLTIwMTY2MzYyNjUsLTYyMzc0MDIwMywtMTk5NDkwMzg2Ny
-w2NDE0NTkxNjAsMTA0OTIxNjI4MCwtODMxNzA0NDA5LDE3MzA3
-NDM2MDMsOTE2MDU4OTYsMTgxODEyMDAyMywtMTU3NTcyMTM2OF
-19
+eyJoaXN0b3J5IjpbOTIxMDcyNTE2LDExOTQzMDczNjcsLTIyMD
+U3NTMxOCwxNjYzNjM3NDEyLDU5NjcxMjU4MCwxNDIxMjI4NTQz
+LC0xMjgyNTQxNzA2LC0yMDE2NjM2MjY1LC02MjM3NDAyMDMsLT
+E5OTQ5MDM4NjcsNjQxNDU5MTYwLDEwNDkyMTYyODAsLTgzMTcw
+NDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2LDE4MTgxMjAwMjMsLT
+E1NzU3MjEzNjhdfQ==
 -->
