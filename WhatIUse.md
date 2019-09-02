@@ -74,14 +74,14 @@
 - Read Aloud: A Text to Speech Voice Reader
 - Right-click QRcode reader
 - Postman, Swager Inspector Extension
-- Switchmark (záložky)- https://chrome.google.com/webstore/detail/switchmark/bnocffbiglfjjcgmifcampfmcbkfbhgc/related
-l.	https://accessibilityinsights.io/en/ - nástroj pro kontrolu HTML pro přístupnost apod.
-m.	https://sourcegraph.com/welcome - (pro Git -něco jako ve Visual studio F12)
-n.	https://github.com/ovity/octotree - tree file view pro Git 
-o.	https://autonomiq.io/chropath/ - Xpath pomocník do Chromu
-p.	https://chrome.google.com/webstore/detail/timeouts-and-intervals/oagmfffelnnohpbidjknmhfangoahcan - Zobrazení aktuálních časovačů v JavaScriptu (setTimeout,SetInterval)
-q.	JSON Formatter - https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=cs 
-r.	JSON Viewer - https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=cs 
+- Switchmark (záložky) - https://chrome.google.com/webstore/detail/switchmark/bnocffbiglfjjcgmifcampfmcbkfbhgc/related
+- Nástroj pro kontrolu HTML pro přístupnost apod. - https://accessibilityinsights.io/en/
+- Pro Git -něco jako ve Visual studio F12 - https://sourcegraph.com/welcome
+- https://github.com/ovity/octotree - tree file view pro Git 
+- https://autonomiq.io/chropath/ - Xpath pomocník do Chromu
+- https://chrome.google.com/webstore/detail/timeouts-and-intervals/oagmfffelnnohpbidjknmhfangoahcan - Zobrazení aktuálních časovačů v JavaScriptu (setTimeout,SetInterval)
+- JSON Formatter - https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=cs 
+- JSON Viewer - https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=cs 
 
 
 
@@ -91,7 +91,7 @@ r.	JSON Viewer - https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbip
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5MDU2NTA4LDY0MTQ1OTE2MCwxMDQ5Mj
+eyJoaXN0b3J5IjpbNTIwNjI4MTQzLDY0MTQ1OTE2MCwxMDQ5Mj
 E2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5Niwx
 ODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
