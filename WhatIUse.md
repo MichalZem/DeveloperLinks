@@ -1,4 +1,11 @@
 # What I Use - Co používám za SW, HW, nástroje
+
+! Doplnit chocolatey script
+
+### 
+
+Chocolateyscript
+
 ### Hardware
 - PC (Hlavní vývojářské) - koupen (27.1.2018)
 	-	Intel Core i7-8700K
@@ -216,8 +223,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI1NDE3MDYsLTIwMTY2MzYyNjUsLT
-YyMzc0MDIwMywtMTk5NDkwMzg2Nyw2NDE0NTkxNjAsMTA0OTIx
-NjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYsMT
-gxODEyMDAyMywtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbMTg2MTc5OTc2NCwtMTI4MjU0MTcwNiwtMj
+AxNjYzNjI2NSwtNjIzNzQwMjAzLC0xOTk0OTAzODY3LDY0MTQ1
+OTE2MCwxMDQ5MjE2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMy
+w5MTYwNTg5NiwxODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
