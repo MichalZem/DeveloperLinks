@@ -1,12 +1,15 @@
 # What I Use - Co používám za SW, HW, nástroje
 ### Hardware
 - PC (Hlavní vývojářské)
---	Intel Core i7-8700K, 2x 
--- Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
+	Intel Core i7-8700K
+	32 GB RAM
+	2x 
+	1x 4TB HDD
+	Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
 
 - Monittor
--- 1 x 27" AOC U2777PQU - 4K
--- 1x 25" 25" AOC Q2577PWQ - 2K
+	1 x 27" AOC U2777PQU - 4K
+	1x 25" 25" AOC Q2577PWQ - 2K
 
 - Notebook
 	Fujitsu NH532 (Intel Core i73610QM, 8GB RAM, SSD 256GB)
@@ -60,6 +63,6 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODgxMTQzOSw5MTYwNTg5NiwxODE4MT
+eyJoaXN0b3J5IjpbLTM3MTc3NDI1Miw5MTYwNTg5NiwxODE4MT
 IwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
