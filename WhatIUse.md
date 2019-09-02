@@ -1,10 +1,7 @@
 # What I Use - Co používám za SW, HW, nástroje
 
+Last Updaet
 ! Doplnit chocolatey script
-
-### 
-
-Chocolateyscript
 
 ### Hardware
 - PC (Hlavní vývojářské) - koupen (27.1.2018)
@@ -227,9 +224,9 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2NzEyNTgwLDE0MjEyMjg1NDMsLTEyOD
-I1NDE3MDYsLTIwMTY2MzYyNjUsLTYyMzc0MDIwMywtMTk5NDkw
-Mzg2Nyw2NDE0NTkxNjAsMTA0OTIxNjI4MCwtODMxNzA0NDA5LD
-E3MzA3NDM2MDMsOTE2MDU4OTYsMTgxODEyMDAyMywtMTU3NTcy
-MTM2OF19
+eyJoaXN0b3J5IjpbMzY3ODczMDQ2LDU5NjcxMjU4MCwxNDIxMj
+I4NTQzLC0xMjgyNTQxNzA2LC0yMDE2NjM2MjY1LC02MjM3NDAy
+MDMsLTE5OTQ5MDM4NjcsNjQxNDU5MTYwLDEwNDkyMTYyODAsLT
+gzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2LDE4MTgxMjAw
+MjMsLTE1NzU3MjEzNjhdfQ==
 -->
