@@ -208,10 +208,13 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 
 
 ### Co si přeji pořídit do budoucna a je placené
-- LinqPad  premium - https://www.linqpad.net
-- OzCode - Makes Debugging Easier, Faster and more intuitive - https://www.oz-code.com/
+- NDepend - - https://www.ndepend.com
 - Resharper -  All Products Pack - https://www.jetbrains.com/resharper/
 - DotTrace profiler - https://www.jetbrains.com/profiler/
+- OzCode - Makes Debugging Easier, Faster and more intuitive - https://www.oz-code.com/
+- LinqPad  premium - https://www.linqpad.net
+
+
 - SQL nástroje od Red-gate - https://www.red-gate.com/products
 - komponenty od Syncfusion - https://www.syncfusion.com
 - Komponenty od Teleriku -  https://www.telerik.com
@@ -225,10 +228,10 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMDcyNTE2LDExOTQzMDczNjcsLTIyMD
-U3NTMxOCwxNjYzNjM3NDEyLDU5NjcxMjU4MCwxNDIxMjI4NTQz
-LC0xMjgyNTQxNzA2LC0yMDE2NjM2MjY1LC02MjM3NDAyMDMsLT
-E5OTQ5MDM4NjcsNjQxNDU5MTYwLDEwNDkyMTYyODAsLTgzMTcw
-NDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2LDE4MTgxMjAwMjMsLT
-E1NzU3MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbMTcxNDIxMjAzNCw5MjEwNzI1MTYsMTE5ND
+MwNzM2NywtMjIwNTc1MzE4LDE2NjM2Mzc0MTIsNTk2NzEyNTgw
+LDE0MjEyMjg1NDMsLTEyODI1NDE3MDYsLTIwMTY2MzYyNjUsLT
+YyMzc0MDIwMywtMTk5NDkwMzg2Nyw2NDE0NTkxNjAsMTA0OTIx
+NjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYsMT
+gxODEyMDAyMywtMTU3NTcyMTM2OF19
 -->
