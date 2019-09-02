@@ -7,7 +7,8 @@
 - UPS - APC Back-UPS ES 700
 
 - Monittor
--- 1 x 27" AOC U2777PQU
+-- 1 x 27" AOC U2777PQU - 4K
+-- 1x 25" 25" AOC Q2577PWQ 2K
 
 - Notebook
 	Fujitsu NH532 (Intel Core i73610QM, 8GB RAM, SSD 256GB)
@@ -47,6 +48,6 @@ Kyocera Ecosys M6526cdn
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2MDU4OTYsMTgxODEyMDAyMywtMTU3NT
-cyMTM2OF19
+eyJoaXN0b3J5IjpbLTE2Mjc2OTE1NzMsOTE2MDU4OTYsMTgxOD
+EyMDAyMywtMTU3NTcyMTM2OF19
 -->
