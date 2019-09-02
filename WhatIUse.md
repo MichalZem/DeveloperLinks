@@ -98,9 +98,11 @@
 - NirSoft File Activity Watch - https://www.nirsoft.net/utils/file_activity_watch.html 
 - Nircmd - http://www.nirsoft.net/utils/nircmd.html 
 
-### Developer tool
-- V
+### Hlavní - Developer Tools
+- Visual Studio Latest Version (Proffesional + Enterprise edition)
+- Visual Studio Code Latest Version
 
+### Visual Studio Extensions
 
 
 
@@ -110,7 +112,7 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzU4NTk0LDY0MTQ1OTE2MCwxMDQ5Mj
+eyJoaXN0b3J5IjpbNTgxMDQzNTIyLDY0MTQ1OTE2MCwxMDQ5Mj
 E2MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5Niwx
 ODE4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
