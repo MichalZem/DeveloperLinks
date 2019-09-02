@@ -180,7 +180,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - DotTrace profiler - https://www.jetbrains.com/profiler/
 - Komponenty od Teleriku -  https://www.telerik.com
 - Komponenty od DevExpress - https://www.devexpress.com
-- Komponenty od 
+- Komponenty od
+- Komponenty od GrapeCity - https://www.grapecity.com
 
 ### Podobné seznamy jiných vývojářů
 - https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx 
@@ -188,7 +189,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTQ5MzIyMyw2NDE0NTkxNjAsMTA0OT
-IxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYs
-MTgxODEyMDAyMywtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbLTE5OTQ5MDM4NjcsNjQxNDU5MTYwLDEwND
+kyMTYyODAsLTgzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2
+LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
 -->
