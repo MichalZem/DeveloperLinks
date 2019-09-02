@@ -7,7 +7,7 @@
 	1x 4TB HDD
 	Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
 
-- Monittor
+- Monitory
 	1 x 27" AOC U2777PQU - 4K
 	1x 25" 25" AOC Q2577PWQ - 2K
 
@@ -63,6 +63,6 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTc3NDI1Miw5MTYwNTg5NiwxODE4MT
+eyJoaXN0b3J5IjpbMTczMDc0MzYwMyw5MTYwNTg5NiwxODE4MT
 IwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
