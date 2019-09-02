@@ -6,9 +6,12 @@
 	32 GB RAM DDR4 3000MHz
 	2x SSD M.2  256GB Samsung Evo 960 zapojen v Raidu 0 (čtení= 2651MBs /zápis=)
 	1x 4TB Sata HDD WD Gold
-	1x 4TB USB WD pro zálohování
 	1x DVD Writer ASUS
-	Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
+	1x Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
+	1x Zdroj Be quiet! dark power PRO 11 650W
+	1x 4TB USB WD My Passport Ultra - pro zálohování
+
+
 
 - Monitory
 	1 x 27" AOC U2777PQU - 4K
@@ -66,6 +69,6 @@
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODkxOTM2OCwxNzMwNzQzNjAzLDkxNj
-A1ODk2LDE4MTgxMjAwMjMsLTE1NzU3MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbNDc0ODQ0NzU4LDE3MzA3NDM2MDMsOTE2MD
+U4OTYsMTgxODEyMDAyMywtMTU3NTcyMTM2OF19
 -->
