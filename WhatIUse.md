@@ -1,10 +1,8 @@
 # What I Use - Co používám za SW, HW, nástroje
 ### Hardware
-- PC 
+- PC (Hlavní vývojářské )
 --	Intel Core i7-8700K, 2x 
 -- Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
-
-- UPS - APC Back-UPS ES 700
 
 - Monittor
 -- 1 x 27" AOC U2777PQU - 4K
@@ -19,9 +17,10 @@ Kyocera Ecosys M6526cdn
 - Sluchátka
 	Sony WH-1000XM3 
 - Polohovatelný stůl
-	HOBIS Motion MS 3
+	HOBIS Motion MS 3 (https://www.ergo-interier.cz/podnoz-ke-stolu-motion-3-segmentova)
 
-- 
+- UPS - APC Back-UPS ES 700
+ 
 
 ### Základní Software
 - Windows 10 (poslední verze + aktualizace)
@@ -52,6 +51,6 @@ Kyocera Ecosys M6526cdn
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0Nzg2NTc4LDkxNjA1ODk2LDE4MTgxMj
-AwMjMsLTE1NzU3MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbLTE5ODc3MTEyMTgsOTE2MDU4OTYsMTgxOD
+EyMDAyMywtMTU3NTcyMTM2OF19
 -->
