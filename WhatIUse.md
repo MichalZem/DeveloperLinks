@@ -11,9 +11,12 @@
 
 - Notebook
 	Fujitsu NH532 (Intel Core i73610QM, 8GB RAM, SSD 256GB)
-- Tiskárna - multifunkční
-Kyocera 
+- Tiskárna - multifunkční laser color
+Kyocera Ecosys M6526cdn
 - Mobil 
+	Samsung Galaxy S7
+- Sluchátka
+	Sony WH-1000XM3 
 
 ### Základní Software
 - Windows 10 (poslední verze + aktualizace)
@@ -44,6 +47,6 @@ Kyocera
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk0NTY2MzAsMTgxODEyMDAyMywtMT
-U3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbOTE2MDU4OTYsMTgxODEyMDAyMywtMTU3NT
+cyMTM2OF19
 -->
