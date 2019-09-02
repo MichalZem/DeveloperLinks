@@ -83,9 +83,11 @@
 - JSON Formatter - https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=cs 
 - JSON Viewer - https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=cs 
 
-Systém tools + Command Line Utility
-a.	NirSoft File Activity Watch - https://www.nirsoft.net/utils/file_activity_watch.html 
-b.	Nircmd - http://www.nirsoft.net/utils/nircmd.html 
+### Systém tools + Command Line Utility
+- NirSoft File Activity Watch - https://www.nirsoft.net/utils/file_activity_watch.html 
+- Nircmd - http://www.nirsoft.net/utils/nircmd.html 
+
+
 
 
 ### Podobné seznamy jiných vývojářů
@@ -94,7 +96,7 @@ b.	Nircmd - http://www.nirsoft.net/utils/nircmd.html
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjA2MDY3OCw2NDE0NTkxNjAsMTA0OT
+eyJoaXN0b3J5IjpbMTk5ODc0ODcyOCw2NDE0NTkxNjAsMTA0OT
 IxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYs
 MTgxODEyMDAyMywtMTU3NTcyMTM2OF19
 -->
