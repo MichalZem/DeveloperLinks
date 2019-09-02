@@ -208,8 +208,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 
 
 ### Co si přeji pořídit do budoucna a je placené
-- NDepend - - https://www.ndepend.com
-- Resharper -  All Products Pack - https://www.jetbrains.com/resharper/
+- NDepend - static analysis tool for .NET managed code - https://www.ndepend.com
+- Resharper - All Products Pack - https://www.jetbrains.com/resharper/
 - DotTrace profiler - https://www.jetbrains.com/profiler/
 - OzCode - Makes Debugging Easier, Faster and more intuitive - https://www.oz-code.com/
 - LinqPad  premium - https://www.linqpad.net
@@ -228,10 +228,10 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDIxMjAzNCw5MjEwNzI1MTYsMTE5ND
-MwNzM2NywtMjIwNTc1MzE4LDE2NjM2Mzc0MTIsNTk2NzEyNTgw
-LDE0MjEyMjg1NDMsLTEyODI1NDE3MDYsLTIwMTY2MzYyNjUsLT
-YyMzc0MDIwMywtMTk5NDkwMzg2Nyw2NDE0NTkxNjAsMTA0OTIx
-NjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4OTYsMT
-gxODEyMDAyMywtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbMzA4ODUxNTI0LDkyMTA3MjUxNiwxMTk0Mz
+A3MzY3LC0yMjA1NzUzMTgsMTY2MzYzNzQxMiw1OTY3MTI1ODAs
+MTQyMTIyODU0MywtMTI4MjU0MTcwNiwtMjAxNjYzNjI2NSwtNj
+IzNzQwMjAzLC0xOTk0OTAzODY3LDY0MTQ1OTE2MCwxMDQ5MjE2
+MjgwLC04MzE3MDQ0MDksMTczMDc0MzYwMyw5MTYwNTg5NiwxOD
+E4MTIwMDIzLC0xNTc1NzIxMzY4XX0=
 -->
