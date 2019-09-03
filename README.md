@@ -34,6 +34,11 @@ https://www.tiobe.com/tiobe-index/ - Index programovacích jazyků
 
 
 ## Knihovny .NET
+https://jasperfx.github.io/oakton/ - Command Line Helper
+
+https://github.com/Tyrrrz/CliFx  Command Line Helper
+
+
 https://github.com/danielgerlag/workflow-core - WorkFlow c# Net.Core
 
 https://github.com/lukencode/FluentEmail - Emailing, SMTP, SendGrid, RAZOR Template ,...
