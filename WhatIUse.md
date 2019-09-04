@@ -118,6 +118,7 @@ Last update: 1.9.2019
 
 ### Visual Studio Extensions
 - IntelliCode Microsoft
+- GitFlow for Visual Studio 2019 - https://marketplace.visualstudio.com/items?itemName=vs-publisher-57624.GitFlowforVisualStudio2019
 - Codist A productivity enhancer for C# - https://marketplace.visualstudio.com/items?itemName=wmj.Codist 
 - Web Compiler - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebCompiler (compile LESS, Scss, Stylus, JSX,..)
 - CodeMetrices – Měří počet Ifů - https://marketplace.visualstudio.com/items?itemName=vkacmar.RoslynCodeMetrices
@@ -228,10 +229,11 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzNTUzMjAwLDMwODg1MTUyNCw5MjEwNz
-I1MTYsMTE5NDMwNzM2NywtMjIwNTc1MzE4LDE2NjM2Mzc0MTIs
-NTk2NzEyNTgwLDE0MjEyMjg1NDMsLTEyODI1NDE3MDYsLTIwMT
-Y2MzYyNjUsLTYyMzc0MDIwMywtMTk5NDkwMzg2Nyw2NDE0NTkx
-NjAsMTA0OTIxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOT
-E2MDU4OTYsMTgxODEyMDAyMywtMTU3NTcyMTM2OF19
+eyJoaXN0b3J5IjpbMTcxODc3MjUzOSw1ODM1NTMyMDAsMzA4OD
+UxNTI0LDkyMTA3MjUxNiwxMTk0MzA3MzY3LC0yMjA1NzUzMTgs
+MTY2MzYzNzQxMiw1OTY3MTI1ODAsMTQyMTIyODU0MywtMTI4Mj
+U0MTcwNiwtMjAxNjYzNjI2NSwtNjIzNzQwMjAzLC0xOTk0OTAz
+ODY3LDY0MTQ1OTE2MCwxMDQ5MjE2MjgwLC04MzE3MDQ0MDksMT
+czMDc0MzYwMyw5MTYwNTg5NiwxODE4MTIwMDIzLC0xNTc1NzIx
+MzY4XX0=
 -->
