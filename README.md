@@ -38,6 +38,7 @@ https://jasperfx.github.io/oakton/ - Command Line Helper
 
 https://github.com/Tyrrrz/CliFx  Command Line Helper
 
+https://wexflow.github.io/ - WorkFlow + https://www.codeproject.com/Articles/1164009/Wexflow-Open-source-workflow-engine 
 
 https://github.com/danielgerlag/workflow-core - WorkFlow c# Net.Core
 
