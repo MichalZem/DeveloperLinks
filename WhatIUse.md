@@ -161,7 +161,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 
 ### Other Developer Tools
 - Diagramy - https://www.eclipse.org/sirius/download.html
-- Stackify Profiler - https://stackify.com/prefix-download/  - enable custom  (https://support.stackify.com/custom-profiling-configure-for-net/)
+- Stackify Profiler - https://stackify.com/prefix-download/  - enable custom  (https://support.stackify.com/custom-profiling-configure-for-net/) - choco install Prefix
 - LINQPAD  - https://www.linqpad.net
 - NSwagStudio - https://github.com/RSuter/NSwag - https://github.com/RSuter/NSwag/wiki/NSwagStudio (installer)
 - AutoRest - Generátor códu z OpenApi - https://github.com/Azure/autorest
@@ -229,11 +229,11 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODc3MjUzOSw1ODM1NTMyMDAsMzA4OD
-UxNTI0LDkyMTA3MjUxNiwxMTk0MzA3MzY3LC0yMjA1NzUzMTgs
-MTY2MzYzNzQxMiw1OTY3MTI1ODAsMTQyMTIyODU0MywtMTI4Mj
-U0MTcwNiwtMjAxNjYzNjI2NSwtNjIzNzQwMjAzLC0xOTk0OTAz
-ODY3LDY0MTQ1OTE2MCwxMDQ5MjE2MjgwLC04MzE3MDQ0MDksMT
-czMDc0MzYwMyw5MTYwNTg5NiwxODE4MTIwMDIzLC0xNTc1NzIx
-MzY4XX0=
+eyJoaXN0b3J5IjpbMTIzNjI3NTcwMSwxNzE4NzcyNTM5LDU4Mz
+U1MzIwMCwzMDg4NTE1MjQsOTIxMDcyNTE2LDExOTQzMDczNjcs
+LTIyMDU3NTMxOCwxNjYzNjM3NDEyLDU5NjcxMjU4MCwxNDIxMj
+I4NTQzLC0xMjgyNTQxNzA2LC0yMDE2NjM2MjY1LC02MjM3NDAy
+MDMsLTE5OTQ5MDM4NjcsNjQxNDU5MTYwLDEwNDkyMTYyODAsLT
+gzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2LDE4MTgxMjAw
+MjNdfQ==
 -->
