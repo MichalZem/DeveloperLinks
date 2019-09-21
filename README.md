@@ -164,6 +164,10 @@ https://github.com/antonio-leonardo/FuzzyLogicApi - Fuzzy Logic C#
 
 https://github.com/jamesmh/coravel - Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting 
 
+
+## WebAPI
+https://github.com/proudmonkey/AutoWrapper - AutoWrapper
+
 ## Moq + Fake
 https://github.com/moq/moq4 
 
