@@ -111,6 +111,7 @@ Last update: 1.9.2019
 - Nircmd - http://www.nirsoft.net/utils/nircmd.html 
 - CURL - https://curl.haxx.se/windows/ 
 - WGET - https://eternallybored.org/misc/wget/  + gui http://winwget.sourceforge.net/ 
+- Ngrok - Localní TCP port forwarduje na internet - https://ngrok.com/download
 
 ### Others
 - Windows Performance recorder - https://answers.microsoft.com/en-us/windows/forum/windows_10-update/windows-performance-recorder/a1648e8c-50c7-4243-9f1d-4216385c7ff3?auth=1
@@ -233,11 +234,11 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYwMTg0NTIsMTAyNTU4Njc3NywxMj
-M2Mjc1NzAxLDE3MTg3NzI1MzksNTgzNTUzMjAwLDMwODg1MTUy
-NCw5MjEwNzI1MTYsMTE5NDMwNzM2NywtMjIwNTc1MzE4LDE2Nj
-M2Mzc0MTIsNTk2NzEyNTgwLDE0MjEyMjg1NDMsLTEyODI1NDE3
-MDYsLTIwMTY2MzYyNjUsLTYyMzc0MDIwMywtMTk5NDkwMzg2Ny
-w2NDE0NTkxNjAsMTA0OTIxNjI4MCwtODMxNzA0NDA5LDE3MzA3
-NDM2MDNdfQ==
+eyJoaXN0b3J5IjpbLTEyMjIwMDcyMDMsLTIwNTYwMTg0NTIsMT
+AyNTU4Njc3NywxMjM2Mjc1NzAxLDE3MTg3NzI1MzksNTgzNTUz
+MjAwLDMwODg1MTUyNCw5MjEwNzI1MTYsMTE5NDMwNzM2NywtMj
+IwNTc1MzE4LDE2NjM2Mzc0MTIsNTk2NzEyNTgwLDE0MjEyMjg1
+NDMsLTEyODI1NDE3MDYsLTIwMTY2MzYyNjUsLTYyMzc0MDIwMy
+wtMTk5NDkwMzg2Nyw2NDE0NTkxNjAsMTA0OTIxNjI4MCwtODMx
+NzA0NDA5XX0=
 -->
