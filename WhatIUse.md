@@ -118,6 +118,7 @@ Last update: 1.9.2019
 
 ### Visual Studio Extensions
 - IntelliCode Microsoft
+- Bundeler & Minifier - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BundlerMinifier
 - GitFlow for Visual Studio 2019 - https://marketplace.visualstudio.com/items?itemName=vs-publisher-57624.GitFlowforVisualStudio2019
 - Codist A productivity enhancer for C# - https://marketplace.visualstudio.com/items?itemName=wmj.Codist 
 - Web Compiler - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebCompiler (compile LESS, Scss, Stylus, JSX,..)
@@ -229,11 +230,11 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjI3NTcwMSwxNzE4NzcyNTM5LDU4Mz
-U1MzIwMCwzMDg4NTE1MjQsOTIxMDcyNTE2LDExOTQzMDczNjcs
-LTIyMDU3NTMxOCwxNjYzNjM3NDEyLDU5NjcxMjU4MCwxNDIxMj
-I4NTQzLC0xMjgyNTQxNzA2LC0yMDE2NjM2MjY1LC02MjM3NDAy
-MDMsLTE5OTQ5MDM4NjcsNjQxNDU5MTYwLDEwNDkyMTYyODAsLT
-gzMTcwNDQwOSwxNzMwNzQzNjAzLDkxNjA1ODk2LDE4MTgxMjAw
-MjNdfQ==
+eyJoaXN0b3J5IjpbMTAyNTU4Njc3NywxMjM2Mjc1NzAxLDE3MT
+g3NzI1MzksNTgzNTUzMjAwLDMwODg1MTUyNCw5MjEwNzI1MTYs
+MTE5NDMwNzM2NywtMjIwNTc1MzE4LDE2NjM2Mzc0MTIsNTk2Nz
+EyNTgwLDE0MjEyMjg1NDMsLTEyODI1NDE3MDYsLTIwMTY2MzYy
+NjUsLTYyMzc0MDIwMywtMTk5NDkwMzg2Nyw2NDE0NTkxNjAsMT
+A0OTIxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4
+OTZdfQ==
 -->
