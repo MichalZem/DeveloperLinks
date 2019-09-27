@@ -46,6 +46,9 @@ Last update: 1.9.2019
 	 
 		https://www.alza.cz/sport/lifefit-anti-burst-zeleny)
 
+- Speciální pomůcka
+	- https://www.moldex-europe.com/cz/vyrobky/zatkove-chranice-sluchu/
+
 
 
 ### Základní Software
@@ -230,11 +233,11 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTU4Njc3NywxMjM2Mjc1NzAxLDE3MT
-g3NzI1MzksNTgzNTUzMjAwLDMwODg1MTUyNCw5MjEwNzI1MTYs
-MTE5NDMwNzM2NywtMjIwNTc1MzE4LDE2NjM2Mzc0MTIsNTk2Nz
-EyNTgwLDE0MjEyMjg1NDMsLTEyODI1NDE3MDYsLTIwMTY2MzYy
-NjUsLTYyMzc0MDIwMywtMTk5NDkwMzg2Nyw2NDE0NTkxNjAsMT
-A0OTIxNjI4MCwtODMxNzA0NDA5LDE3MzA3NDM2MDMsOTE2MDU4
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNTYwMTg0NTIsMTAyNTU4Njc3NywxMj
+M2Mjc1NzAxLDE3MTg3NzI1MzksNTgzNTUzMjAwLDMwODg1MTUy
+NCw5MjEwNzI1MTYsMTE5NDMwNzM2NywtMjIwNTc1MzE4LDE2Nj
+M2Mzc0MTIsNTk2NzEyNTgwLDE0MjEyMjg1NDMsLTEyODI1NDE3
+MDYsLTIwMTY2MzYyNjUsLTYyMzc0MDIwMywtMTk5NDkwMzg2Ny
+w2NDE0NTkxNjAsMTA0OTIxNjI4MCwtODMxNzA0NDA5LDE3MzA3
+NDM2MDNdfQ==
 -->
