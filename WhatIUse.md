@@ -141,6 +141,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Find in Solution Explorer - https://marketplace.visualstudio.com/items?itemName=SamHarwell.FindinSolutionExplorer
 - Local History - https://github.com/LostAlloy/LocalHistory-for-Visual-Studio/releases/  + https://github.com/curzona/local-history-visual-studio  
 - VSHistory jako LocalHisotry ale jede i pod 2019 - Visual Studio File Histories - https://marketplace.visualstudio.com/items?itemName=KenCross.VSHistory 
+- PackageInstaller (Npm,Bower, JSPM, TSD, Typings and NuGet) - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PackageInstaller
 - jQuery Code Snippets
 - Roslyn Security Guard
 - SemanticColorizer(Andreas Reischuck)  + Případně CoCo
@@ -234,11 +235,11 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjIwMDcyMDMsLTIwNTYwMTg0NTIsMT
-AyNTU4Njc3NywxMjM2Mjc1NzAxLDE3MTg3NzI1MzksNTgzNTUz
-MjAwLDMwODg1MTUyNCw5MjEwNzI1MTYsMTE5NDMwNzM2NywtMj
-IwNTc1MzE4LDE2NjM2Mzc0MTIsNTk2NzEyNTgwLDE0MjEyMjg1
-NDMsLTEyODI1NDE3MDYsLTIwMTY2MzYyNjUsLTYyMzc0MDIwMy
-wtMTk5NDkwMzg2Nyw2NDE0NTkxNjAsMTA0OTIxNjI4MCwtODMx
-NzA0NDA5XX0=
+eyJoaXN0b3J5IjpbLTcyMDcxMjI2LC0xMjIyMDA3MjAzLC0yMD
+U2MDE4NDUyLDEwMjU1ODY3NzcsMTIzNjI3NTcwMSwxNzE4Nzcy
+NTM5LDU4MzU1MzIwMCwzMDg4NTE1MjQsOTIxMDcyNTE2LDExOT
+QzMDczNjcsLTIyMDU3NTMxOCwxNjYzNjM3NDEyLDU5NjcxMjU4
+MCwxNDIxMjI4NTQzLC0xMjgyNTQxNzA2LC0yMDE2NjM2MjY1LC
+02MjM3NDAyMDMsLTE5OTQ5MDM4NjcsNjQxNDU5MTYwLDEwNDky
+MTYyODBdfQ==
 -->
