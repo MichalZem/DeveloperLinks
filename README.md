@@ -255,6 +255,8 @@ https://github.com/kahanu/System.Linq.Dynamic - Dynamic LINQ  (např OrderBy ->O
 ## Testování
 http://objectfiller.net/ - vyplnovač nahodných dat
 
+https://jasperfx.github.io/alba/getting_started/ WEB API integrační Testy
+
 
 
 ## Bootstrap
