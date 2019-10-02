@@ -69,16 +69,18 @@ https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc – vid
 ### Seznam Enterprise Patternů - Patterns of Enterprise Application Architecture
 https://martinfowler.com/eaaCatalog/
 
-##Immutable Object Pattern -OK – object jehož vlastnosti nelze dodatečně po vytvoření měnit, jen při prvním vytvoření je lze nastavit
+## Immutable Object Pattern -OK
+object jehož vlastnosti nelze dodatečně po vytvoření měnit, jen při prvním vytvoření je lze nastavit
 https://dotnetcodr.com/2016/02/11/how-to-create-immutable-objects-in-c-6/ 
 
-Proxy 
+## Proxy 
 https://www.youtube.com/watch?v=T9n_Td4M-hM  - Proxy česky
 
-Dynamic proxy
+## Dynamic proxy
 https://stackoverflow.com/questions/8387004/how-to-make-a-simple-dynamic-proxy-in-c-sharp 
 
-Decorator -OK - Add responsibilities to objects dynamically, The Decorator design pattern seeks to add new functionality to an existing object without changing that object's definition.
+## Decorator -OK
+Add responsibilities to objects dynamically, The Decorator design pattern seeks to add new functionality to an existing object without changing that object's definition.
 https://www.dofactory.com/net/decorator-design-pattern
 https://www.c-sharpcorner.com/UploadFile/damubetha/decorator-pattern-in-csharp/ 
 https://code-maze.com/decorator-design-pattern/
@@ -87,7 +89,7 @@ https://www.youtube.com/watch?time_continue=2&v=2Q36vqdaRr8
 https://youtu.be/T9n_Td4M-hM?t=1319 - Decorator česky??
 
 
-CQRS
+## CQRS
 https://app.pluralsight.com/library/courses/cqrs-in-practice/table-of-contents  - PluralSight Kurz - !!Super
 https://www.youtube.com/watch?v=zSEF7_Crx5A – MediatR ! Super
 
@@ -95,20 +97,19 @@ https://www.future-processing.pl/blog/cqrs-simple-architecture/
 https://martinfowler.com/bliki/CQRS.html 
 https://www.c-sharpcorner.com/article/cqrs-pattern-command-and-query-responsibility-segregation/ 
 
-Provaider Pattern
+## Provaider Pattern
 https://www.codeproject.com/Articles/550495/Provider-Pattern-for-Beginners 
 
-Composite - Dokončit
+## Composite - Dokončit
 https://www.dofactory.com/net/composite-design-pattern 
-https://blogs.endjin.com/2019/07/design-patterns-in-c-the-composite-pattern/ 
-https://code-maze.com/composite/ 
-https://refactoring.guru/design-patterns/composite/csharp/example 
--
+https://blogs.endjin.com/2019/07/design-patterns-in-c-the-composite-pattern/
+https://code-maze.com/composite/
+https://refactoring.guru/design-patterns/composite/csharp/example
 https://www.codeproject.com/Articles/28309/Design-pattern-FAQ-Part-Training  
 
-Factory – dokončit
+## Factory – dokončit
 
-Interpreter – dokončit
+## Interpreter – dokončit
 https://en.wikipedia.org/wiki/Interpreter_pattern#C#
 https://www.dofactory.com/net/interpreter-design-pattern
 https://www.codemag.com/Article/1607081/How-to-Write-Your-Own-Programming-Language-in-C
@@ -119,11 +120,11 @@ https://dotnetcodr.com/2013/06/03/design-patterns-and-practices-in-net-the-inter
 https://www.c-sharpcorner.com/UploadFile/40e97e/interpreter-pattern-in-net/
 https://www.codeproject.com/Articles/186183/Interpreter-Design-Pattern
 
-Architectural Pattern 
+## Architectural Pattern 
 https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013  - (Layered pattern, Client-server pattern,  Master-slave pattern, Pipe-filter pattern, Broker pattern, Peer-to-peer pattern, Event-bus pattern, Model-view-controller pattern, Blackboard pattern, Interpreter pattern)
 
 
-Abstract factory  - dokončit
+## Abstract factory  - dokončit
 https://dotnettutorials.net/lesson/abstract-factory-design-pattern-csharp/ 
 https://www.dofactory.com/net/abstract-factory-design-pattern 
 https://exceptionnotfound.net/the-daily-design-pattern-abstract-factory/ 
@@ -233,5 +234,5 @@ http://www.stefanoricciardi.com/2010/04/14/a-fluent-builder-in-c/
 
 https://github.com/ChrisEdwards/Fluency
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDUxNDg3MV19
+eyJoaXN0b3J5IjpbLTEyOTUxNTUwMzRdfQ==
 -->
