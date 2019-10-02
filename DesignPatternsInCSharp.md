@@ -1,5 +1,5 @@
 
-# Design Patterns in C#
+# Design Patterns, Clean code, Testing,... in C#
 
 ## Souhrné kurzy, Videa, Kurzy
 https://app.pluralsight.com/library/courses/patterns-library/table-of-contents - 👍👍👍👍👍 Kurz - dobře pochopitelný  - PluralSight 32 vzorů
@@ -132,7 +132,7 @@ https://bonsai-development.cz/clanek/abstraktni-tovarna
 http://www.blackwasp.co.uk/AbstractFactory.aspx
 https://www.youtube.com/watch?v=v-GiuMmsXj4
 
-Adapter – OK
+## Adapter – OK
 https://app.pluralsight.com/player?course=patterns-library&author=steve-smith&name=patterns-adapter&clip=0&mode=live 
 https://www.youtube.com/watch?v=nn5KGOkBIyo 
 https://www.dofactory.com/net/adapter-design-pattern 
@@ -140,7 +140,8 @@ https://www.dotnettricks.com/learn/designpatterns/adapter-design-pattern-dotnet
 https://kudchikarsk.com/adapter-design-pattern-in-csharp/ 
 https://code-maze.com/adapter/ 
 
-Bridge OK, ale do detailu možná nechápu (prý je to nejsložitější vzor)
+## Bridge OK
+ale do detailu možná nechápu (prý je to nejsložitější vzor)
 https://www.itnetwork.cz/navrh/navrhove-vzory/gof/gof-vzory-struktury/bridge 
 https://app.pluralsight.com/player?course=patterns-library&author=john-sonmez&name=design-patterns-bridge&clip=0&mode=live
 https://www.youtube.com/watch?v=F1YQ7YRjttI&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=12&t=0s 
@@ -155,9 +156,7 @@ https://www.youtube.com/watch?v=AvszFRYvvt0
 https://www.youtube.com/watch?v=eubM6uxnoUo
 https://www.youtube.com/watch?v=bxOY0uBvz38 
 
-
-
-Broker
+## Broker
 https://www.youtube.com/watch?v=L6tLGQiKZNE  + druhá složitejší část https://www.youtube.com/watch?v=FS6NkMcXjg4&t=1s – zatím jsem nepochopil do podrobna
 
 https://www.codeproject.com/Tips/1169118/Message-Broker-Pattern-using-Csharp - MessageBroker
@@ -170,61 +169,58 @@ https://www.youtube.com/watch?v=ioelSqGrVfQ
 https://www.youtube.com/watch?v=6IbyQV98H8w    - Builder - česky
 
 
-Facade, Fasade
+## Facade, Fasade
 https://youtu.be/nn5KGOkBIyo?t=764 
 
 
-Servant - OK
+## Servant - OK
 https://en.wikipedia.org/wiki/Servant_(design_pattern)
 http://programujte.com/clanek/2012060900-serial-navrhovych-vzoru-2-dil-static-factory-method-servant/
 
 
-Singleton - OK
+## Singleton - OK
 https://www.dofactory.com/net/singleton-design-pattern
 
 
-Simple Factory Pattern- OK – jednoduché vytvoření nebo vrácení existujícího jiného objektu
+## Simple Factory Pattern- OK
+jednoduché vytvoření nebo vrácení existujícího jiného objektu
 https://garywoodfine.com/simple-factory-pattern/ 
 https://www.youtube.com/watch?v=4upzqjFVLA4 
 
 
-Specification - dokončit
+## Specification - dokončit
 https://fabiomarreco.github.io/blog/2017/a-generic-specification-pattern-in-c/ 
 https://enterprisecraftsmanship.com/2016/02/08/specification-pattern-c-implementation/
 https://app.pluralsight.com/library/courses/csharp-specification-pattern/table-of-contents  - kurz pluralsight
 
 
-Strategy - dokončit
+## Strategy - dokončit
 https://www.youtube.com/watch?v=GoEOQMT9Enk - Návrhový vzor strategy
 
 
-
-
-
-Template method - Dokončit
+## Template method - Dokončit
 https://www.dofactory.com/net/template-method-design-pattern 
 https://exceptionnotfound.net/the-daily-design-pattern-template-method/ 
 https://youtu.be/6IbyQV98H8w?t=910 – Template Method česky
 
 
-Pipeline pattern, Pipes and Filters design pattern – JUK, Dokončit
+## Pipeline pattern, Pipes and Filters design pattern – JUK, Dokončit
 https://michaelscodingspot.com/pipeline-pattern-implementations-csharp/
 
 
-
-Anemic Data Model, Rich Data Model
+## Anemic Data Model, Rich Data Model
 https://softwareengineering.stackexchange.com/questions/213577/rich-domain-models-how-exactly-does-behavior-fit-in 
 https://www.codeproject.com/Articles/1056964/Anemic-data-models-ADM-VS-Rich-Data-Models-RDM-in
 https://blog.inf.ed.ac.uk/sapm/2014/02/04/the-anaemic-domain-model-is-no-anti-pattern-its-a-solid-design/ 
 https://martinfowler.com/bliki/AnemicDomainModel.html 
 
 
-ValueObject
+## ValueObject
 https://docs.microsoft.com/cs-cz/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects 
 
 
 
-Full Modular Monolith application with Domain-Driven Design approach. DDD
+## Full Modular Monolith application with Domain-Driven Design approach. DDD
 https://github.com/kgrzybek/modular-monolith-with-ddd  -  juk
 
 
@@ -234,5 +230,5 @@ http://www.stefanoricciardi.com/2010/04/14/a-fluent-builder-in-c/
 
 https://github.com/ChrisEdwards/Fluency
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTUxNTUwMzRdfQ==
+eyJoaXN0b3J5IjpbMTcyMzQ1MzY1M119
 -->
