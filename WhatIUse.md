@@ -184,7 +184,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Appache JMeter - https://jmeter.apache.org/TestWebu, Web Loadtest,Web StressTest,
 	--https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi - doplněk který umí generovat scénáře pro JMeter (nutná registrace a přihlášení na https://www.blazemeter.com/ )
 - Web LoadTest - Artillery Community Edition - [https://artillery.io/](https://artillery.io/)
-- Web Application Load Testing made easy - West Wind WebSurge[https://websurge.west-wind.com/](https://websurge.west-wind.com/)
+- Web Application Load Testing made easy - West Wind WebSurge [https://websurge.west-wind.com/](https://websurge.west-wind.com/)
 - Appache AB - Apache HTTP server benchmarking tool - https://www.apachehaus.com/cgi-bin/download.plx (stáhnout zip a vyndat BIN/AB.EXE + ABS.EXE(pro HTTSP + libeay32.dll, ssleay32.dll )) -  - documentation: https://httpd.apache.org/docs/2.4/programs/ab.html 
 - Appache AB GUI - https://github.com/gaurangsinha/ab-viz 
 - GitKraken - Git Client -  https://www.gitkraken.com/git-client  
@@ -236,11 +236,11 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1MTg1OTcxLC03MjA3MTIyNiwtMTIyMj
-AwNzIwMywtMjA1NjAxODQ1MiwxMDI1NTg2Nzc3LDEyMzYyNzU3
-MDEsMTcxODc3MjUzOSw1ODM1NTMyMDAsMzA4ODUxNTI0LDkyMT
-A3MjUxNiwxMTk0MzA3MzY3LC0yMjA1NzUzMTgsMTY2MzYzNzQx
-Miw1OTY3MTI1ODAsMTQyMTIyODU0MywtMTI4MjU0MTcwNiwtMj
-AxNjYzNjI2NSwtNjIzNzQwMjAzLC0xOTk0OTAzODY3LDY0MTQ1
-OTE2MF19
+eyJoaXN0b3J5IjpbLTE4NDgzNzUwNzUsLTcyMDcxMjI2LC0xMj
+IyMDA3MjAzLC0yMDU2MDE4NDUyLDEwMjU1ODY3NzcsMTIzNjI3
+NTcwMSwxNzE4NzcyNTM5LDU4MzU1MzIwMCwzMDg4NTE1MjQsOT
+IxMDcyNTE2LDExOTQzMDczNjcsLTIyMDU3NTMxOCwxNjYzNjM3
+NDEyLDU5NjcxMjU4MCwxNDIxMjI4NTQzLC0xMjgyNTQxNzA2LC
+0yMDE2NjM2MjY1LC02MjM3NDAyMDMsLTE5OTQ5MDM4NjcsNjQx
+NDU5MTYwXX0=
 -->
