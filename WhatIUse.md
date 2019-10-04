@@ -164,6 +164,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Macro Editor - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MacrosforVisualStudio 
 - GhostDoc – dokumentace codu- https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc nebo https://submain.com/products/ghostdoc.aspx 
 - AutoRunCustomTool - Automatically runs the custom tool on another file when a file is modified.  https://marketplace.visualstudio.com/items?itemName=ThomasLevesque.AutoRunCustomTool 
+- Move Type To File - 2017/19 - https://marketplace.visualstudio.com/items?itemName=OlegShilo.MoveTypeToFile
 
 ### Other Developer Tools
 - Diagramy - https://www.eclipse.org/sirius/download.html
@@ -236,11 +237,11 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDgzNzUwNzUsLTcyMDcxMjI2LC0xMj
-IyMDA3MjAzLC0yMDU2MDE4NDUyLDEwMjU1ODY3NzcsMTIzNjI3
-NTcwMSwxNzE4NzcyNTM5LDU4MzU1MzIwMCwzMDg4NTE1MjQsOT
-IxMDcyNTE2LDExOTQzMDczNjcsLTIyMDU3NTMxOCwxNjYzNjM3
-NDEyLDU5NjcxMjU4MCwxNDIxMjI4NTQzLC0xMjgyNTQxNzA2LC
-0yMDE2NjM2MjY1LC02MjM3NDAyMDMsLTE5OTQ5MDM4NjcsNjQx
-NDU5MTYwXX0=
+eyJoaXN0b3J5IjpbNzg4NzU5NzkxLC0xODQ4Mzc1MDc1LC03Mj
+A3MTIyNiwtMTIyMjAwNzIwMywtMjA1NjAxODQ1MiwxMDI1NTg2
+Nzc3LDEyMzYyNzU3MDEsMTcxODc3MjUzOSw1ODM1NTMyMDAsMz
+A4ODUxNTI0LDkyMTA3MjUxNiwxMTk0MzA3MzY3LC0yMjA1NzUz
+MTgsMTY2MzYzNzQxMiw1OTY3MTI1ODAsMTQyMTIyODU0MywtMT
+I4MjU0MTcwNiwtMjAxNjYzNjI2NSwtNjIzNzQwMjAzLC0xOTk0
+OTAzODY3XX0=
 -->
