@@ -1,8 +1,7 @@
 # What I Use - Co používám za SW, HW, nástroje
 
-Last update: 1.9.2019 -+
+Last update: 1.9.2019 - v1.0
 
-! Doplnit chocolatey script
 
 ### Hardware
 - PC (Hlavní vývojářské) - koupen (27.1.2018)
@@ -248,16 +247,16 @@ https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt
 **Scott Hanselmans**
 https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx 
 
-
-
+ # TODO
+- Doplnit chocolatey script
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDMzMzAwNSw3ODg3NTk3OTEsLTE4ND
-gzNzUwNzUsLTcyMDcxMjI2LC0xMjIyMDA3MjAzLC0yMDU2MDE4
-NDUyLDEwMjU1ODY3NzcsMTIzNjI3NTcwMSwxNzE4NzcyNTM5LD
-U4MzU1MzIwMCwzMDg4NTE1MjQsOTIxMDcyNTE2LDExOTQzMDcz
-NjcsLTIyMDU3NTMxOCwxNjYzNjM3NDEyLDU5NjcxMjU4MCwxND
-IxMjI4NTQzLC0xMjgyNTQxNzA2LC0yMDE2NjM2MjY1LC02MjM3
-NDAyMDNdfQ==
+eyJoaXN0b3J5IjpbMzM1MDE4ODk2LDc4ODc1OTc5MSwtMTg0OD
+M3NTA3NSwtNzIwNzEyMjYsLTEyMjIwMDcyMDMsLTIwNTYwMTg0
+NTIsMTAyNTU4Njc3NywxMjM2Mjc1NzAxLDE3MTg3NzI1MzksNT
+gzNTUzMjAwLDMwODg1MTUyNCw5MjEwNzI1MTYsMTE5NDMwNzM2
+NywtMjIwNTc1MzE4LDE2NjM2Mzc0MTIsNTk2NzEyNTgwLDE0Mj
+EyMjg1NDMsLTEyODI1NDE3MDYsLTIwMTY2MzYyNjUsLTYyMzc0
+MDIwM119
 -->
