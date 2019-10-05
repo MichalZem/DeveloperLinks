@@ -1,6 +1,6 @@
 # What I Use - Co používám za SW, HW, nástroje
 
-Last update: 1.9.2019
+Last update: 1.9.2019 -+
 
 ! Doplnit chocolatey script
 
@@ -253,11 +253,11 @@ https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg0ODUwMDcsNzg4NzU5NzkxLC0xOD
-Q4Mzc1MDc1LC03MjA3MTIyNiwtMTIyMjAwNzIwMywtMjA1NjAx
-ODQ1MiwxMDI1NTg2Nzc3LDEyMzYyNzU3MDEsMTcxODc3MjUzOS
-w1ODM1NTMyMDAsMzA4ODUxNTI0LDkyMTA3MjUxNiwxMTk0MzA3
-MzY3LC0yMjA1NzUzMTgsMTY2MzYzNzQxMiw1OTY3MTI1ODAsMT
-QyMTIyODU0MywtMTI4MjU0MTcwNiwtMjAxNjYzNjI2NSwtNjIz
-NzQwMjAzXX0=
+eyJoaXN0b3J5IjpbLTQxMDMzMzAwNSw3ODg3NTk3OTEsLTE4ND
+gzNzUwNzUsLTcyMDcxMjI2LC0xMjIyMDA3MjAzLC0yMDU2MDE4
+NDUyLDEwMjU1ODY3NzcsMTIzNjI3NTcwMSwxNzE4NzcyNTM5LD
+U4MzU1MzIwMCwzMDg4NTE1MjQsOTIxMDcyNTE2LDExOTQzMDcz
+NjcsLTIyMDU3NTMxOCwxNjYzNjM3NDEyLDU5NjcxMjU4MCwxND
+IxMjI4NTQzLC0xMjgyNTQxNzA2LC0yMDE2NjM2MjY1LC02MjM3
+NDAyMDNdfQ==
 -->
