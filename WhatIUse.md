@@ -232,16 +232,22 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Komponenty od GrapeCity - https://www.grapecity.com
 
 ### Podobné seznamy jiných vývojářů
-- https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx 
+
+Miroslav Holec - https://www.miroslavholec.cz/blog/software-a-nastroje-pro-vyvoj-ktere-pouzivam-update-2018
+Robert Haken - https://knowledge-base.havit.cz/2015/08/05/vyvojarske-nastroje-a-software-ktery-pouzivam-robert-haken-082015/
+Michal Valášek - https://ask.fm/ridercz/answers/133633032452 + https://ask.fm/ridercz/answers/140575880964
+Scott Hanselmans - https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx 
 - https://knowledge-base.havit.cz/2015/08/05/vyvojarske-nastroje-a-software-ktery-pouzivam-robert-haken-082015/ 
 - https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4NzU5NzkxLC0xODQ4Mzc1MDc1LC03Mj
-A3MTIyNiwtMTIyMjAwNzIwMywtMjA1NjAxODQ1MiwxMDI1NTg2
-Nzc3LDEyMzYyNzU3MDEsMTcxODc3MjUzOSw1ODM1NTMyMDAsMz
-A4ODUxNTI0LDkyMTA3MjUxNiwxMTk0MzA3MzY3LC0yMjA1NzUz
-MTgsMTY2MzYzNzQxMiw1OTY3MTI1ODAsMTQyMTIyODU0MywtMT
-I4MjU0MTcwNiwtMjAxNjYzNjI2NSwtNjIzNzQwMjAzLC0xOTk0
-OTAzODY3XX0=
+eyJoaXN0b3J5IjpbLTY0MjEzNzI1NSw3ODg3NTk3OTEsLTE4ND
+gzNzUwNzUsLTcyMDcxMjI2LC0xMjIyMDA3MjAzLC0yMDU2MDE4
+NDUyLDEwMjU1ODY3NzcsMTIzNjI3NTcwMSwxNzE4NzcyNTM5LD
+U4MzU1MzIwMCwzMDg4NTE1MjQsOTIxMDcyNTE2LDExOTQzMDcz
+NjcsLTIyMDU3NTMxOCwxNjYzNjM3NDEyLDU5NjcxMjU4MCwxND
+IxMjI4NTQzLC0xMjgyNTQxNzA2LC0yMDE2NjM2MjY1LC02MjM3
+NDAyMDNdfQ==
 -->
