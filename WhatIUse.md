@@ -164,7 +164,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - GhostDoc – dokumentace codu- https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc nebo https://submain.com/products/ghostdoc.aspx 
 - AutoRunCustomTool - Automatically runs the custom tool on another file when a file is modified.  https://marketplace.visualstudio.com/items?itemName=ThomasLevesque.AutoRunCustomTool 
 - Move Type To File - 2017/19 - https://marketplace.visualstudio.com/items?itemName=OlegShilo.MoveTypeToFile
-- [https://marketplace.visualstudio.com/items?itemName=KarlShifflettkdawg.MoleforVisualStudio2019](https://marketplace.visualstudio.com/items?itemName=KarlShifflettkdawg.MoleforVisualStudio2019)
+- MOLE - lepší debug visualiser -https://marketplace.visualstudio.com/items?itemName=KarlShifflettkdawg.MoleforVisualStudio2019
 
 ### Other Developer Tools
 - Diagramy - https://www.eclipse.org/sirius/download.html
@@ -253,11 +253,11 @@ https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc2OTI1OTQsMzM1MDE4ODk2LDc4OD
-c1OTc5MSwtMTg0ODM3NTA3NSwtNzIwNzEyMjYsLTEyMjIwMDcy
-MDMsLTIwNTYwMTg0NTIsMTAyNTU4Njc3NywxMjM2Mjc1NzAxLD
-E3MTg3NzI1MzksNTgzNTUzMjAwLDMwODg1MTUyNCw5MjEwNzI1
-MTYsMTE5NDMwNzM2NywtMjIwNTc1MzE4LDE2NjM2Mzc0MTIsNT
-k2NzEyNTgwLDE0MjEyMjg1NDMsLTEyODI1NDE3MDYsLTIwMTY2
-MzYyNjVdfQ==
+eyJoaXN0b3J5IjpbMjE4NzU1MzU2LDMzNTAxODg5Niw3ODg3NT
+k3OTEsLTE4NDgzNzUwNzUsLTcyMDcxMjI2LC0xMjIyMDA3MjAz
+LC0yMDU2MDE4NDUyLDEwMjU1ODY3NzcsMTIzNjI3NTcwMSwxNz
+E4NzcyNTM5LDU4MzU1MzIwMCwzMDg4NTE1MjQsOTIxMDcyNTE2
+LDExOTQzMDczNjcsLTIyMDU3NTMxOCwxNjYzNjM3NDEyLDU5Nj
+cxMjU4MCwxNDIxMjI4NTQzLC0xMjgyNTQxNzA2LC0yMDE2NjM2
+MjY1XX0=
 -->
