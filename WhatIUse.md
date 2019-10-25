@@ -116,7 +116,7 @@ Last update: 1.9.2019 - v1.0
 - Windows Performance recorder - https://answers.microsoft.com/en-us/windows/forum/windows_10-update/windows-performance-recorder/a1648e8c-50c7-4243-9f1d-4216385c7ff3?auth=1
 
 ### Hlavní - Developer Tools
-- Visual Studio Latest Version (Proffesional + Enterprise edition)
+- Visual Studio Latest Version + Preview Latest Version (Proffesional + Enterprise edition)
 - Visual Studio Code Latest Version
 
 ### Visual Studio Extensions
@@ -166,7 +166,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Move Type To File - 2017/19 - https://marketplace.visualstudio.com/items?itemName=OlegShilo.MoveTypeToFile
 - MOLE - lepší debug visualiser -https://marketplace.visualstudio.com/items?itemName=KarlShifflettkdawg.MoleforVisualStudio2019
 
-
+### Visual Studio Code - Extensions
+- Git Graph-  https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
 
 ### Other Developer Tools
 - Diagramy - https://www.eclipse.org/sirius/download.html
@@ -258,11 +259,11 @@ https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDcxNTg1MDYsNTE0MTU2NjAyLDIxOD
-c1NTM1NiwzMzUwMTg4OTYsNzg4NzU5NzkxLC0xODQ4Mzc1MDc1
-LC03MjA3MTIyNiwtMTIyMjAwNzIwMywtMjA1NjAxODQ1MiwxMD
-I1NTg2Nzc3LDEyMzYyNzU3MDEsMTcxODc3MjUzOSw1ODM1NTMy
-MDAsMzA4ODUxNTI0LDkyMTA3MjUxNiwxMTk0MzA3MzY3LC0yMj
-A1NzUzMTgsMTY2MzYzNzQxMiw1OTY3MTI1ODAsMTQyMTIyODU0
-M119
+eyJoaXN0b3J5IjpbLTUxNjQ3NjkwMSw1MTQxNTY2MDIsMjE4Nz
+U1MzU2LDMzNTAxODg5Niw3ODg3NTk3OTEsLTE4NDgzNzUwNzUs
+LTcyMDcxMjI2LC0xMjIyMDA3MjAzLC0yMDU2MDE4NDUyLDEwMj
+U1ODY3NzcsMTIzNjI3NTcwMSwxNzE4NzcyNTM5LDU4MzU1MzIw
+MCwzMDg4NTE1MjQsOTIxMDcyNTE2LDExOTQzMDczNjcsLTIyMD
+U3NTMxOCwxNjYzNjM3NDEyLDU5NjcxMjU4MCwxNDIxMjI4NTQz
+XX0=
 -->
