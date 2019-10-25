@@ -190,7 +190,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Appache AB GUI - https://github.com/gaurangsinha/ab-viz 
 - GIT GUI - super pro Vizualizaci Branch - https://gmaster.io/
 - UNGIT (běží pod NodeJs) - https://github.com/FredrikNoren/ungit
-- SourceTree Git GUI - https://www.sourcetreeapp.com/
+- SourceTree Git GUI - Pro Bitbucket - https://www.sourcetreeapp.com/
 - GitKraken - Git Client -  https://www.gitkraken.com/git-client  
 - TortoiseGit - Git Client - https://tortoisegit.org/ - Windows Shell Git Client
 		- Nastavení Git Clienta UTF v CommandLine -  set LANG=en_GB.UTF-8 + set LC_ALL=en_GB.UTF-8
@@ -256,7 +256,7 @@ https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3Njg4MDczLDIxODc1NTM1NiwzMzUwMT
+eyJoaXN0b3J5IjpbNTE0MTU2NjAyLDIxODc1NTM1NiwzMzUwMT
 g4OTYsNzg4NzU5NzkxLC0xODQ4Mzc1MDc1LC03MjA3MTIyNiwt
 MTIyMjAwNzIwMywtMjA1NjAxODQ1MiwxMDI1NTg2Nzc3LDEyMz
 YyNzU3MDEsMTcxODc3MjUzOSw1ODM1NTMyMDAsMzA4ODUxNTI0
