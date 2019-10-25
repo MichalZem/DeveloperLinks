@@ -166,6 +166,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Move Type To File - 2017/19 - https://marketplace.visualstudio.com/items?itemName=OlegShilo.MoveTypeToFile
 - MOLE - lepší debug visualiser -https://marketplace.visualstudio.com/items?itemName=KarlShifflettkdawg.MoleforVisualStudio2019
 
+
+
 ### Other Developer Tools
 - Diagramy - https://www.eclipse.org/sirius/download.html
 - Stackify Profiler - https://stackify.com/prefix-download/  - enable custom  (https://support.stackify.com/custom-profiling-configure-for-net/) - choco install Prefix
@@ -256,11 +258,11 @@ https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0MTU2NjAyLDIxODc1NTM1NiwzMzUwMT
-g4OTYsNzg4NzU5NzkxLC0xODQ4Mzc1MDc1LC03MjA3MTIyNiwt
-MTIyMjAwNzIwMywtMjA1NjAxODQ1MiwxMDI1NTg2Nzc3LDEyMz
-YyNzU3MDEsMTcxODc3MjUzOSw1ODM1NTMyMDAsMzA4ODUxNTI0
-LDkyMTA3MjUxNiwxMTk0MzA3MzY3LC0yMjA1NzUzMTgsMTY2Mz
-YzNzQxMiw1OTY3MTI1ODAsMTQyMTIyODU0MywtMTI4MjU0MTcw
-Nl19
+eyJoaXN0b3J5IjpbLTE3NDcxNTg1MDYsNTE0MTU2NjAyLDIxOD
+c1NTM1NiwzMzUwMTg4OTYsNzg4NzU5NzkxLC0xODQ4Mzc1MDc1
+LC03MjA3MTIyNiwtMTIyMjAwNzIwMywtMjA1NjAxODQ1MiwxMD
+I1NTg2Nzc3LDEyMzYyNzU3MDEsMTcxODc3MjUzOSw1ODM1NTMy
+MDAsMzA4ODUxNTI0LDkyMTA3MjUxNiwxMTk0MzA3MzY3LC0yMj
+A1NzUzMTgsMTY2MzYzNzQxMiw1OTY3MTI1ODAsMTQyMTIyODU0
+M119
 -->
