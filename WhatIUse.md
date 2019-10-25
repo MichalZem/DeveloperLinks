@@ -189,6 +189,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Appache AB - Apache HTTP server benchmarking tool - https://www.apachehaus.com/cgi-bin/download.plx (stáhnout zip a vyndat BIN/AB.EXE + ABS.EXE(pro HTTSP + libeay32.dll, ssleay32.dll )) -  - documentation: https://httpd.apache.org/docs/2.4/programs/ab.html 
 - Appache AB GUI - https://github.com/gaurangsinha/ab-viz 
 - GIT GUI - super pro Vizualizaci Branch - https://gmaster.io/
+- 
 - GitKraken - Git Client -  https://www.gitkraken.com/git-client  
 - TortoiseGit - Git Client - https://tortoisegit.org/ - Windows Shell Git Client
 		- Nastavení Git Clienta UTF v CommandLine -  set LANG=en_GB.UTF-8 + set LC_ALL=en_GB.UTF-8
@@ -254,7 +255,7 @@ https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTM4MjI1OCwyMTg3NTUzNTYsMzM1MD
+eyJoaXN0b3J5IjpbMTQzMjU1MzQ1MywyMTg3NTUzNTYsMzM1MD
 E4ODk2LDc4ODc1OTc5MSwtMTg0ODM3NTA3NSwtNzIwNzEyMjYs
 LTEyMjIwMDcyMDMsLTIwNTYwMTg0NTIsMTAyNTU4Njc3NywxMj
 M2Mjc1NzAxLDE3MTg3NzI1MzksNTgzNTUzMjAwLDMwODg1MTUy
