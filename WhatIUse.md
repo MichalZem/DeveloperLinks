@@ -188,6 +188,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Web Application Load Testing made easy - West Wind WebSurge [https://websurge.west-wind.com/](https://websurge.west-wind.com/)
 - Appache AB - Apache HTTP server benchmarking tool - https://www.apachehaus.com/cgi-bin/download.plx (stáhnout zip a vyndat BIN/AB.EXE + ABS.EXE(pro HTTSP + libeay32.dll, ssleay32.dll )) -  - documentation: https://httpd.apache.org/docs/2.4/programs/ab.html 
 - Appache AB GUI - https://github.com/gaurangsinha/ab-viz 
+- GIT GUI - super pro Vizualizaci Branch - https://gmaster.io/
 - GitKraken - Git Client -  https://www.gitkraken.com/git-client  
 - TortoiseGit - Git Client - https://tortoisegit.org/ - Windows Shell Git Client
 		- Nastavení Git Clienta UTF v CommandLine -  set LANG=en_GB.UTF-8 + set LC_ALL=en_GB.UTF-8
@@ -253,11 +254,11 @@ https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4NzU1MzU2LDMzNTAxODg5Niw3ODg3NT
-k3OTEsLTE4NDgzNzUwNzUsLTcyMDcxMjI2LC0xMjIyMDA3MjAz
-LC0yMDU2MDE4NDUyLDEwMjU1ODY3NzcsMTIzNjI3NTcwMSwxNz
-E4NzcyNTM5LDU4MzU1MzIwMCwzMDg4NTE1MjQsOTIxMDcyNTE2
-LDExOTQzMDczNjcsLTIyMDU3NTMxOCwxNjYzNjM3NDEyLDU5Nj
-cxMjU4MCwxNDIxMjI4NTQzLC0xMjgyNTQxNzA2LC0yMDE2NjM2
-MjY1XX0=
+eyJoaXN0b3J5IjpbMTc5OTM4MjI1OCwyMTg3NTUzNTYsMzM1MD
+E4ODk2LDc4ODc1OTc5MSwtMTg0ODM3NTA3NSwtNzIwNzEyMjYs
+LTEyMjIwMDcyMDMsLTIwNTYwMTg0NTIsMTAyNTU4Njc3NywxMj
+M2Mjc1NzAxLDE3MTg3NzI1MzksNTgzNTUzMjAwLDMwODg1MTUy
+NCw5MjEwNzI1MTYsMTE5NDMwNzM2NywtMjIwNTc1MzE4LDE2Nj
+M2Mzc0MTIsNTk2NzEyNTgwLDE0MjEyMjg1NDMsLTEyODI1NDE3
+MDZdfQ==
 -->
