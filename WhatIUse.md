@@ -104,6 +104,7 @@ Last update: 1.9.2019 - v1.0
 - Audacity , sound editor - https://www.audacityteam.org/download/windows/    +  Mp3 Export https://lame.buanzo.org/#lamewindl 
 - EarTrumpet - Volume Control
 - StreamWriter - Record Audi Stream & Internet Radio  -  https://streamwriter.org/en/ 
+- FlashBack recorder - Free Screen recorder - https://www.flashbackrecorder.com/
 
 
 ### Systém Tools + Command Line Utility
@@ -261,11 +262,11 @@ https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Mzg3NzgyNSwtNzA1NzExNDMwLC01MT
-Y0NzY5MDEsNTE0MTU2NjAyLDIxODc1NTM1NiwzMzUwMTg4OTYs
-Nzg4NzU5NzkxLC0xODQ4Mzc1MDc1LC03MjA3MTIyNiwtMTIyMj
-AwNzIwMywtMjA1NjAxODQ1MiwxMDI1NTg2Nzc3LDEyMzYyNzU3
-MDEsMTcxODc3MjUzOSw1ODM1NTMyMDAsMzA4ODUxNTI0LDkyMT
-A3MjUxNiwxMTk0MzA3MzY3LC0yMjA1NzUzMTgsMTY2MzYzNzQx
-Ml19
+eyJoaXN0b3J5IjpbODAwNDQ5Mjc0LC0zNjM4Nzc4MjUsLTcwNT
+cxMTQzMCwtNTE2NDc2OTAxLDUxNDE1NjYwMiwyMTg3NTUzNTYs
+MzM1MDE4ODk2LDc4ODc1OTc5MSwtMTg0ODM3NTA3NSwtNzIwNz
+EyMjYsLTEyMjIwMDcyMDMsLTIwNTYwMTg0NTIsMTAyNTU4Njc3
+NywxMjM2Mjc1NzAxLDE3MTg3NzI1MzksNTgzNTUzMjAwLDMwOD
+g1MTUyNCw5MjEwNzI1MTYsMTE5NDMwNzM2NywtMjIwNTc1MzE4
+XX0=
 -->
