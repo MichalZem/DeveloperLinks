@@ -71,6 +71,7 @@ Last update: 1.9.2019 - v1.0
 - Everything – hledání souborů https://www.voidtools.com/downloads/ 
 - ShareX  - https://getsharex.com/
 - Chocolate + Chocolate Gui
+- ZoomIt - Lupa pro prezentace s možností kreslení- https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit
 - MaincTime free version - evidence práce na PC
 - Toogle (local client) - evidence práce na Projektech - Online + Local Client
 
@@ -260,11 +261,11 @@ https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTcxMTQzMCwtNTE2NDc2OTAxLDUxND
-E1NjYwMiwyMTg3NTUzNTYsMzM1MDE4ODk2LDc4ODc1OTc5MSwt
-MTg0ODM3NTA3NSwtNzIwNzEyMjYsLTEyMjIwMDcyMDMsLTIwNT
-YwMTg0NTIsMTAyNTU4Njc3NywxMjM2Mjc1NzAxLDE3MTg3NzI1
-MzksNTgzNTUzMjAwLDMwODg1MTUyNCw5MjEwNzI1MTYsMTE5ND
-MwNzM2NywtMjIwNTc1MzE4LDE2NjM2Mzc0MTIsNTk2NzEyNTgw
-XX0=
+eyJoaXN0b3J5IjpbLTM2Mzg3NzgyNSwtNzA1NzExNDMwLC01MT
+Y0NzY5MDEsNTE0MTU2NjAyLDIxODc1NTM1NiwzMzUwMTg4OTYs
+Nzg4NzU5NzkxLC0xODQ4Mzc1MDc1LC03MjA3MTIyNiwtMTIyMj
+AwNzIwMywtMjA1NjAxODQ1MiwxMDI1NTg2Nzc3LDEyMzYyNzU3
+MDEsMTcxODc3MjUzOSw1ODM1NTMyMDAsMzA4ODUxNTI0LDkyMT
+A3MjUxNiwxMTk0MzA3MzY3LC0yMjA1NzUzMTgsMTY2MzYzNzQx
+Ml19
 -->
