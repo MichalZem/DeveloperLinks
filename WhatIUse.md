@@ -106,6 +106,7 @@ Last update: 1.9.2019 - v1.0
 
 
 ### Systém Tools + Command Line Utility
+- CMDER - lepší Windows Command line - https://cmder.net/
 - NirSoft File Activity Watch - https://www.nirsoft.net/utils/file_activity_watch.html 
 - Nircmd - http://www.nirsoft.net/utils/nircmd.html 
 - CURL - https://curl.haxx.se/windows/ 
@@ -259,11 +260,11 @@ https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjQ3NjkwMSw1MTQxNTY2MDIsMjE4Nz
-U1MzU2LDMzNTAxODg5Niw3ODg3NTk3OTEsLTE4NDgzNzUwNzUs
-LTcyMDcxMjI2LC0xMjIyMDA3MjAzLC0yMDU2MDE4NDUyLDEwMj
-U1ODY3NzcsMTIzNjI3NTcwMSwxNzE4NzcyNTM5LDU4MzU1MzIw
-MCwzMDg4NTE1MjQsOTIxMDcyNTE2LDExOTQzMDczNjcsLTIyMD
-U3NTMxOCwxNjYzNjM3NDEyLDU5NjcxMjU4MCwxNDIxMjI4NTQz
+eyJoaXN0b3J5IjpbLTcwNTcxMTQzMCwtNTE2NDc2OTAxLDUxND
+E1NjYwMiwyMTg3NTUzNTYsMzM1MDE4ODk2LDc4ODc1OTc5MSwt
+MTg0ODM3NTA3NSwtNzIwNzEyMjYsLTEyMjIwMDcyMDMsLTIwNT
+YwMTg0NTIsMTAyNTU4Njc3NywxMjM2Mjc1NzAxLDE3MTg3NzI1
+MzksNTgzNTUzMjAwLDMwODg1MTUyNCw5MjEwNzI1MTYsMTE5ND
+MwNzM2NywtMjIwNTc1MzE4LDE2NjM2Mzc0MTIsNTk2NzEyNTgw
 XX0=
 -->
