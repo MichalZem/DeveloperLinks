@@ -57,3 +57,19 @@ CROSS APPLY sys.dm_exec_sql_text(der.plan_handle) as dest
 CROSS APPLY sys.dm_exec_query_plan(der.plan_handle) as deqp
 WHERE dowt.session_id > 50
 ```
+
+## Copy One DB to Another
+```sql
+USE robot;
+GO
+CREATE DATABASE dbnew AS COPY OF dbfrom ( SERVICE_OBJECTIVE = 'S0' );
+GO
+WAITFOR DELAY '00:03:00'; 
+GO
+ALTER DATABASE dbnew MODIFY NAME = dbnew_old;
+GO
+ALTER DATABASE dbnew MODIFY NAME = dbcopy;
+GO
+DROP DATABASE dbnew_old;
+GO
+```
