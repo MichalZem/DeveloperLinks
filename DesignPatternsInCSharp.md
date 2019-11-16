@@ -169,7 +169,8 @@ https://www.youtube.com/watch?v=ioelSqGrVfQ
 https://www.youtube.com/watch?v=6IbyQV98H8w    - Builder - česky
 
 
-## Facade, Fasade
+## Facade, Fasade, Façade
+https://www.dotnetcurry.com/aspnet-core/1469/facade-pattern
 https://youtu.be/nn5KGOkBIyo?t=764 
 
 
