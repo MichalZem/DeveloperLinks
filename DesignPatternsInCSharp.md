@@ -190,6 +190,7 @@ https://www.youtube.com/watch?v=4upzqjFVLA4
 
 
 ## Specification - dokončit
+https://gunnarpeipman.com/ef-core-query-specification/ 
 https://fabiomarreco.github.io/blog/2017/a-generic-specification-pattern-in-c/ 
 https://enterprisecraftsmanship.com/2016/02/08/specification-pattern-c-implementation/
 https://app.pluralsight.com/library/courses/csharp-specification-pattern/table-of-contents  - kurz pluralsight
