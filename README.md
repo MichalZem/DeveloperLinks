@@ -34,6 +34,9 @@ https://www.tiobe.com/tiobe-index/ - Index programovacích jazyků
 
 
 ## Knihovny .NET
+
+https://github.com/ReubenBond/DeepCopy  - DeepCopyc# Object
+
 https://jasperfx.github.io/oakton/ - Command Line Helper
 
 https://github.com/Tyrrrz/CliFx  Command Line Helper
