@@ -170,7 +170,17 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - MOLE - lepší debug visualiser -https://marketplace.visualstudio.com/items?itemName=KarlShifflettkdawg.MoleforVisualStudio2019
 
 ### Visual Studio Code - Extensions
+
+### GIT - Developer Tools
+- https://gource.io/  - vizualizace GIT Commit
 - Git Graph-  https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+- GIT GUI - super pro Vizualizaci Branch - https://gmaster.io/
+- UNGIT (běží pod NodeJs) - https://github.com/FredrikNoren/ungit
+- SourceTree Git GUI - Pro Bitbucket - https://www.sourcetreeapp.com/
+- GitKraken - Git Client -  https://www.gitkraken.com/git-client  
+- TortoiseGit - Git Client - https://tortoisegit.org/ - Windows Shell Git Client
+- Nastavení Git Clienta UTF v CommandLine -  set LANG=en_GB.UTF-8 + set LC_ALL=en_GB.UTF-8
+
 
 ### Other Developer Tools
 - Liquid studio - XML,JSON, Editor - https://www.liquid-technologies.com/xml-studio
@@ -195,12 +205,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Web Application Load Testing made easy - West Wind WebSurge [https://websurge.west-wind.com/](https://websurge.west-wind.com/)
 - Appache AB - Apache HTTP server benchmarking tool - https://www.apachehaus.com/cgi-bin/download.plx (stáhnout zip a vyndat BIN/AB.EXE + ABS.EXE(pro HTTSP + libeay32.dll, ssleay32.dll )) -  - documentation: https://httpd.apache.org/docs/2.4/programs/ab.html 
 - Appache AB GUI - https://github.com/gaurangsinha/ab-viz 
-- GIT GUI - super pro Vizualizaci Branch - https://gmaster.io/
-- UNGIT (běží pod NodeJs) - https://github.com/FredrikNoren/ungit
-- SourceTree Git GUI - Pro Bitbucket - https://www.sourcetreeapp.com/
-- GitKraken - Git Client -  https://www.gitkraken.com/git-client  
-- TortoiseGit - Git Client - https://tortoisegit.org/ - Windows Shell Git Client
-		- Nastavení Git Clienta UTF v CommandLine -  set LANG=en_GB.UTF-8 + set LC_ALL=en_GB.UTF-8
+
 
 
 
