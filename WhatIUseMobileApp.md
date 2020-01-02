@@ -1,2 +1,47 @@
+Samsung S7
+
+- Play.cz
+- ExDialer pro
+- Total Commander
+- PID Litačka
+- SMS jízdenka
+- Waze
+- Goolge Photo
+- Portmonka?? - presun do google pay
+- FDB
+- Chrome Remote Desktop
+- RDP client
+- Twiter
+- Facebook Lite
+- Feedly
+- Wifi Analyzer
+- Goolge translator
+- Poznámky Keep
+- MailDroid + Outlook
+- WordBit Angličtina
+- Jazz Radio
+- Shazam
+- Screen Stream over Http
+- Prakování Benešov - Smart4City
+- Moje praha
+- Spotify
+- SoundClound
+- Zachranka 
+- Alza.cz
+- Alza media
+- AudioTeka
+- Google Knihy
+- Sledování TV
+- Mobilní Klíč -ISDS (datové schránka)
+- C:geo + Geocaching
+- MS Teams
+- MS Autenticator
+- Mapy.cz
+- Idos
+- Google pay
+- AirBank
+- Fiobanka
+- George + George klíč
+- Brain Wars
 - Memorado
 - Lumosity
