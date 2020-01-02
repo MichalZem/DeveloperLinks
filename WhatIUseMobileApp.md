@@ -1,5 +1,7 @@
 Samsung S7
 
+- OneDrive
+- Goolge Drive
 - Play.cz
 - ExDialer pro
 - Total Commander
