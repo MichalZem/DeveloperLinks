@@ -100,12 +100,15 @@ https://www.c-sharpcorner.com/article/cqrs-pattern-command-and-query-responsibil
 ## Provaider Pattern
 https://www.codeproject.com/Articles/550495/Provider-Pattern-for-Beginners 
 
-## Composite - Dokončit
+## Composite command pattern - Dokončit
 https://www.dofactory.com/net/composite-design-pattern 
 https://blogs.endjin.com/2019/07/design-patterns-in-c-the-composite-pattern/
 https://code-maze.com/composite/
 https://refactoring.guru/design-patterns/composite/csharp/example
-https://www.codeproject.com/Articles/28309/Design-pattern-FAQ-Part-Training  
+https://www.codeproject.com/Articles/28309/Design-pattern-FAQ-Part-Training
+https://gunnarpeipman.com/composite-command-pattern/
+https://gunnarpeipman.com/aspnet-core-composite-command/
+
 
 ## Factory – dokončit
 
@@ -232,5 +235,5 @@ http://www.stefanoricciardi.com/2010/04/14/a-fluent-builder-in-c/
 
 https://github.com/ChrisEdwards/Fluency
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzQ1MzY1M119
+eyJoaXN0b3J5IjpbLTE5NDE1NzQ0OTcsMTcyMzQ1MzY1M119
 -->
