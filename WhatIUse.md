@@ -182,8 +182,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Nastavení Git Clienta UTF v CommandLine -  set LANG=en_GB.UTF-8 + set LC_ALL=en_GB.UTF-8
 
 
-### Other Developer Tools
 - Liquid studio - XML,JSON, Editor - https://www.liquid-technologies.com/xml-studio
+### Other Developer Tools
 - Diagramy - https://www.eclipse.org/sirius/download.html
 - Stackify Profiler - https://stackify.com/prefix-download/  - enable custom  (https://support.stackify.com/custom-profiling-configure-for-net/) - choco install Prefix
 - LINQPAD  - https://www.linqpad.net
@@ -231,13 +231,13 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - WebLoad – Webtesty - https://www.radview.com/webload-download/ 
 
 
-### Co si přeji pořídit do budoucna a je placené
+### Co si přeji pořídit do budoucna ae placené
 - NDepend - static analysis tool for .NET managed code - https://www.ndepend.com
 - Resharper - All Products Pack - https://www.jetbrains.com/resharper/
 - DotTrace profiler - https://www.jetbrains.com/profiler/
 - OzCode - Makes Debugging Easier, Faster and more intuitive - https://www.oz-code.com/
 - LinqPad  premium - https://www.linqpad.net
-
+- Camtasia Recorder - https://www.techsmith.com/video-editor.html
 
 - SQL nástroje od Red-gate - https://www.red-gate.com/products
 - komponenty od Syncfusion - https://www.syncfusion.com
@@ -268,11 +268,11 @@ https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNDQ5Mjc0LC0zNjM4Nzc4MjUsLTcwNT
-cxMTQzMCwtNTE2NDc2OTAxLDUxNDE1NjYwMiwyMTg3NTUzNTYs
-MzM1MDE4ODk2LDc4ODc1OTc5MSwtMTg0ODM3NTA3NSwtNzIwNz
-EyMjYsLTEyMjIwMDcyMDMsLTIwNTYwMTg0NTIsMTAyNTU4Njc3
-NywxMjM2Mjc1NzAxLDE3MTg3NzI1MzksNTgzNTUzMjAwLDMwOD
-g1MTUyNCw5MjEwNzI1MTYsMTE5NDMwNzM2NywtMjIwNTc1MzE4
-XX0=
+eyJoaXN0b3J5IjpbLTUwMjI0NzAyOCwtMzYzODc3ODI1LC03MD
+U3MTE0MzAsLTUxNjQ3NjkwMSw1MTQxNTY2MDIsMjE4NzU1MzU2
+LDMzNTAxODg5Niw3ODg3NTk3OTEsLTE4NDgzNzUwNzUsLTcyMD
+cxMjI2LC0xMjIyMDA3MjAzLC0yMDU2MDE4NDUyLDEwMjU1ODY3
+NzcsMTIzNjI3NTcwMSwxNzE4NzcyNTM5LDU4MzU1MzIwMCwzMD
+g4NTE1MjQsOTIxMDcyNTE2LDExOTQzMDczNjcsLTIyMDU3NTMx
+OF19
 -->
