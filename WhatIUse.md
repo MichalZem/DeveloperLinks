@@ -52,6 +52,7 @@ Last update: 1.9.2019 - v1.0
 
 ### Základní Software
 - Windows 10 (poslední verze + aktualizace)
+- USB raptor - ověření pomocí USB klíče - https://sourceforge.net/projects/usbraptor/
 - Drivery (Sound,VGA,LAN,..)
 - Tiskárny ovladače
 - Chrome Browser
@@ -94,6 +95,7 @@ Last update: 1.9.2019 - v1.0
 - Zobrazení aktuálních časovačů v JavaScriptu (setTimeout,SetInterval) - https://chrome.google.com/webstore/detail/timeouts-and-intervals/oagmfffelnnohpbidjknmhfangoahcan
 - JSON Formatter - https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=cs 
 - JSON Viewer - https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=cs 
+- YouTube Ad Auto-skipper - https://chrome.google.com/webstore/detail/youtube-ad-auto-skipper/lokpenepehfdekijkebhpnpcjjpngpnd
 
 ### MultiMédia - Video, Music, Image
 - VLC Player
