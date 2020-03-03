@@ -101,6 +101,8 @@ https://www.c-sharpcorner.com/article/cqrs-pattern-command-and-query-responsibil
 https://www.codeproject.com/Articles/550495/Provider-Pattern-for-Beginners 
 
 ## Composite command pattern - Dokončit
+https://www.syncfusion.com/blogs/post/command-design-pattern-tutorial-with-csharp-examples.aspx
+
 https://www.dofactory.com/net/composite-design-pattern 
 https://blogs.endjin.com/2019/07/design-patterns-in-c-the-composite-pattern/
 https://code-maze.com/composite/
