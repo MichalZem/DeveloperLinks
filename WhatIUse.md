@@ -74,6 +74,7 @@ Last update: 1.9.2019 - v1.0
 - ZoomIt - Lupa pro prezentace s možností kreslení- https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit
 - MaincTime free version - evidence práce na PC
 - Toogle (local client) - evidence práce na Projektech - Online + Local Client
+- QTranslate - https://quest-app.appspot.com/home - Translator
 
 
 ### Doplňky do Chromu
