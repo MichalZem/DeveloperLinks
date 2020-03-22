@@ -47,3 +47,4 @@ Samsung S7
 - Brain Wars
 - Memorado
 - Lumosity
+- DroidCamApp - https://play.google.com/store/apps/developer?id=Dev47Apps , https://play.google.com/store/apps/developer?id=Dev47Apps
