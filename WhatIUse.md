@@ -107,6 +107,9 @@ Last update: 1.9.2019 - v1.0
 - EarTrumpet - Volume Control
 - StreamWriter - Record Audi Stream & Internet Radio  -  https://streamwriter.org/en/ 
 - FlashBack recorder - Free Screen recorder - https://www.flashbackrecorder.com/
+- Streamovani - OBS Studio - https://obsproject.com/cs/download 
+- Audio Mixer a další SW (VOICEMEETER BANANA) - https://www.vb-audio.com/index.htm
+- Audio Router -  https://github.com/audiorouterdev/audio-router/releases
 
 
 ### Systém Tools + Command Line Utility
