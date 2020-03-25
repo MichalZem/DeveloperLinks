@@ -87,9 +87,9 @@ Last update: 1.9.2019 - v1.0
 - Read Aloud: A Text to Speech Voice Reader
 - Right-click QRcode reader
 - Postman, Swager Inspector Extension
-- Switchmark (záložky) - https://chrome.google.com/webstore/detail/switchmark/bnocffbiglfjjcgmifcampfmcbkfbhgc/related
 - Nástroj pro kontrolu HTML pro přístupnost apod. - https://accessibilityinsights.io/en/
 - Pro Git - F12 jako ve visual studiu - https://sourcegraph.com/welcome
+- Github Downloader Helper -  https://chrome.google.com/webstore/detail/git-download-helper/apchbjkblfhmkohghpnhidldebmpmjnn
 - Tree file view pro GitHub - https://github.com/ovity/octotree 
 - Xpath pomocník do Chromu https://autonomiq.io/chropath/
 - Zobrazení aktuálních časovačů v JavaScriptu (setTimeout,SetInterval) - https://chrome.google.com/webstore/detail/timeouts-and-intervals/oagmfffelnnohpbidjknmhfangoahcan
