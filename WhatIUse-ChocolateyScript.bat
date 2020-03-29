@@ -2,6 +2,7 @@ rem choco install googlechrome
 rem choco install skype
 rem choco install adobereader -y
 rem choco install pdfcreator --ia '"/NOICONS /TASKS=!winexplorer"' -y
+rem choco install ssms -y
 rem choco install visualstudio2019enterprise --package-parameters "--allWorkloads --includeRecommended --includeOptional --passive --locale en-US" -y
 rem choco install vscode -y
 
@@ -26,7 +27,7 @@ rem choco install audio-router -y
 rem choco install nircmd -y
 rem choco install ngrok -y
 
-rem choco install ssms -y
+
 
 rem choco install fiddler -y
 rem choco install westwindwebsurge -y
