@@ -26,3 +26,6 @@ choco install westwindwebsurge -y
 choco install sourcetree -y
 choco install tortoisegit --confirm
 choco install toggl -y
+choco install postman --confirm
+choco install logparser --confirm
+choco install steam --confirm
