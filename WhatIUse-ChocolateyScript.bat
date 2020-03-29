@@ -29,3 +29,4 @@ choco install toggl -y
 choco install postman --confirm
 choco install logparser --confirm
 choco install steam --confirm
+choco install wudt
