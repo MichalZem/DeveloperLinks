@@ -31,3 +31,4 @@ rem choco install ssms -y
 rem choco install fiddler -y
 rem choco install westwindwebsurge -y
 rem choco install sourcetree -y
+rem choco install toggl -y
