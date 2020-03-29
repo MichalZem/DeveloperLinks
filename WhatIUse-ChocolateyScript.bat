@@ -32,3 +32,4 @@ choco install steam --confirm
 choco install wudt
 choco install anydesk --confirm
 choco install teamviewer --confirm
+choco install manictime --confirm
