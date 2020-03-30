@@ -48,3 +48,5 @@ Samsung S7
 - Memorado
 - Lumosity
 - DroidCamApp - https://play.google.com/store/apps/developer?id=Dev47Apps , https://play.google.com/store/apps/developer?id=Dev47Apps
+
+- Mathman - matematika interaktivně a česky
