@@ -75,6 +75,7 @@ Last update: 1.9.2019 - v1.0
 - MaincTime free version - evidence práce na PC
 - Toogle (local client) - evidence práce na Projektech - Online + Local Client
 - QTranslate - https://quest-app.appspot.com/home - Translator
+- VirtualBox https://www.virtualbox.org/
 
 
 ### Doplňky do Chromu
