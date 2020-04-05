@@ -35,6 +35,8 @@ https://www.tiobe.com/tiobe-index/ - Index programovacích jazyků
 
 ## Knihovny .NET
 
+https://github.com/Polly-Contrib/Simmy  - Simmy is a chaos-engineering and fault-injection tool, integrating with the Polly resilience project for .NET
+
 https://github.com/ReubenBond/DeepCopy  - DeepCopyc# Object
 
 https://jasperfx.github.io/oakton/ - Command Line Helper
