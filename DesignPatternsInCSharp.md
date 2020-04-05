@@ -92,6 +92,7 @@ https://youtu.be/T9n_Td4M-hM?t=1319 - Decorator česky??
 ## CQRS
 https://app.pluralsight.com/library/courses/cqrs-in-practice/table-of-contents  - PluralSight Kurz - !!Super
 https://www.youtube.com/watch?v=zSEF7_Crx5A – MediatR ! Super
+https://www.youtube.com/watch?v=Q0Bz-O67_nI
 
 https://www.future-processing.pl/blog/cqrs-simple-architecture/ 
 https://martinfowler.com/bliki/CQRS.html 
