@@ -33,3 +33,6 @@ choco install wudt
 choco install anydesk --confirm
 choco install teamviewer --confirm
 choco install manictime --confirm
+
+choco install azure-cli  --confirm
+choco install kubernetes-cli --confirm
