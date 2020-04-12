@@ -61,6 +61,7 @@ Last update: 1.9.2019 - v1.0
 - Adobe Acrobat Reader DC
 - PDF Creator
 - Windows USB/DVD Download Tool
+- RUFUS - ISO to USB - https://rufus.ie/cs_CZ.html
 - TotalComander  (Plná verze koupená)
 - Skype + Microsoft Teams
 - AnyDesk Client + TeamViewer Client
