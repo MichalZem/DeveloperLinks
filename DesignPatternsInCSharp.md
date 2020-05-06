@@ -13,6 +13,7 @@ https://www.exceptionnotfound.net/introducing-the-daily-design-pattern/
 https://github.com/anupavanm/csharp-design-patterns-for-humans 
 https://github.com/exceptionnotfound/DesignPatterns
 https://github.com/Sivaramvt/gof-design-patterns-csharp 
+https://www.c-sharpcorner.com/article/design-patterns-in-net/
 
 
 ## Návrhové vzory Videa
