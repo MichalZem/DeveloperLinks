@@ -27,6 +27,7 @@ https://www.youtube.com/watch?v=Mzkf5qPV1pY - Vzory ve vývoji SW ::: (Visitor, 
 
 ## SOLID
 https://www.zdrojak.cz/clanky/navrhove-principy-solid/  -  Principy objektově orientovaného návrhu 
+https://www.c-sharpcorner.com/article/solid-with-simple-example/ 
 
 ## Dependecy Injection
 https://wug.cz/zaznamy/101-Jak-na-IoC-DI-kontejnery-v-NETu  - Jak na IoC/DI kontejnery v .NETu
