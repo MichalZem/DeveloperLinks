@@ -1,6 +1,9 @@
 
 # Design Patterns, Clean code, Testing,... in C#
 
+## Architekrura
+https://github.com/jasontaylordev/NorthwindTraders - Clean Architecture with ASP.NET - (https://www.youtube.com/watch?v=dK4Yb6-LxAk)
+
 ## Souhrné kurzy, Videa, Kurzy
 https://app.pluralsight.com/library/courses/patterns-library/table-of-contents - 👍👍👍👍👍 Kurz - dobře pochopitelný  - PluralSight 32 vzorů
 https://www.youtube.com/playlist?list=PL01IYtZot_jqKtX0s4g3kk7A33FeZtqFu Videa – VisualStudio Toolbox
