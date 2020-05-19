@@ -121,6 +121,7 @@ Last update: 1.9.2019 - v1.0
 - CURL - https://curl.haxx.se/windows/ 
 - WGET - https://eternallybored.org/misc/wget/  + gui http://winwget.sourceforge.net/ 
 - Ngrok - Localní TCP port forwarduje na internet - https://ngrok.com/download
+- Microsoft PowerToys - https://github.com/microsoft/PowerToys
 
 ### Others
 - Windows Performance recorder - https://answers.microsoft.com/en-us/windows/forum/windows_10-update/windows-performance-recorder/a1648e8c-50c7-4243-9f1d-4216385c7ff3?auth=1
