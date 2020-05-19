@@ -38,3 +38,5 @@ choco install wudt  --confirm
 
 choco install azure-cli  --confirm
 choco install kubernetes-cli --confirm
+
+choco install powertoys  --confirm
