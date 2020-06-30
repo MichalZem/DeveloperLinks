@@ -98,6 +98,7 @@ Last update: 1.9.2019 - v1.0
 - JSON Formatter - https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=cs 
 - JSON Viewer - https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=cs 
 - YouTube Ad Auto-skipper - https://chrome.google.com/webstore/detail/youtube-ad-auto-skipper/lokpenepehfdekijkebhpnpcjjpngpnd
+- Loom Record obrazovky - https://www.loom.com/
 
 ### MultiMédia - Video, Music, Image
 - VLC Player
