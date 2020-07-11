@@ -126,6 +126,7 @@ Last update: 1.9.2019 - v1.0
 - Microsoft PowerToys - https://github.com/microsoft/PowerToys
 
 ### Servisní SW
+ - Analyzer sítě - WireShark - https://www.wireshark.org/#download
  - Partition Manager - GNOME Partition Editor - https://gparted.org/download.php
  
 ### Others
