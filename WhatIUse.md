@@ -1,6 +1,6 @@
 # What I Use - Co používám za SW, HW, nástroje
 
-Last update: 1.9.2019 - v1.0
+Last update: 18.7.2019 - v1.1
 
 
 ### Hardware
@@ -14,6 +14,14 @@ Last update: 1.9.2019 - v1.0
 	- 1x Grafická karta GIGABYTE GeForce GTX 1050 Ti D5 4G
 	- 1x Zdroj Be quiet! dark power PRO 11 650W
 	- 1x 4TB USB WD My Passport Ultra - pro zálohování
+
+- Myš
+	- Logitech MX Vertical
+	- HP Wireles Mouse x4500
+	- Notebook - Logitech Wireless Mouse M185
+
+- Klávesnice
+	- HP USB Keyboard KU-1156
 
 - Monitory
 	- 1 x 27" AOC U2777PQU - 4K
