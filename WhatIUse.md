@@ -147,6 +147,7 @@ Last update: 18.7.2019 - v1.1
 
 ### Visual Studio Extensions
 - IntelliCode Microsoft
+- Visual Time Spent - https://marketplace.visualstudio.com/items?itemName=SergeyVlasov.VisualTimeSpent-VisualStudiotimetrackingadd-in
 - Bundeler & Minifier - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BundlerMinifier
 - GitFlow for Visual Studio 2019 - https://marketplace.visualstudio.com/items?itemName=vs-publisher-57624.GitFlowforVisualStudio2019
 - Codist A productivity enhancer for C# - https://marketplace.visualstudio.com/items?itemName=wmj.Codist 
