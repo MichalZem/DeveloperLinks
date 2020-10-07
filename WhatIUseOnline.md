@@ -1,6 +1,10 @@
 
 # What I Use Online - Co používám za služby na internetu
 
+### Kreslení diagrmů
+- https://draw.io
+- https://www.cloudskew.com/ (cloudové diagramy)
+
 ### Zpracování informací
 - Knížky za 15 minut - https://www.blinkist.com/
 - Feedly - Online čtečka RSS -[https://feedly.com](https://feedly.com/)
