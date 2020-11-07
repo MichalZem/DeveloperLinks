@@ -249,6 +249,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - https://www.valentina-db.com – Alternativa k ManagementStudiu
 - https://dbeaver.io/download – Alternativa k ManagementStudiu (umí různé db - např Firebird,SQL )
 - https://sqlitebrowser.org/ - SQLite management
+- http://www.sqliteexpert.com/ - SQLite management
 
 
 ### Online Nástroje
