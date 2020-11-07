@@ -247,7 +247,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 	- Doplňky do Azure Data Studio
 		- SandDance  - visualizace dat – grafy,… - SUPER
 - https://www.valentina-db.com – Alternativa k ManagementStudiu
-- https://dbeaver.io/download – Alternativa k ManagementStudiu
+- https://dbeaver.io/download – Alternativa k ManagementStudiu (umí různé db - např Firebird,SQL )
+- https://sqlitebrowser.org/ - SQLite management
 
 
 ### Online Nástroje
