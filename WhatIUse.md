@@ -192,6 +192,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - AutoRunCustomTool - Automatically runs the custom tool on another file when a file is modified.  https://marketplace.visualstudio.com/items?itemName=ThomasLevesque.AutoRunCustomTool 
 - Move Type To File - 2017/19 - https://marketplace.visualstudio.com/items?itemName=OlegShilo.MoveTypeToFile
 - MOLE - lepší debug visualiser -https://marketplace.visualstudio.com/items?itemName=KarlShifflettkdawg.MoleforVisualStudio2019
+- SQLite/SQL Server Compact Toolbox - https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox
 
 ### Visual Studio Code - Extensions
 
