@@ -122,6 +122,7 @@ Last update: 18.7.2019 - v1.1
 - Streamovani - OBS Studio - https://obsproject.com/cs/download 
 - Audio Mixer a další SW (VOICEMEETER BANANA) - https://www.vb-audio.com/index.htm
 - Audio Router -  https://github.com/audiorouterdev/audio-router/releases
+- Supervideodownloader - Youtube video downloader - https://www.easthillsmedia.com/products/supervideodownloader/
 - Ai Noise Remove - https://krisp.ai/
 
 
