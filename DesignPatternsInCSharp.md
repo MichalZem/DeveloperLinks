@@ -1,6 +1,9 @@
 
 # Design Patterns, Clean code, Testing,... in C#
 
+## AntiPatterns
+https://ilyana.dev/blog/2020-11-24-antipatterns/
+
 ## Architekrura
 https://github.com/jasontaylordev/NorthwindTraders - Clean Architecture with ASP.NET - (https://www.youtube.com/watch?v=dK4Yb6-LxAk)
 
