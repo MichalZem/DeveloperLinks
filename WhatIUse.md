@@ -198,6 +198,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 ### Visual Studio Code - Extensions
 
 ### GIT - Developer Tools
+- http://installsimple.com/  Jednoduchý vytvařeč instalátorů
 - https://gource.io/  - vizualizace GIT Commit
 - Git Graph-  https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
 - GIT GUI - super pro Vizualizaci Branch - https://gmaster.io/
