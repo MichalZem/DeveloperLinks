@@ -263,6 +263,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 
 ### Co si přeji pořídit do budoucna ae placené
 - NDepend - static analysis tool for .NET managed code - https://www.ndepend.com
+- ORM Designer - https://www.devart.com/entitydeveloper/entity-framework-core-designer.html
+- DevArt dbForge + SQL Tools -https://www.devart.com/dbforge/sql/
 - Resharper - All Products Pack - https://www.jetbrains.com/resharper/
 - DotTrace profiler - https://www.jetbrains.com/profiler/
 - OzCode - Makes Debugging Easier, Faster and more intuitive - https://www.oz-code.com/
@@ -279,7 +281,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 ### Podobné seznamy jiných vývojářů
 
 **Miroslav Holec**
-https://www.miroslavholec.cz/blog/software-a-nastroje-pro-vyvoj-ktere-pouzivam-update-2018
+- https://www.miroslavholec.cz/blog/software-a-nastroje-ktere-pouzivam-2020
+- https://www.miroslavholec.cz/blog/software-a-nastroje-pro-vyvoj-ktere-pouzivam-update-2018
 
 **Robert Haken**
 https://knowledge-base.havit.cz/2015/08/05/vyvojarske-nastroje-a-software-ktery-pouzivam-robert-haken-082015/
