@@ -210,6 +210,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 
 
 - Liquid studio - XML,JSON, Editor - https://www.liquid-technologies.com/xml-studio
+
 ### Other Developer Tools
 - Nástroje od Sysinternals - https://docs.microsoft.com/en-us/sysinternals/downloads/
 - Diagramy - https://www.eclipse.org/sirius/download.html
@@ -226,6 +227,14 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - ProcesExplorer - https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer 
 - Zeta Resource Editor - *resx editor - https://www.zeta-resource-editor.com/index.html 
 - Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-explorer/
+
+### Diagramy
+- https://www.cloudskew.com/ - Cloud Diagram
+- DRAW IO - https://app.diagrams.net/
+
+
+
+### Testov8ní výkonu
 - Tinyget.Exe – Web StressTest -  https://www.microsoft.com/en-us/download/details.aspx?id=17275 (součást IIS Resource Kitu Tools - nutno vypreparovat)
 - Appache JMeter - https://jmeter.apache.org/TestWebu, Web Loadtest,Web StressTest,
 	--https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi - doplněk který umí generovat scénáře pro JMeter (nutná registrace a přihlášení na https://www.blazemeter.com/ )
@@ -234,9 +243,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Appache AB - Apache HTTP server benchmarking tool - https://www.apachehaus.com/cgi-bin/download.plx (stáhnout zip a vyndat BIN/AB.EXE + ABS.EXE(pro HTTSP + libeay32.dll, ssleay32.dll )) -  - documentation: https://httpd.apache.org/docs/2.4/programs/ab.html 
 - Appache AB GUI - https://github.com/gaurangsinha/ab-viz 
 - Bombardier https://github.com/codesenberg/bombardier
-
-
-
+- Online tool Blazemeter - https://www.blazemeter.com/
 
 
 
