@@ -148,6 +148,7 @@ Last update: 18.7.2019 - v1.1
 
 ### Visual Studio Extensions
 - IntelliCode Microsoft
+- MiddleClickDefinition https://marketplace.visualstudio.com/items?itemName=norachuga.MiddleClickDefinition
 - Visual Time Spent - https://marketplace.visualstudio.com/items?itemName=SergeyVlasov.VisualTimeSpent-VisualStudiotimetrackingadd-in
 - Bundeler & Minifier - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BundlerMinifier
 - GitFlow for Visual Studio 2019 - https://marketplace.visualstudio.com/items?itemName=vs-publisher-57624.GitFlowforVisualStudio2019
@@ -234,7 +235,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 
 
 
-### Testov8ní výkonu
+### Testování výkonu
 - Tinyget.Exe – Web StressTest -  https://www.microsoft.com/en-us/download/details.aspx?id=17275 (součást IIS Resource Kitu Tools - nutno vypreparovat)
 - Appache JMeter - https://jmeter.apache.org/TestWebu, Web Loadtest,Web StressTest,
 	--https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi - doplněk který umí generovat scénáře pro JMeter (nutná registrace a přihlášení na https://www.blazemeter.com/ )
