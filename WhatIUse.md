@@ -195,6 +195,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Move Type To File - 2017/19 - https://marketplace.visualstudio.com/items?itemName=OlegShilo.MoveTypeToFile
 - MOLE - lepší debug visualiser -https://marketplace.visualstudio.com/items?itemName=KarlShifflettkdawg.MoleforVisualStudio2019
 - SQLite/SQL Server Compact Toolbox - https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox
+- Snippet Designer - https://marketplace.visualstudio.com/items?itemName=vs-publisher-2795.SnippetDesigner
+- Snippetica (přes 700 snippetů) https://marketplace.visualstudio.com/items?itemName=josefpihrt.Snippetica
 
 ### Visual Studio Code - Extensions
 
