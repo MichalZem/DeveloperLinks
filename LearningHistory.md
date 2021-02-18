@@ -2,18 +2,18 @@
 -	Distributed applications with ZeroMQ - https://www.youtube.com/watch?v=jIT8r2r5kV8 + https://netmq.readthedocs.io/en/latest/
 -	YAML - https://www.youtube.com/watch?v=1uFVr15xDGg
 
-### 8.2.2021
+8.2.2021
 -	PluralSight -Documenting an ASP.NET Core API with OpenAPI / Swagger 
 https://app.pluralsight.com/library/courses/aspdotnet-core-api-openapi-swagger/table-of-contents
 https://github.com/KevinDockx/DocumentingAspNetCoreApisWithOpenAPI 
 
-### 9.2.2021
+9.2.2021
 -	Pluralsight – MongoDB, BSON
 
-### 10.2.2021
+10.2.2021
 - ElasticSearch Přehled - https://www.youtube.com/watch?v=PTLX7yLQtpY&t=652s 
 
-### 11.2.2021
+11.2.2021
 - https://www.youtube.com/watch?v=hmkq4s2uHj0 - Jan Blaško - Jak nám dupou králíci RabbitMQ
 - https://github.com/RabbitMQSimulator/RabbitMQSimulator
 -	http://tryrabbitmq.com/ - RabibitMQ Simulátor
@@ -22,10 +22,10 @@ https://github.com/KevinDockx/DocumentingAspNetCoreApisWithOpenAPI
 -	https://www.youtube.com/watch?v=7rkeORD4jSw What is RabbitMQ? IBM CLOUD
 -	https://www.youtube.com/watch?v=sjDnqrnnYNM - RabbitMQ vs Kafka - Jack Vanlightly x Erlang Solutions webinar
 
-### 12.2.2021
+12.2.2021
 -	https://www.youtube.com/watch?v=_ougvb8mT7k – Object Calisthenics -  Why I don't use the "else" keyword in my code anymore
 
-### 13.2.2021
+13.2.2021
 -	Asp.Net Core - WebApi Integration Testing - https://www.youtube.com/watch?v=7roqteWLw4s
 -	Integration Testing with ASP.NET Core 3.1 - https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1
 -	Python in NET (https://github.com/tonybaloney/Pyjion + http://pythonnet.github.io/ + https://ironpython.net/ )
