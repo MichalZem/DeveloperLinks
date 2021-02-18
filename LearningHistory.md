@@ -1,5 +1,8 @@
 18.2.2021
 - Azure Key Vault [Jiří Kanda, HAVIT Vzdělávací okénko, 25.4.2019] - https://www.youtube.com/watch?v=-WUkXhh1c-4
+- Polly C#
+  - https://github.com/App-vNext/Polly
+  - https://www.pluralsight.com/blog/software-development/intro-to-polly
 
 20.2.2021
 -	Azure Service Bus - https://docs.microsoft.com/cs-cz/learn/paths/connect-your-services-together/
