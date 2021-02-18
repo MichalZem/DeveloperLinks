@@ -138,6 +138,9 @@ Last update: 18.7.2019 - v1.1
 ### Servisní SW
  - Analyzer sítě - WireShark - https://www.wireshark.org/#download
  - Partition Manager - GNOME Partition Editor - https://gparted.org/download.php
+
+### Backup Zálohování
+ - Cobian - https://www.cobiansoft.com/cobianbackup.html
  
 ### Others
 - Windows Performance recorder - https://answers.microsoft.com/en-us/windows/forum/windows_10-update/windows-performance-recorder/a1648e8c-50c7-4243-9f1d-4216385c7ff3?auth=1
