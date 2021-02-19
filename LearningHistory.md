@@ -4,7 +4,7 @@
   - https://github.com/App-vNext/Polly
   - https://www.pluralsight.com/blog/software-development/intro-to-polly
 
-20.2.2021
+16.2.2021
 -	Azure Service Bus - https://docs.microsoft.com/cs-cz/learn/paths/connect-your-services-together/
 
 15.2.201
