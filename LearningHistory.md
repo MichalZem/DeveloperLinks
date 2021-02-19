@@ -1,4 +1,7 @@
-18.2.2021
+19.2.2021
+- What is Distributed Caching? Explained with Redis! - https://www.youtube.com/watch?v=U3RkDLtS7uY
+- 
+21.2.2021
 - Azure Key Vault [Jiří Kanda, HAVIT Vzdělávací okénko, 25.4.2019] - https://www.youtube.com/watch?v=-WUkXhh1c-4
 - Polly C#
   - https://github.com/App-vNext/Polly
