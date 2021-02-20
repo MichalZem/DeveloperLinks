@@ -1,6 +1,6 @@
 20.2.2021
 - Service Bus ttps://www.serverless360.com/azure-service-bus
-- Microsoft Azure Service Bus In-depth - Kurz Pluralsight - https://app.pluralsight.com/library/courses/azure-service-bus-in-depth/table-of-contents
+- Pokračování v - Microsoft Azure Service Bus In-depth - Kurz Pluralsight - https://app.pluralsight.com/library/courses/azure-service-bus-in-depth/table-of-contents
 
 19.2.2021
 - What is Distributed Caching? Explained with Redis! - https://www.youtube.com/watch?v=U3RkDLtS7uY
