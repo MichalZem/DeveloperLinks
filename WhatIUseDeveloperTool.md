@@ -19,6 +19,9 @@
 - Redis Desktop Manager (Paid) - https://rdm.dev/
 - Fastoredis (Paid) - https://fastoredis.com/
 
+### Azure tools
+- Azure Service Bus UI- https://github.com/paolosalvatori/ServiceBusExplorer
+
 ## API/REST
 - Fake API Json Server (C#) - https://github.com/ttu/dotnet-fake-json-server
 - Fake API Json Server (běží pod NODE) -  https://github.com/typicode/json-server
