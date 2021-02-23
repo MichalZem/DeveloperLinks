@@ -1,3 +1,11 @@
+23.2.2021
+- Azure Comsos DB https://www.wug.cz/zaznamy/484-SQL-Server-Bootcamp-2018-Azure-Cosmos-DB
+- Pokračování v - Microsoft Azure Service Bus In-depth - Kurz Pluralsight - https://app.pluralsight.com/library/courses/azure-service-bus-in-depth/table-of-contents
+
+
+21.2.2021
+- Pokračování v - Microsoft Azure Service Bus In-depth - Kurz Pluralsight - https://app.pluralsight.com/library/courses/azure-service-bus-in-depth/table-of-contents
+
 20.2.2021
 - Service Bus ttps://www.serverless360.com/azure-service-bus
 - Pokračování v - Microsoft Azure Service Bus In-depth - Kurz Pluralsight - https://app.pluralsight.com/library/courses/azure-service-bus-in-depth/table-of-contents
