@@ -3,7 +3,7 @@ Samsung S7
 - OneDrive
 - Goolge Drive
 - Play.cz
-- ExDialer pro
+- ExDialer pro (již není v Google Play) https://apkpure.com/exdialer-dialer-contacts/com.modoohut.dialer
 - Total Commander
 - PID Litačka
 - SMS jízdenka
