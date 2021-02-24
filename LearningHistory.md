@@ -6,6 +6,7 @@
 - Advanced Features with Azure Service Bus - https://www.youtube.com/watch?v=Gd3Oas8JToU
 - Service Bus Code Examples https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-net/azuremessagingservicebus-samples/
 - Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus - https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services?WT.mc_id=ondotnet-c9-cephilli
+- What is Azure Service Bus ? - Overview - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview?WT.mc_id=ondotnet-c9-cephilli
 
 
 23.2.2021
