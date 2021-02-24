@@ -3,7 +3,9 @@
 - Azure Application Insights  - Pokročilé logování, diagnostika a monitoring aplikací (WUG Brno) https://www.youtube.com/watch?v=IdizyagL_68
 - Application Insights - Microsoft Doc - https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
 - Pokračování v - Microsoft Azure Service Bus In-depth - Kurz Pluralsight - https://app.pluralsight.com/library/courses/azure-service-bus-in-depth/table-of-contents
-- Advanced Features with Azure Service Bus - https://www.youtube.com/watch?v=Gd3Oas8JToU
+- 1 - Azure Service Bus from the ground up - https://www.youtube.com/watch?v=FRzMPqViwuY
+- 2 - Azure Service Bus Core Feature https://www.youtube.com/watch?v=cdSSA5L-Ndw
+- 3 - Advanced Features with Azure Service Bus - https://www.youtube.com/watch?v=Gd3Oas8JToU
 - Service Bus Code Examples https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-net/azuremessagingservicebus-samples/
 - Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus - https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services?WT.mc_id=ondotnet-c9-cephilli
 - What is Azure Service Bus ? - Overview - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview?WT.mc_id=ondotnet-c9-cephilli
