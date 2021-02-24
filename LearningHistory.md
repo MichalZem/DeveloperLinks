@@ -1,5 +1,6 @@
 24.2.2021
 - Azure Application Insights - https://www.youtube.com/watch?v=keJbMu2SRnk
+- Azure Application Insights  - Pokročilé logování, diagnostika a monitoring aplikací (WUG Brno) https://www.youtube.com/watch?v=IdizyagL_68
 - Pokračování v - Microsoft Azure Service Bus In-depth - Kurz Pluralsight - https://app.pluralsight.com/library/courses/azure-service-bus-in-depth/table-of-contents
 
 
