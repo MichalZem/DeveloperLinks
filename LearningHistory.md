@@ -1,3 +1,8 @@
+24.2.2021
+- Azure Application Insights - https://www.youtube.com/watch?v=keJbMu2SRnk
+- Pokračování v - Microsoft Azure Service Bus In-depth - Kurz Pluralsight - https://app.pluralsight.com/library/courses/azure-service-bus-in-depth/table-of-contents
+
+
 23.2.2021
 - Azure Comsos DB https://www.wug.cz/zaznamy/484-SQL-Server-Bootcamp-2018-Azure-Cosmos-DB
 - Pokračování v - Microsoft Azure Service Bus In-depth - Kurz Pluralsight - https://app.pluralsight.com/library/courses/azure-service-bus-in-depth/table-of-contents
