@@ -3,6 +3,8 @@
 - Azure Application Insights  - Pokročilé logování, diagnostika a monitoring aplikací (WUG Brno) https://www.youtube.com/watch?v=IdizyagL_68
 - Application Insights - Microsoft Doc - https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
 - Pokračování v - Microsoft Azure Service Bus In-depth - Kurz Pluralsight - https://app.pluralsight.com/library/courses/azure-service-bus-in-depth/table-of-contents
+- Advanced Features with Azure Service Bus - https://www.youtube.com/watch?v=Gd3Oas8JToU
+- Service Bus Code Examples https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-net/azuremessagingservicebus-samples/
 
 
 23.2.2021
