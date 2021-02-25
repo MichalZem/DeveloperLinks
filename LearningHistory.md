@@ -1,4 +1,5 @@
 25.2.2021
+- Prakticky uvod do Microsoft Azure - WUG - https://wug.cz/zaznamy/654-Prakticky-uvod-do-Microsoft-Azure
 - Redis cache základy / WUG - https://wug.cz/zaznamy/398-Global-Azure-Bootcamp-2017-Zlepsujeme-vykonnost-aplikaci-s-Redis-Cache
 - Úvod do Redis a praktické návrhové vzory (WUG Praha 2017) - https://www.youtube.com/watch?v=GkKYb3KyLoI
 - Azure Serice Bus - Documentation - https://docs.microsoft.com/cs-cz/azure/service-bus-messaging/
