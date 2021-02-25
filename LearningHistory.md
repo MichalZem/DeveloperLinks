@@ -14,6 +14,9 @@
 - Service Bus Code Examples https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-net/azuremessagingservicebus-samples/
 - Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus - https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services?WT.mc_id=ondotnet-c9-cephilli
 - What is Azure Service Bus ? - Overview - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview?WT.mc_id=ondotnet-c9-cephilli
+- Azure Messaging - 1: https://medium.com/slalom-technology/azure-messaging-when-to-use-what-and-why-post-1-c643e43052ed
+- Azure Messaging - 2: https://medium.com/slalom-technology/azure-messaging-when-to-use-what-and-why-post-2-81d164cc838e
+- Azure Messaging - 3: https://medium.com/slalom-technology/azure-messaging-when-to-use-what-and-why-post-3-8a914ec74822
 
 
 23.2.2021
