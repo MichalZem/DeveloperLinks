@@ -17,6 +17,7 @@
 - Azure Messaging - 1: https://medium.com/slalom-technology/azure-messaging-when-to-use-what-and-why-post-1-c643e43052ed
 - Azure Messaging - 2: https://medium.com/slalom-technology/azure-messaging-when-to-use-what-and-why-post-2-81d164cc838e
 - Azure Messaging - 3: https://medium.com/slalom-technology/azure-messaging-when-to-use-what-and-why-post-3-8a914ec74822
+- Choosing between queues and event hubs - https://hackernoon.com/azure-functions-choosing-between-queues-and-event-hubs-dac4157eee1c
 
 
 23.2.2021
