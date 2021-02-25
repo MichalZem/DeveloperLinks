@@ -1,3 +1,7 @@
+25.2.2021
+- Redis cache základy / WUG - https://wug.cz/zaznamy/398-Global-Azure-Bootcamp-2017-Zlepsujeme-vykonnost-aplikaci-s-Redis-Cache
+
+
 24.2.2021
 - Azure Application Insights - https://www.youtube.com/watch?v=keJbMu2SRnk
 - Azure Application Insights  - Pokročilé logování, diagnostika a monitoring aplikací (WUG Brno) https://www.youtube.com/watch?v=IdizyagL_68
