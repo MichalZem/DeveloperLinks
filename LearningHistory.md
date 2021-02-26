@@ -1,3 +1,10 @@
+
+
+26.2.2021
+- Konzultace s Mirkem Holcem
+- Azure Messaging: When to use what and why (Service Bus,Event Hub, Azure Relay)- https://www.youtube.com/watch?v=82akIKoX09A
+
+
 25.2.2021
 - Prakticky uvod do Microsoft Azure - WUG - https://wug.cz/zaznamy/654-Prakticky-uvod-do-Microsoft-Azure
 - Redis cache základy / WUG - https://wug.cz/zaznamy/398-Global-Azure-Bootcamp-2017-Zlepsujeme-vykonnost-aplikaci-s-Redis-Cache
