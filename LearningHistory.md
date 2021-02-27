@@ -2,6 +2,7 @@
 - Dot Net Conf 2021 - https://www.youtube.com/watch?v=mZRNjixZEMg
 - Azure Service Bus Messaging Overview - https://www.youtube.com/watch?v=_p37B4W0bFE
 - Úvod do Redis a praktické návrhové vzory (WUG Praha 2017) - Miroslav Holec - https://www.youtube.com/watch?v=GkKYb3KyLoI
+- 9 "rules" for cleaner code | Object Calisthenics - Clean code - https://www.youtube.com/watch?v=gyrSiY4SHxI
 
 26.2.2021
 - Konzultace s Mirkem Holcem
