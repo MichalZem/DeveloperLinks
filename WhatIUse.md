@@ -152,6 +152,7 @@ Last update: 18.7.2019 - v1.1
 
 ### Visual Studio Extensions
 - IntelliCode Microsoft
+- SwitchStartupProject for VS 2019 -https://marketplace.visualstudio.com/items?itemName=vs-publisher-141975.SwitchStartupProjectForVS2019
 - MiddleClickDefinition https://marketplace.visualstudio.com/items?itemName=norachuga.MiddleClickDefinition
 - Visual Time Spent - https://marketplace.visualstudio.com/items?itemName=SergeyVlasov.VisualTimeSpent-VisualStudiotimetrackingadd-in
 - Bundeler & Minifier - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BundlerMinifier
