@@ -1,5 +1,6 @@
 # What I use in Azure
 - Azure App Service
+  - WebJobs
 - Azure Service bus
 - Azure application insights
 - Azure SQL 
