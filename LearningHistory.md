@@ -1,3 +1,6 @@
+2.3.2021
+ - Azure AZ-900 - Online Training od Microsoftu - část 1
+
 27.2.2021
 - Dot Net Conf 2021 - https://www.youtube.com/watch?v=mZRNjixZEMg
 - Azure Service Bus Messaging Overview - https://www.youtube.com/watch?v=_p37B4W0bFE
