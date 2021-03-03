@@ -1,3 +1,10 @@
+
+
+3.3.2021
+- .NET.CZ(Episode.75) - Cosmos DB s Josefem Starýchfojtů a Standou Kuříkem
+- Azure CosmosDB [Jiří Činčura, Global Azure Bootcamp Praha 2019] https://www.youtube.com/watch?v=wWksmUn8JWA
+- Azure AZ-900 - Online Training od Microsoftu - část 2
+
 2.3.2021
  - Azure AZ-900 - Online Training od Microsoftu - část 1
 
