@@ -1,4 +1,5 @@
-
+5.3.2021
+- Azure Devops - konzultace s KPCS + základy
 
 3.3.2021
 - .NET.CZ(Episode.75) - Cosmos DB s Josefem Starýchfojtů a Standou Kuříkem
