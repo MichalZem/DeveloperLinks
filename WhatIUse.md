@@ -237,8 +237,9 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-explorer/
 
 ### Diagramy
-- https://www.cloudskew.com/ - Cloud Diagram
-- DRAW IO - https://app.diagrams.net/
+- DRAW IO  -https://github.com/jgraph/drawio-desktop + https://app.diagrams.net/ - free
+- https://www.cloudskew.com/ - Cloud Diagram - placené
+
 
 
 
