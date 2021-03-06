@@ -1,3 +1,6 @@
+6.3.2021
+- Messaging - RabbitMQ, Azure (Service Bus), Docker and Azure Functions - Dot Net Sheff - May 2018 - https://www.youtube.com/watch?v=zfmjJw3zDZQ
+
 5.3.2021
 - Azure Devops - konzultace s KPCS + základy
 
