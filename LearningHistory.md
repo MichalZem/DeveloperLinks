@@ -1,3 +1,8 @@
+
+
+8.3.2021
+- Continuous Delivery and DevOps with Azure DevOps: The Big Picture - https://app.pluralsight.com/library/courses/continuous-delivery-azure-devops-big-picture/table-of-contents
+
 6.3.2021
 - Messaging - RabbitMQ, Azure (Service Bus), Docker and Azure Functions - Dot Net Sheff - May 2018 - https://www.youtube.com/watch?v=zfmjJw3zDZQ
 
