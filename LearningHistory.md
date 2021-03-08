@@ -1,6 +1,7 @@
 
 
 8.3.2021
+- Azure DevOps – Automatické buildy a releasy - Herceg - Wug - https://wug.cz/zaznamy/594-Azure-DevOps-Automaticke-buildy-a-releasy
 - Continuous Delivery and DevOps with Azure DevOps: The Big Picture - https://app.pluralsight.com/library/courses/continuous-delivery-azure-devops-big-picture/table-of-contents
 
 6.3.2021
