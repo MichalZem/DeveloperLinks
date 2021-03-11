@@ -4,6 +4,7 @@
 ## HTTP Request Testing
 - Tinyget.Exe – Web StressTest -  https://www.microsoft.com/en-us/download/details.aspx?id=17275 (součást IIS Resource Kitu Tools - nutno vypreparovat)
 - Appache JMeter - https://jmeter.apache.org/TestWebu, Web Loadtest,Web StressTest,
+	-- https://marketplace.visualstudio.com/items?itemName=EmtecInc.JMeterTestExplorer VisualStudio Extension
 	--https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi - doplněk který umí generovat scénáře pro JMeter (nutná registrace a přihlášení na https://www.blazemeter.com/ )
 - Web LoadTest - Artillery Community Edition - [https://artillery.io/](https://artillery.io/)
 - Web Application Load Testing made easy - West Wind WebSurge [https://websurge.west-wind.com/](https://websurge.west-wind.com/)
