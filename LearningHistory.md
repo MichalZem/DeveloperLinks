@@ -1,3 +1,6 @@
+12.3.2021
+- Azure Load Balancing: Best-suited for your workload - Quick Overview - https://www.youtube.com/watch?v=ltd6Nvkbnok
+
 10.3.2021
 - pokračování - Using MongoDB with ASP.NET MVC - Pluralsight - https://app.pluralsight.com/library/courses/using-mongodb-aspdotnet-mvc/table-of-contents
 - Linux Directories Explained in 100 Seconds - https://www.youtube.com/watch?v=42iQKuQodW4
