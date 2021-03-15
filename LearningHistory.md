@@ -1,5 +1,7 @@
-14.3.2021
+15.3.2021
 - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
+
+14.3.2021
 - dokončení - Using MongoDB with ASP.NET MVC - Pluralsight - https://app.pluralsight.com/library/courses/using-mongodb-aspdotnet-mvc/table-of-contents
 
 12.3.2021
