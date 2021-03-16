@@ -9,6 +9,7 @@ https://github.com/jasontaylordev/NorthwindTraders - Clean Architecture with ASP
 
 ## Souhrné kurzy, Videa, Kurzy
 https://refactoring.guru/design-patterns/
+
 https://app.pluralsight.com/library/courses/patterns-library/table-of-contents - 👍👍👍👍👍 Kurz - dobře pochopitelný  - PluralSight 32 vzorů
 https://www.youtube.com/playlist?list=PL01IYtZot_jqKtX0s4g3kk7A33FeZtqFu Videa – VisualStudio Toolbox
 https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07 
