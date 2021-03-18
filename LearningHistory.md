@@ -1,4 +1,7 @@
 <h1>Learning History</h1>
+18.3.2021
+- Azure Load Balancer Deep Dive - https://www.youtube.com/watch?v=wJvmXM81tEI
+- Pokračovíání - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
 
 15.3.2021
 - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
