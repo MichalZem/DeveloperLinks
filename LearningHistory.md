@@ -1,5 +1,8 @@
 <h1>Learning History</h1>
 
+19.3.2021
+
+
 18.3.2021
 
 - Blazor Stack - Havit Youtube Channel
