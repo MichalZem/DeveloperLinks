@@ -1,8 +1,10 @@
 <h1>Learning History</h1>
 
+23.3.2021
+
+
 22.3.2021
-
-
+- Pokračovíání - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
 
 21.3.2021
 - Pokračovíání - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
