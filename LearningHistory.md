@@ -5,6 +5,7 @@
 
 22.3.2021
 - Pokračovíání - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
+- (Ne)Známé vlastnosti Azure Storage - WUG - https://www.wug.cz/zaznamy/708--Ne-Zname-vlastnosti-Azure-Storage
 
 21.3.2021
 - Pokračovíání - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
