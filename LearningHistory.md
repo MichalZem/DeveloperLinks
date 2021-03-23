@@ -1,10 +1,13 @@
 <h1>Learning History</h1>
+24.3.2021
+
 
 23.3.2021
-
+- On .NET Live - Azure Service bus, Event hub, Event Gird, Azure Relay, Messaging Patterns for .NET Developers - https://www.youtube.com/watch?v=ef1DK76rseM
+- Pokračování - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
 
 22.3.2021
-- Pokračovíání - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
+- Pokračování - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
 - (Ne)Známé vlastnosti Azure Storage - WUG - https://www.wug.cz/zaznamy/708--Ne-Zname-vlastnosti-Azure-Storage
 
 21.3.2021
