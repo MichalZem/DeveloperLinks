@@ -1,10 +1,11 @@
 <h1>Learning History</h1>
 24.3.2021
-
+- Pokračování - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
 
 23.3.2021
 - On .NET Live - Azure Service bus, Event hub, Event Gird, Azure Relay, Messaging Patterns for .NET Developers - https://www.youtube.com/watch?v=ef1DK76rseM
-- Pokračování - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
+- C# Source Generators - WUG - https://www.wug.cz/zaznamy/684-WUG-Days-2020-C-9-source-generators
+
 
 22.3.2021
 - Pokračování - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
