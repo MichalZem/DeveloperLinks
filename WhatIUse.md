@@ -14,7 +14,6 @@
 
 - Myš
 	- Logitech MX Vertical
-	- HP Wireles Mouse x4500
 	- Notebook - Logitech Wireless Mouse M185
 
 - Klávesnice
