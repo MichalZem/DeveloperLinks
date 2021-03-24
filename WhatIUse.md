@@ -49,9 +49,9 @@ Last update: 18.7.2019 - v1.1
 		https://www.ergo-interier.cz/podnoz-ke-stolu-motion-3-segmentova
 	
 - Sezení 
-	- střídám práci ve stoje a v sedě pokud sedím tak na gymnastickém míči
-	 
-		https://www.alza.cz/sport/lifefit-anti-burst-zeleny)
+	- střídám práci ve stoje a sezení
+	 https://www.ikea.com/cz/cs/p/markus-kancelarska-zidle-vissle-tmave-seda-70261150/
+	 https://www.alza.cz/sport/lifefit-anti-burst-zeleny
 
 - Speciální pomůcka
 	- https://www.moldex-europe.com/cz/vyrobky/zatkove-chranice-sluchu/
