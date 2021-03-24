@@ -1,8 +1,5 @@
 # What I Use - Co používám za SW, HW, nástroje
 
-Last update: 18.7.2019 - v1.1
-
-
 ### Hardware
 - PC (Hlavní vývojářské) - koupen (27.1.2018)
 	-	Intel Core i7-8700K
