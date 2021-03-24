@@ -1,5 +1,7 @@
 <h1>Learning History</h1>
 24.3.2021
+- Azure Function - základ - WUG - https://wug.cz/zaznamy/477-WUG-Days-2018-Azure-Functions-prakticky
+- AzureDevops - v praxi - Wug - https://wug.cz/zaznamy/583-Dotnet-Days-2019-Azure-DevOps-manage-your-real-world-applications
 - Pokračování - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
 
 23.3.2021
