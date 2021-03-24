@@ -88,7 +88,6 @@ Last update: 18.7.2019 - v1.1
 
 
 ### Doplňky do Chromu
-- feedly Mini
 - Google Translator + TransOver
 - Chrome Remote Desktop
 - Wayback Machine (Archive.org)
