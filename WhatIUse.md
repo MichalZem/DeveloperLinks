@@ -228,6 +228,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - AutoRest - Generátor códu z OpenApi - https://github.com/Azure/autorest
 - POSTMAN - API Development Environment - https://www.getpostman.com
 - Fiddler - Web Debugger - https://www.telerik.com/fiddler 
+- Proxy your HTTPS traffic - https://portswigger.net/burp/communitydownload
 - JetBrains dotPeak – C# Decompiler - https://www.jetbrains.com/decompiler/ - má s sobě symbol sever
 - JustDecompile – C# Decompiler https://www.telerik.com/download-trial-file/v2/justdecompile 
 - dnSpy  - .NET debugger and assembly editor  - https://github.com/0xd4d/dnSpy/releases 
