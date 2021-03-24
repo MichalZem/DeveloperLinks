@@ -1,4 +1,6 @@
 <h1>Learning History</h1>
+25.3.2021
+
 24.3.2021
 - Azure Function - základ - WUG - https://wug.cz/zaznamy/477-WUG-Days-2018-Azure-Functions-prakticky
 - AzureDevops - v praxi - Wug - https://wug.cz/zaznamy/583-Dotnet-Days-2019-Azure-DevOps-manage-your-real-world-applications
