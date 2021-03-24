@@ -5,7 +5,7 @@
 - Školení Online - Matuš Puškár (má super přehled v Security)- Cloudfile - Hutně a kondenzovaně – Secure development a secure DevOps v cloudu
 - Azure Function - základ - WUG - https://wug.cz/zaznamy/477-WUG-Days-2018-Azure-Functions-prakticky
 - AzureDevops - v praxi - Wug - https://wug.cz/zaznamy/583-Dotnet-Days-2019-Azure-DevOps-manage-your-real-world-applications
-- Pokračování - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
+- Pokračování - Learning Azure Cosmos DB - Pluralsight - Graph DB , Grafová Databáze- https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
 
 23.3.2021
 - On .NET Live - Azure Service bus, Event hub, Event Gird, Azure Relay, Messaging Patterns for .NET Developers - https://www.youtube.com/watch?v=ef1DK76rseM
