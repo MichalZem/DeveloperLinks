@@ -2,7 +2,7 @@
 25.3.2021
 
 24.3.2021
-- Školení Online - Cloudfile - Hutně a kondenzovaně – Secure development a secure DevOps v cloudu
+- Školení Online - Matuš Puškár (má super přehled v Security)- Cloudfile - Hutně a kondenzovaně – Secure development a secure DevOps v cloudu
 - Azure Function - základ - WUG - https://wug.cz/zaznamy/477-WUG-Days-2018-Azure-Functions-prakticky
 - AzureDevops - v praxi - Wug - https://wug.cz/zaznamy/583-Dotnet-Days-2019-Azure-DevOps-manage-your-real-world-applications
 - Pokračování - Learning Azure Cosmos DB - Pluralsight - https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents
