@@ -199,6 +199,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Snippetica (přes 700 snippetů) https://marketplace.visualstudio.com/items?itemName=josefpihrt.Snippetica
 
 ### Visual Studio Code - Extensions
+Azure CLI Tools - https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli
 
 ### GIT - Developer Tools
 - http://installsimple.com/  Jednoduchý vytvařeč instalátorů
