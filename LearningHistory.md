@@ -1,11 +1,11 @@
 <h1>Learning History</h1>
 
 28.3.2021
-WUG Days 2019: Microservices v .NET Core, Dockeru a Kubernetes - https://wug.cz/zaznamy/545-WUG-Days-2019-Microservices-v-NET-Core-Dockeru-a-Kubernetes
+- WUG Days 2019: Microservices v .NET Core, Dockeru a Kubernetes - https://wug.cz/zaznamy/545-WUG-Days-2019-Microservices-v-NET-Core-Dockeru-a-Kubernetes
 
 27.3.2021
-Azure Kubernetes Service (AKS) – The Big Picture - Pluralsight - https://app.pluralsight.com/library/courses/azure-container-service-big-picture/table-of-contents
-Microsoft Azure Administrator: Create and Configure Containers - Pluralsight - https://app.pluralsight.com/library/courses/microsoft-azure-administrator-create-configure-containers/table-of-contents
+- Azure Kubernetes Service (AKS) – The Big Picture - Pluralsight - https://app.pluralsight.com/library/courses/azure-container-service-big-picture/table-of-contents
+- Microsoft Azure Administrator: Create and Configure Containers - Pluralsight - https://app.pluralsight.com/library/courses/microsoft-azure-administrator-create-configure-containers/table-of-contents
 
 24.3.2021
 - Školení Online - Matuš Puškár (má super přehled v Security)- Cloudfile - Hutně a kondenzovaně – Secure development a secure DevOps v cloudu
