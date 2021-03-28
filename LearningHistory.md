@@ -1,6 +1,7 @@
 <h1>Learning History</h1>
 
 28.3.2021
+- WUG Days 2018: Úvod do Kubernetes a Azure Service Fabric - https://wug.cz/zaznamy/460-WUG-Days-2018-Uvod-do-Kubernetes-a-Azure-Service-Fabric
 - WUG Days 2019: Microservices v .NET Core, Dockeru a Kubernetes - https://wug.cz/zaznamy/545-WUG-Days-2019-Microservices-v-NET-Core-Dockeru-a-Kubernetes
 
 27.3.2021
