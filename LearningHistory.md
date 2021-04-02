@@ -1,7 +1,11 @@
 <h1>Learning History</h1>
+
+
+
 2.4.2021
 - Application Insights + Snapshots Debugging - https://www.youtube.com/watch?v=Ug2ZO5zbYmc
-  + https://docs.microsoft.com/en-us/azure/azure-monitor/app/snapshot-debugger-vm
+  - https://docs.microsoft.com/en-us/azure/azure-monitor/app/snapshot-debugger-vm
+
 
 30.3.2021
  - Application Insights + Testování API POSTMAN Meetup  - KROS Dev Meetups Zoom
