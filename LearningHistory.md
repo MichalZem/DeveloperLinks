@@ -1,5 +1,10 @@
 <h1>Learning History</h1>
 
+4.4.2021
+
+
+3.4.2021
+- Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] - https://www.youtube.com/watch?v=X48VuDVv0do
 
 
 2.4.2021
