@@ -1,5 +1,8 @@
 <h1>Learning History</h1>
 
+6.4.2021
+- dokončení - Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] - https://www.youtube.com/watch?v=X48VuDVv0do
+
 5.4.2021
 - KROS Dev Meetup #1 - SOLID princípy - https://www.youtube.com/watch?v=dOHmucVrpds
 - pokračování - Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] - https://www.youtube.com/watch?v=X48VuDVv0do
