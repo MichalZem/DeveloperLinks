@@ -1,6 +1,10 @@
 <h1>Learning History</h1>
 
+7.4.2021
+
+
 6.4.2021
+- Docker Tutorial for Beginners [FULL COURSE in 3 Hours] - https://www.youtube.com/watch?v=3c-iBn73dDE
 - dokončení - Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] - https://www.youtube.com/watch?v=X48VuDVv0do
 
 5.4.2021
