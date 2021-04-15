@@ -1,5 +1,10 @@
 <h1>Learning History</h1>
 
+15.4.2021
+
+
+14.4.2021
+ - Getting Started With Elasticsearch for .NET Developers - PluralSight - https://app.pluralsight.com/library/courses/elasticsearch-for-dotnet-developers/table-of-contents
 
 10.4.2021
 - On .NET Live - Commands, Queries, and other architectural patterns for your .NET Application + Microservice - https://www.youtube.com/watch?v=ysxgpVfyeNA
