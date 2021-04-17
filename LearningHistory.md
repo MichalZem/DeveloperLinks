@@ -1,6 +1,7 @@
 <h1>Learning History</h1>
 
 17.4.2021
+- Getting Started with Azure Event Hubs with C# - PluralSight - https://app.pluralsight.com/library/courses/azure-event-hub-c-sharp/table-of-contents
 - Microsoft Azure Developer: Enterprise Messaging and Eventing - Pluralsight - https://app.pluralsight.com/library/courses/microsoft-azure-enterprise-messaging-eventing/table-of-contents
 - Designing a Microsoft Azure Messaging Architecture - Pluralsight - https://app.pluralsight.com/library/courses/microsoft-azure-messaging-architecture-designing/table-of-contents
 - Exception managment + Loging zjištování možností - Oz-Code Debugger - https://oz-code.com/ozcode-production-debugger
