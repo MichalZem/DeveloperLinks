@@ -1,4 +1,4 @@
-<h1>Learning History</h1>
+<h1>Learning Log</h1>
 
 17.4.2021
 - Getting Started with Azure Event Hubs with C# - PluralSight - https://app.pluralsight.com/library/courses/azure-event-hub-c-sharp/table-of-contents
