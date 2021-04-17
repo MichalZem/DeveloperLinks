@@ -1,7 +1,9 @@
 <h1>Learning History</h1>
 
-15.4.2021
-
+17.4.2021
+- Microsoft Azure Developer: Enterprise Messaging and Eventing -  https://app.pluralsight.com/library/courses/microsoft-azure-enterprise-messaging-eventing/table-of-contents
+- Exception managment + Loging zjištování možností - Oz-Code Debugger - https://oz-code.com/ozcode-production-debugger
+- Exception managment + Loging zjištování možností - Application Insight Snapshot Debugger  - https://docs.microsoft.com/cs-cz/azure/azure-monitor/app/snapshot-debugger
 
 14.4.2021
  - Getting Started With Elasticsearch for .NET Developers - PluralSight - https://app.pluralsight.com/library/courses/elasticsearch-for-dotnet-developers/table-of-contents
