@@ -1,7 +1,8 @@
 <h1>Learning History</h1>
 
 17.4.2021
-- Microsoft Azure Developer: Enterprise Messaging and Eventing -  https://app.pluralsight.com/library/courses/microsoft-azure-enterprise-messaging-eventing/table-of-contents
+- Microsoft Azure Developer: Enterprise Messaging and Eventing - Pluralsight - https://app.pluralsight.com/library/courses/microsoft-azure-enterprise-messaging-eventing/table-of-contents
+- Designing a Microsoft Azure Messaging Architecture - Pluralsight - https://app.pluralsight.com/library/courses/microsoft-azure-messaging-architecture-designing/table-of-contents
 - Exception managment + Loging zjištování možností - Oz-Code Debugger - https://oz-code.com/ozcode-production-debugger
 - Exception managment + Loging zjištování možností - Application Insight Snapshot Debugger  - https://docs.microsoft.com/cs-cz/azure/azure-monitor/app/snapshot-debugger
 
