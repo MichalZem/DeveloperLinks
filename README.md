@@ -1,6 +1,9 @@
 # DeveloperLinks
 (odkazy na které jsem narazil, pracoval s nimi, nebo do budoucna se budou hodit)
 
+
+10 GitHub repos you need to know as a web developer - https://dev.to/pascavld/10-github-repos-you-need-to-know-as-a-web-developer-e7a
+
 ## Odkazy na Seznamy knihoven
 https://github.com/thangchung/awesome-dotnet-core  - knihovny .NET CORE a další
 
