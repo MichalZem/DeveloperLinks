@@ -1,1 +1,1 @@
-# Co pouužívam
+# Co používam
