@@ -14,4 +14,5 @@
 
 # Kubernetes
 - Open source UI - https://github.com/lensapp/lens/releases
-- Placené UI -  https://www.kubernetic.com/
+- K9S UI - https://k9scli.io/
+- Placené UI Kubernetic -  https://www.kubernetic.com/
