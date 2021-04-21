@@ -211,6 +211,7 @@ Draw.io Integration in VS Code - https://marketplace.visualstudio.com/items?item
 - SourceTree Git GUI - Pro Bitbucket - https://www.sourcetreeapp.com/
 - GitKraken - Git Client -  https://www.gitkraken.com/git-client  
 - TortoiseGit - Git Client - https://tortoisegit.org/ - Windows Shell Git Client
+- FORK - Git Client - https://fork.dev/
 - Nastavení Git Clienta UTF v CommandLine -  set LANG=en_GB.UTF-8 + set LC_ALL=en_GB.UTF-8
 
 
