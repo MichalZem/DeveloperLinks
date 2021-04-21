@@ -1,4 +1,8 @@
 <h1>Learning Log</h1>
+21.4.2021
+ - Github Action
+ - KROS Dev Meetup #4 – Vytvorenie API Gateway s pomocou frameworku Ocelot - https://www.youtube.com/watch?v=h7yrAOPrGQM&list=PLuLCIjnOyIav8FRwQzwgdhVHTa8aEWleQ&index=9
+
 18.4.2021
 - Exception Handling in C# - PluralSight - https://app.pluralsight.com/library/courses/exception-handling-c-sharp/table-of-contents
 - Getting Started with Azure Event Hubs with C# - PluralSight - https://app.pluralsight.com/library/courses/azure-event-hub-c-sharp/table-of-contents
