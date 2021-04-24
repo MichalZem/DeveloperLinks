@@ -1,5 +1,6 @@
 # MongoDb Snippets
 
+**mongodb group by**
 ```js
 db.getCollection('messages').aggregate([
 {
