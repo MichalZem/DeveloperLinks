@@ -1,5 +1,6 @@
 # MongoDb Snippets
 
+<code>
 db.getCollection('messages').aggregate([
 {
         $group : {
@@ -9,3 +10,4 @@ db.getCollection('messages').aggregate([
         }
 }
 ])
+</code>
