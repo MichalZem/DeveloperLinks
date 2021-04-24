@@ -1,6 +1,6 @@
 # MongoDb Snippets
 
-<code>
+```cs
 db.getCollection('messages').aggregate([
 {
         $group : {
@@ -10,4 +10,4 @@ db.getCollection('messages').aggregate([
         }
 }
 ])
-</code>
+```
