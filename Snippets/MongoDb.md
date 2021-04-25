@@ -26,3 +26,14 @@ db.messages_copy.aggregate([
 ```js
 db.messages.aggregate([ { $match: {  } }, { $out: "messages_copy" } ]);
 ```
+
+** Update Many**
+```js
+db.messages_copy.updateMany(
+        {
+                processid: "FC3A87A1-61FC-4DA0-BFAB-2541C6ADDFD7"
+        }, 
+        { 
+                $set: { inElastic: false} 
+        })
+```
