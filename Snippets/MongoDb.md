@@ -11,7 +11,16 @@ db.getCollection('messages').aggregate([
         }
 }
 ])
+
+or 
+
+db.messages_copy.aggregate([
+    {"$group" : {_id:"$processid", count:{$sum:1}}},
+    { "$sort": { count: -1 } }
+])
+
 ```
+
 
 ** copy one collectin to another ** in $match is where condition
 ```js
