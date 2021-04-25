@@ -1,6 +1,6 @@
 # MongoDb Snippets
 
-**mongodb group by**
+**group by**
 ```js
 db.getCollection('messages').aggregate([
 {
@@ -27,7 +27,7 @@ db.messages_copy.aggregate([
 db.messages.aggregate([ { $match: {  } }, { $out: "messages_copy" } ]);
 ```
 
-**Update Many**
+**update many**
 ```js
 db.messages_copy.updateMany(
         {
