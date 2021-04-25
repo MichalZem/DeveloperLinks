@@ -22,7 +22,7 @@ db.messages_copy.aggregate([
 ```
 
 
-**copy one collectin to another ** in $match is where condition
+**copy one collectin to another** in $match is where condition
 ```js
 db.messages.aggregate([ { $match: {  } }, { $out: "messages_copy" } ]);
 ```
