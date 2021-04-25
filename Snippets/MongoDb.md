@@ -12,3 +12,8 @@ db.getCollection('messages').aggregate([
 }
 ])
 ```
+
+** copy one collectin to another ** in $match is where condition
+```js
+db.messages.aggregate([ { $match: {  } }, { $out: "messages_copy" } ]);
+```
