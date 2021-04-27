@@ -198,9 +198,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Snippet Designer - https://marketplace.visualstudio.com/items?itemName=vs-publisher-2795.SnippetDesigner
 - Snippetica (přes 700 snippetů) https://marketplace.visualstudio.com/items?itemName=josefpihrt.Snippetica
 
-### Visual Studio Code - Extensions
-Azure CLI Tools - https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli
-Draw.io Integration in VS Code - https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
+
 
 ### GIT - Developer Tools
 - http://installsimple.com/  Jednoduchý vytvařeč instalátorů
