@@ -251,6 +251,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 		- SandDance  - visualizace dat – grafy,… - SUPER
 - https://www.valentina-db.com – Alternativa k ManagementStudiu
 - https://dbeaver.io/download – Alternativa k ManagementStudiu (umí různé db - např Firebird,SQL )
+- https://www.heidisql.com/  – Alternativa k ManagementStudiuu (umí různé db -MySQL,PostgreSQL,SQLIte)
 - https://sqlitebrowser.org/ - SQLite management
 - http://www.sqliteexpert.com/ - SQLite management
 
