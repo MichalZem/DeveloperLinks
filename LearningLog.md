@@ -1,4 +1,7 @@
 <h1>Learning Log</h1>
+7.5.2021
+- Continuous Delivery and DevOps with Azure DevOps: Release Pipelines - PluralSight - https://app.pluralsight.com/library/courses/azure-devops-continuous-delivery-release-pipelines/table-of-contents
+
 21.4.2021
  - Github Action
  - KROS Dev Meetup #4 – Vytvorenie API Gateway s pomocou frameworku Ocelot - https://www.youtube.com/watch?v=h7yrAOPrGQM&list=PLuLCIjnOyIav8FRwQzwgdhVHTa8aEWleQ&index=9
