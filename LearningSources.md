@@ -1,3 +1,5 @@
-https://www.pluralsight.com/
-https://www.packtpub.com/
-https://www.apress.com/us
+- https://www.pluralsight.com/
+- https://www.packtpub.com/
+- https://www.apress.com/us
+- https://www.edx.org/
+- https://www.udemy.com/
