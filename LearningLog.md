@@ -1,4 +1,9 @@
 <h1>Learning Log</h1>
+
+8.5.2021
+- Dokončení - Continuous Delivery and DevOps with Azure DevOps: Release Pipelines - PluralSight - https://app.pluralsight.com/library/courses/azure-devops-continuous-delivery-release-pipelines/table-of-contents
+- Serverless computing (Global Azure Bootcamp 2017) - Azure Function, Azure Logic App - https://www.youtube.com/watch?v=tGm-RNUuxSo
+
 7.5.2021
 - Continuous Delivery and DevOps with Azure DevOps: Release Pipelines - PluralSight - https://app.pluralsight.com/library/courses/azure-devops-continuous-delivery-release-pipelines/table-of-contents
 
