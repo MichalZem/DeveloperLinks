@@ -3,6 +3,7 @@
 8.5.2021
 - Dokončení - Continuous Delivery and DevOps with Azure DevOps: Release Pipelines - PluralSight - https://app.pluralsight.com/library/courses/azure-devops-continuous-delivery-release-pipelines/table-of-contents
 - Serverless computing (Global Azure Bootcamp 2017) - Azure Function, Azure Logic App - https://www.youtube.com/watch?v=tGm-RNUuxSo
+- Entity Framework Community Standup - Triggers for EF Core -  https://www.youtube.com/watch?v=Gjys0Yebobk
 
 7.5.2021
 - Continuous Delivery and DevOps with Azure DevOps: Release Pipelines - PluralSight - https://app.pluralsight.com/library/courses/azure-devops-continuous-delivery-release-pipelines/table-of-contents
