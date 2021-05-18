@@ -1,4 +1,6 @@
 <h1>Learning Log</h1>
+18.5.2021
+- The .NET Docs Show - Getting Started with Elasticsearch.NET - https://www.youtube.com/watch?v=Ll5yLL83W8M
 
 8.5.2021
 - Dokončení - Continuous Delivery and DevOps with Azure DevOps: Release Pipelines - PluralSight - https://app.pluralsight.com/library/courses/azure-devops-continuous-delivery-release-pipelines/table-of-contents
