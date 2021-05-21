@@ -240,7 +240,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - DRAW IO  -https://github.com/jgraph/drawio-desktop + https://app.diagrams.net/ - free
 - https://www.cloudskew.com/ - Cloud Diagram - placené
 
-
+### Automatizace
+- AutoHotkey - https://www.autohotkey.com/
 
 
 ### Databáze
