@@ -295,7 +295,7 @@ https://ask.fm/ridercz/answers/133633032452 + https://ask.fm/ridercz/answers/140
 https://github.com/jechtom/Global/blob/master/InstallComputer/chocolatey.txt 
 
 **Scott Hanselmans**
-https://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx 
+https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows
 
  # TODO
 - Doplnit chocolatey script
