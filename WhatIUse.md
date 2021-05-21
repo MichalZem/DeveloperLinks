@@ -242,7 +242,8 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 
 ### Automatizace
 - AutoHotkey - https://www.autohotkey.com/
-
+- NimbleText - Práce s textem - https://nimbletext.com/
+- Lepší schránka  CTRL C/V - https://ditto-cp.sourceforge.io/
 
 ### Databáze
 - SQL Server 2016 + Latest version
