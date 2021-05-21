@@ -198,7 +198,10 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Snippet Designer - https://marketplace.visualstudio.com/items?itemName=vs-publisher-2795.SnippetDesigner
 - Snippetica (přes 700 snippetů) https://marketplace.visualstudio.com/items?itemName=josefpihrt.Snippetica
 
-
+### Práce s logy
+- Log parser - https://www.microsoft.com/en-us/download/details.aspx?id=24659 (https://knowledge-base.havit.cz/2017/12/12/tip-microsoft-logparser-studio-rychle-sql-dotazovani-do-textovych-log-souboru/)
+- UI pro Logparser - https://www.lizard-labs.com/log_parser_lizard.aspx
+- https://www.logviewplus.com/ (placené)
 
 ### GIT - Developer Tools
 - http://installsimple.com/  Jednoduchý vytvařeč instalátorů
