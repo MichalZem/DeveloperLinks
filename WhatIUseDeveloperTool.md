@@ -23,6 +23,10 @@
 ### Azure tools
 - Azure Service Bus UI- https://github.com/paolosalvatori/ServiceBusExplorer
 
+### Elasticsearch tools
+- Elasticvue is a free and open-source elasticsearch gui for the browser - Elasticvue - https://elasticvue.com/
+- Management and Monitoring for Elasticsearch - ElasticHQ - https://www.elastichq.org
+
 ## API/REST
 - Fake API Json Server (C#) - https://github.com/ttu/dotnet-fake-json-server
 - Fake API Json Server (běží pod NODE) -  https://github.com/typicode/json-server
