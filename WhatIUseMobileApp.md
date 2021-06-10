@@ -1,5 +1,7 @@
 Samsung S7
 
+
+
 - OneDrive
 - Goolge Drive
 - Play.cz
@@ -50,3 +52,9 @@ Samsung S7
 - DroidCamApp - https://play.google.com/store/apps/developer?id=Dev47Apps , https://play.google.com/store/apps/developer?id=Dev47Apps
 
 - Mathman - matematika interaktivně a česky
+
+
+# Koupeno
+	
+ImageMeter Pro-key - záznam rozměrů do fotek - vhodné na stavby
+https://play.google.com/store/apps/details?id=de.dirkfarin.imagemeterpro&hl=cs&gl=US
