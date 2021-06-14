@@ -119,6 +119,7 @@
 - Audio Router -  https://github.com/audiorouterdev/audio-router/releases
 - Supervideodownloader - Youtube video downloader - https://www.easthillsmedia.com/products/supervideodownloader/
 - Youtube video downloader - https://github.com/ytdl-org/youtube-dl
+- Titulky - Přehrávač - https://github.com/carsonip/Penguin-Subtitle-Player
 - Titulky - Subtitle editor - https://nikse.dk/SubtitleEdit/
 
 
