@@ -1,4 +1,11 @@
 <h1>Learning Log</h1>
+
+17.6.2021
+- 
+
+16.6.2021
+- Elastic Stack: Getting Started - https://app.pluralsight.com/library/courses/elastic-stack-getting-started/table-of-contents
+
 18.5.2021
 - The .NET Docs Show - Getting Started with Elasticsearch.NET - https://www.youtube.com/watch?v=Ll5yLL83W8M
 
