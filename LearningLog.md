@@ -1,7 +1,9 @@
 <h1>Learning Log</h1>
+19.6.2021
+ - Pokračování - Getting Started With Elasticsearch for .NET Developers - PluralSight - https://app.pluralsight.com/library/courses/elasticsearch-for-dotnet-developers/table-of-contents
 
 17.6.2021
-- 
+- Executing Basic Queries with Elasticsearch - PluralSight - https://app.pluralsight.com/library/courses/executing-basic-queries-elasticsearch/table-of-contents
 
 16.6.2021
 - Elastic Stack: Getting Started - https://app.pluralsight.com/library/courses/elastic-stack-getting-started/table-of-contents
