@@ -236,6 +236,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - ProcesExplorer - https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer 
 - Zeta Resource Editor - *resx editor - https://www.zeta-resource-editor.com/index.html 
 - Azure Storage Explorer - https://azure.microsoft.com/en-us/features/storage-explorer/
+- NuGet Package Explorer - https://github.com/NuGetPackageExplorer/NuGetPackageExplorer
 
 ### Diagramy
 - DRAW IO  -https://github.com/jgraph/drawio-desktop + https://app.diagrams.net/ - free
