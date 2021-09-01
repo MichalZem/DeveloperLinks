@@ -1,7 +1,12 @@
 <h1>Learning Log</h1>
 1.9.2021
+
  - Hangfire [Jiří Kanda, HAVIT Vzdělávací okénko, 19.5.2021] - https://www.youtube.com/watch?v=b2BzddmBm4M
  - Hangfire - PluralSight - https://app.pluralsight.com/library/courses/simplified-dotnet-background-tasks-hangfire/table-of-contents
+ - Scheduling recurring jobs with Hangfire (In ASP.Net Core 3.1) - QuickOverview - https://www.youtube.com/watch?v=sQyY0xvJ4-o
+ - Asp.Net Core: Background Processing with Hangfire -  https://www.youtube.com/playlist?list=PL2Q8rFbm-4rtH-5o6mzOFA0tombRfr4Be
+
+
 
 21.6.2021
  - Executing Complex Queries with Elasticsearch - PluralSight - https://app.pluralsight.com/library/courses/executing-complex-queries-elasticsearch/table-of-contents
