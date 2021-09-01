@@ -1,11 +1,11 @@
 <h1>Learning Log</h1>
 1.9.2021
-Hangfire [Jiří Kanda, HAVIT Vzdělávací okénko, 19.5.2021] - https://www.youtube.com/watch?v=b2BzddmBm4M
-Hangfire - PluralSight - https://app.pluralsight.com/library/courses/simplified-dotnet-background-tasks-hangfire/table-of-contents
+ - Hangfire [Jiří Kanda, HAVIT Vzdělávací okénko, 19.5.2021] - https://www.youtube.com/watch?v=b2BzddmBm4M
+ - Hangfire - PluralSight - https://app.pluralsight.com/library/courses/simplified-dotnet-background-tasks-hangfire/table-of-contents
 
 21.6.2021
  - Executing Complex Queries with Elasticsearch - PluralSight - https://app.pluralsight.com/library/courses/executing-complex-queries-elasticsearch/table-of-contents
-  - Dokončení - Getting Started With Elasticsearch for .NET Developers - PluralSight - https://app.pluralsight.com/library/courses/elasticsearch-for-dotnet-developers/table-of-contents
+ - Dokončení - Getting Started With Elasticsearch for .NET Developers - PluralSight - https://app.pluralsight.com/library/courses/elasticsearch-for-dotnet-developers/table-of-contents
  - Dokončení - Executing Basic Queries with Elasticsearch - PluralSight - https://app.pluralsight.com/library/courses/executing-basic-queries-elasticsearch/table-of-contents
 
 19.6.2021
