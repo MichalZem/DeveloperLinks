@@ -6,6 +6,7 @@
  - Scheduling recurring jobs with Hangfire (In ASP.Net Core 3.1) - QuickOverview - https://www.youtube.com/watch?v=sQyY0xvJ4-o
  - Asp.Net Core: Background Processing with Hangfire -  https://www.youtube.com/playlist?list=PL2Q8rFbm-4rtH-5o6mzOFA0tombRfr4Be
  - Hangfire + MediatR = Message Dispatcher - https://www.youtube.com/watch?v=ngeEYUy9hI8
+ - HAVIT HANGFIRE Extension - https://github.com/havit/HavitFramework/tree/9aaaba2cb86ff0b83302aea61c48defe610cb30a/Havit.Hangfire.Extensions
 
 
 
