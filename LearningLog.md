@@ -1,4 +1,10 @@
 <h1>Learning Log</h1>
+
+9.9.2021
+
+- MongoDB - Cursors, Indexing, Capped Collection - https://www.youtube.com/watch?v=rDk_T_F34-w&t=72s
+- MongoDB - Text search, Replication, Sharding, Monitoring - https://www.youtube.com/watch?v=Mil2i6erarY
+
 1.9.2021
 
  - Hangfire [Jiří Kanda, HAVIT Vzdělávací okénko, 19.5.2021] - https://www.youtube.com/watch?v=b2BzddmBm4M
