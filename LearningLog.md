@@ -1,5 +1,9 @@
 <h1>Learning Log</h1>
 
+18.9.2021
+ - Software Architektura - https://profinit.eu/blog/softwarova-architektura-co-to-vlastne-je/
+ - Software Architektura - https://cw.fel.cvut.cz/b181/_media/courses/a4m33sep/materialy/architecture_and_design/profinit_swarchitectureoverview.pdf
+
 9.9.2021
 
 - MongoDB - Cursors, Indexing, Capped Collection - https://www.youtube.com/watch?v=rDk_T_F34-w&t=72s
