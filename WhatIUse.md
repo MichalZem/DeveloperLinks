@@ -55,7 +55,7 @@
 
 
 ### Základní Software
-- Windows 10 (poslední verze + aktualizace)
+- Windows 11 (poslední verze + aktualizace)
 - Drivery (Sound,VGA,LAN,..)
 - Tiskárny ovladače
 - Chrome Browser
@@ -73,13 +73,11 @@
 - 7Zip
 - Antivir – Avast
 - Notepad++ https://notepad-plus-plus.org 
-- Everything – hledání souborů https://www.voidtools.com/downloads/ 
 - ShareX  - https://getsharex.com/
 - Chocolate + Chocolate Gui
 - ZoomIt - Lupa pro prezentace s možností kreslení- https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit
 - MaincTime free version - evidence práce na PC
 - Toogle (local client) - evidence práce na Projektech - Online + Local Client
-- QTranslate - https://quest-app.appspot.com/home - Translator
 - VirtualBox https://www.virtualbox.org/ - Android Image https://www.osboxes.org/virtualbox-images/
 
 
