@@ -55,7 +55,7 @@
 
 
 ### Základní Software
-- Windows 11 (poslední verze + aktualizace)
+- Windows 10 (poslední verze + aktualizace)
 - Drivery (Sound,VGA,LAN,..)
 - Tiskárny ovladače
 - Chrome Browser
