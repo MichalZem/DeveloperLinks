@@ -4,6 +4,10 @@
  - Clean Architecture with ASP.NET Core by Steve Smith | BRDNUG June 2021 - https://www.youtube.com/watch?v=D6IEnMTuawA
  - Clean Architecture - .NET Core 5 Web API Microservices - Fundamentals (Chapter-1) - https://www.youtube.com/watch?v=TEeb0Hba8jI
  - Clean Architecture - .NET Core 5 Web API Microservices - Fundamentals (Chapter-2) - https://www.youtube.com/watch?v=es-nbJsDp-g
+ - Clean Architecture - .NET Core 5 Web API Microservices - Fundamentals (Chapter-3) - https://www.youtube.com/watch?v=X5c9eN99n5M
+ - Clean Architecture - .NET Core 5 Web API Microservices - Fundamentals (Chapter-4) - https://www.youtube.com/watch?v=DskTR7SKT7E
+ - Clean Architecture - .NET Core 5 Web API Microservices - Fundamentals (Chapter-5) - https://www.youtube.com/watch?v=SIOpdKb48qo
+ - Clean Architecture - .NET Core 5 Web API Microservices - Fundamentals (Chapter-6) - https://www.youtube.com/watch?v=vT4_FwUeOJg
  
 18.9.2021
  - Software Architektura - https://profinit.eu/blog/softwarova-architektura-co-to-vlastne-je/
