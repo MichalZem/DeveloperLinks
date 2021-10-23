@@ -1,5 +1,8 @@
 <h1>Learning Log</h1>
 
+23.10.2021
+ - Clean Architecture with ASP.NET Core by Steve Smith | BRDNUG June 2021 - https://www.youtube.com/watch?v=D6IEnMTuawA
+ - 
 18.9.2021
  - Software Architektura - https://profinit.eu/blog/softwarova-architektura-co-to-vlastne-je/
  - Software Architektura - https://cw.fel.cvut.cz/b181/_media/courses/a4m33sep/materialy/architecture_and_design/profinit_swarchitectureoverview.pdf
