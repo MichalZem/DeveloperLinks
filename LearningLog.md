@@ -1,6 +1,8 @@
 <h1>Learning Log</h1>
 
+
 23.10.2021
+ - Gill CLEEREN: Clean architecture with ASP.NET Core | UCP2019 - https://www.youtube.com/watch?v=BxtHt7tsX-c 
  - Clean Architecture with ASP.NET Core by Steve Smith | BRDNUG June 2021 - https://www.youtube.com/watch?v=D6IEnMTuawA
  - Clean Architecture - .NET Core 5 Web API Microservices - Fundamentals (Chapter-1) - https://www.youtube.com/watch?v=TEeb0Hba8jI
  - Clean Architecture - .NET Core 5 Web API Microservices - Fundamentals (Chapter-2) - https://www.youtube.com/watch?v=es-nbJsDp-g
