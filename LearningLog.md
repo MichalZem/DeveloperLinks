@@ -1,5 +1,7 @@
 <h1>Learning Log</h1>
 
+19.11.2021
+- Building A Production Ready Blazor WASM App - https://www.youtube.com/watch?v=Yi1kGOoeQqc
 
 23.10.2021
  - Gill CLEEREN: Clean architecture with ASP.NET Core | UCP2019 - https://www.youtube.com/watch?v=BxtHt7tsX-c 
