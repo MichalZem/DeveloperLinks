@@ -1,5 +1,7 @@
 <h1>Learning Log</h1>
 
+2.12.2021
+- Redis - Redis Crash Course - the What, Why and How to use Redis as your primary database - https://www.youtube.com/watch?v=OqCK95AS-YE
 19.11.2021
 - Building A Production Ready Blazor WASM App - https://www.youtube.com/watch?v=Yi1kGOoeQqc
 
