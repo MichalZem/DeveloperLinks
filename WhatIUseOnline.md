@@ -18,3 +18,4 @@
 ### INTERNET Archive
 -  https://archive.org
 -  https://archivarix.com/
+-  https://www.waybackmachinedownloader.com/en/
