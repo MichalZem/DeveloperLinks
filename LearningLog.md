@@ -6,6 +6,8 @@
 - https://www.youtube.com/watch?v=TNFNJiQMmt8 - CZJUG Praha 2015/04 Apache Kafka, Martin Podval
 - https://www.conduktor.io/download/ - Kafka UI
 - https://www.youtube.com/watch?v=q2N3gMhfjBs&list=PLYmXYyXCMsfMMhiKPw4k1FF7KWxOEajsA - Learn Apache Kafka with Conduktor Free Course
+- https://www.youtube.com/watch?v=dA7CbPIk5vg&t=2s - Stream Processing with Kafka - Asp.Net Monsters
+- https://www.youtube.com/watch?v=CnKAWZPcINo&t=9s - Getting started with .NET and Kafka (#234) - - Asp.Net Monsters
 
 
 2.12.2021
