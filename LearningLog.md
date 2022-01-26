@@ -1,5 +1,12 @@
 <h1>Learning Log</h1>
 
+26.1.2022
+- APACHE KAFKA aneb Jak pokládat moderní datové potrubí - Michal Třetina - lehký uvod do Kafky - https://www.youtube.com/watch?v=2yZvh964VSE
+- https://www.youtube.com/watch?v=TNFNJiQMmt8 - CZJUG Praha 2015/04 Apache Kafka, Martin Podval
+- https://www.conduktor.io/download/ - Kafka UI
+- https://www.youtube.com/watch?v=q2N3gMhfjBs&list=PLYmXYyXCMsfMMhiKPw4k1FF7KWxOEajsA - Learn Apache Kafka with Conduktor Free Course
+
+
 2.12.2021
 - Conflict-free Replicated Data Type - https://crdt.tech/
 - Redis - Redis Crash Course - the What, Why and How to use Redis as your primary database - https://www.youtube.com/watch?v=OqCK95AS-YE
