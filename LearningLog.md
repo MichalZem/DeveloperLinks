@@ -5,6 +5,7 @@
 
 
 26.1.2022
+- Azure Event Hub, Event Grid, and Service Bus - Made Simple -https://www.youtube.com/watch?v=hqtUZNmVVdA
 - Introduction to Apache Kafka by James Ward - Hezký úvod do Kafky - https://www.youtube.com/watch?v=UEg40Te8pnE
 - APACHE KAFKA aneb Jak pokládat moderní datové potrubí - Michal Třetina - lehký uvod do Kafky - https://www.youtube.com/watch?v=2yZvh964VSE
 - https://www.youtube.com/watch?v=TNFNJiQMmt8 - CZJUG Praha 2015/04 Apache Kafka, Martin Podval
