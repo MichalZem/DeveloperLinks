@@ -1,5 +1,9 @@
 <h1>Learning Log</h1>
 
+27.1.2022
+- Informatický večer – Doménově specifické jazyky s JetBrains MPS - DSL Jazyky - https://www.youtube.com/watch?v=OXlEjYr-ohU
+
+
 26.1.2022
 - Introduction to Apache Kafka by James Ward - Hezký úvod do Kafky - https://www.youtube.com/watch?v=UEg40Te8pnE
 - APACHE KAFKA aneb Jak pokládat moderní datové potrubí - Michal Třetina - lehký uvod do Kafky - https://www.youtube.com/watch?v=2yZvh964VSE
