@@ -1,5 +1,8 @@
 <h1>Learning Log</h1>
 
+28.1.2022
+- David Majda, Josef Reidinger - SUSE - Code reviews FTW - https://www.youtube.com/watch?v=D9pgzKx8FII
+
 27.1.2022
 - Informatický večer – Doménově specifické jazyky s JetBrains MPS - DSL Jazyky - https://www.youtube.com/watch?v=OXlEjYr-ohU
 
