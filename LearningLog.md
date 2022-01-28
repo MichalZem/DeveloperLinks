@@ -2,6 +2,7 @@
 
 28.1.2022
 - David Majda, Josef Reidinger - SUSE - Code reviews FTW - https://www.youtube.com/watch?v=D9pgzKx8FII
+- Building event driven (Micro) Services with Apache Kafka by Guido Schmutz - https://www.youtube.com/watch?v=IR1NLfaq7PU
 
 27.1.2022
 - Informatický večer – Doménově specifické jazyky s JetBrains MPS - DSL Jazyky - https://www.youtube.com/watch?v=OXlEjYr-ohU
