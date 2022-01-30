@@ -1,5 +1,7 @@
 <h1>Learning Log</h1>
 
+30.1.2022
+- Hadoop In 5 Minutes | What Is Hadoop? | Introduction To Hadoop | Hadoop Explained |Simplilearn-  https://www.youtube.com/watch?v=aReuLtY0YMI
 28.1.2022
 - Apache Kafka Crash Course - https://www.youtube.com/watch?v=R873BlNVUB4
 - David Majda, Josef Reidinger - SUSE - Code reviews FTW - https://www.youtube.com/watch?v=D9pgzKx8FII
