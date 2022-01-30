@@ -1,4 +1,5 @@
 - https://www.pluralsight.com/
+- https://www.simplilearn.com/skillup/skillup-free-online-courses
 - https://www.packtpub.com/
 - https://www.apress.com/us
 - https://www.edx.org/
