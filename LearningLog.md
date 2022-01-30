@@ -1,6 +1,7 @@
 <h1>Learning Log</h1>
 
 28.1.2022
+- Apache Kafka Crash Course - https://www.youtube.com/watch?v=R873BlNVUB4
 - David Majda, Josef Reidinger - SUSE - Code reviews FTW - https://www.youtube.com/watch?v=D9pgzKx8FII
 - Building event driven (Micro) Services with Apache Kafka by Guido Schmutz - https://www.youtube.com/watch?v=IR1NLfaq7PU
 - The Many Meanings of Event-Driven Architecture • Martin Fowler - https://www.youtube.com/watch?v=STKCRSUsyP0
