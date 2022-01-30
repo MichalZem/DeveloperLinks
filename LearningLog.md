@@ -3,6 +3,10 @@
 30.1.2022
 - Hadoop In 5 Minutes | What Is Hadoop? | Introduction To Hadoop | Hadoop Explained |Simplilearn-  https://www.youtube.com/watch?v=aReuLtY0YMI
 - Big Data In 5 Minutes | What Is Big Data?| Introduction To Big Data |Big Data Explained |Simplilearn - https://www.youtube.com/watch?v=bAyrObl7TYE
+
+29.1.2022
+- Apache Kafka Event-Streaming Platform for .NET Developers - https://www.youtube.com/watch?v=KrrnUrPWUZY
+
 28.1.2022
 - Apache Kafka Crash Course - https://www.youtube.com/watch?v=R873BlNVUB4
 - David Majda, Josef Reidinger - SUSE - Code reviews FTW - https://www.youtube.com/watch?v=D9pgzKx8FII
