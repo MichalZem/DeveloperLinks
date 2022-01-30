@@ -2,7 +2,8 @@
 
 31.1.2022
 - Beginner's Crash Course to Elastic Stack - https://www.youtube.com/playlist?list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es
-- 
+- https://github.com/LisaHJung/Beginners-Crash-Course-to-Elastic-Stack-Series-Table-of-Contents
+
 30.1.2022
 - Hadoop In 5 Minutes | What Is Hadoop? | Introduction To Hadoop | Hadoop Explained |Simplilearn-  https://www.youtube.com/watch?v=aReuLtY0YMI
 - Big Data In 5 Minutes | What Is Big Data?| Introduction To Big Data |Big Data Explained |Simplilearn - https://www.youtube.com/watch?v=bAyrObl7TYE
