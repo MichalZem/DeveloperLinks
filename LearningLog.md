@@ -1,6 +1,8 @@
 <h1>Learning Log</h1>
 
 31.1.2022
+- https://github.com/elastic/rally  - Elastic Benchmark Tool
+- Elasticsearch - Clustre, Node, Replikace,, Počet Shardů,... Deep Dive  - https://www.youtube.com/watch?v=ms7FtQebWLw - A Day in the Life of an Elasticsearch Architect
 - Beginner's Crash Course to Elastic Stack - https://www.youtube.com/playlist?list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es
 - https://github.com/LisaHJung/Beginners-Crash-Course-to-Elastic-Stack-Series-Table-of-Contents
 
