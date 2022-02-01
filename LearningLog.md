@@ -2,7 +2,8 @@
 
 1.2.2022
 - CLIWRAP - Command Line Wrapper C# - https://dev.to/tyrrrz/cliwrap-execute-shell-commands-with-extensive-support-for-piping-3gm8
-- MediatR - https://www.youtube.com/watch?v=YzOBrVlthMk
+- MediatR - Clean ASP.NET Core API using MediatR and CQRS | Setup- https://www.youtube.com/watch?v=YzOBrVlthMk
+- MediatR - Validation using MediatR's Pipeline Behaviors and FluentValidation | Clean .NET Core - https://www.youtube.com/watch?v=2JzQuIvxIqk
 
 31.1.2022
 - https://github.com/elastic/rally  - Elastic Benchmark Tool
