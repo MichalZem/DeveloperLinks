@@ -1,5 +1,9 @@
 <h1>Learning Log</h1>
 
+1.2.2022
+- CLIWRAP - Command Line Wrapper C# - https://dev.to/tyrrrz/cliwrap-execute-shell-commands-with-extensive-support-for-piping-3gm8
+- MediatR - https://www.youtube.com/watch?v=YzOBrVlthMk
+
 31.1.2022
 - https://github.com/elastic/rally  - Elastic Benchmark Tool
 - Elasticsearch - Clustre, Node, Replikace,, Počet Shardů,... Deep Dive  - https://www.youtube.com/watch?v=ms7FtQebWLw - A Day in the Life of an Elasticsearch Architect
