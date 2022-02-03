@@ -23,6 +23,9 @@
 ### Azure tools
 - Azure Service Bus UI- https://github.com/paolosalvatori/ServiceBusExplorer
 
+### Apache Kafka
+- Kafka Tools - Offset Explorer - https://www.kafkatool.com/index.html
+
 ### Elasticsearch tools
 - Elasticvue is a free and open-source elasticsearch gui for the browser - Elasticvue - https://elasticvue.com/
 - Management and Monitoring for Elasticsearch - ElasticHQ - https://www.elastichq.org
