@@ -1,5 +1,8 @@
 <h1>Learning Log</h1>
 
+2.2.2022
+- Škálování Elasticsearch indexu - https://datadome.co/bot-detection/store-50-million-event-per-second-in-elasticsearch/
+
 1.2.2022
 - CLIWRAP - Command Line Wrapper C# - https://dev.to/tyrrrz/cliwrap-execute-shell-commands-with-extensive-support-for-piping-3gm8
 - MediatR - Clean ASP.NET Core API using MediatR and CQRS | Setup- https://www.youtube.com/watch?v=YzOBrVlthMk
