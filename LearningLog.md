@@ -1,6 +1,7 @@
 <h1>Learning Log</h1>
 
 2.2.2022
+- Normalizace a indexace monitorovacích dat za použití nástroje Elasticsearch - Diplomova práce -Bc. Václav Janošek - https://is.muni.cz/th/z1uwt/Diplomova_prace.pdf
 - Time Series Data with Index Lifecycle Management (ILM) policies - Elasticsearch - https://www.youtube.com/watch?v=6oEtbyrByRk
 - Škálování Elasticsearch indexu - https://datadome.co/bot-detection/store-50-million-event-per-second-in-elasticsearch/
 
