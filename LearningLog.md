@@ -1,6 +1,8 @@
 <h1>Learning Log</h1>
 
 5.2.2022
+- Data Rollups in Elasticsearch (ELK Stack) - https://www.youtube.com/watch?v=I5-9x_pQ-Y0
+- Deep dive into the new Elastic Indexing Strategy - EleasticSearch - https://www.youtube.com/watch?v=ls1O-gB-Voo
 - How to Reindex One Billion Documents in One Hour at SoundCloud - Elasticsearch - optimalizace - Indexy - https://developers.soundcloud.com/blog/how-to-reindex-1-billion-documents-in-1-hour-at-soundcloud
 - Zpracování IP toků nástroji Elasticsearch a Kibana - Diplomová práce Bc. Jana Němcová - https://is.muni.cz/th/i0os8/Diplomova_prace.pdf 
 - Elasticsearch .NET - https://damienbod.com/2014/09/22/elasticsearch-crud-net-provider/
