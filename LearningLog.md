@@ -1,5 +1,8 @@
 <h1>Learning Log</h1>
 
+5.2.2022
+- Zpracování IP toků nástroji Elasticsearch a Kibana - Diplomová práce Bc. Jana Němcová - https://is.muni.cz/th/i0os8/Diplomova_prace.pdf 
+
 2.2.2022
 - Apache Lucene Net - Search Engine (ala Elesticsearch) API in C# -  - https://lucenenet.apache.org/
 - Normalizace a indexace monitorovacích dat za použití nástroje Elasticsearch - Diplomova práce -Bc. Václav Janošek - https://is.muni.cz/th/z1uwt/Diplomova_prace.pdf
