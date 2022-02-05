@@ -1,6 +1,7 @@
 <h1>Learning Log</h1>
 
 5.2.2022
+- Rearchitecting a SQL Database for Time-Series Data | TimescaleDB- Time series database - https://www.youtube.com/watch?v=eQKbbCg0NqE
 - Using Elasticsearch as a Time-Series Database in the Endpoint Agent - May 6, 2020 Elastic Meetup - https://www.youtube.com/watch?v=hNzxm157gPg
 - Index Lifecycle Management for Existing Clusters - Elasticsearch - https://www.youtube.com/watch?v=p-AhtrfbEjE
 - Data Rollups in Elasticsearch (ELK Stack) - https://www.youtube.com/watch?v=I5-9x_pQ-Y0
