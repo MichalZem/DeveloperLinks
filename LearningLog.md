@@ -1,6 +1,7 @@
 <h1>Learning Log</h1>
 
 5.2.2022
+- Index Lifecycle Management for Existing Clusters - Elasticsearch - https://www.youtube.com/watch?v=p-AhtrfbEjE
 - Data Rollups in Elasticsearch (ELK Stack) - https://www.youtube.com/watch?v=I5-9x_pQ-Y0
 - Deep dive into the new Elastic Indexing Strategy - EleasticSearch - https://www.youtube.com/watch?v=ls1O-gB-Voo
 - How to Reindex One Billion Documents in One Hour at SoundCloud - Elasticsearch - optimalizace - Indexy - https://developers.soundcloud.com/blog/how-to-reindex-1-billion-documents-in-1-hour-at-soundcloud
