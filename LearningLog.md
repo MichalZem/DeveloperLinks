@@ -2,6 +2,7 @@
 
 5.2.2022
 - Zpracování IP toků nástroji Elasticsearch a Kibana - Diplomová práce Bc. Jana Němcová - https://is.muni.cz/th/i0os8/Diplomova_prace.pdf 
+- Elasticsearch .NET - https://damienbod.com/2014/09/22/elasticsearch-crud-net-provider/
 
 2.2.2022
 - Apache Lucene Net - Search Engine (ala Elesticsearch) API in C# -  - https://lucenenet.apache.org/
