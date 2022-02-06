@@ -1,4 +1,9 @@
 <h1>Learning Log</h1>
+6.2.2022
+- Beginner's Crash Course to Elastic Stack - Part 2: Relevance of a search - https://www.youtube.com/watch?v=CCTgroOcyfM&list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es&index=3
+- Blazor MVVM Part 1: Carl Franklin's Blazor Train ep 24 - https://www.youtube.com/watch?v=pxNCogNSPm0
+- Blazor MVVM Part 2: Carl Franklin's Blazor Train ep 25 - https://www.youtube.com/watch?v=PUm9P_pJZV0
+
 
 5.2.2022
 - Rearchitecting a SQL Database for Time-Series Data | TimescaleDB- Time series database - https://www.youtube.com/watch?v=eQKbbCg0NqE
