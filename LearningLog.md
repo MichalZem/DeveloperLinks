@@ -1,4 +1,8 @@
 <h1>Learning Log</h1>
+8.2.2022
+- Vue vs Blazor(2020) -  https://www.youtube.com/watch?v=zO2po8_EgCg
+
+
 6.2.2022
 - Beginner's Crash Course to Elastic Stack - Part 2: Relevance of a search - https://www.youtube.com/watch?v=CCTgroOcyfM&list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es&index=3
 - Blazor MVVM Part 1: Carl Franklin's Blazor Train ep 24 - https://www.youtube.com/watch?v=pxNCogNSPm0
