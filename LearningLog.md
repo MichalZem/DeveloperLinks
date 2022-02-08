@@ -1,7 +1,12 @@
 <h1>Learning Log</h1>
+
 8.2.2022
 - Vue vs Blazor(2020) -  https://www.youtube.com/watch?v=zO2po8_EgCg
+- ElasticSearch Enterprise Search App - https://www.youtube.com/watch?v=Hqcf8nWMZBg
+- Beginner’s Crash Course to Elastic Stack - Part 4: Aggregations - https://www.youtube.com/watch?v=iGKOdep1Iss&list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es&index=4
 
+7.2.2022
+- Beginner’s Crash Course to Elastic Stack - Part 3: Full text queries - https://www.youtube.com/watch?v=2KgJ6TQPIIA&list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es&index=5
 
 6.2.2022
 - Beginner's Crash Course to Elastic Stack - Part 2: Relevance of a search - https://www.youtube.com/watch?v=CCTgroOcyfM&list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es&index=3
