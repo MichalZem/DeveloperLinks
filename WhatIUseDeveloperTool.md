@@ -2,6 +2,7 @@
 
 
 ## HTTP Request Testing
+- Nte Core - load testing framework - https://github.com/PragmaticFlow/NBomber
 - Tinyget.Exe – Web StressTest -  https://www.microsoft.com/en-us/download/details.aspx?id=17275 (součást IIS Resource Kitu Tools - nutno vypreparovat)
 - Appache JMeter - https://jmeter.apache.org/TestWebu, Web Loadtest,Web StressTest,
 	-- https://marketplace.visualstudio.com/items?itemName=EmtecInc.JMeterTestExplorer VisualStudio Extension
