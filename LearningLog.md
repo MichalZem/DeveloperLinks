@@ -1,5 +1,10 @@
 <h1>Learning Log</h1>
 
+9.2.2022
+- NET Core -  Create a console application with Cocona in seconds. -  https://github.com/mayuki/Cocona
+- Nick Chapsas - Another 5 .NET projects that deserve more attention - https://www.youtube.com/watch?v=pDCMXoisvX4 (Cocona, docker-testcontainer,regextract,UnitsNet)
+-  Nick Chapsas - 5 open source .NET projects that deserve more attention - https://www.youtube.com/watch?v=mwHWPoKEmyY
+-  
 8.2.2022
 - Vue vs Blazor(2020) -  https://www.youtube.com/watch?v=zO2po8_EgCg
 - ElasticSearch Enterprise Search App - https://www.youtube.com/watch?v=Hqcf8nWMZBg
