@@ -219,6 +219,7 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - Liquid studio - XML,JSON, Editor - https://www.liquid-technologies.com/xml-studio
 
 ### Other Developer Tools
+- csharprepl - https://github.com/waf/CSharpRepl
 - https://devtoys.app/ - DEV švýcarský nuž
 - Nástroje od Sysinternals - https://docs.microsoft.com/en-us/sysinternals/downloads/
 - Diagramy - https://www.eclipse.org/sirius/download.html
