@@ -1,6 +1,7 @@
 <h1>Learning Log</h1>
 
 9.2.2022
+- Clean Architecture with ASP.NET Core 6 - https://www.youtube.com/watch?v=lkmvnjypENw
 - Clean Architecture - https://www.c-sharpcorner.com/article/what-is-clean-architecture/
 - Clean Architecture - https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 - NET Core -  Create a console application with Cocona in seconds. -  https://github.com/mayuki/Cocona
