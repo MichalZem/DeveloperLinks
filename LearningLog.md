@@ -1,5 +1,9 @@
 <h1>Learning Log</h1>
 
+11.2.2022
+- Beginner’s Crash Course to Elastic Stack - Part 5: Mapping - https://www.youtube.com/watch?v=FQAHDrVwfok&list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es&index=6
+
+
 9.2.2022
 - Clean Architecture with ASP.NET Core 6 - https://www.youtube.com/watch?v=lkmvnjypENw
 - Clean Architecture - https://www.c-sharpcorner.com/article/what-is-clean-architecture/
