@@ -145,7 +145,7 @@
 - Visual Studio Code Latest Version
 
 ### Visual Studio Extensions
-- IntelliCode Microsoft
+- MetaOutput 2022 - https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.MetaOutput-2022
 - SwitchStartupProject for VS 2019 -https://marketplace.visualstudio.com/items?itemName=vs-publisher-141975.SwitchStartupProjectForVS2019
 - Output enhancer - Color in Build output - https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer
 - MiddleClickDefinition https://marketplace.visualstudio.com/items?itemName=norachuga.MiddleClickDefinition
