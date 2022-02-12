@@ -1,5 +1,6 @@
 # Visual Studio Extensions
 
+- Preview-YAML https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.Preview-YAML
 - MetaOutput 2022 - https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.MetaOutput-2022
 - Visualize call graph, inheritance graph and variable usage graph for C/C++, C#, Python and other languages. - https://marketplace.visualstudio.com/items?itemName=YaobinOuyang.CodeGraph
 - Graf závislostí tříd - https://marketplace.visualstudio.com/items?itemName=DavidOliver.codeconnections 
