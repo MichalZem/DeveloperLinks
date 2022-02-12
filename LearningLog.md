@@ -1,7 +1,7 @@
 <h1>Learning Log</h1>
 
 13.2.2022
-- Perform Index Management Tasks in Kibana -  https://app.pluralsight.com/library/courses/perform-index-management-tasks-in-kibana/table-of-contents
+- Elasticsearch - Perform Index Management Tasks in Kibana -  https://app.pluralsight.com/library/courses/perform-index-management-tasks-in-kibana/table-of-contents
 
 12.2.2022
 - Elasticsearch Beginner’s Crash Course to Elastic Stack - Part 6: Troubleshooting Errors - https://www.youtube.com/watch?v=jzBoSHcmTN0&list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es&index=7
