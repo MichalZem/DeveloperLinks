@@ -1,6 +1,10 @@
 <h1>Learning Log</h1>
 
 14.2.2022
+- MSBUILD - https://www.youtube.com/watch?v=Fz4hViH5bGc
+- dotnet build -bl - vztvori Binary Log file pri buildu
+- MSBUILD log viewer- https://msbuildlog.com/
+- MSBUILD log viewer online - https://live.msbuildlog.com/
 - RISON - JSON in URL - https://rison.io/
 - RISON - https://github.com/Nanonid/rison
 - RISON C# - https://gist.github.com/smietanka/69421497369819a2e008511b42e3b81b
