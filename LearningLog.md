@@ -1,5 +1,10 @@
 <h1>Learning Log</h1>
 
+14.2.2022
+- RISON - JSON in URL - https://rison.io/
+- RISON - https://github.com/Nanonid/rison
+- RISON C# - https://gist.github.com/smietanka/69421497369819a2e008511b42e3b81b
+
 13.2.2022
 - Elasticsearch - Optimalizace - https://www.elastic.co/blog/elasticsearch-as-a-time-series-data-store
 - Elasticsearch - Perform Index Management Tasks in Kibana -  https://app.pluralsight.com/library/courses/perform-index-management-tasks-in-kibana/table-of-contents
