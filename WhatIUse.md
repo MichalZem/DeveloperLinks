@@ -145,7 +145,7 @@
 - Visual Studio Code Latest Version
 
 ### Visual Studio Extensions
-[viz VS-Extension.md](VS-Extensions.md)
+[VisualStudio-Extensions.md](VisualStudio-Extensions.md)
 
 ### Práce s logy
 - Log parser - https://www.microsoft.com/en-us/download/details.aspx?id=24659 (https://knowledge-base.havit.cz/2017/12/12/tip-microsoft-logparser-studio-rychle-sql-dotazovani-do-textovych-log-souboru/)
