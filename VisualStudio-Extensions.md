@@ -1,3 +1,4 @@
+[Root](WhatIUse.md)
 # Visual Studio Extensions
 
 - Notebook Editor - Ala Jupyter notebook - https://marketplace.visualstudio.com/items?itemName=MLNET.notebook
