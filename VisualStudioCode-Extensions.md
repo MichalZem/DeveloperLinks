@@ -1,3 +1,4 @@
+[Root](WhatIUse.md)
 # Visual Studio Code - Extensions
 
 - .NET Interactive Notebooks
