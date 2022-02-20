@@ -1,5 +1,9 @@
 <h1>Learning Log</h1>
 
+
+20.2.2022
+ - Jak zkrotit kontejnery, aneb úvod do Kubernetes (Vojtech Suk) - InstallFest - https://www.youtube.com/watch?v=IPDHG9FZnC0 
+ 
 14.2.2022
 - MSBUILD - https://www.youtube.com/watch?v=Fz4hViH5bGc
 - dotnet build -bl - vztvori Binary Log file pri buildu
