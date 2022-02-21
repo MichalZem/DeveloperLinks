@@ -2,7 +2,7 @@
 
 21.2.2022
  - zaklad WCF - What is WCF Windows Communication Foundation - https://www.youtube.com/watch?v=azfA_n_2wXo
- - 
+ - zaklad WCF - WCF Rest Service Tutorial Windows Communications Foundation- https://www.youtube.com/watch?v=O723kSYF-Fc
 20.2.2022
  - Jak zkrotit kontejnery, aneb úvod do Kubernetes (Vojtech Suk) - InstallFest - https://www.youtube.com/watch?v=IPDHG9FZnC0 
  
