@@ -1,5 +1,9 @@
 <h1>Learning Log</h1>
 
+24.2.2022
+- ASP.NET Data Protection - Základí použití - https://www.youtube.com/watch?v=_T-hz9vMtPA
+- ASP.NET Data Protection - Časové omezení - https://www.youtube.com/watch?v=_vckwfU8duo
+- 
 21.2.2022
  - zaklad WCF - What is WCF Windows Communication Foundation - https://www.youtube.com/watch?v=azfA_n_2wXo
  - zaklad WCF - WCF Rest Service Tutorial Windows Communications Foundation- https://www.youtube.com/watch?v=O723kSYF-Fc
