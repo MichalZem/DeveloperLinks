@@ -1,5 +1,9 @@
 <h1>Learning Log</h1>
 
+25.2.2022
+- Blazor, NET 6, and WebAssembly - Steven Sanderson - NDC Oslo 2021 + SQLite in Blazor https://www.youtube.com/watch?v=Rn8psTi8FBk
+- plus odkaz na Guthub https://github.com/SteveSandersonMS/BlazeOrbital
+
 24.2.2022
 - ASP.NET Data Protection - Základí použití - https://www.youtube.com/watch?v=_T-hz9vMtPA
 - ASP.NET Data Protection - Časové omezení - https://www.youtube.com/watch?v=_vckwfU8duo
