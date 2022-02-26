@@ -141,6 +141,7 @@ https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nu
 
 
 ## Abstract factory  - dokončit
+https://www.c-sharpcorner.com/article/c-sharp-abstract-factory-design-pattern-with-code-example/
 https://dotnettutorials.net/lesson/abstract-factory-design-pattern-csharp/ 
 https://www.dofactory.com/net/abstract-factory-design-pattern 
 https://exceptionnotfound.net/the-daily-design-pattern-abstract-factory/ 
