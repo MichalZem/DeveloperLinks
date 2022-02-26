@@ -172,6 +172,15 @@ https://www.youtube.com/watch?v=AvszFRYvvt0
 https://www.youtube.com/watch?v=eubM6uxnoUo
 https://www.youtube.com/watch?v=bxOY0uBvz38 
 
+
+## Visitor Design Pattern
+- https://code-maze.com/csharp-visitor-design-pattern/
+
+
+## Observer
+- https://code-maze.com/csharp-observer-design-pattern/
+
+
 ## Broker
 https://www.youtube.com/watch?v=L6tLGQiKZNE  + druhá složitejší část https://www.youtube.com/watch?v=FS6NkMcXjg4&t=1s – zatím jsem nepochopil do podrobna
 
