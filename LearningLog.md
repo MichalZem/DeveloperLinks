@@ -1,5 +1,9 @@
 <h1>Learning Log</h1>
 
+26.2.2022
+- Srigi – Wireguard Postav si vlastnú, super rýchlu a bezpečnú VPN - https://www.youtube.com/watch?v=OtKr4Xz8MT4
+- https://www.wireguard.com/ VPN
+
 25.2.2022
 - Blazor, NET 6, and WebAssembly - Steven Sanderson - NDC Oslo 2021 + SQLite in Blazor https://www.youtube.com/watch?v=Rn8psTi8FBk
 - plus odkaz na Guthub https://github.com/SteveSandersonMS/BlazeOrbital
