@@ -1,5 +1,9 @@
 <h1>Learning Log</h1>
 
+3.3.2022
+ - Dokumentace Official ASP.NET Core Blazor JavaScript interoperability (JS interop) -  https://docs.microsoft.com/en-us/aspnet/core/blazor/javascript-interoperability/?view=aspnetcore-6.0
+ 
+ - Using Javascript in Blazor - Deep Dive! - https://www.youtube.com/watch?v=xD8WWHzLbno&t=288
 26.2.2022
 - Srigi – Wireguard Postav si vlastnú, super rýchlu a bezpečnú VPN - https://www.youtube.com/watch?v=OtKr4Xz8MT4
 - https://www.wireguard.com/ VPN
