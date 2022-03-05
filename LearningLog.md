@@ -1,6 +1,7 @@
 <h1>Learning Log</h1>
 
 5.3.2022
+- Interacting with JavaScript Objects using the new IJSObjectReference in Blazor https://swimburger.net/blog/dotnet/interacting-with-javascript-objects-using-the-new-ijsobjectreference-in-blazor
 - c# CLASSES, STRUCTURES, AND RECORDS - ttps://dotnettips.wordpress.com/2022/03/04/classes-structures-and-records-oh-my/
 - Super fast transactions in low milli seconds using Cosmos DB and Redis - Bryden Oliver + Databázové zámky - https://www.youtube.com/watch?v=xgh9F_HcOFo
 - https://redis.io/topics/distlock - REDIS Distributovaný zámakek, Distributed Lock
