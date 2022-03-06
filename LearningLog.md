@@ -6,7 +6,7 @@
 - Super fast transactions in low milli seconds using Cosmos DB and Redis - Bryden Oliver + Databázové zámky - https://www.youtube.com/watch?v=xgh9F_HcOFo
 - https://redis.io/topics/distlock - REDIS Distributovaný zámakek, Distributed Lock
 3.3.2022
- - Blazor - Add compiler error if there's a <script> element inside a component  https://github.com/dotnet/aspnetcore/issues/16218
+ - Blazor - Add compiler error if there's a <script> element inside a component - suppress-error "BL9992  https://github.com/dotnet/aspnetcore/issues/16218
  - Dokumentace Official ASP.NET Core Blazor JavaScript interoperability (JS interop) -  https://docs.microsoft.com/en-us/aspnet/core/blazor/javascript-interoperability/?view=aspnetcore-6.0
   - Using Javascript in Blazor - Deep Dive! - https://www.youtube.com/watch?v=xD8WWHzLbno&t=288
 26.2.2022
