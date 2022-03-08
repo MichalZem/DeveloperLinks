@@ -1,6 +1,7 @@
 [Root](WhatIUse.md)
 # Visual Studio Extensions
 
+- Edge Dev Tools - https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.VisualStudioEdgeDevTools
 - Notebook Editor - Ala Jupyter notebook - https://marketplace.visualstudio.com/items?itemName=MLNET.notebook
 - Visualize call graph, inheritance graph and variable usage graph for C/C++, C#, Python and other languages. - https://marketplace.visualstudio.com/items?itemName=YaobinOuyang.CodeGraph
 - Graf závislostí tříd - https://marketplace.visualstudio.com/items?itemName=DavidOliver.codeconnections 
