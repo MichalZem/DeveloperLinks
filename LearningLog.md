@@ -1,5 +1,9 @@
 <h1>Learning Log</h1>
 
+9.3.2022
+- API C# Alternativa k Minimal API - https://fast-endpoints.com/ + video 
+Nick Chapsas - https://www.youtube.com/watch?v=z32_7KgCr6c (A new way to build CLEAN and FAST APIs in .NET)
+
 5.3.2022
 - Interacting with JavaScript Objects using the new IJSObjectReference in Blazor https://swimburger.net/blog/dotnet/interacting-with-javascript-objects-using-the-new-ijsobjectreference-in-blazor
 - c# CLASSES, STRUCTURES, AND RECORDS - ttps://dotnettips.wordpress.com/2022/03/04/classes-structures-and-records-oh-my/
