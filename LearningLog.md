@@ -1,5 +1,8 @@
 <h1>Learning Log</h1>
 
+11.3.2022
+- The evolution of Properties in C# from version 1 to 10 - Nick Chapsas - https://www.youtube.com/watch?v=RqdZCq-2GNM
+- .NET - Asynchronní úlohy na zelené louce 1/2 [Ondřej Václavek, HAVIT Vzdělávací okénko, 19.1.2022] - https://www.youtube.com/watch?v=3QexF0_k0do
 9.3.2022
 - API C# Alternativa k Minimal API - https://fast-endpoints.com/ + video 
 Nick Chapsas - https://www.youtube.com/watch?v=z32_7KgCr6c (A new way to build CLEAN and FAST APIs in .NET)
