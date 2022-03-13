@@ -1,5 +1,8 @@
 <h1>Learning Log</h1>
 
+13.3.2022
+- Blazor,Bunit - Best practices unit testing Blazor components with bUnit - Egil Hansen - NDC Oslo 2021 - https://www.youtube.com/watch?v=Co7QetPYiO4
+- 
 11.3.2022
 - The evolution of Pattern Matching in C# (from version 6 to 10) - https://www.youtube.com/watch?v=MzNHMJCyU40
 - The evolution of Properties in C# from version 1 to 10 - Nick Chapsas - https://www.youtube.com/watch?v=RqdZCq-2GNM
