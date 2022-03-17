@@ -36,6 +36,7 @@ Studio 3T - https://studio3t.com/download/
 NoSQL Manager MongoDb - https://www.mongodbmanager.com/
 
 ## API/REST
+- Nightingale REST Client - for Windows / alternativa PostMan
 - Fake API Json Server (C#) - https://github.com/ttu/dotnet-fake-json-server
 - Fake API Json Server (běží pod NODE) -  https://github.com/typicode/json-server
  
