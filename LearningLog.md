@@ -1,5 +1,7 @@
 <h1>Learning Log</h1>
 
+7.4.2022
+- Blazor JavaScript - https://www.youtube.com/watch?v=dXVWtGxw7GA&list=PLRPCjWNXEQguKsiM-TXedb8fRL7LjnBM5&index=5
 13.3.2022
 - Blazor,Bunit - Best practices unit testing Blazor components with bUnit - Egil Hansen - NDC Oslo 2021 - https://www.youtube.com/watch?v=Co7QetPYiO4
 - c# run async in sync (eun synchronously, await, async) https://stackoverflow.com/questions/5095183/how-would-i-run-an-async-taskt-method-synchronously/5097066#5097066
