@@ -101,6 +101,7 @@
 - YouTube Ad Auto-skipper - https://chrome.google.com/webstore/detail/youtube-ad-auto-skipper/lokpenepehfdekijkebhpnpcjjpngpnd
 - Loom Record obrazovky - https://www.loom.com/
 
+
 ### MultiMédia - Video, Music, Image
 - VLC Player
 	- https://github.com/nurupo/vlc-pause-click-plugin   Click to Play/Pause Plugin
@@ -120,6 +121,10 @@
 - Titulky - Přehrávač - https://github.com/carsonip/Penguin-Subtitle-Player
 - Titulky - Subtitle editor - https://nikse.dk/SubtitleEdit/
 
+### Střih Videa
+- Pinnacle Studio 25
+### Animace
+CartoonAnimator Pro 4.51
 
 ### Systém Tools + Command Line Utility
 - CMDER - lepší Windows Command line - https://cmder.net/
