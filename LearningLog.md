@@ -1,4 +1,6 @@
 <h1>Learning Log</h1>
+8.6.2022
+- gRPC Updates in .NET 7 - https://www.youtube.com/watch?v=ds27V6rNick
 
 7.4.2022
 - Blazor JavaScript - https://www.youtube.com/watch?v=dXVWtGxw7GA&list=PLRPCjWNXEQguKsiM-TXedb8fRL7LjnBM5&index=5
