@@ -1,4 +1,7 @@
 <h1>Learning Log</h1>
+7.7.2022
+ - MVVM in .NET MAUI - https://www.youtube.com/watch?v=AXpTeiWtbC8
+
 8.6.2022
 - gRPC Updates in .NET 7 - https://www.youtube.com/watch?v=ds27V6rNick
 
