@@ -1,4 +1,7 @@
 <h1>Learning Log</h1>
+18.7.2022
+- Getting started with Azure App Configuration | Azure Friday - https://www.youtube.com/watch?v=EIvuLLAMLZg
+
 7.7.2022
  - MVVM in .NET MAUI - https://www.youtube.com/watch?v=AXpTeiWtbC8
 
