@@ -1,7 +1,8 @@
 <h1>Learning Log</h1>
 20.7.2022
 - Význam kovariance a kontravariance v C# - https://code-maze.com/csharp-covariance-and-contravariance/
--
+- Knihovna pro Diagramy https://plantuml.com/ - diagram, grafy - UML, Process,...
+
 18.7.2022
 - Getting started with Azure App Configuration | Azure Friday - https://www.youtube.com/watch?v=EIvuLLAMLZg
 
