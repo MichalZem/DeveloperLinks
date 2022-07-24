@@ -1,4 +1,8 @@
 <h1>Learning Log</h1>
+24.7.2022
+Microservices with Azure Container Apps and Dapr - https://www.youtube.com/watch?v=s96io88CM6A
+TechFides Videa - https://www.youtube.com/channel/UCQTT1e48YuGd4-mZkhwxp3Q
+
 20.7.2022
 - Význam kovariance a kontravariance v C# - https://code-maze.com/csharp-covariance-and-contravariance/
 - Knihovna pro Diagramy https://plantuml.com/ - diagram, grafy - UML, Process,...
