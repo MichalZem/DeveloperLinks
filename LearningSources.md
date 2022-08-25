@@ -1,5 +1,6 @@
 - https://www.pluralsight.com/
 - https://www.packtpub.com/
+- https://www.oreilly.com/
 - https://www.youtube.com/  (premium account)
 - https://www.simplilearn.com/skillup/skillup-free-online-courses
 - https://www.apress.com/us
