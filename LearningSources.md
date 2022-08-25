@@ -1,9 +1,10 @@
 - https://www.pluralsight.com/
-- https://www.simplilearn.com/skillup/skillup-free-online-courses
 - https://www.packtpub.com/
+- https://www.youtube.com/  (premium account)
+- https://www.simplilearn.com/skillup/skillup-free-online-courses
 - https://www.apress.com/us
 - https://www.edx.org/
 - https://www.udemy.com/
 - https://www.learn2code.cz/
 - https://kodekloud.com/
-- 
+- https://mvtd.events.microsoft.com/
