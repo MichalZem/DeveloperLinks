@@ -1,6 +1,7 @@
-- https://www.pluralsight.com/
-- https://www.packtpub.com/
-- https://www.oreilly.com/
+- https://www.alvinashcraft.com/ - The Morning Dew - Daily links for web, Windows and .NET developers.
+- https://www.pluralsight.com/ - e-kurzy
+- https://www.packtpub.com/ - e-kurzy + books
+- https://www.oreilly.com/ - e-kurzy + books
 - https://www.youtube.com/  (premium account)
 - https://www.simplilearn.com/skillup/skillup-free-online-courses
 - https://www.apress.com/us
