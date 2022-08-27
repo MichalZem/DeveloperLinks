@@ -1,5 +1,5 @@
 [Root](../README.md)
-
+ 
 ### Hardware
 - PC (Hlavní vývojářské) - koupen (27.1.2018)
 	-	Intel Core i7-8700K

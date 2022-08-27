@@ -1,6 +1,6 @@
-Samsung S7
+[Root](../README.md)
 
-
+# LG
 
 - OneDrive
 - Goolge Drive
@@ -50,9 +50,7 @@ Samsung S7
 - Memorado
 - Lumosity
 - DroidCamApp - https://play.google.com/store/apps/developer?id=Dev47Apps , https://play.google.com/store/apps/developer?id=Dev47Apps
-
 - Mathman - matematika interaktivně a česky
-
 
 # Koupeno
 	

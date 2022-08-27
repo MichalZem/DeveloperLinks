@@ -1,4 +1,17 @@
+[Root](../README.md)
+
+# What I Use - Learning sources
+
+### Learning Log
+[Learning Log](LearningLog.md)
+
+
+### Denně kontrola
 - https://www.alvinashcraft.com/ - The Morning Dew - Daily links for web, Windows and .NET developers.
+- https://www.youtube.com/ - YouTube Premium
+
+
+### Dle cíle 
 - https://www.pluralsight.com/ - e-kurzy
 - https://www.packtpub.com/ - e-kurzy + books
 - https://www.oreilly.com/ - e-kurzy + books
@@ -10,3 +23,7 @@
 - https://www.learn2code.cz/
 - https://kodekloud.com/
 - https://mvtd.events.microsoft.com/
+
+- https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap
+- https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+

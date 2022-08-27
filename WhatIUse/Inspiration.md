@@ -1,5 +1,5 @@
 [Root](../README.md)
-
+ 
 ### Podobné seznamy jiných vývojářů
 
 **Miroslav Holec**

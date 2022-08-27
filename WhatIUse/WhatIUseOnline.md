@@ -1,5 +1,10 @@
+[Root](../README.md)
 
 # What I Use Online - Co používám za služby na internetu
+
+### Placeno
+- YouTube Premium
+- Deepl translator
 
 ### Vývojářské
  - https://pipedream.com/ - možno debugovat webhhok HTTP request

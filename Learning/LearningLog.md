@@ -1,3 +1,7 @@
+[Root](../README.md)
+
+# Learning log - soupis vzdělávacích shlédnutých videí nebo přečtených článku
+
 <h1>Learning Log</h1>
 24.7.2022
 Microservices with Azure Container Apps and Dapr - https://www.youtube.com/watch?v=s96io88CM6A

@@ -1,5 +1,5 @@
 [Root](../README.md)
-
+ 
 ### Základní Software
 - Windows 10/11 (poslední verze + aktualizace)
 - Drivery (Sound,VGA,LAN,..)

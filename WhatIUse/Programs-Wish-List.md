@@ -1,5 +1,5 @@
 [Root](../README.md)
-
+ 
 ### Co si přeji pořídit do budoucna a je placené
 
 - NDepend - static analysis tool for .NET managed code - https://www.ndepend.com
