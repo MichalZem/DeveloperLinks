@@ -1,12 +1,15 @@
 # What I Use - Co používám za SW, HW, nástroje
 
-# Co používam
-
 <!-- - https://stackshare.io/michalzem -->
+
+### Učení se
+[Učení se](Learning/LearningSources.md)
+[Learning Log](Learning/LearningLog.md)
 
 
 ### Hardware
 [Hardware](WhatIUse/WhatIUse-Hardware.md)
+
 
 ### Základní software
 [Základní software](WhatIUse/WhatIUse-BasicSoftware.md)
@@ -29,13 +32,16 @@
 [Developer tools](WhatIUse/WhatIUse-DeveloperTools.md)
 
 
-### Cloud - Azure
-[Azure](WhatIUse/WhatIUseInAzure.md)
+### Cloud - Azure, App,..
+[Cloud](WhatIUse/WhatIUseInCloud.md)
 
 
 ### Online
 [Online](WhatIUse/WhatIUseOnline.md)
 
+
+### Co používám v Mobilu
+[Mobil](WhatIUse/WhatIUseMobileApp.md)
 
 ### Co si přeji pořídit do budoucna a je placené
 [Přání](WhatIUse/Programs-Wish-List.md)
@@ -44,3 +50,5 @@
 ### Podobné seznamy jiných vývojářů
 [Podobné seznamy](WhatIUse/Inspiration.md)
 
+### Ostatní
+[Other](WhatIUse/WhatIUseOther.md)
