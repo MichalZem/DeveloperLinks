@@ -2,7 +2,7 @@
 
 # Co používam
 
-- https://stackshare.io/michalzem
+<!-- - https://stackshare.io/michalzem -->
 
 
 ### Hardware
