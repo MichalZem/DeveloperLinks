@@ -1,4 +1,5 @@
-[Root](WhatIUse.md)
+[Root](../README.md)
+
 # Visual Studio Extensions
 
 - Edge Dev Tools - https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.VisualStudioEdgeDevTools

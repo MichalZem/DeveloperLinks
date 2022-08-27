@@ -1,4 +1,0 @@
-# DAW
-
-- Pro Tools
-- Reaper
