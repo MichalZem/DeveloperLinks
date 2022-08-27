@@ -20,8 +20,10 @@
 	- HP USB Keyboard KU-1156
 
 - Monitory
+	- 1 x 32" AOC Q3279VWFD - 2K
 	- 1 x 27" AOC U2777PQU - 4K
-	- 1x 25" 25" AOC Q2577PWQ - 2K
+	- 1 x 25" AOC Q2577PWQ - 2K
+	- 1 x 19.5" AOC E2070SWHN - 1600x900
 
 - Notebook
 	- Fujitsu NH532
@@ -31,10 +33,10 @@
 	- Kyocera Ecosys M6526cdn - multifunkční laser color
 
 - Mobil 
-	- Samsung Galaxy S7
+	- LG
 
 - Sluchátka
-	- Sony WH-1000XM3 
+	- Sony 
 
 - UPS
 	- APC Back-UPS ES 700
@@ -55,7 +57,7 @@
 
 
 ### Základní Software
-- Windows 10 (poslední verze + aktualizace)
+- Windows 10/11 (poslední verze + aktualizace)
 - Drivery (Sound,VGA,LAN,..)
 - Tiskárny ovladače
 - Chrome Browser
@@ -123,6 +125,7 @@
 
 ### Střih Videa
 - Pinnacle Studio 25
+- DaVinci Resolve
 ### Animace
 CartoonAnimator Pro 4.51
 
