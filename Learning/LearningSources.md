@@ -12,6 +12,7 @@
 
 
 ### Dle cíle 
+- https://wug.cz/ - česká komunita - přednášky pro Microsoft technologie
 - https://www.pluralsight.com/ - e-kurzy
 - https://www.packtpub.com/ - e-kurzy + books
 - https://www.oreilly.com/ - e-kurzy + books
