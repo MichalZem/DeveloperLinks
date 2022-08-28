@@ -8,7 +8,7 @@
 
 ### Denně kontrola
 - https://www.alvinashcraft.com/ - The Morning Dew - Daily links for web, Windows and .NET developers.
-- https://www.youtube.com/ - YouTube Premium
+- https://www.youtube.com/ - YouTube Premium (Různé kanály, Nick chapsas, Microsoft, NDC London,... )
 
 
 ### Dle cíle 
