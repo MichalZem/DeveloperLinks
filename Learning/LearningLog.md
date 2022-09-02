@@ -3,6 +3,10 @@
 # Learning log - soupis vzdělávacích shlédnutých videí nebo přečtených článku
 
 <h1>Learning Log</h1>
+2.9.2022
+Hezký článek český o Async/Await - C# https://profinit.eu/blog/ponorme-se-do-async-await-v-jazyce-c-1-cast/
+
+
 24.7.2022
 Microservices with Azure Container Apps and Dapr - https://www.youtube.com/watch?v=s96io88CM6A
 TechFides Videa - https://www.youtube.com/channel/UCQTT1e48YuGd4-mZkhwxp3Q
