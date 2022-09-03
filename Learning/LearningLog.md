@@ -4,16 +4,14 @@
 
 <h1>Learning Log</h1>
 3.9.2022
-Clean Coding Principles in C# - Pluralsight -  https://app.pluralsight.com/library/courses/csharp-clean-coding-principles/table-of-contents
-
+- Clean Coding Principles in C# - Pluralsight -  https://app.pluralsight.com/library/courses/csharp-clean-coding-principles/table-of-contents
 
 2.9.2022
-Hezký článek český o Async/Await - C# https://profinit.eu/blog/ponorme-se-do-async-await-v-jazyce-c-1-cast/
-
+- Hezký článek český o Async/Await - C# https://profinit.eu/blog/ponorme-se-do-async-await-v-jazyce-c-1-cast/
 
 24.7.2022
-Microservices with Azure Container Apps and Dapr - https://www.youtube.com/watch?v=s96io88CM6A
-TechFides Videa - https://www.youtube.com/channel/UCQTT1e48YuGd4-mZkhwxp3Q
+- Microservices with Azure Container Apps and Dapr - https://www.youtube.com/watch?v=s96io88CM6A
+- TechFides Videa - https://www.youtube.com/channel/UCQTT1e48YuGd4-mZkhwxp3Q
 
 20.7.2022
 - Význam kovariance a kontravariance v C# - https://code-maze.com/csharp-covariance-and-contravariance/
