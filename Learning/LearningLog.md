@@ -3,6 +3,10 @@
 # Learning log - soupis vzdělávacích shlédnutých videí nebo přečtených článku
 
 <h1>Learning Log</h1>
+3.9.2022
+Clean Coding Principles in C# - Pluralsight -  https://app.pluralsight.com/library/courses/csharp-clean-coding-principles/table-of-contents
+
+
 2.9.2022
 Hezký článek český o Async/Await - C# https://profinit.eu/blog/ponorme-se-do-async-await-v-jazyce-c-1-cast/
 
