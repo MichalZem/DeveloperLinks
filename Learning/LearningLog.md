@@ -1,8 +1,6 @@
 [Root](../README.md)
 
-# Learning log - soupis vzdělávacích shlédnutých videí nebo přečtených článku
-
-<h1>Learning Log</h1>
+# Learning Log
 3.9.2022
 - Clean Coding Principles in C# - Pluralsight -  https://app.pluralsight.com/library/courses/csharp-clean-coding-principles/table-of-contents
 
