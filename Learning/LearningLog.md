@@ -1,6 +1,12 @@
 [Root](../README.md)
 
 # Learning Log
+4.9.2022
+- Applying Asynchronous Programming in C# 8(async await) - Pluralsight -  https://app.pluralsight.com/library/courses/applying-asynchronous-programming-c-sharp/table-of-contents
+- WUG Days 2016: Async a await pěkně od podlahy -  https://wug.cz/zaznamy/368-WUG-Days-2016-Async-a-await-pekne-od-podlahy
+
+
+
 3.9.2022
 - Clean Coding Principles in C# - Pluralsight -  https://app.pluralsight.com/library/courses/csharp-clean-coding-principles/table-of-contents
 
