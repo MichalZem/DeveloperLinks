@@ -3,7 +3,7 @@
 # Learning Log
 8.9.2022
 Let's Learn .NET - Blazor Hybrid - https://www.youtube.com/watch?v=iI058EA_maE&t=2s
-+ URl List https://www.theurlist.com/letslearndotnet-blazor-hybrid
+  plus URl List https://www.theurlist.com/letslearndotnet-blazor-hybrid
 
 4.9.2022
 - Applying Asynchronous Programming in C# 8(async await) - Pluralsight -  https://app.pluralsight.com/library/courses/applying-asynchronous-programming-c-sharp/table-of-contents
