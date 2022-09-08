@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+8.9.2022
+Let's Learn .NET - Blazor Hybrid - https://www.youtube.com/watch?v=iI058EA_maE&t=2s
+
 4.9.2022
 - Applying Asynchronous Programming in C# 8(async await) - Pluralsight -  https://app.pluralsight.com/library/courses/applying-asynchronous-programming-c-sharp/table-of-contents
 - WUG Days 2016: Async a await pěkně od podlahy -  https://wug.cz/zaznamy/368-WUG-Days-2016-Async-a-await-pekne-od-podlahy
