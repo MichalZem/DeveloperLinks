@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+11.9.2022
+  Real-Time Revolution: SignalR in Action - Kevin Griffin - NDC London 2022 - https://www.youtube.com/watch?v=wOq9meKcdlw
+
 8.9.2022
 Let's Learn .NET - Blazor Hybrid - https://www.youtube.com/watch?v=iI058EA_maE&t=2s
   plus URl List https://www.theurlist.com/letslearndotnet-blazor-hybrid
