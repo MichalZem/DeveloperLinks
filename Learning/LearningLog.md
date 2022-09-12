@@ -1,8 +1,13 @@
 [Root](../README.md)
 
 # Learning Log
+12.9.2022
+- Working with AsyncLocal - https://www.youtube.com/watch?v=QFarimuMujg
+- AsyncLocal in .NET 4.6 - https://www.youtube.com/watch?v=i0Hl5ebNkaA
+
+
 11.9.2022
-  Real-Time Revolution: SignalR in Action - Kevin Griffin - NDC London 2022 - https://www.youtube.com/watch?v=wOq9meKcdlw
+- Real-Time Revolution: SignalR in Action - Kevin Griffin - NDC London 2022 - https://www.youtube.com/watch?v=wOq9meKcdlw
 
 8.9.2022
 Let's Learn .NET - Blazor Hybrid - https://www.youtube.com/watch?v=iI058EA_maE&t=2s
