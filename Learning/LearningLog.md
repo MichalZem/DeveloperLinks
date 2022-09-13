@@ -5,6 +5,7 @@
 - EF Core & Row Level Security - Jiří Kanda, HAVIT Vzdělávací okénko, 27.7.2022 - https://www.youtube.com/watch?v=_xknuAiYfxA
 - Úvod do ASP.NET Core Identity - https://wug.cz/zaznamy/751-Uvod-do-ASP-NET-Core-Identity   (https://odkaz.me/wucoi)
 - Back to Basics: Efficient Async and Await - Filip Ekberg - NDC London 2022 - https://www.youtube.com/watch?v=R3u4Gb7mazE
+- https://stackoverflow.com/questions/40343572/simulate-async-deadlock-in-a-console-application + https://stackoverflow.com/questions/69827386/how-to-force-an-async-deadlock-on-a-console-app
 
 12.9.2022
 - Working with AsyncLocal - https://www.youtube.com/watch?v=QFarimuMujg
