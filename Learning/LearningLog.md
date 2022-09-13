@@ -3,6 +3,7 @@
 # Learning Log
 13.9.2022
 - EF Core & Row Level Security - Jiří Kanda, HAVIT Vzdělávací okénko, 27.7.2022 - https://www.youtube.com/watch?v=_xknuAiYfxA
+- Úvod do ASP.NET Core Identity - https://wug.cz/zaznamy/751-Uvod-do-ASP-NET-Core-Identity   (https://odkaz.me/wucoi)
 
 12.9.2022
 - Working with AsyncLocal - https://www.youtube.com/watch?v=QFarimuMujg
