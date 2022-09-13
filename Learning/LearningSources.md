@@ -25,6 +25,11 @@
 - https://kodekloud.com/
 - https://mvtd.events.microsoft.com/
 
+### Cloud
+- https://acloudguru.com/
+
+
+### Přehled
 - https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap
 - https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 
