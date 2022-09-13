@@ -17,6 +17,7 @@
 - https://www.packtpub.com/ - e-kurzy + books
 - https://www.oreilly.com/ - e-kurzy + books
 - https://www.youtube.com/  (premium account)
+- https://www.skillshare.com/
 - https://www.simplilearn.com/skillup/skillup-free-online-courses
 - https://www.apress.com/us
 - https://www.edx.org/
