@@ -1,6 +1,11 @@
 [Root](../README.md)
 
 # Learning Log
+14.9.2022
+- HiLo Algoritums - https://stackoverflow.com/questions/282099/whats-the-hi-lo-algorithm
+- HiLo Algoritmus v EF Core - https://docs.microsoft.com/cs-cz/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-implementation-entity-framework-core#the-hilo-algorithm-in-ef-core
+
+
 13.9.2022
 - EF Core & Row Level Security - Jiří Kanda, HAVIT Vzdělávací okénko, 27.7.2022 - https://www.youtube.com/watch?v=_xknuAiYfxA
 - Úvod do ASP.NET Core Identity - https://wug.cz/zaznamy/751-Uvod-do-ASP-NET-Core-Identity   (https://odkaz.me/wucoi)
