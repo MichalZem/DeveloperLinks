@@ -5,6 +5,7 @@
 - RavenDB 4: Getting Started - https://app.pluralsight.com/library/courses/ravendb-4-getting-started/table-of-contents
 - HiLo Algoritums - https://stackoverflow.com/questions/282099/whats-the-hi-lo-algorithm
 - HiLo Algoritmus v EF Core - https://docs.microsoft.com/cs-cz/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-implementation-entity-framework-core#the-hilo-algorithm-in-ef-core
+- MS Fest 2013 Praha: Dokumentová databáze RavenDB - https://wug.cz/zaznamy/171-MS-Fest-2013-Praha-Dokumentova-databaze-RavenDB
 
 
 13.9.2022
