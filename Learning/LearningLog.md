@@ -2,6 +2,7 @@
 
 # Learning Log
 14.9.2022
+- .NET Developer? You're an IoT Developer Too! - Rob Lauer - NDC Copenhagen 2022, Arduino, ESP32 in .NET - https://www.youtube.com/watch?v=iw5kT9NoYAQ
 - RavenDB 4: Getting Started - https://app.pluralsight.com/library/courses/ravendb-4-getting-started/table-of-contents
 - HiLo Algoritums - https://stackoverflow.com/questions/282099/whats-the-hi-lo-algorithm
 - HiLo Algoritmus v EF Core - https://docs.microsoft.com/cs-cz/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-implementation-entity-framework-core#the-hilo-algorithm-in-ef-core
