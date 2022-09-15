@@ -3,7 +3,9 @@
 # Learning Log
 15.9.2022
 - Novinky v .NET Internals [Robert Haken, WUG Brno, 26.4.2022] - https://www.youtube.com/watch?v=rdToMY45NbU
-
+- C# Async/Await/Task Explained (Deep Dive) - https://www.youtube.com/watch?v=il9gl8MH17s
+- David Fowler Microsoft - Asynchronous Programming - https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md
+- 8 await async mistakes that you SHOULD avoid in .NET - https://www.youtube.com/watch?v=lQu-eBIIh-w
 
 14.9.2022
 - .NET Developer? You're an IoT Developer Too! - Rob Lauer - NDC Copenhagen 2022, Arduino, ESP32 in .NET - https://www.youtube.com/watch?v=iw5kT9NoYAQ
