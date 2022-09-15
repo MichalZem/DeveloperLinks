@@ -1,6 +1,10 @@
 [Root](../README.md)
 
 # Learning Log
+15.9.2022
+- Novinky v .NET Internals [Robert Haken, WUG Brno, 26.4.2022] - https://www.youtube.com/watch?v=rdToMY45NbU
+
+
 14.9.2022
 - .NET Developer? You're an IoT Developer Too! - Rob Lauer - NDC Copenhagen 2022, Arduino, ESP32 in .NET - https://www.youtube.com/watch?v=iw5kT9NoYAQ
 - RavenDB 4: Getting Started - https://app.pluralsight.com/library/courses/ravendb-4-getting-started/table-of-contents
