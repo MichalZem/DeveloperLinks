@@ -6,6 +6,7 @@
 - C# Async/Await/Task Explained (Deep Dive) - https://www.youtube.com/watch?v=il9gl8MH17s
 - David Fowler Microsoft - Asynchronous Programming - https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md
 - 8 await async mistakes that you SHOULD avoid in .NET - https://www.youtube.com/watch?v=lQu-eBIIh-w
+- C# Asynchronous programming: Can we have async constructors? - https://medium.com/@luisalexandre.rodrigues/c-asynchronous-programming-can-we-have-async-constructors-7bd8bc988573
 
 14.9.2022
 - .NET Developer? You're an IoT Developer Too! - Rob Lauer - NDC Copenhagen 2022, Arduino, ESP32 in .NET - https://www.youtube.com/watch?v=iw5kT9NoYAQ
