@@ -2,8 +2,10 @@
 
 # Learning Log
 16.9.2022
+- @Apache Kafka - 2022 Edition [.NET 6 Consumer and Producer, Docker containerized Kafka services] - https://www.youtube.com/watch?v=A4Y7z6wFRk0&t=894s
 - ValueTask - https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/
-- 
+- How to Install Kafka Using Docker - Write Your First Kafka Topic | Better Data Science - https://www.youtube.com/watch?v=4xFZ_iTZLTs
+- Getting Started: Apache Kafka + .NET - https://www.youtube.com/watch?v=n_IQq3pze0s
 15.9.2022
 - Novinky v .NET Internals [Robert Haken, WUG Brno, 26.4.2022] - https://www.youtube.com/watch?v=rdToMY45NbU
 - C# Async/Await/Task Explained (Deep Dive) - https://www.youtube.com/watch?v=il9gl8MH17s
