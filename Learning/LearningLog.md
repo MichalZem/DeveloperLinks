@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+16.9.2022
+- ValueTask - https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/
+- 
 15.9.2022
 - Novinky v .NET Internals [Robert Haken, WUG Brno, 26.4.2022] - https://www.youtube.com/watch?v=rdToMY45NbU
 - C# Async/Await/Task Explained (Deep Dive) - https://www.youtube.com/watch?v=il9gl8MH17s
