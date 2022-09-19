@@ -8,8 +8,11 @@
 - Write cleaner APIs in .NET 7 with MediatR - https://www.youtube.com/watch?v=euUg_IHo7-s
 - MediatR GitHub - https://github.com/jbogard/MediatR
 - Dapper: Getting Started - PluralSight - https://app.pluralsight.com/library/courses/getting-started-dapper/table-of-contents
+- Getting started with Dapper.NET - https://sodocumentation.net/dapper
+- Dapper tutorial- https://dapper-tutorial.net/querymultiple
 - Learn Dapper - https://www.learndapper.com/
-- Dapper GitHub https://github.com/DapperLib/Dapper
+- Dapper GitHub - https://github.com/DapperLib/Dapper
+- Dapper Contrib - Simple CRUD for Dapper - https://github.com/DapperLib/Dapper.Contrib
 
 16.9.2022
 - @Apache Kafka - 2022 Edition [.NET 6 Consumer and Producer, Docker containerized Kafka services] - https://www.youtube.com/watch?v=A4Y7z6wFRk0&t=894s
