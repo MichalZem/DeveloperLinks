@@ -5,8 +5,11 @@
 - How slow is MediatR really? - https://www.youtube.com/watch?v=baiH3f_TFfY
 - Intro to MediatR - Implementing CQRS and Mediator Patterns - https://www.youtube.com/watch?v=yozD5Tnd8nw
 - The 2 MediatR features people don't know about but should - https://www.youtube.com/watch?v=2TT3suofNlo
-- How slow is MediatR really? - https://www.youtube.com/watch?v=baiH3f_TFfY
 - Write cleaner APIs in .NET 7 with MediatR - https://www.youtube.com/watch?v=euUg_IHo7-s
+- MediatR GitHub - https://github.com/jbogard/MediatR
+- Dapper: Getting Started - PluralSight - https://app.pluralsight.com/library/courses/getting-started-dapper/table-of-contents
+- Learn Dapper - https://www.learndapper.com/
+- Dapper GitHub https://github.com/DapperLib/Dapper
 
 16.9.2022
 - @Apache Kafka - 2022 Edition [.NET 6 Consumer and Producer, Docker containerized Kafka services] - https://www.youtube.com/watch?v=A4Y7z6wFRk0&t=894s
