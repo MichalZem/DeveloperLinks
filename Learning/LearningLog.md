@@ -1,6 +1,10 @@
 [Root](../README.md)
 
 # Learning Log
+20.9.2022
+- The CORRECT way to implement Retries in .NET - Polly, HttpClient - https://www.youtube.com/watch?v=nJH0PC2Pubs
+- C# 10 Advanced Language Features - PluralSight - https://app.pluralsight.com/library/courses/c-sharp-10-language-features-advanced/table-of-contents
+- C# 5 Events, Delegates and Lambdas - PluralSight - https://app.pluralsight.com/library/courses/csharp-events-delegates/table-of-contents
 19.9.2022
 - How slow is MediatR really? - https://www.youtube.com/watch?v=baiH3f_TFfY
 - Intro to MediatR - Implementing CQRS and Mediator Patterns - https://www.youtube.com/watch?v=yozD5Tnd8nw
@@ -13,7 +17,8 @@
 - Learn Dapper - https://www.learndapper.com/
 - Dapper GitHub - https://github.com/DapperLib/Dapper
 - Dapper Contrib - Simple CRUD for Dapper - https://github.com/DapperLib/Dapper.Contrib
-- Dapper Multimapping - PluralSight - https://app.pluralsight.com/course-player?clipId=0f6f67d0-1824-4b43-baef-a2a1e03ccd00 
+- Dapper Multimapping - PluralSight - https://app.pluralsight.com/course-player?clipId=0f6f67d0-1824-4b43-baef-a2a1e03ccd00
+ 
 16.9.2022
 - @Apache Kafka - 2022 Edition [.NET 6 Consumer and Producer, Docker containerized Kafka services] - https://www.youtube.com/watch?v=A4Y7z6wFRk0&t=894s
 - Object mapping with Tiny Mapper in .NET 6 (Arguably the fastest object mapper in the .NET ecosystem) - https://www.youtube.com/watch?v=tyxwVGfbjFg&t=492s
