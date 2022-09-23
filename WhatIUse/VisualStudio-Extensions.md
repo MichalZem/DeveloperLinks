@@ -5,10 +5,11 @@
 
 
 ### Testování
+- Unit Test Boilerplate Generator - https://marketplace.visualstudio.com/items?itemName=RandomEngy.UnitTestBoilerplateGenerator
 - Visualize unit test code coverage easily for free in Visual Studio - https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage2022
 - xUnit Code Snippets - https://marketplace.visualstudio.com/items?itemName=jsakamoto.xUnitCodeSnippets
-- Unit Test Boilerplate Generator - https://marketplace.visualstudio.com/items?itemName=RandomEngy.UnitTestBoilerplateGenerator
-- xUnit.net.TestGenerator2022 - https://marketplace.visualstudio.com/items?itemName=YowkoTsai.xunitnettestgenerator2022
+
+
 
 
 ## Další
