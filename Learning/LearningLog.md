@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+23.9.2022
+- Hezký článek C# Decimal vs Double -  https://exceptionnotfound.net/decimal-vs-double-and-other-tips-about-number-types-in-net/
+
 20.9.2022
 - The CORRECT way to implement Retries in .NET - Polly, HttpClient - https://www.youtube.com/watch?v=nJH0PC2Pubs
 - C# 10 Advanced Language Features - PluralSight - https://app.pluralsight.com/library/courses/c-sharp-10-language-features-advanced/table-of-contents
