@@ -11,6 +11,9 @@
  - Plus k FineCodeCoverage nuget https://www.nuget.org/packages/coverlet.collector - https://github.com/coverlet-coverage/coverlet
 
 
+### Benchmarking
+- Benchmark Templates - https://marketplace.visualstudio.com/items?itemName=JeremyJeanson.benchmarktemplates
+- 
 
 ## Další
 - Edge Dev Tools - https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.VisualStudioEdgeDevTools
