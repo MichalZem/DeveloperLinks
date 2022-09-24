@@ -2,7 +2,7 @@
 
 # Learning Log
 23.9.2022
-- Unit-testing v .NET od A do Z [Robert Haken, TechEd Online 2021] - https://www.youtube.com/watch?v=p-O-8u3sKf8
+- Unit-testing v .NET od A do Z [Robert Haken, TechEd Online 2021] - https://www.youtube.com/watch?v=p-O-8u3sKf8 + https://github.com/hakenr/unittestingdemo
 - xUnit - Comparing xUnit.net to other frameworks - https://xunit.net/docs/comparisons
 - Hezký článek C# Decimal vs Double -  https://exceptionnotfound.net/decimal-vs-double-and-other-tips-about-number-types-in-net/
 
