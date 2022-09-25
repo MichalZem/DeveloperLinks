@@ -1,6 +1,8 @@
 [Root](../README.md)
 
 # Learning Log
+25.9.2022
+ASP.NET Core Identity Management Guide - quick guide - https://www.youtube.com/watch?v=3_oGxPpSjLw
 24.9.2022
 - PublicResXFileCodeGenerator C# Resource, Resx, - Generovani strongly type resourců
 
