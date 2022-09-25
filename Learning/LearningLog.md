@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+24.9.2022
+- PublicResXFileCodeGenerator C# Resource, Resx, - Generovani strongly type resourců
+
 23.9.2022
 - Unit-testing v .NET od A do Z [Robert Haken, TechEd Online 2021] - https://www.youtube.com/watch?v=p-O-8u3sKf8 + https://github.com/hakenr/unittestingdemo
 - xUnit - Comparing xUnit.net to other frameworks - https://xunit.net/docs/comparisons
