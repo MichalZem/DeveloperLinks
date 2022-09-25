@@ -3,7 +3,7 @@
 # Learning Log
 
 25.9.2022
-
+- Testing .NET Code with xUnit.net 2: Getting Started - https://app.pluralsight.com/library/courses/dotnet-core-testing-code-xunit-dotnet-getting-started/table-of-contents
 - TestDouble - Martin Fowler - https://martinfowler.com/bliki/TestDouble.html
 - UnitTest - Martin Fowler - https://martinfowler.com/bliki/UnitTest.html
 - QuickStart - Moq 4 - https://github.com/Moq/moq4/wiki/Quickstart
