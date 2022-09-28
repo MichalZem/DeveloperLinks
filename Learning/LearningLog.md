@@ -1,6 +1,12 @@
 [Root](../README.md)
 
 # Learning Log
+28.9.2022
+- OCELOT ASP.NET Api Gateway - https://ocelot.readthedocs.io/en/latest/
+- Implement API Gateways with Ocelot - https://learn.microsoft.com/cs-cz/dotnet/architecture/microservices/multi-container-microservice-net-applications/implement-api-gateways-with-ocelot
+- Hold the door! Powerful API gateways with Ocelot and ASP.Net Core - Dan Patrascu-Baba - https://www.youtube.com/watch?v=Cc0vkgzOrGY
+
+26.9.2022
 - KROS Dev Meetup #7 - CQRS a Messaging Handling v ASP.NET Core projekte pomocou MediatR (Stano Peťko) - https://www.youtube.com/watch?v=ghbdxNKfgB4&list=PLuLCIjnOyIav8FRwQzwgdhVHTa8aEWleQ&index=15
 - plus v KROS Dev Meetup #7 je popsán MediatR Pipeline Behavior (kód co se spouští před každým handlerem daného typu) čas: 41:50
 
