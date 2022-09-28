@@ -1,6 +1,8 @@
 [Root](../README.md)
 
 # Learning Log
+- KROS Dev Meetup #7 - CQRS a Messaging Handling v ASP.NET Core projekte pomocou MediatR (Stano Peťko) - https://www.youtube.com/watch?v=ghbdxNKfgB4&list=PLuLCIjnOyIav8FRwQzwgdhVHTa8aEWleQ&index=15
+
 
 25.9.2022
 - Testing .NET Code with xUnit.net 2: Getting Started - https://app.pluralsight.com/library/courses/dotnet-core-testing-code-xunit-dotnet-getting-started/table-of-contents
