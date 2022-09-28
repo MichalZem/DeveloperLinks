@@ -2,6 +2,7 @@
 
 # Learning Log
 - KROS Dev Meetup #7 - CQRS a Messaging Handling v ASP.NET Core projekte pomocou MediatR (Stano Peťko) - https://www.youtube.com/watch?v=ghbdxNKfgB4&list=PLuLCIjnOyIav8FRwQzwgdhVHTa8aEWleQ&index=15
+- plus v KROS Dev Meetup #7 je popsán MediatR Pipeline Behavior (kód co se spouští před každým handlerem daného typu) čas: 41:50
 
 
 25.9.2022
