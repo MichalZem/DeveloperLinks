@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+29.9.2022
+KROS Dev Meetup #7 -RavenDB is a NoSQL Document Database (Marián "vlko" Vlčák) - https://www.youtube.com/watch?v=P4T7MOlxsUs&t=3s
+
 28.9.2022
 - OCELOT ASP.NET Api Gateway - https://ocelot.readthedocs.io/en/latest/
 - Implement API Gateways with Ocelot - https://learn.microsoft.com/cs-cz/dotnet/architecture/microservices/multi-container-microservice-net-applications/implement-api-gateways-with-ocelot
