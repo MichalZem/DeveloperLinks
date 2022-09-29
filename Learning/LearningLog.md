@@ -2,7 +2,7 @@
 
 # Learning Log
 29.9.2022
-KROS Dev Meetup #7 -RavenDB is a NoSQL Document Database (Marián "vlko" Vlčák) - https://www.youtube.com/watch?v=P4T7MOlxsUs&t=3s
+- KROS Dev Meetup #7 -RavenDB is a NoSQL Document Database (Marián "vlko" Vlčák) - https://www.youtube.com/watch?v=P4T7MOlxsUs&t=3s
 
 28.9.2022
 - OCELOT ASP.NET Api Gateway - https://ocelot.readthedocs.io/en/latest/
