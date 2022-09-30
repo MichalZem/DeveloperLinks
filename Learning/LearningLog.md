@@ -4,6 +4,8 @@
 30.9.2022
 - Generate Client API After Build -  [https://github.com/RicoSuter/NSwag](https://github.com/RicoSuter/NSwag/wiki/NSwag.MSBuild)
 - Tutorial: Generate a REST API client - https://learn.microsoft.com/cs-cz/visualstudio/msbuild/tutorial-rest-api-client-msbuild?view=vs-2022 
+
+
 29.9.2022
 - KROS Dev Meetup #7 -RavenDB is a NoSQL Document Database (Marián "vlko" Vlčák) - https://www.youtube.com/watch?v=P4T7MOlxsUs&t=3s
 
