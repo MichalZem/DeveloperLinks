@@ -7,6 +7,10 @@
 - Azure CLI Tools - https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli
 - Draw.io Integration in VS Code - https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
 
+## GIT tools ...
+- Git Graph - https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+- 
+
 ## API, REST, ...
 - API Testing - Thunder Client - https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
 - VSCONNECT - API REST Interactive Call -  https://marketplace.visualstudio.com/items?itemName=jcoc611.vsconnect
