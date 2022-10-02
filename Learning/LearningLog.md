@@ -1,6 +1,10 @@
 [Root](../README.md)
 
 # Learning Log
+2.9.2022
+- Mastering Git - https://app.pluralsight.com/library/courses/master-git/exercise-files
+
+
 30.9.2022
 - Generate Client API After Build -  [https://github.com/RicoSuter/NSwag](https://github.com/RicoSuter/NSwag/wiki/NSwag.MSBuild)
 - Tutorial: Generate a REST API client - https://learn.microsoft.com/cs-cz/visualstudio/msbuild/tutorial-rest-api-client-msbuild?view=vs-2022 
