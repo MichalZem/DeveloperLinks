@@ -1,7 +1,12 @@
 [Root](../README.md)
 
 # Learning Log
-2.9.2022
+3.10.2022
+- Scrutor - Dependency Injection Assembly scanning - https://andrewlock.net/using-scrutor-to-automatically-register-your-services-with-the-asp-net-core-di-container/
+- Scrutor - Dependency Injection Assembly scanning - https://github.com/khellang/Scrutor
+
+
+2.10.2022
 - Mastering Git - https://app.pluralsight.com/library/courses/master-git/exercise-files
 
 
