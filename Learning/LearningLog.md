@@ -4,6 +4,7 @@
 3.10.2022
 - Scrutor - Dependency Injection Assembly scanning - https://andrewlock.net/using-scrutor-to-automatically-register-your-services-with-the-asp-net-core-di-container/
 - Scrutor - Dependency Injection Assembly scanning - https://github.com/khellang/Scrutor
+- Scrutor with attributes - https://dev.to/rickab10/scrutor-automatic-dependency-injection-for-asp-net-core-4pjm
 
 
 2.10.2022
