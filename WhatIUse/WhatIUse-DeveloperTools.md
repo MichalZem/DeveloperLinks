@@ -18,6 +18,7 @@
 ### GIT - Developer Tools
 - http://installsimple.com/  Jednoduchý vytvařeč instalátorů
 - https://gource.io/  - vizualizace GIT Commit
+- GitExtension - http://gitextensions.github.io/ + pluginy do VisualStudia
 - Git Graph-  https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
 - GIT GUI - super pro Vizualizaci Branch - https://gmaster.io/
 - UNGIT (běží pod NodeJs) - https://github.com/FredrikNoren/ungit
