@@ -6,6 +6,7 @@
 - Service Discovery for .NET Core services with HashiCorp Consul - https://www.youtube.com/watch?v=wpUjiB7PEIA
 - .NET Core API Gateway with Ocelot & MMLib.SwaggerForOcelot - Milan Martiniak - https://www.youtube.com/watch?v=lVeqVZgHEBk
 - plus MMLib.SwaggerForOcelot - Swagger for Ocelot - https://github.com/Burgyn/MMLib.SwaggerForOcelot
+- KROS Dev Meetup #4 – Vytvorenie API Gateway s pomocou frameworku Ocelot - https://www.youtube.com/watch?v=h7yrAOPrGQM&t=12s
 
 
 3.10.2022
