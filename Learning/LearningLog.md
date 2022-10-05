@@ -4,6 +4,8 @@
 5.10.2022
 - Ocelot - Roberto Freato — API gateway made easy with Ocelot and containers - Super video souhrn Basic, Routes, Aggrgation,... -  https://www.youtube.com/watch?v=U7I2Yli9NZw
 - Service Discovery for .NET Core services with HashiCorp Consul - https://www.youtube.com/watch?v=wpUjiB7PEIA
+- .NET Core API Gateway with Ocelot & MMLib.SwaggerForOcelot - Milan Martiniak - https://www.youtube.com/watch?v=lVeqVZgHEBk
+- plus MMLib.SwaggerForOcelot - Swagger for Ocelot - https://github.com/Burgyn/MMLib.SwaggerForOcelot
 
 
 3.10.2022
