@@ -1,6 +1,10 @@
 [Root](../README.md)
 
 # Learning Log
+5.10.2022
+- Ocelot - Roberto Freato — API gateway made easy with Ocelot and containers - Super video souhrn Basic, Routes, Aggrgation,... -  https://www.youtube.com/watch?v=U7I2Yli9NZw
+
+
 3.10.2022
 - Scrutor - Dependency Injection Assembly scanning - https://andrewlock.net/using-scrutor-to-automatically-register-your-services-with-the-asp-net-core-di-container/
 - Scrutor - Dependency Injection Assembly scanning - https://github.com/khellang/Scrutor
