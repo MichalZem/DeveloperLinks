@@ -1,6 +1,11 @@
 [Root](../README.md)
 
 # Learning Log
+6.10.2022
+- Service Discovery with Steeltoe - https://www.youtube.com/watch?v=ZsVDgEOoSEU
+- Super - Compiling C# into NATIVE code, just like Go, Rust and C++ - https://www.youtube.com/watch?v=sa3XsvSiMtk
+
+
 5.10.2022
 - Ocelot - Roberto Freato — API gateway made easy with Ocelot and containers - Super video souhrn Basic, Routes, Aggrgation,... -  https://www.youtube.com/watch?v=U7I2Yli9NZw
 - Service Discovery for .NET Core services with HashiCorp Consul - https://www.youtube.com/watch?v=wpUjiB7PEIA
