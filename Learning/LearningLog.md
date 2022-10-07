@@ -61,6 +61,7 @@
 
 20.9.2022
 - HttpClient + IHttpClientFacotory - https://learn.microsoft.com/cs-cz/dotnet/architecture/microservices/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests
+- [https://learn.microsoft.com/cs-cz/dotnet/architecture/microservices/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/http-requests?view=aspnetcore-6.0)
 - Stop using the HttpClient the wrong way in .NET - https://www.youtube.com/watch?v=Z6Y2adsMnAA
 - The CORRECT way to implement Retries in .NET - Polly, HttpClient - https://www.youtube.com/watch?v=nJH0PC2Pubs
 - C# 10 Advanced Language Features - PluralSight - https://app.pluralsight.com/library/courses/c-sharp-10-language-features-advanced/table-of-contents
