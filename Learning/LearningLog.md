@@ -60,6 +60,8 @@
 - Hezký článek C# Decimal vs Double -  https://exceptionnotfound.net/decimal-vs-double-and-other-tips-about-number-types-in-net/
 
 20.9.2022
+- HttpClient + IHttpClientFacotory - https://learn.microsoft.com/cs-cz/dotnet/architecture/microservices/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests
+- Stop using the HttpClient the wrong way in .NET - https://www.youtube.com/watch?v=Z6Y2adsMnAA
 - The CORRECT way to implement Retries in .NET - Polly, HttpClient - https://www.youtube.com/watch?v=nJH0PC2Pubs
 - C# 10 Advanced Language Features - PluralSight - https://app.pluralsight.com/library/courses/c-sharp-10-language-features-advanced/table-of-contents
 - C# 5 Events, Delegates and Lambdas - PluralSight - https://app.pluralsight.com/library/courses/csharp-events-delegates/table-of-contents
