@@ -16,6 +16,7 @@
 - Visual Studio Code Latest Version
 - [VisualStudio Extensions](WhatIUse/VisualStudio-Extensions.md)
 - [VisualStudioCode Extensions](WhatIUse/VisualStudioCode-Extensions.md)
+- [Azure Data Studio + Extensions](WhatIUse/AzureDataStudio.md)
 - [Developer tools](WhatIUse/WhatIUse-DeveloperTools.md)
 - [Cloud - Azure, App,..](WhatIUse/WhatIUseInCloud.md)
 - [Online](WhatIUse/WhatIUseOnline.md)
