@@ -2,6 +2,7 @@
 
 # Visual Studio Code - Extensions
 
+
 - .NET Interactive Notebooks
 - vscode-icons - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 - Azure CLI Tools - https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli
@@ -9,7 +10,10 @@
 
 ## GIT tools ...
 - Git Graph - https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
-- 
+
+## Database
+- MSSQL - https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
+
 
 ## API, REST, ...
 - API Testing - Thunder Client - https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
