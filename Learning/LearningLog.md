@@ -60,6 +60,7 @@
 - Hezký článek C# Decimal vs Double -  https://exceptionnotfound.net/decimal-vs-double-and-other-tips-about-number-types-in-net/
 
 20.9.2022
+- HttpClient Mock - https://github.com/richardszalay/mockhttp + https://code-maze.com/csharp-mock-httpclient-with-unit-tests/
 - HttpClient + IHttpClientFacotory - https://learn.microsoft.com/cs-cz/dotnet/architecture/microservices/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests
 - [https://learn.microsoft.com/cs-cz/dotnet/architecture/microservices/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/http-requests?view=aspnetcore-6.0)
 - Stop using the HttpClient the wrong way in .NET - https://www.youtube.com/watch?v=Z6Y2adsMnAA
