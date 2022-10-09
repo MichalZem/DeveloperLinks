@@ -3,6 +3,7 @@
 # Learning Log
 9.10.2022
 - CancellationTokens ASP MVC Controller - https://andrewlock.net/using-cancellationtokens-in-asp-net-core-mvc-controllers/
+- Unit testy pojmenování, naming, xunit -  https://osherove.com/blog/2005/4/3/naming-standards-for-unit-tests.html
 
 6.10.2022
 - Service Discovery with Steeltoe - https://www.youtube.com/watch?v=ZsVDgEOoSEU
