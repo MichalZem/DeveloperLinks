@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+13.10.2022
+- Latency Numbers Programmer Should Know 1ms 1ns 1micros- https://www.youtube.com/watch?v=FqR5vESuKe0
+
 9.10.2022
 - CancellationTokens ASP MVC Controller - https://andrewlock.net/using-cancellationtokens-in-asp-net-core-mvc-controllers/
 - Unit testy pojmenování, naming, xunit -  https://osherove.com/blog/2005/4/3/naming-standards-for-unit-tests.html
