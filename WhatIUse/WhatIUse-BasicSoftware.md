@@ -49,6 +49,7 @@
 - Loom Record obrazovky - https://www.loom.com/
 
 ### MultiMédia - Video, Music, Image
+- All-in-one audio & video editing, as easy as a doc - https://www.descript.com/
 - VLC Player + https://github.com/nurupo/vlc-pause-click-plugin   Click to Play/Pause Plugin
 - Paint .Net - Image Editor - https://www.getpaint.net/
 - Image Resizer - Right Click - https://www.bricelam.net/ImageResizer/ 
