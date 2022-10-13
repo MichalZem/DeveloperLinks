@@ -26,7 +26,7 @@
 - MaincTime free version - evidence práce na PC
 - Toogle (local client) - evidence práce na Projektech - Online + Local Client
 - VirtualBox https://www.virtualbox.org/ - Android Image https://www.osboxes.org/virtualbox-images/
-
+- Sandbox v PC - https://sandboxie-plus.com/
 
 ### Doplňky do Chromu
 - Google Translator + TransOver
