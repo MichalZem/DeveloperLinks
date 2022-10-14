@@ -25,6 +25,7 @@
 - https://www.learn2code.cz/
 - https://kodekloud.com/
 - https://mvtd.events.microsoft.com/
+- Frontend - https://www.algoexpert.io/frontend/product
 
 ### Cloud
 - https://acloudguru.com/
