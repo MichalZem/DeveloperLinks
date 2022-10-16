@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+16.10.2022
+- C# Random problem multiple threads - How Random can silently break your app in .NET - Nick Chapas - https://www.youtube.com/watch?v=WRB4OHpSXHs
+
 13.10.2022
 - Latency Numbers Programmer Should Know 1ms 1ns 1micros- https://www.youtube.com/watch?v=FqR5vESuKe0
 
