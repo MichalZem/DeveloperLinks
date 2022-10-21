@@ -1,6 +1,11 @@
 [Root](../README.md)
 
 # Learning Log
+21.10.2022
+- LiteDb - Lite NoSQL - https://www.litedb.org/
+- Jak na automatickou zálohu Sqlite databáze, Backup SQlite, ZTECH - https://www.youtube.com/watch?v=XQErfo-yVhM
+
+
 16.10.2022
 - C# Random problem multiple threads - How Random can silently break your app in .NET - Nick Chapas - https://www.youtube.com/watch?v=WRB4OHpSXHs
 
