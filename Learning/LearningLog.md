@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+22.10.2022
+- Nullable reference types [Jiří Kanda, HAVIT Vzdělávací okénko, 24.10.2019] - https://www.youtube.com/watch?v=tBFu1BQI8Zs
+
 21.10.2022
 - LiteDb - Lite NoSQL - https://www.litedb.org/
 - Jak na automatickou zálohu Sqlite databáze, Backup SQlite, ZTECH - https://www.youtube.com/watch?v=XQErfo-yVhM
