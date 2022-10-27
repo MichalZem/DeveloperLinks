@@ -69,6 +69,7 @@
 - Azure Data Studio https://docs.microsoft.com/cs-cz/sql/azure-data-studio/download
 	- Doplňky do Azure Data Studio
 		- SandDance  - visualizace dat – grafy,… - SUPER
+- https://www.dbvis.com/ ***** – Alternativa k ManagementStudiu
 - https://www.valentina-db.com – Alternativa k ManagementStudiu
 - https://dbeaver.io/download – Alternativa k ManagementStudiu (umí různé db - např Firebird,SQL )
 - https://www.heidisql.com/  – Alternativa k ManagementStudiuu (umí různé db -MySQL,PostgreSQL,SQLIte)
