@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+28.10.2022
+- Git Worktree - https://andrewlock.net/working-on-two-git-branches-at-once-with-git-worktree/
+
 22.10.2022
 - Nullable reference types [Jiří Kanda, HAVIT Vzdělávací okénko, 24.10.2019] - https://www.youtube.com/watch?v=tBFu1BQI8Zs
 
