@@ -2,6 +2,7 @@
 
 # Learning Log
 28.10.2022
+- Azure Container Apps - Volumes and Storage Mounts + Azure File Shares - https://www.youtube.com/watch?v=UaPZeEWPb10
 - Git Worktree - https://andrewlock.net/working-on-two-git-branches-at-once-with-git-worktree/
 
 22.10.2022
