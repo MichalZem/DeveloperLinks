@@ -90,6 +90,7 @@
 
 ## HTTP Request Testing
 - hey - hey is a tiny program that sends some load to a web application. - https://github.com/rakyll/hey
+- JMeter aletrnativa - https://gettaurus.org/
 - NBomber - .Net Core - load testing framework - https://github.com/PragmaticFlow/NBomber
 - Tinyget.Exe – Web StressTest -  https://www.microsoft.com/en-us/download/details.aspx?id=17275 (součást IIS Resource Kitu Tools - nutno vypreparovat)
 - Appache JMeter - https://jmeter.apache.org/TestWebu, Web Loadtest,Web StressTest,
