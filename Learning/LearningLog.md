@@ -1,6 +1,11 @@
 [Root](../README.md)
 
 # Learning Log
+30.10.2022
+- React 18 Fundamentals, Pluralsight - https://app.pluralsight.com/library/courses/9a3771fa-626e-4708-8634-c49cc8616922/table-of-contents
+- JavaScript Modules, Export, Import - https://www.vzhurudolu.cz/prirucka/js-moduly
+- ReactJs.Net React for C# - https://reactjs.net/
+
 28.10.2022
 - Azure Container Apps - Volumes and Storage Mounts + Azure File Shares - https://www.youtube.com/watch?v=UaPZeEWPb10
 - Git Worktree - https://andrewlock.net/working-on-two-git-branches-at-once-with-git-worktree/
