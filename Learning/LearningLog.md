@@ -2,6 +2,7 @@
 
 # Learning Log
 30.10.2022
+- Javascript - ES6 - hezký přehled http://js.nothrem.cz/es6/
 - React 18 Fundamentals, Pluralsight - https://app.pluralsight.com/library/courses/9a3771fa-626e-4708-8634-c49cc8616922/table-of-contents
 - JavaScript Modules, Export, Import - https://www.vzhurudolu.cz/prirucka/js-moduly
 - ReactJs.Net React for C# - https://reactjs.net/
