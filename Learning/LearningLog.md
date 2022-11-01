@@ -1,6 +1,10 @@
 [Root](../README.md)
 
 # Learning Log
+1.11.2022
+- Authentication for Container Apps | Easy Auth Explained - https://www.youtube.com/watch?v=gX5NV8WkLpc
+- Policy-based Authorization in ASP.NET Core – A Deep Dive - https://www.red-gate.com/simple-talk/development/dotnet-development/policy-based-authorization-in-asp-net-core-a-deep-dive/#:~:text=The%20Authorize%20attribute%20enables%20you,if%20the%20user%20is%20authenticated.
+
 30.10.2022
 - Javascript - ES6 - hezký přehled http://js.nothrem.cz/es6/
 - React 18 Fundamentals, Pluralsight - https://app.pluralsight.com/library/courses/9a3771fa-626e-4708-8634-c49cc8616922/table-of-contents
