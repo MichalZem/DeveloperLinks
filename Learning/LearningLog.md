@@ -3,6 +3,8 @@
 # Learning Log
 2.11.2022
 - Local Push Notifications with .NET MAUI, Easy With This Plugin! - https://www.youtube.com/watch?v=dWdXXGa1_hI
+- React Tutorial CZ -  https://www.dzejes.cz/react-uvod.html
+- React Tutorial - https://reactjs.org/tutorial/tutorial.html
 
 1.11.2022
 - Authentication for Container Apps | Easy Auth Explained - https://www.youtube.com/watch?v=gX5NV8WkLpc
