@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+2.11.2022
+- Local Push Notifications with .NET MAUI, Easy With This Plugin! - https://www.youtube.com/watch?v=dWdXXGa1_hI
+
 1.11.2022
 - Authentication for Container Apps | Easy Auth Explained - https://www.youtube.com/watch?v=gX5NV8WkLpc
 - Policy-based Authorization in ASP.NET Core – A Deep Dive - https://www.red-gate.com/simple-talk/development/dotnet-development/policy-based-authorization-in-asp-net-core-a-deep-dive/#:~:text=The%20Authorize%20attribute%20enables%20you,if%20the%20user%20is%20authenticated.
