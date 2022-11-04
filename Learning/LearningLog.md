@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+4.11.2022
+- WUG Days 2022: Backstage: implementace (micro)servisního katalogu v Oriflame - https://wug.cz/zaznamy/752-WUG-Days-2022-Backstage-implementace-micro-servisniho-katalogu-v-Oriflame
+
 2.11.2022
 - Local Push Notifications with .NET MAUI, Easy With This Plugin! - https://www.youtube.com/watch?v=dWdXXGa1_hI
 - React Tutorial CZ -  https://www.dzejes.cz/react-uvod.html
