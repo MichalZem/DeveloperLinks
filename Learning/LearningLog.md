@@ -1,6 +1,14 @@
 [Root](../README.md)
 
 # Learning Log
+5.11.2022
+- Contract Testing with Pact.NET 
+  - https://www.youtube.com/watch?v=vhlH5NyNbjA
+  - https://www.youtube.com/watch?v=1i8JNkQeCgA
+  - https://www.youtube.com/watch?v=KPu5VK8AP4E
+  - https://www.youtube.com/watch?v=qRCY5BTYQk0
+  - https://github.com/pact-foundation/pact-net
+
 4.11.2022
 - WUG Days 2022: Backstage: implementace (micro)servisního katalogu v Oriflame - https://wug.cz/zaznamy/752-WUG-Days-2022-Backstage-implementace-micro-servisniho-katalogu-v-Oriflame
 
