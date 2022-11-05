@@ -9,6 +9,11 @@
   - https://www.youtube.com/watch?v=qRCY5BTYQk0
   - https://github.com/pact-foundation/pact-net
 
+TypeScript
+- TypeScript for C# Developer -  https://www.youtube.com/watch?v=-b9wLydnbVo
+- TypeScript for C# Developer - https://www.youtube.com/watch?v=MRLUylSe6Dc&list=PLo7rGmaumEKAOREGWbk6zlRTBn6fcyol4&index=1
+
+
 4.11.2022
 - WUG Days 2022: Backstage: implementace (micro)servisního katalogu v Oriflame - https://wug.cz/zaznamy/752-WUG-Days-2022-Backstage-implementace-micro-servisniho-katalogu-v-Oriflame
 
