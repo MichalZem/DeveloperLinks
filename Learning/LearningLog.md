@@ -2,16 +2,16 @@
 
 # Learning Log
 6.11.2022
+- TypeScript for C# Developers (Rachel Appel) - https://www.youtube.com/watch?v=-b9wLydnbVo
 - API integration Testing -  WireMock.NET - https://www.youtube.com/watch?v=YU3ohofu6UU
 
 5.11.2022
-- Contract Testing with Pact.NET 
-  - https://www.youtube.com/watch?v=vhlH5NyNbjA
-  - https://www.youtube.com/watch?v=1i8JNkQeCgA
-  - https://www.youtube.com/watch?v=KPu5VK8AP4E
-  - https://www.youtube.com/watch?v=qRCY5BTYQk0
-  - https://www.youtube.com/watch?v=bNfhSLc6jF8
-  - https://github.com/pact-foundation/pact-net
+- Contract Testing with Pact.NET 1 - https://www.youtube.com/watch?v=vhlH5NyNbjA
+- Contract Testing with Pact.NET 2 - https://www.youtube.com/watch?v=1i8JNkQeCgA
+- Contract Testing with Pact.NET 3 - https://www.youtube.com/watch?v=KPu5VK8AP4E
+- Contract Testing with Pact.NET 4 - https://www.youtube.com/watch?v=qRCY5BTYQk0
+- Contract Testing with Pact.NET 5 - https://www.youtube.com/watch?v=bNfhSLc6jF8
+- Contract Testing with Pact.NET GIT - https://github.com/pact-foundation/pact-net
 
 TypeScript
 - TypeScript for C# Developer -  https://www.youtube.com/watch?v=-b9wLydnbVo
