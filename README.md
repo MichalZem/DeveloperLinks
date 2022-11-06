@@ -18,6 +18,7 @@
 - [VisualStudioCode Extensions](WhatIUse/VisualStudioCode-Extensions.md)
 - [Azure Data Studio + Extensions](WhatIUse/AzureDataStudio.md)
 - [Developer tools](WhatIUse/WhatIUse-DeveloperTools.md)
+- [AI](WhatIUse/AI-WhatIUse.md)
 - [Cloud - Azure, App,..](WhatIUse/WhatIUseInCloud.md)
 - [Online](WhatIUse/WhatIUseOnline.md)
 - [Mobil](WhatIUse/WhatIUseMobileApp.md)
