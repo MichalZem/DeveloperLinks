@@ -2,6 +2,7 @@
 
 # Learning Log
 6.11.2022
+- TypeScript - moderní způsob využití Javascriptu - https://www.youtube.com/playlist?list=PLQ8x_VWW6AkvlMSxICuexWjk_vwfWbqG1
 - TypeScript for C# Developers (Rachel Appel) - https://www.youtube.com/watch?v=-b9wLydnbVo
 - API integration Testing -  WireMock.NET - https://www.youtube.com/watch?v=YU3ohofu6UU
 
