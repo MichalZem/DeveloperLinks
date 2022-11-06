@@ -7,6 +7,7 @@
   - https://www.youtube.com/watch?v=1i8JNkQeCgA
   - https://www.youtube.com/watch?v=KPu5VK8AP4E
   - https://www.youtube.com/watch?v=qRCY5BTYQk0
+  - https://www.youtube.com/watch?v=bNfhSLc6jF8
   - https://github.com/pact-foundation/pact-net
 
 TypeScript
