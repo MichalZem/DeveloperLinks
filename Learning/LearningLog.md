@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+6.11.2022
+- API integration Testing -  WireMock.NET - https://www.youtube.com/watch?v=YU3ohofu6UU
+
 5.11.2022
 - Contract Testing with Pact.NET 
   - https://www.youtube.com/watch?v=vhlH5NyNbjA
