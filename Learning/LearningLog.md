@@ -3,6 +3,7 @@
 # Learning Log
 10.11.2022
 - Command Line Wrap - CliWrap - https://github.com/Tyrrrz/CliWrap
+- MAUI App Accelerator - https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiAppAccelerator
 
 6.11.2022
 - TypeScript - moderní způsob využití Javascriptu - https://www.youtube.com/playlist?list=PLQ8x_VWW6AkvlMSxICuexWjk_vwfWbqG1
