@@ -21,6 +21,7 @@
 - [AI](WhatIUse/AI-WhatIUse.md)
 - [Cloud - Azure, App,..](WhatIUse/WhatIUseInCloud.md)
 - [Online](WhatIUse/WhatIUseOnline.md)
+- [Linux](WhatIUse/WhatIUseLinux.md)
 - [Mobil](WhatIUse/WhatIUseMobileApp.md)
 - [Podobné seznamy](WhatIUse/Inspiration.md)
 - [Přání](WhatIUse/Programs-Wish-List.md)
