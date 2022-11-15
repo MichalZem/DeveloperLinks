@@ -9,6 +9,10 @@
 - https://openai.com/blog/whisper/ - Whisper je automatické rozpoznávání řeči (ASR). 
 - https://hotpot.ai/art-generator?s=imagen - Images
 
+
+
+- Přepis faktur - učetnictví - https://www.digitoo.cz/#how
+
 # API
 - Dotnet SDK for OpenAI GTP-3 and DALL·E - https://github.com/betalgo/openai/
 - Azure Form Recognizer libraries - https://devblogs.microsoft.com/azure-sdk/announcing-new-stable-release-of-azure-form-recognizer-libraries/
