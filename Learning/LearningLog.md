@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+15.11.2022
+- Jak na integrační testy REST API - Miroslav Holec - https://www.youtube.com/watch?v=m7cyQAB1uzA
+
 10.11.2022
 - Command Line Wrap - CliWrap - https://github.com/Tyrrrz/CliWrap
 - MAUI App Accelerator - https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiAppAccelerator
