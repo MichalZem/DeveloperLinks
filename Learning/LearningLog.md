@@ -2,6 +2,7 @@
 
 # Learning Log
 15.11.2022
+- How To Deploy Your Application To Azure Using GitHub Actions | CI/CD Pipeline - https://www.youtube.com/watch?v=QP0pi7xe24s
 - Jak na integrační testy REST API - Miroslav Holec - https://www.youtube.com/watch?v=m7cyQAB1uzA
 
 10.11.2022
