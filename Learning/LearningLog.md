@@ -1,6 +1,10 @@
 [Root](../README.md)
 
 # Learning Log
+16.11.2022
+- Dev Tunel In Visual Studio 2022 - https://devblogs.microsoft.com/visualstudio/public-preview-of-dev-tunnels-in-visual-studio-for-asp-net-core-projects/
+- Nový HTTP Logging v .NET 6 - https://www.youtube.com/watch?v=qXGYmxFkrGw
+
 15.11.2022
 - How To Deploy Your Application To Azure Using GitHub Actions | CI/CD Pipeline - https://www.youtube.com/watch?v=QP0pi7xe24s
 - Jak na integrační testy REST API - Miroslav Holec - https://www.youtube.com/watch?v=m7cyQAB1uzA
