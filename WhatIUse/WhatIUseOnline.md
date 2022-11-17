@@ -25,6 +25,9 @@
 - https://frame.io/pricing
 - https://vimeo.com  
 
+### Meetings
+- https://whereby.com/information/pricing/
+
 ### INTERNET Archive
 -  https://archive.org
 -  https://archivarix.com/
