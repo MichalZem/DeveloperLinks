@@ -21,6 +21,10 @@
 - Feedly - Online čtečka RSS -[https://feedly.com](https://feedly.com/)
 - Katalon Studio Web UI Testy  - https://www.katalon.com
 
+### Video
+- https://frame.io/pricing
+- https://vimeo.com  
+
 ### INTERNET Archive
 -  https://archive.org
 -  https://archivarix.com/
