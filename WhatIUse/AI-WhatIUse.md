@@ -10,8 +10,10 @@
 - https://hotpot.ai/art-generator?s=imagen - Images
 
 
-
+- Detekce poruch stroju pomoci zvuku - https://www.neuronsw.com/
+- Document processing / ala faktury -  https://rossum.ai/
 - Přepis faktur - učetnictví - https://www.digitoo.cz/#how
+- 
 
 # API
 - Dotnet SDK for OpenAI GTP-3 and DALL·E - https://github.com/betalgo/openai/
