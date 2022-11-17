@@ -1,6 +1,8 @@
 [Root](../README.md)
 
 # Learning Log
+17.11.2022
+- jOpenSpace 2022 - Michal Těhník - Staff Engineering - https://www.youtube.com/watch?v=WQs4XxaywjM
 16.11.2022
 - Dev Tunel In Visual Studio 2022 - https://devblogs.microsoft.com/visualstudio/public-preview-of-dev-tunnels-in-visual-studio-for-asp-net-core-projects/
 - Nový HTTP Logging v .NET 6 - https://www.youtube.com/watch?v=qXGYmxFkrGw
