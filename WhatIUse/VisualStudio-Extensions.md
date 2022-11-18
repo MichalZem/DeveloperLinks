@@ -15,7 +15,10 @@
 - Benchmark Templates - https://marketplace.visualstudio.com/items?itemName=JeremyJeanson.benchmarktemplates
 - 
 
+
 ## Další
+- Hezci zavorky - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.RainbowBraces
+- Data Object Dump - https://marketplace.visualstudio.com/items?itemName=YevhenCherkes.YellowFlavorObjectDumper
 - Edge Dev Tools - https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.VisualStudioEdgeDevTools
 - Notebook Editor - Ala Jupyter notebook - https://marketplace.visualstudio.com/items?itemName=MLNET.notebook
 - Visualize call graph, inheritance graph and variable usage graph for C/C++, C#, Python and other languages. - https://marketplace.visualstudio.com/items?itemName=YaobinOuyang.CodeGraph
