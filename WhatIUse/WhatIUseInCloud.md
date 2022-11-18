@@ -27,7 +27,8 @@
 - Azure Service Bus Explorer - https://github.com/paolosalvatori/ServiceBusExplorer
 
 # Kubernetes
-- Open source UI - https://github.com/lensapp/lens/releases
+- OpenLens - https://github.com/MuhammedKalkan/OpenLens
+- LENS Open source UI - https://github.com/lensapp/lens/releases
 - K9S UI - https://k9scli.io/
 - Placené UI Kubernetic -  https://www.kubernetic.com/
 
