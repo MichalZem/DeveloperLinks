@@ -2,6 +2,9 @@
 
 # Learning Log
 19.11.2022
+- JavaScript - Callback - https://www.sitepoint.com/callbacks-javascript/?utm_source=rss
+- JavaScript - Fetch Api - https://www.sitepoint.com/introduction-to-the-fetch-api/
+
 - News in c# 11 Nick Chapas https://www.youtube.com/watch?v=cqCBhkNroDI + Havit https://www.youtube.com/watch?v=DfP44FGFbIM
   - Interface - abstract static string {get;set;}
   - INumber<T>
