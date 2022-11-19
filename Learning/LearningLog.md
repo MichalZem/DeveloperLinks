@@ -1,6 +1,11 @@
 [Root](../README.md)
 
 # Learning Log
+19.11.2022
+- ASP.NET Core OAuth Authorization (.NET 7 Minimal Apis C#) - https://www.youtube.com/watch?v=0uSwPdYOm9k
+- Mutation Testing - https://www.youtube.com/watch?v=sGwfwtkaDfk
+- Mutation Testing - Stryker - https://stryker-mutator.io/docs/stryker-net/Introduction
+
 17.11.2022
 - jOpenSpace 2022 - Michal Těhník - Staff Engineering - https://www.youtube.com/watch?v=WQs4XxaywjM
 - Top 10 Dotnet Exception Anti-Patterns in C# - https://newdevsguide.com/2022/11/06/exception-anti-patterns-in-csharp/
