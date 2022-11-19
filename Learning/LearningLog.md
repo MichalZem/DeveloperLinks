@@ -2,6 +2,18 @@
 
 # Learning Log
 19.11.2022
+- News in c# 11 Nick Chapas https://www.youtube.com/watch?v=cqCBhkNroDI + Havit https://www.youtube.com/watch?v=DfP44FGFbIM
+  - Interface - abstract static string {get;set;}
+  - INumber<T>
+  - "string"u8
+  - string """ $$$ napr pro json
+  - autodefult struct
+  - required class property without constructor (required)
+  - list pattersn if(x is [1,_,..,10]])
+  - extended nameof scope - napr funguje - {Attribute(nameof(parameter))] void Func(int parameter)
+  - file scope types - plati jen v souboru
+
+
 - ASP.NET Core OAuth Authorization (.NET 7 Minimal Apis C#) - https://www.youtube.com/watch?v=0uSwPdYOm9k
 - Mutation Testing - https://www.youtube.com/watch?v=sGwfwtkaDfk
 - Mutation Testing - Stryker - https://stryker-mutator.io/docs/stryker-net/Introduction
