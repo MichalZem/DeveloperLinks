@@ -18,6 +18,8 @@
 
 
 - ASP.NET Core OAuth Authorization (.NET 7 Minimal Apis C#) - https://www.youtube.com/watch?v=0uSwPdYOm9k
+- ASP.NET Core Custom OAuth Server (.NET 7 Minimal Apis C#) - https://www.youtube.com/watch?v=EBVKlm0wyTE
+  
 - Mutation Testing - https://www.youtube.com/watch?v=sGwfwtkaDfk
 - Mutation Testing - Stryker - https://stryker-mutator.io/docs/stryker-net/Introduction
 
