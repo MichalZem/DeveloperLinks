@@ -60,6 +60,7 @@
 - FlashBack recorder - Free Screen recorder - https://www.flashbackrecorder.com/
 - Streamovani https://www.vmix.com/
 - Streamovani - OBS Studio - https://obsproject.com/cs/download 
+- Nvidia Broadcast - https://www.nvidia.com/cs-cz/geforce/broadcasting/broadcast-app/
 - Audio Mixer a další SW (VOICEMEETER BANANA) - https://www.vb-audio.com/index.htm
 - Audio Router -  https://github.com/audiorouterdev/audio-router/releases
 - Supervideodownloader - Youtube video downloader - https://www.easthillsmedia.com/products/supervideodownloader/
