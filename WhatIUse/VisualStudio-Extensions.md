@@ -17,6 +17,7 @@
 
 
 ## Další
+- Trailing whitespace - mezery -  https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespace64
 - Hezci zavorky - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.RainbowBraces
 - Data Object Dump - https://marketplace.visualstudio.com/items?itemName=YevhenCherkes.YellowFlavorObjectDumper
 - Edge Dev Tools - https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.VisualStudioEdgeDevTools
