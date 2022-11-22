@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+22.11.2022
+- Swagger - Enum - https://www.codeproject.com/Articles/5300099/Description-of-the-Enumeration-Members-in-Swashbuc
+
 19.11.2022
 - JavaScript - Callback - https://www.sitepoint.com/callbacks-javascript/?utm_source=rss
 - JavaScript - Fetch Api - https://www.sitepoint.com/introduction-to-the-fetch-api/
