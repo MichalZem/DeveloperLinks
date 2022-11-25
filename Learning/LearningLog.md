@@ -1,6 +1,10 @@
 [Root](../README.md)
 
 # Learning Log
+25.11.2022
+- Adding errors to model state modelstate and returning bad request within asp.net core - https://kevsoft.net/2020/02/09/adding-errors-to-model-state-and-returning-bad-request-within-asp-net-core-3-1.html
+- Asp.Net Core Http Exception Problem Details - https://github.com/ofpinewood/http-exceptions
+
 22.11.2022
 - Swagger - Enum - https://www.codeproject.com/Articles/5300099/Description-of-the-Enumeration-Members-in-Swashbuc
 
