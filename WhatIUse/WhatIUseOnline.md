@@ -21,9 +21,9 @@
 - Feedly - Online čtečka RSS -[https://feedly.com](https://feedly.com/)
 - Katalon Studio Web UI Testy  - https://www.katalon.com
 
-### Fotky
+### Fotky + video
 - Český photoeditor online - https://www.photopea.com/
-
+- Video Editor + AI - https://runwayml.com/
 ### UX design 
 - https://www.figma.com/
 
