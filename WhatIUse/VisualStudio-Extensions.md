@@ -17,6 +17,10 @@
 
 
 ## Další
+- Swap Selection - https://marketplace.visualstudio.com/items?itemName=SSDiver2112.SwapSelection
+- Selection and TODO Highlighter - https://marketplace.visualstudio.com/items?itemName=ygoe.SelectionTodoHighlighter
+- Show Selection Length - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ShowSelectionLength
+- Show Inline Errors - https://marketplace.visualstudio.com/items?itemName=AlexanderGayko.ShowInlineErrors
 - Spell Checker - https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2022andLater
 - Trailing whitespace - mezery -  https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespace64
 - Hezci zavorky - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.RainbowBraces
