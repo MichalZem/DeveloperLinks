@@ -1,11 +1,17 @@
 [Root](../README.md)
  
+
 # AI
+
+## AI programování
+- Chat GPT - https://chat.openai.com/chat + https://beta.openai.com/docs/guides/code - Codex - Porgramovani/ vysvetleni kodu
 - Github Copilot - https://github.com/features/copilot/
+
+## Other
+- https://beta.openai.com/playground
 - https://www.copy.ai/ - Texty
 - https://runwayml.com/ - Prace s fotkami - mazani pozadi apod
 - https://labs.openai.com/ - Dall-E - Images
-- https://beta.openai.com/docs/guides/code - Codex - Porgramovani/ vysvetleni kodu
 - https://openai.com/blog/whisper/ - Whisper je automatické rozpoznávání řeči (ASR). 
 - https://hotpot.ai/art-generator?s=imagen - Images
 
