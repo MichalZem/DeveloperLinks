@@ -2,6 +2,7 @@
 
 # Learning Log
 4.12.2022
+- Open source licence: jak se v nich vyznat - https://www.youtube.com/watch?v=yO9WZ2bs1QI
 - What Is GRPC https://www.youtube.com/watch?v=gnchfOojMk4
 
 1.12.2022
