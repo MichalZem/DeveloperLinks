@@ -1,6 +1,10 @@
 [Root](../README.md)
 
 # Learning Log
+8.12.2022
+- Observing all http requests in a .NET application - https://www.meziantou.net/observing-all-http-requests-in-a-dotnet-application.htm
+- Prevent http requests to external services in unit tests - https://www.meziantou.net/prevent-http-requests-to-external-services-in-unit-tests.htm
+
 4.12.2022
 - Open source licence: jak se v nich vyznat - https://www.youtube.com/watch?v=yO9WZ2bs1QI
 - What Is GRPC https://www.youtube.com/watch?v=gnchfOojMk4
