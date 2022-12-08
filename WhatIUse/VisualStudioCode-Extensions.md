@@ -8,6 +8,10 @@
 - Azure CLI Tools - https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli
 - Draw.io Integration in VS Code - https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
 
+
+- Debug Visualiser - https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer
+
+
 ## GIT tools ...
 - Git Graph - https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
 
