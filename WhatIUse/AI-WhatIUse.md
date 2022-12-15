@@ -8,6 +8,9 @@
 - Github Copilot - https://github.com/features/copilot/
 
 ## Images
+
+- https://labs.openai.com/ - DALL-E
+- https://stable-diffusion-ui.github.io/
 - https://github.com/invoke-ai/InvokeAI
 
 ## Other
