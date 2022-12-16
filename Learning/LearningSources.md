@@ -16,6 +16,7 @@
 - https://wug.cz/ - česká komunita - přednášky pro Microsoft technologie
 - https://www.pluralsight.com/ - e-kurzy
 - https://www.packtpub.com/ - e-kurzy + books
+- https://www.syncfusion.com/succinctly-free-ebooks - ebooks
 - https://www.oreilly.com/ - e-kurzy + books
 - https://www.youtube.com/  (premium account)
 - https://www.skillshare.com/
