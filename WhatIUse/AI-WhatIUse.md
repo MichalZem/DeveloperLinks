@@ -12,6 +12,14 @@
 - https://labs.openai.com/ - DALL-E
 - https://stable-diffusion-ui.github.io/
 - https://github.com/invoke-ai/InvokeAI
+- https://cleanup.pictures/ - vymyzání objektu z obrázku
+
+## Video
+- https://www.capcut.com/ - strih software co umi efekt zeleneho platna bez zaleneho platna
+-
+
+## Voice
+- https://www.voicemod.net/ - realtime voice changer
 
 ## Other
 - https://beta.openai.com/playground
@@ -19,8 +27,7 @@
 - https://runwayml.com/ - Prace s fotkami - mazani pozadi apod
 - https://labs.openai.com/ - Dall-E - Images
 - https://openai.com/blog/whisper/ - Whisper je automatické rozpoznávání řeči (ASR). 
-- https://hotpot.ai/art-generator?s=imagen - Images
-
+- https://hotpot.ai/art-generator?s=imagen - Image 
 
 - Detekce poruch stroju pomoci zvuku - https://www.neuronsw.com/
 - Document processing / ala faktury -  https://rossum.ai/
