@@ -3,6 +3,7 @@
 
 # AI
 
+- https://www.botx.cloud/- ceská firma AI LowCode/NoCode
 - https://replicate.com/ Generování Obrázků - přepis mluvené řečí
 
 - https://quickdraw.withgoogle.com/ - namaluj obrazek a AI ho Háda
