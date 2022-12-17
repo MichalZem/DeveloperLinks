@@ -3,6 +3,10 @@
 
 # AI
 
+- https://replicate.com/ Generování Obrázků - přepis mluvené řečí
+
+- https://quickdraw.withgoogle.com/ - namaluj obrazek a AI ho Háda
+
 ## AI programování
 - Chat GPT - https://chat.openai.com/chat + https://beta.openai.com/docs/guides/code - Codex - Porgramovani/ vysvetleni kodu
 - Github Copilot - https://github.com/features/copilot/
