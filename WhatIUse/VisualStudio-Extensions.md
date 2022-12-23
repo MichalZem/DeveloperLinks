@@ -17,6 +17,7 @@
 
 
 ## Další
+- Open in Visual Studio Code - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode
 - Swap Selection - https://marketplace.visualstudio.com/items?itemName=SSDiver2112.SwapSelection
 - Selection and TODO Highlighter - https://marketplace.visualstudio.com/items?itemName=ygoe.SelectionTodoHighlighter
 - Show Selection Length - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ShowSelectionLength
