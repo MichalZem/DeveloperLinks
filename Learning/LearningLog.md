@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+23.12.2022
+ - React Tutorial - David Šetek - Hackni svou budoucnost https://www.youtube.com/playlist?list=PLQ8x_VWW6Akua8I5spV8nHIWlG6_tX6dx
+ 
 8.12.2022
 - Observing all http requests in a .NET application - https://www.meziantou.net/observing-all-http-requests-in-a-dotnet-application.htm
 - Prevent http requests to external services in unit tests - https://www.meziantou.net/prevent-http-requests-to-external-services-in-unit-tests.htm
