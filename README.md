@@ -20,6 +20,7 @@
 - [Html&Css](WhatIUse/html&css.md)
 - [Azure Data Studio + Extensions](WhatIUse/AzureDataStudio.md)
 - [Developer tools](WhatIUse/WhatIUse-DeveloperTools.md)
+- [SQL](WhatIUse/SQL.md)
 - [AI](WhatIUse/AI-WhatIUse.md)
 - [API](WhatIUse/API-WhatIUse.md)
 - [Cloud - Azure, App,..](WhatIUse/WhatIUseInCloud.md)
