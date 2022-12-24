@@ -3,6 +3,8 @@
 # Learning Log
 23.12.2022
  - React Tutorial - David Šetek - Hackni svou budoucnost https://www.youtube.com/playlist?list=PLQ8x_VWW6Akua8I5spV8nHIWlG6_tX6dx
+ - Formi React Form - https://formik.org/docs/tutorial
+ - React Tutorial - https://reactjs.org/docs/hello-world.html  +  https://reactjs.org/tutorial/tutorial.html
  
 8.12.2022
 - Observing all http requests in a .NET application - https://www.meziantou.net/observing-all-http-requests-in-a-dotnet-application.htm
