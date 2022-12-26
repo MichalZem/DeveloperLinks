@@ -18,6 +18,8 @@
 ## Database
 - MSSQL - https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
 
+## React
+- React Snippets - https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 
 ## API, REST, ...
 - API Testing - Thunder Client - https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
