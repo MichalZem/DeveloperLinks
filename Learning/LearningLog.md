@@ -3,6 +3,9 @@
 # Learning Log
 27.12.2022
 - ASP.NET Core Health Checks: Knihovna AspNetCore.Diagnostics.HealthChecks - Valašek, ZTech - https://www.youtube.com/watch?v=HrGUqyYU1Ps
+- React https://www.youtube.com/watch?v=1wZoGFF_oi4&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK
+- React useCallback - https://www.youtube.com/watch?v=IL82CzlaCys + https://www.youtube.com/watch?v=_AyFP5s69N4&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK&index=15
+- React useMemo - https://www.youtube.com/watch?v=THL1OPn72vo&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK&index=12
 
 26.12.2022
 - Formik React Form - https://www.youtube.com/watch?v=vJtyp1YmOpc
