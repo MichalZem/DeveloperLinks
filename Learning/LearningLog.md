@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+27.12.2022
+- ASP.NET Core Health Checks: Knihovna AspNetCore.Diagnostics.HealthChecks - Valašek, ZTech - https://www.youtube.com/watch?v=HrGUqyYU1Ps
+
 26.12.2022
 - Formik React Form - https://www.youtube.com/watch?v=vJtyp1YmOpc
 - React Hooks Lifecycle - https://github.com/Wavez/react-hooks-lifecycle
