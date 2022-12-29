@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+29.12.2022
+- React Hooks - https://www.youtube.com/watch?v=LlvBzyy-558
+
 27.12.2022
 - ASP.NET Core Health Checks: Knihovna AspNetCore.Diagnostics.HealthChecks - Valašek, ZTech - https://www.youtube.com/watch?v=HrGUqyYU1Ps
 - React https://www.youtube.com/watch?v=1wZoGFF_oi4&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK
