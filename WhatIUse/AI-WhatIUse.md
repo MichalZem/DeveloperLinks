@@ -15,13 +15,15 @@
 ## Images
 
 - https://labs.openai.com/ - DALL-E
-- https://stable-diffusion-ui.github.io/
+- https://stable-diffusion-ui.github.io/ + https://stablediffusionweb.com/#demo
 - https://github.com/invoke-ai/InvokeAI
 - https://cleanup.pictures/ - vymyzání objektu z obrázku
 
 ## Video
 - https://www.capcut.com/ - strih software co umi efekt zeleneho platna bez zaleneho platna
 -
+## Texty informace
+- Souhrn z textu - https://www.genei.io/pricing?genei_segment_id=f17ac5c6-d9c8-4e59-a94f-8ae9af89f28a
 
 ## Voice
 - https://www.voicemod.net/ - realtime voice changer
