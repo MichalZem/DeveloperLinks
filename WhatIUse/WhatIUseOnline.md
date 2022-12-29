@@ -12,6 +12,7 @@
 ### Kreslení diagrmů
 - https://draw.io
 - https://www.cloudskew.com/ (cloudové diagramy)
+- https://miro.com/
 
 ### Design / prototypování
 - https://www.figma.com/
