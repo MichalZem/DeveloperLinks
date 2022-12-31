@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+31.12.2022
+- State Management Blazor-  https://www.youtube.com/watch?v=L9p-9dGp-98
+
 29.12.2022
 - React Hooks - https://www.youtube.com/watch?v=LlvBzyy-558
 
