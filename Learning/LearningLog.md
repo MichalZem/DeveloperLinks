@@ -2,7 +2,7 @@
 
 # Learning Log
 31.12.2022
-- State Management Blazor-  https://www.youtube.com/watch?v=L9p-9dGp-98
+- State Management Blazor-  https://www.youtube.com/watch?v=L9p-9dGp-98 + https://github.com/donwibier/DX.BlazorStateMgtDemo
 
 29.12.2022
 - React Hooks - https://www.youtube.com/watch?v=LlvBzyy-558
