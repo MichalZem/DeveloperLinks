@@ -3,6 +3,7 @@
 # Learning Log
 31.12.2022
 - State Management Blazor-  https://www.youtube.com/watch?v=L9p-9dGp-98 + https://github.com/donwibier/DX.BlazorStateMgtDemo
+- Nebojte se JavaScriptu s TypeScriptem - WUG, Herceg - https://wug.cz/zaznamy/766-WUG-Days-2022-Nebojte-se-JavaScriptu-s-TypeScriptem
 
 29.12.2022
 - React Hooks - https://www.youtube.com/watch?v=LlvBzyy-558
