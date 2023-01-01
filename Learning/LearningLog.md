@@ -2,6 +2,7 @@
 
 # Learning Log
 1.1.2023
+- TypeScript HOME - https://www.typescriptlang.org/
 - TypeScript: The Big Picture -  https://app.pluralsight.com/library/courses/typescript-big-picture/table-of-contents
 
 31.12.2022
