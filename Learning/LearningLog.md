@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+3.1.2023
+- Inject C# In Any .NET App With This Secret Entry Point - External Link DLL,... - Nick Chapsas - https://www.youtube.com/watch?v=2qDULMdhN3Y
+
 1.1.2023
 - TypeScript HOME - https://www.typescriptlang.org/
 - TypeScript: The Big Picture -  https://app.pluralsight.com/library/courses/typescript-big-picture/table-of-contents
