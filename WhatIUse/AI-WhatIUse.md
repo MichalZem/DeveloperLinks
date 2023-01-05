@@ -1,7 +1,10 @@
 [Root](../README.md)
  
 
+- https://www.perplexity.ai/
+
 # AI
+
 
 - https://www.botx.cloud/- ceská firma AI LowCode/NoCode
 - https://replicate.com/ Generování Obrázků - přepis mluvené řečí
