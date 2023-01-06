@@ -47,3 +47,6 @@
 # API
 - Dotnet SDK for OpenAI GTP-3 and DALL·E - https://github.com/betalgo/openai/
 - Azure Form Recognizer libraries - https://devblogs.microsoft.com/azure-sdk/announcing-new-stable-release-of-azure-form-recognizer-libraries/
+
+# How to, AI
+how to - GPT3 - https://dev.to/mmz001/a-hands-on-guide-to-prompt-engineering-with-chatgpt-and-gpt-3-4127
