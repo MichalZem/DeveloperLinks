@@ -29,6 +29,7 @@
 - Souhrn z textu - https://www.genei.io/pricing?genei_segment_id=f17ac5c6-d9c8-4e59-a94f-8ae9af89f28a
 
 ## Voice
+- https://github.com/neonbjb/tortoise-tts - Generator Voice + Tutorial https://www.youtube.com/watch?v=Kfr_FZof_hs
 - https://www.voicemod.net/ - realtime voice changer
 
 ## Other
