@@ -2,6 +2,9 @@
 
 # API Služby
 
+## API 
+- Ruzné placené, ale i free služby - https://rapidapi.com/hub
+
 - https://www.gosms.eu/ - SMS
 - https://sendgrid.com/pricing/ - Emaily
 
