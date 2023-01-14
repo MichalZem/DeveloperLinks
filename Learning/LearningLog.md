@@ -1,6 +1,8 @@
 [Root](../README.md)
 
 # Learning Log
+14.1.2023
+- Implementing Modern API Versioning in .NET - Nicka Chapsas - https://www.youtube.com/watch?v=8Asq7ymF1R8
 3.1.2023
 - Inject C# In Any .NET App With This Secret Entry Point - External Link DLL,... - Nick Chapsas - https://www.youtube.com/watch?v=2qDULMdhN3Y
 
