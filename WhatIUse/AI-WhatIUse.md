@@ -13,6 +13,7 @@
 
 ## AI programování
 - Chat GPT - https://chat.openai.com/chat + https://beta.openai.com/docs/guides/code - Codex - Porgramovani/ vysvetleni kodu
+- Detector GPT https://gptzero.me/
 - Github Copilot - https://github.com/features/copilot/
 
 ## Images
