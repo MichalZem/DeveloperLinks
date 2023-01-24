@@ -3,6 +3,11 @@
 # Visual Studio Code - Extensions
 
 
+## AI Coding
+- https://www.codegpt.co/
+
+
+
 - .NET Interactive Notebooks
 - vscode-icons - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 - Azure CLI Tools - https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli
