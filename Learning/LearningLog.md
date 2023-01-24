@@ -1,6 +1,12 @@
 [Root](../README.md)
 
 # Learning Log
+ .1.2023
+-
+
+24.1.2023
+- Debugging a .NET assembly without the source code with Visual Studio -  https://www.meziantou.net/debugging-a-dotnet-assembly-without-the-original-source-code-with-visual-studio.htm
+- 
 14.1.2023
 - Implementing Modern API Versioning in .NET - Nicka Chapsas - https://www.youtube.com/watch?v=8Asq7ymF1R8
 3.1.2023
