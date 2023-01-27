@@ -1,8 +1,8 @@
 [Root](../README.md)
 
 # Learning Log
- .1.2023
--
+27.1.2023
+- Editorconfig - https://hackernoon.com/how-to-use-common-editorconfig-as-a-nuget-package + https://devzone.channeladam.com/notebooks/languages/dotnet/editorconfig-distribution/?ref=hackernoon.com
 
 24.1.2023
 - Debugging a .NET assembly without the source code with Visual Studio -  https://www.meziantou.net/debugging-a-dotnet-assembly-without-the-original-source-code-with-visual-studio.htm
