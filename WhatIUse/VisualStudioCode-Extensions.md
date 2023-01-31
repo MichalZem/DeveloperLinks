@@ -27,6 +27,7 @@
 - React Snippets - https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 
 ## API, REST, ...
+- Rest Client - https://marketplace.visualstudio.com/items?itemName=humao.rest-client   (Video - https://www.youtube.com/watch?v=XNwEhzjaUsQ)
 - API Testing - Thunder Client - https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
 - VSCONNECT - API REST Interactive Call -  https://marketplace.visualstudio.com/items?itemName=jcoc611.vsconnect
 
