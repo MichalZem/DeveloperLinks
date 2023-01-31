@@ -15,6 +15,8 @@
 - Benchmark Templates - https://marketplace.visualstudio.com/items?itemName=JeremyJeanson.benchmarktemplates
 - 
 
+## REST API
+- Rest Client - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.RestClient
 
 ## Další
 - Open in Visual Studio Code - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode
