@@ -3,6 +3,7 @@
 # Learning Log
 7.2.2023
 - Tvorba Chrome Extension [Jiří Gregor, HAVIT Vzdělávací okénko, 8.7.2020] - https://www.youtube.com/watch?v=vqBJTF-RABM 
+- Entity Framework Core 7.0: Custom conventions - https://www.youtube.com/watch?v=vNr3lNuUzuk 
 
 27.1.2023
 - Editorconfig - https://hackernoon.com/how-to-use-common-editorconfig-as-a-nuget-package + https://devzone.channeladam.com/notebooks/languages/dotnet/editorconfig-distribution/?ref=hackernoon.com
