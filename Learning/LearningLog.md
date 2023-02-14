@@ -1,6 +1,10 @@
 [Root](../README.md)
 
 # Learning Log
+14.2.2023
+- AspNetCore API Proxy https://github.com/twitchax/AspNetCore.Proxy
+- ASP.NET Community Standup - Blazor United in .NET 8 - https://www.youtube.com/watch?v=kIH_Py8ytlY
+
 7.2.2023
 - Tvorba Chrome Extension [Jiří Gregor, HAVIT Vzdělávací okénko, 8.7.2020] - https://www.youtube.com/watch?v=vqBJTF-RABM 
 - Entity Framework Core 7.0: Custom conventions - https://www.youtube.com/watch?v=vNr3lNuUzuk 
