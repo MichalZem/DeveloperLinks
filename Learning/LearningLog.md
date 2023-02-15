@@ -3,6 +3,7 @@
 # Learning Log
 15.2.2023
 - Blazor Animation -  https://www.youtube.com/watch?v=4kKXmOeN2i0
+- Blazor CheetSheet - http://justblazor.com/wp-content/uploads/2022/09/Blazor-CheetSheet.pdf
 
 14.2.2023
 - AspNetCore API Proxy https://github.com/twitchax/AspNetCore.Proxy
