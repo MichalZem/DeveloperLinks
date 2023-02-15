@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+15.2.2023
+- Blazor Animation -  https://www.youtube.com/watch?v=4kKXmOeN2i0
+
 14.2.2023
 - AspNetCore API Proxy https://github.com/twitchax/AspNetCore.Proxy
 - ASP.NET Community Standup - Blazor United in .NET 8 - https://www.youtube.com/watch?v=kIH_Py8ytlY
