@@ -1,6 +1,11 @@
 [Root](../README.md)
 
 # Learning Log
+16.2.2023
+- Havit.Blazor stack [WUG Days 2023.1, Robert Haken] - https://www.youtube.com/watch?v=-n58fA66b7I
+   - https://github.com/havit/newprojecttemplate-blazor
+- WUG Days 2023.1: Zastaralé návrhové vzory - Jiri Pokorny - https://wug.cz/zaznamy/772-WUG-Days-2023-1-Zastarale-navrhove-vzory
+
 15.2.2023
 - Blazor Animation -  https://www.youtube.com/watch?v=4kKXmOeN2i0
 - Blazor CheetSheet - http://justblazor.com/wp-content/uploads/2022/09/Blazor-CheetSheet.pdf
