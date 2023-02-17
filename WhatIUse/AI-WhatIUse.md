@@ -11,10 +11,15 @@
 
 - https://quickdraw.withgoogle.com/ - namaluj obrazek a AI ho Háda
 
+
 ## AI programování
 - Chat GPT - https://chat.openai.com/chat + https://beta.openai.com/docs/guides/code - Codex - Porgramovani/ vysvetleni kodu
 - Detector GPT https://gptzero.me/
 - Github Copilot - https://github.com/features/copilot/
+
+## Translace + opravy
+- https://www.deepl.com/cs/write
+- https://www.deepl.com
 
 ## Images
 
