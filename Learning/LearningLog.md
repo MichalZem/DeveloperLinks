@@ -6,6 +6,7 @@
    - https://sw-samuraj.cz/2017/04/cap-theorem/
    - https://blog.krecan.net/2012/07/29/zatroleny-cap/
    - https://en.wikipedia.org/wiki/CAP_theorem
+- PACELC Theorem - https://www.scylladb.com/glossary/pacelc-theorem/
    
 16.2.2023
 - Havit.Blazor stack [WUG Days 2023.1, Robert Haken] - https://www.youtube.com/watch?v=-n58fA66b7I
