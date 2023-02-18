@@ -9,7 +9,9 @@
    - https://en.wikipedia.org/wiki/CAP_theorem
 - PACELC Theorem - https://www.scylladb.com/glossary/pacelc-theorem/
    -  https://en.wikipedia.org/wiki/PACELC_theorem
-   
+
+- EF Core T4
+   - https://www.youtube.com/watch?v=PUexkGWErNk - je zde ukázano ladení T4 / debuging T4 Template
 16.2.2023
 - Havit.Blazor stack [WUG Days 2023.1, Robert Haken] - https://www.youtube.com/watch?v=-n58fA66b7I
    - https://github.com/havit/newprojecttemplate-blazor
