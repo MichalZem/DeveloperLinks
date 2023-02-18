@@ -3,6 +3,7 @@
 # Learning Log
 18.2.2023
 - CAP Theorem https://www.youtube.com/watch?v=BHqjEjzAicA
+   - https://www.youtube.com/watch?v=gkg-FAEXIkY
    - https://sw-samuraj.cz/2017/04/cap-theorem/
    - https://blog.krecan.net/2012/07/29/zatroleny-cap/
    - https://en.wikipedia.org/wiki/CAP_theorem
