@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+19.2.2023
+- Entity Framework 7 T4  - https://www.youtube.com/watch?v=x2nh1vZBsHE
+
 18.2.2023
 - CAP Theorem https://www.youtube.com/watch?v=BHqjEjzAicA
    - https://www.youtube.com/watch?v=gkg-FAEXIkY
