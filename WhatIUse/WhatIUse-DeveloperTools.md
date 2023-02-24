@@ -115,6 +115,7 @@
 - Azure Service Bus UI- https://github.com/paolosalvatori/ServiceBusExplorer
 
 ### Apache Kafka
+- UI for Apache Kafka - https://github.com/provectus/kafka-ui
 - Kafka Tools - Offset Explorer - https://www.kafkatool.com/index.html
 
 ### Elasticsearch tools
