@@ -1,6 +1,11 @@
 [Root](../README.md)
 
 # Learning Log
+03.2023
+- HAVIT Flux Patter Blazor - https://www.youtube.com/watch?v=6JfUGfGrDCo
+- HAVIT BLAZOR Stack https://www.youtube.com/watch?v=_UCsdCYqhgw
+
+
 19.2.2023
 - Entity Framework 7 T4  - https://www.youtube.com/watch?v=x2nh1vZBsHE
 
