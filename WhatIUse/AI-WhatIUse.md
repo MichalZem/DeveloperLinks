@@ -1,10 +1,11 @@
 [Root](../README.md)
  
 
-- https://www.perplexity.ai/
+# GPT
+- https://www.skool.com/chatgpt/promptgenerator?p=1e5ede93
+
 
 # AI
-
 
 - https://www.botx.cloud/- ceská firma AI LowCode/NoCode
 - https://replicate.com/ Generování Obrázků - přepis mluvené řečí
@@ -50,7 +51,7 @@
 - Detekce poruch stroju pomoci zvuku - https://www.neuronsw.com/
 - Document processing / ala faktury -  https://rossum.ai/
 - Přepis faktur - učetnictví - https://www.digitoo.cz/#how
-- 
+- https://www.perplexity.ai/
 
 # API
 - Dotnet SDK for OpenAI GTP-3 and DALL·E - https://github.com/betalgo/openai/
