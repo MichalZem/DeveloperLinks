@@ -1,6 +1,12 @@
 [Root](../README.md)
  
 
+# Prompt Engineering IDE, Prompting
+- https://trydyno.com/ - Dyno
+- https://github.com/hwchase17/langchain LangChain
+- https://promptable.ai/
+- https://learnprompting.org/
+
 # GPT
 - https://www.skool.com/chatgpt/promptgenerator?p=1e5ede93
 
