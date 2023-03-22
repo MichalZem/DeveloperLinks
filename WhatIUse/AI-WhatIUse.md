@@ -31,6 +31,7 @@
 
 ## Images
 
+- https://www.bing.com/images/create/
 - https://labs.openai.com/ - DALL-E
 - https://stable-diffusion-ui.github.io/ + https://stablediffusionweb.com/#demo
 - https://github.com/invoke-ai/InvokeAI
