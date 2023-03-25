@@ -8,6 +8,7 @@
 - https://learnprompting.org/
 
 # GPT
+- https://www.youtube.com/watch?v=-EzHWerWZBE - ChatGpt plugins
 - https://www.skool.com/chatgpt/promptgenerator?p=1e5ede93
 - https://poe.com/
 
