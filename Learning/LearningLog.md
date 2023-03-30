@@ -5,6 +5,7 @@
 - HAVIT Flux Patter Blazor - https://www.youtube.com/watch?v=6JfUGfGrDCo
 - HAVIT BLAZOR Stack https://www.youtube.com/watch?v=_UCsdCYqhgw
 - Prompt Engineering Overview - https://www.youtube.com/watch?v=dOxUroR57xs
+- Microservices in 5 minutes - https://www.youtube.com/watch?v=lL_j7ilk7rc
 
 19.2.2023
 - Entity Framework 7 T4  - https://www.youtube.com/watch?v=x2nh1vZBsHE
