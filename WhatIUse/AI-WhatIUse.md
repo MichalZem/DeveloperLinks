@@ -53,6 +53,7 @@
 - https://www.voicemod.net/ - realtime voice changer
 
 ## Other
+- AI Tools List - https://www.facebook.com/photo/?fbid=158131663847026&set=a.102125222781004
 - https://beta.openai.com/playground
 - https://www.copy.ai/ - Texty
 - https://runwayml.com/ - Prace s fotkami - mazani pozadi apod
