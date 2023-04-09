@@ -1,6 +1,10 @@
 [Root](../README.md)
 
 # Learning Log
+04.2023
+ - Create Multi-Platform Apps with .NET - https://avaloniaui.net/
+ - ASP.NET Community Standup - Blazor App Testing with Playwright - https://www.youtube.com/watch?v=lJa3YlUliEs
+ - 
 03.2023
 - HAVIT Flux Patter Blazor - https://www.youtube.com/watch?v=6JfUGfGrDCo
 - HAVIT BLAZOR Stack https://www.youtube.com/watch?v=_UCsdCYqhgw
