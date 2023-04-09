@@ -4,7 +4,8 @@
 04.2023
  - Create Multi-Platform Apps with .NET - https://avaloniaui.net/
  - ASP.NET Community Standup - Blazor App Testing with Playwright - https://www.youtube.com/watch?v=lJa3YlUliEs
- - 
+ - https://github.com/jpmikkers/Baksteen.Avalonia.Blazor
+ - Playwright - https://playwright.dev/dotnet/
 03.2023
 - HAVIT Flux Patter Blazor - https://www.youtube.com/watch?v=6JfUGfGrDCo
 - HAVIT BLAZOR Stack https://www.youtube.com/watch?v=_UCsdCYqhgw
