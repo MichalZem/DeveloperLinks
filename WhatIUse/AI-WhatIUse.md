@@ -28,6 +28,8 @@
 - Chat GPT - https://chat.openai.com/chat + https://beta.openai.com/docs/guides/code - Codex - Porgramovani/ vysvetleni kodu
 - Detector GPT https://gptzero.me/
 - Github Copilot - https://github.com/features/copilot/
+- Codex JavaScript - https://platform.openai.com/codex-javascript-sandbox
+- Converter mezi jazyky - https://codeverter.vercel.app/
 
 ## Translace + opravy
 - https://www.deepl.com/cs/write
