@@ -16,6 +16,9 @@
 # Alternatives for GPT
 - Install "ChatGPT" ON Your LOCAL Computer: LLaMA & Alpaca - https://www.youtube.com/watch?v=BKb_AnREvvY
 
+# Detekce - obraz
+-  https://landing.ai/ - Visual prompting (https://www.youtube.com/watch?v=FE88OOUBonQ)
+
 # AI
 
 - https://www.botx.cloud/- ceská firma AI LowCode/NoCode
