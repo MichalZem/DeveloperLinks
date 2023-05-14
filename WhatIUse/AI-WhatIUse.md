@@ -54,6 +54,7 @@
 
 ## Voice
 - https://play.ht/ - AI Hlasy, AI Hlas Clonování
+- VOICE AI LIST - Text-To-Speech Generators - https://www.youtube.com/watch?v=58xKrH1-IaY
 - https://github.com/neonbjb/tortoise-tts - Generator Voice + Tutorial https://www.youtube.com/watch?v=Kfr_FZof_hs
 - https://www.voicemod.net/ - realtime voice changer
 
