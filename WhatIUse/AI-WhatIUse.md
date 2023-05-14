@@ -58,6 +58,9 @@
 - https://github.com/neonbjb/tortoise-tts - Generator Voice + Tutorial https://www.youtube.com/watch?v=Kfr_FZof_hs
 - https://www.voicemod.net/ - realtime voice changer
 
+## Music
+- Music Generatosr - https://www.youtube.com/watch?v=BbxSgvDltCI
+
 ## Other
 - AI Tools List - https://www.facebook.com/photo/?fbid=158131663847026&set=a.102125222781004
 - https://beta.openai.com/playground
