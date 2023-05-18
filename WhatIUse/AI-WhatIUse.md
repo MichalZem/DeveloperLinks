@@ -38,8 +38,9 @@
 - https://www.deepl.com/cs/write
 - https://www.deepl.com
 
-## Images
+## Images / Grafika
 
+- https://firefly.adobe.com/
 - https://www.bing.com/images/create/
 - https://labs.openai.com/ - DALL-E
 - https://stable-diffusion-ui.github.io/ + https://stablediffusionweb.com/#demo
