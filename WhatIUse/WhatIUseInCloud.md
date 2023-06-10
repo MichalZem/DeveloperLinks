@@ -36,6 +36,7 @@
 - https://github.com/browserless/chrome
 - https://github.com/microlinkhq/browserless
 
-# Oracle Cloud - free
-- https://www.youtube.com/watch?v=JAb0Wfd5AX4 + https://elearning.altairis.cz/cs/courses/NETLINUX
+#  Cloud - free
+- Oracle Cloud Virtual Server https://www.youtube.com/watch?v=JAb0Wfd5AX4 + https://elearning.altairis.cz/cs/courses/NETLINUX
+- Free Big Storage [https://supabase.com/](https://supabase.com/storage)
 
