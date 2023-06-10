@@ -21,6 +21,7 @@
 
 # AI
 
+- https://aivalley.ai/ - Seznam služeb AI
 - https://www.botx.cloud/- ceská firma AI LowCode/NoCode
 - https://replicate.com/ Generování Obrázků - přepis mluvené řečí
 
@@ -54,6 +55,7 @@
 - Souhrn z textu - https://www.genei.io/pricing?genei_segment_id=f17ac5c6-d9c8-4e59-a94f-8ae9af89f28a
 
 ## Voice
+- https://www.beey.io/cs - převod řeči na text
 - https://play.ht/ - AI Hlasy, AI Hlas Clonování
 - VOICE AI LIST - Text-To-Speech Generators - https://www.youtube.com/watch?v=58xKrH1-IaY
 - https://github.com/neonbjb/tortoise-tts - Generator Voice + Tutorial https://www.youtube.com/watch?v=Kfr_FZof_hs
