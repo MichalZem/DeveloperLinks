@@ -2,7 +2,8 @@
  
 # Visual Studio Extensions
 
-
+### BLAZOR
+- https://marketplace.visualstudio.com/items?itemName=EngstromJimmy.BlazmExtension
 
 ### Testování
 - Unit Test Boilerplate Generator - https://marketplace.visualstudio.com/items?itemName=RandomEngy.UnitTestBoilerplateGenerator
