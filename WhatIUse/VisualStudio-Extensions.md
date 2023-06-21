@@ -20,6 +20,7 @@
 - Rest Client - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.RestClient
 
 ## Další
+- JWT Tools - https://marketplace.visualstudio.com/items?itemName=TimHeuer.JwtTools
 - MappingGenerator - DTO to PCO apod - https://marketplace.visualstudio.com/items?itemName=54748ff9-45fc-43c2-8ec5-cf7912bc3b84.MappingGenerator2022
 - Open in Visual Studio Code - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode
 - Swap Selection - https://marketplace.visualstudio.com/items?itemName=SSDiver2112.SwapSelection
