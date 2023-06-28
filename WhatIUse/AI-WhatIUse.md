@@ -1,5 +1,7 @@
 [Root](../README.md)
  
+# Copilot
+- Copilot Labs -  https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs
 
 # Prompt Engineering IDE, Prompting
 - https://trydyno.com/ - Dyno
