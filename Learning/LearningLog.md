@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+06.2023
+ - https://abp.io/  APB Framework
+ - 
 04.2023
  - Create Multi-Platform Apps with .NET - https://avaloniaui.net/
  - ASP.NET Community Standup - Blazor App Testing with Playwright - https://www.youtube.com/watch?v=lJa3YlUliEs
