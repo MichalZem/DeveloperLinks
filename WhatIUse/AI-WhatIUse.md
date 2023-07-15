@@ -1,6 +1,6 @@
 [Root](../README.md)
  
-https://claude.ai/chat/ 
+https://claude.ai/chat/  
 https://chat.openai.com/
 
 # Copilot
