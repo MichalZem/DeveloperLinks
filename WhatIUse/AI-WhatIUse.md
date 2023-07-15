@@ -1,5 +1,8 @@
 [Root](../README.md)
  
+https://claude.ai/chat/
+https://chat.openai.com/
+
 # Copilot
 - Copilot Labs -  https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs
 
