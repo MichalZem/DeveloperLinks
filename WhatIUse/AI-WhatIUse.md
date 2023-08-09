@@ -47,6 +47,7 @@ https://chat.openai.com/
 ## Images / Grafika
 
 
+- https://leonardo.ai/
 - https://clipdrop.co/ + https://clipdrop.co/stable-doodle
 - https://firefly.adobe.com/
 - https://www.bing.com/images/create/
