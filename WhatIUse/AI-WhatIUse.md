@@ -46,6 +46,8 @@ https://chat.openai.com/
 
 ## Images / Grafika
 
+
+- https://clipdrop.co/ + https://clipdrop.co/stable-doodle
 - https://firefly.adobe.com/
 - https://www.bing.com/images/create/
 - https://labs.openai.com/ - DALL-E
