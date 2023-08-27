@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+08.2023
+- Using Sql Server as a Message Queue with Wolverine - https://jeremydmiller.com/2023/08/13/using-sql-server-as-a-message-queue-with-wolverine/
+- 
 06.2023
  - https://abp.io/  APB Framework
  - 
