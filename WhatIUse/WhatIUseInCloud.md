@@ -38,5 +38,6 @@
 
 #  Cloud - free
 - Oracle Cloud Virtual Server https://www.youtube.com/watch?v=JAb0Wfd5AX4 + https://elearning.altairis.cz/cs/courses/NETLINUX
-- Free Big Storage [https://supabase.com/](https://supabase.com/storage)
+- Free Big Storage [https://supabase.com/](https://supabase.com/storage)  + Firebase  Alternative
+
 
