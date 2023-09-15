@@ -7,8 +7,11 @@
 
 AI Tools - https://www.facebook.com/photo/?fbid=10159612036513927&set=gm.3594274550891934&idorvanity=1468526826800061
 
+https://stability.ai/
 
-
+# Sound & music
+- https://stableaudio.com/
+  
 # Copilot
 - Copilot Labs -  https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs
 
@@ -53,6 +56,7 @@ AI Tools - https://www.facebook.com/photo/?fbid=10159612036513927&set=gm.3594274
 ## Images / Grafika
 
 
+- https://app.prodia.com/
 - https://invoke.ai/
 - https://leonardo.ai/
 - https://clipdrop.co/ + https://clipdrop.co/stable-doodle
