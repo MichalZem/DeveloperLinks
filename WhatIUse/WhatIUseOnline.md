@@ -33,6 +33,7 @@
 - https://vimeo.com  
 
 ### Meetings
+- https://meet.jit.si/ - Free meeting Point2Point
 - https://whereby.com/information/pricing/
 
 ### INTERNET Archive
