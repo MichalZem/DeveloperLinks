@@ -2,6 +2,9 @@
 
 # Learning Log
 09.2023
+
+- DB Sync Microsoft Synchronization Framework - https://learn.microsoft.com/en-us/previous-versions/sql/synchronization/sync-framework-2.1/bb902854(v=sql.110)?redirectedfrom=MSDN
+- DB Database Synchronization Framework - https://github.com/Mimetis/Dotmim.Sync
 - Building Real-Time Applications With SignalR & .NET 7 - https://www.youtube.com/watch?v=9_pRk7PwkpY
 - Real-Time Notifications Using Blazor and SignalR from scratch - https://www.youtube.com/watch?v=O7oaxFgNuYo
   
