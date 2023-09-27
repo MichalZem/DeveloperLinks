@@ -1,6 +1,10 @@
 [Root](../README.md)
 
 # Learning Log
+09.2023
+- Building Real-Time Applications With SignalR & .NET 7 - https://www.youtube.com/watch?v=9_pRk7PwkpY
+- Real-Time Notifications Using Blazor and SignalR from scratch - https://www.youtube.com/watch?v=O7oaxFgNuYo
+  
 08.2023
 - Using Sql Server as a Message Queue with Wolverine - https://jeremydmiller.com/2023/08/13/using-sql-server-as-a-message-queue-with-wolverine/
 - 
