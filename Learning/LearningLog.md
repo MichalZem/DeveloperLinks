@@ -2,7 +2,7 @@
 
 # Learning Log
 09.2023
-
+- Blazor HTML Custom Elements - https://www.telerik.com/blogs/embed-blazor-components-any-webpage-dotnet-7-official-custom-elements-support + https://www.youtube.com/watch?v=jIlSfgQiWTQ
 - DB Sync Microsoft Synchronization Framework - https://learn.microsoft.com/en-us/previous-versions/sql/synchronization/sync-framework-2.1/bb902854(v=sql.110)?redirectedfrom=MSDN
 - DB Database Synchronization Framework - https://github.com/Mimetis/Dotmim.Sync
 - Building Real-Time Applications With SignalR & .NET 7 - https://www.youtube.com/watch?v=9_pRk7PwkpY
