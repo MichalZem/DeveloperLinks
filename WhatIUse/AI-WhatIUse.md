@@ -9,6 +9,9 @@ AI Tools - https://www.facebook.com/photo/?fbid=10159612036513927&set=gm.3594274
 
 https://stability.ai/
 
+# Chats
+- https://beta.character.ai/
+  
 # Sound & music
 - https://stableaudio.com/
   
