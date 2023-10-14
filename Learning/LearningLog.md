@@ -1,6 +1,8 @@
 [Root](../README.md)
 
 # Learning Log
+10.2023
+- Specification Pattern in a .NET 8 Web API 🚀 Improving Your Repositories! - https://www.youtube.com/watch?v=bEyBtpnCqVY
 09.2023
 - CleanArchitecture - https://github.com/jasontaylordev/CleanArchitecture
 - Blazor plugins - https://www.youtube.com/watch?v=LNxK_LtfnQI
