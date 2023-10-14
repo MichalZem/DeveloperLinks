@@ -3,7 +3,8 @@
 # Learning Log
 10.2023
 - Specification Pattern in a .NET 8 Web API 🚀 Improving Your Repositories! - https://www.youtube.com/watch?v=bEyBtpnCqVY
-- Api Version - https://dateo-software.de/blog/web-api-versioning  
+- Api Version - https://dateo-software.de/blog/web-api-versioning
+  
 09.2023
 - CleanArchitecture - https://github.com/jasontaylordev/CleanArchitecture
 - Blazor plugins - https://www.youtube.com/watch?v=LNxK_LtfnQI
