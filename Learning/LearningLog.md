@@ -2,6 +2,7 @@
 
 # Learning Log
 10.2023
+- https://www.youtube.com/watch?v=zXQiYmdADaw - Ondřej Žára - Web Components v praxi, WebComponents  
 - Specification Pattern in a .NET 8 Web API 🚀 Improving Your Repositories! - https://www.youtube.com/watch?v=bEyBtpnCqVY
 - Api Version - https://dateo-software.de/blog/web-api-versioning
   
