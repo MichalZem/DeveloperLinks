@@ -1,6 +1,11 @@
 [Root](../README.md)
 
 # Learning Log
+11.2023
+- https://htmx.org/
+- HTMX https://www.youtube.com/watch?v=jAh04sd1Fxw
+- HTMX & C# - https://www.youtube.com/watch?v=uS6m37jhdqM
+  
 10.2023
 - https://kroki.io/#try - diagramy z textu  
 - https://www.youtube.com/watch?v=zXQiYmdADaw - Ondřej Žára - Web Components v praxi, WebComponents  
