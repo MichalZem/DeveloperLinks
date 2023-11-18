@@ -11,6 +11,8 @@
 - FineCodeCoverage - Visualize unit test code coverage easily for free in Visual Studio - https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage2022
  - Plus k FineCodeCoverage nuget https://www.nuget.org/packages/coverlet.collector - https://github.com/coverlet-coverage/coverlet
 
+### MAUI
+- GrialStudio   - https://marketplace.visualstudio.com/items?itemName=UXDivers.GrialStudio
 
 ### Benchmarking
 - Benchmark Templates - https://marketplace.visualstudio.com/items?itemName=JeremyJeanson.benchmarktemplates
