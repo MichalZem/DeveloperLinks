@@ -6,7 +6,8 @@
 - HTMX https://www.youtube.com/watch?v=jAh04sd1Fxw
 - HTMX & C# - https://www.youtube.com/watch?v=uS6m37jhdqM
 - MAUI - https://evergine.com/ - 3D Framework - https://www.youtube.com/watch?v=vWAXrP69QX4&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU&index=55
-- Fluent Result - https://github.com/altmann/FluentResults
+- Result Pattern - Fluent Result - https://github.com/altmann/FluentResults
+- Result Pattern - https://www.youtube.com/watch?v=WCCkEe_Hy2Y
   
 10.2023
 - https://kroki.io/#try - diagramy z textu  
