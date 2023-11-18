@@ -8,6 +8,7 @@
 - MAUI - https://evergine.com/ - 3D Framework - https://www.youtube.com/watch?v=vWAXrP69QX4&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU&index=55
 - Result Pattern - Fluent Result - https://github.com/altmann/FluentResults
 - Result Pattern - https://www.youtube.com/watch?v=WCCkEe_Hy2Y
+- C# - Architecture Tests - https://github.com/TNG/ArchUnitNET , https://github.com/BenMorris/NetArchTest , How To Create Better .NET Applications with Architecture Tests - https://www.youtube.com/watch?v=eWjNLYNS-og
   
 10.2023
 - https://kroki.io/#try - diagramy z textu  
