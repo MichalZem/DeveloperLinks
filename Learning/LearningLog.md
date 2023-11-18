@@ -10,6 +10,7 @@
 - Result Pattern - https://www.youtube.com/watch?v=WCCkEe_Hy2Y
 - C# - Architecture Tests - https://github.com/TNG/ArchUnitNET , https://github.com/BenMorris/NetArchTest , How To Create Better .NET Applications with Architecture Tests - https://www.youtube.com/watch?v=eWjNLYNS-og
 - EF Core Interceptors, Domain Event, Outbox - https://www.milanjovanovic.tech/blog/how-to-use-ef-core-interceptors#store-outbox-messages-with-ef-interceptors
+- Top Async / Await Best Practices - https://codetraveler.io/asyncawaitbestpractices/
   
 10.2023
 - https://kroki.io/#try - diagramy z textu  
