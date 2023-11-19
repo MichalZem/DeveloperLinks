@@ -13,13 +13,14 @@
 - Top Async / Await Best Practices - https://codetraveler.io/asyncawaitbestpractices/ + https://www.youtube.com/watch?v=zhCRX3B7qwY
 - Clean Architecture - Steve Smith - https://github.com/ardalis/CleanArchitecture
 - Architecture - ABP Framework - https://abp.io/
-- YARP Reverse Proxy -, https://github.com/microsoft/reverse-proxy +  https://www.youtube.com/watch?v=P8y8NAroVKk&list=PLdo4fOcmZ0oUivD41vgLqXMgcp5ZVtxj7&index=5 
+- YARP Reverse Proxy -, https://github.com/microsoft/reverse-proxy +  https://www.youtube.com/watch?v=P8y8NAroVKk&list=PLdo4fOcmZ0oUivD41vgLqXMgcp5ZVtxj7&index=5
+- .NET ASPIRE - What Is .NET Aspire? The Insane Future of .NET! - 
   
 10.2023
 - https://kroki.io/#try - diagramy z textu  
 - https://www.youtube.com/watch?v=zXQiYmdADaw - Ondřej Žára - Web Components v praxi, WebComponents  
 - Specification Pattern in a .NET 8 Web API 🚀 Improving Your Repositories! - https://www.youtube.com/watch?v=bEyBtpnCqVY
-- Api Version - https://dateo-software.de/blog/web-api-versioning
+- Api Version - https://dateo-software.de/blog/web-api-versioning - https://www.youtube.com/watch?v=DORZA_S7f9w 
   
 09.2023
 - CleanArchitecture - https://github.com/jasontaylordev/CleanArchitecture
