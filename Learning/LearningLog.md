@@ -13,6 +13,7 @@
 - Top Async / Await Best Practices - https://codetraveler.io/asyncawaitbestpractices/ + https://www.youtube.com/watch?v=zhCRX3B7qwY
 - Clean Architecture - Steve Smith - https://github.com/ardalis/CleanArchitecture
 - Architecture - ABP Framework - https://abp.io/
+- YARP Reverse Proxy -, https://github.com/microsoft/reverse-proxy +  https://www.youtube.com/watch?v=P8y8NAroVKk&list=PLdo4fOcmZ0oUivD41vgLqXMgcp5ZVtxj7&index=5 
   
 10.2023
 - https://kroki.io/#try - diagramy z textu  
