@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+11.2023 TOP!!!
+- Full stack web UI with Blazor in .NET 8 | .NET Conf 2023 - https://www.youtube.com/watch?v=YwZdtLEtROA&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU&index=5
+
 11.2023
 - https://htmx.org/
 - HTMX https://www.youtube.com/watch?v=jAh04sd1Fxw
