@@ -20,6 +20,7 @@
 - .NET ASPIRE  - https://learn.microsoft.com/cs-cz/dotnet/aspire/get-started/aspire-overview
 - What Is .NET Aspire? The Insane Future of .NET! - https://www.youtube.com/watch?v=DORZA_S7f9w
 - How to Deploy .NET 8's New .NET Aspire Stack - https://www.youtube.com/watch?v=HYe6y1kBuGI
+- Verify Testing - https://www.youtube.com/watch?v=UC-AUnuTh0I - https://github.com/VerifyTests/Verify
   
 10.2023
 - https://kroki.io/#try - diagramy z textu  
