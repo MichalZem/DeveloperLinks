@@ -17,7 +17,8 @@
 - Clean Architecture - Steve Smith - https://github.com/ardalis/CleanArchitecture
 - Architecture - ABP Framework - https://abp.io/
 - YARP Reverse Proxy -, https://github.com/microsoft/reverse-proxy +  https://www.youtube.com/watch?v=P8y8NAroVKk&list=PLdo4fOcmZ0oUivD41vgLqXMgcp5ZVtxj7&index=5
-- .NET ASPIRE  - https://learn.microsoft.com/cs-cz/dotnet/aspire/get-started/aspire-overview
+- .NET ASPIRE - https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8/
+- .NET ASPIRE - https://learn.microsoft.com/cs-cz/dotnet/aspire/get-started/aspire-overview
 - What Is .NET Aspire? The Insane Future of .NET! - https://www.youtube.com/watch?v=DORZA_S7f9w
 - How to Deploy .NET 8's New .NET Aspire Stack - https://www.youtube.com/watch?v=HYe6y1kBuGI
 - Verify Testing - https://www.youtube.com/watch?v=UC-AUnuTh0I - https://github.com/VerifyTests/Verify
