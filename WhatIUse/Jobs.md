@@ -3,4 +3,4 @@
 # Jobs
 
 - https://coderpad.io/ - Pohovorování  
-- https://www.navigara.io/ - Global job market analytics  
+- https://www.navigara.io/ , https://joblytics.io/ - Global job market analytics  
