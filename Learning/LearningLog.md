@@ -23,6 +23,7 @@
 - How to Deploy .NET 8's New .NET Aspire Stack - https://www.youtube.com/watch?v=HYe6y1kBuGI
 - Verify Testing - https://www.youtube.com/watch?v=UC-AUnuTh0I - https://github.com/VerifyTests/Verify
 - Exception handling in .NET 8 -  https://www.youtube.com/watch?v=0hh9v6Y_cOg
+- Vertical Slice Architecture: How Does it Compare to Clean Architecture | .NET Conf 2023 - https://www.youtube.com/watch?v=T-EwN9UqRwE
   
 10.2023
 - https://kroki.io/#try - diagramy z textu  
