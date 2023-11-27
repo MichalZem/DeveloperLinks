@@ -25,6 +25,7 @@
 - Exception handling in .NET 8 -  https://www.youtube.com/watch?v=0hh9v6Y_cOg
 - Vertical Slice Architecture: How Does it Compare to Clean Architecture Luke Parker | .NET Conf 2023 - https://www.youtube.com/watch?v=T-EwN9UqRwE
 - Pick a Side - Clean vs Vertical Slice Architecture | Luke Parker https://www.youtube.com/watch?v=dMgj1MdwrRE
+- Git Hooks & .NET Husky - https://www.code4it.dev/blog/husky-dotnet-precommit-hooks/
   
 10.2023
 - https://kroki.io/#try - diagramy z textu  
