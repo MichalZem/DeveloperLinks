@@ -37,5 +37,6 @@
 ### Přehled
 - https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap
 - https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
-- https://attachments.convertkitcdnn2.com/645794/8cc257f1-12f3-45b7-b3e4-99a2068fcbd7/julios.net-backend-developer-roadmap.pdf  
+- https://attachments.convertkitcdnn2.com/645794/8cc257f1-12f3-45b7-b3e4-99a2068fcbd7/julios.net-backend-developer-roadmap.pdf
+- https://github.com/jordan-cutler/path-to-senior-engineer-handbook  
 
