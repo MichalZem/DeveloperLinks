@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+12.2023 
+- Source Generators playground  - https://bartwullems.blogspot.com/2023/10/source-generator-playground.html
+  
 11.2023 TOP!!!
 - Full stack web UI with Blazor in .NET 8 | .NET Conf 2023 - https://www.youtube.com/watch?v=YwZdtLEtROA&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU&index=5
 
