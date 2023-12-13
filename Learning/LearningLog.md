@@ -3,6 +3,7 @@
 # Learning Log
 12.2023 
 - Source Generators playground  - https://bartwullems.blogspot.com/2023/10/source-generator-playground.html
+- Blazor Page Script - https://github.com/MackinnonBuck/blazor-page-script - 
   
 11.2023 TOP!!!
 - Full stack web UI with Blazor in .NET 8 | .NET Conf 2023 - https://www.youtube.com/watch?v=YwZdtLEtROA&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU&index=5
