@@ -5,6 +5,7 @@
 - Source Generators playground  - https://bartwullems.blogspot.com/2023/10/source-generator-playground.html
 - Blazor Page Script - https://github.com/MackinnonBuck/blazor-page-script -
 - NDJSON - https://www.tpeczek.com/2020/10/consuming-json-objects-stream-ndjson.html
+- Domain Events, Kafka - https://www.asyncapi.com/ - https://www.pluralsight.com/cloud-guru/labs/aws/using-schema-registry-in-a-kafka-application?utm_source=google&utm_medium=paid-search&utm_campaign=cloud-transformation&utm_term=ssi-global-acg-core-dsa&utm_content=free-trial&gad_source=1&gclid=CjwKCAiAhJWsBhAaEiwAmrNyq7A3ih3OFdDJnfN6ulyZ7qtMzVRYBO3MlU_Nogf2naH5ZBkcQL8kpxoCsd8QAvD_BwE
   
 11.2023 TOP!!!
 - Full stack web UI with Blazor in .NET 8 | .NET Conf 2023 - https://www.youtube.com/watch?v=YwZdtLEtROA&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU&index=5
