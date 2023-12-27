@@ -13,6 +13,7 @@
 - [Hardware](WhatIUse/WhatIUse-Hardware.md)
 - [Základní software](WhatIUse/WhatIUse-BasicSoftware.md)
 - [Browser Extension](WhatIUse/WhatIUse-BrowserExtensions.md)
+- [Servis PC/HW/SW](WhatIUse/WhatIUse-ServisPC.md)
 - Visual Studio Latest Version + Preview Latest Version (Proffesional + Enterprise edition)
 - Visual Studio Code Latest Version
 - [VisualStudio Extensions](WhatIUse/VisualStudio-Extensions.md)
