@@ -34,7 +34,8 @@
 - Paint .Net - Image Editor - https://www.getpaint.net/
 - Image Resizer - Right Click - https://www.bricelam.net/ImageResizer/ 
 - HandBrake – Videkonventor
-- Audacity , sound editor - https://www.audacityteam.org/download/windows/    +  Mp3 Export https://lame.buanzo.org/#lamewindl 
+- Audacity , sound editor - https://www.audacityteam.org/download/windows/    +  Mp3 Export https://lame.buanzo.org/#lamewindl
+- Audacity AI Moduly - https://github.com/intel/openvino-plugins-ai-audacity/releases
 - EarTrumpet - Volume Control
 - StreamWriter - Record Audi Stream & Internet Radio  -  https://streamwriter.org/en/ 
 - FlashBack recorder - Free Screen recorder - https://www.flashbackrecorder.com/
