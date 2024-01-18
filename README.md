@@ -1,6 +1,6 @@
 # What I Use - Co používám za SW, HW, nástroje
 
-<!-- - https://stackshare.io/michalzem -->
+- https://stackshare.io/michalzem - Under Construction
 
 
 - [Zdroje pro učení](Learning/LearningSources.md)
