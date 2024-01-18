@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+01/2024
+- Documentation https://thenewstack.io/bad-documentation-bad-documentation/
+- 
 12.2023 
 - Source Generators playground  - https://bartwullems.blogspot.com/2023/10/source-generator-playground.html
 - Blazor Page Script - https://github.com/MackinnonBuck/blazor-page-script -
