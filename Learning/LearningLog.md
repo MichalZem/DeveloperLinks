@@ -2,6 +2,7 @@
 
 # Learning Log
 01/2024
+- Blazor - StateHasChanged - Hasn't Changed? Why and when Blazor components re-render - https://jonhilton.net/blazor-rendering/
 - Documentation https://thenewstack.io/bad-documentation-bad-documentation/
 - 
 12.2023 
