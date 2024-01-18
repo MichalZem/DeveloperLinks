@@ -5,6 +5,9 @@
 ### Windows Terminal
 - Custom Color Prompt https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup
 
+### Prototiping 
+- https://www.justinmind.com/
+- 
 ### Developer tools - Online
 
 - HASH, BASE64,SHA,MDA,... - https://emn178.github.io/online-tools/
