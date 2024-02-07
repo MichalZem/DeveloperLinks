@@ -1,12 +1,16 @@
 [Root](../README.md)
 
 # Learning Log
+02/2024
+- NOSQL - https://build5nines.com/nosql-vs-sql-demystifying-nosql-databases/
+- 
 01/2024
 - Blazor - StateHasChanged - Hasn't Changed? Why and when Blazor components re-render - https://jonhilton.net/blazor-rendering/
 - Documentation https://thenewstack.io/bad-documentation-bad-documentation/
 - AI AutoGenStudio - https://youtu.be/sD0X-lWPdxg?t=653
 - NET ASPIRE - https://www.youtube.com/watch?v=8aG410nmjtQ
 - NET Scheduling New Lib Coravel - https://www.youtube.com/watch?v=73Q5EabiEHM  - https://github.com/jamesmh/coravel
+
 12.2023 
 - Source Generators playground  - https://bartwullems.blogspot.com/2023/10/source-generator-playground.html
 - Blazor Page Script - https://github.com/MackinnonBuck/blazor-page-script -
