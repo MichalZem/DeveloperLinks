@@ -10,6 +10,7 @@
 - AI AutoGenStudio - https://youtu.be/sD0X-lWPdxg?t=653
 - NET ASPIRE - https://www.youtube.com/watch?v=8aG410nmjtQ
 - NET Scheduling New Lib Coravel - https://www.youtube.com/watch?v=73Q5EabiEHM  - https://github.com/jamesmh/coravel
+- NET ASPIRE - https://www.youtube.com/watch?v=8aG410nmjtQ
 
 12.2023 
 - Source Generators playground  - https://bartwullems.blogspot.com/2023/10/source-generator-playground.html
