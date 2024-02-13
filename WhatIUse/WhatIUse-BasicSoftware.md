@@ -5,7 +5,8 @@
 - Drivery (Sound,VGA,LAN,..)
 - Tiskárny ovladače
 - DeepL translator(placená verze)
-- Chrome Browser
+- Chrome Browser, Edge, FireFox, Opera, Safari
+- MindMapy -  https://docs.freeplane.org/, Xmind
 - Telnet Client + NetFramework 2.0 + 4.5-last version
 - OneDrive + Google Drive
 - Office – poslední verze + aktualizace
