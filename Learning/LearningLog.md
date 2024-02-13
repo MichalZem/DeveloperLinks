@@ -3,7 +3,7 @@
 # Learning Log
 02/2024
 - NOSQL - https://build5nines.com/nosql-vs-sql-demystifying-nosql-databases/
-- 
+- Blazor Fluent UI - https://www.youtube.com/watch?v=_LLqdP6ZRbI
 01/2024
 - Blazor - StateHasChanged - Hasn't Changed? Why and when Blazor components re-render - https://jonhilton.net/blazor-rendering/
 - Documentation https://thenewstack.io/bad-documentation-bad-documentation/
