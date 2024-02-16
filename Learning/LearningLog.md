@@ -5,6 +5,7 @@
 - NOSQL - https://build5nines.com/nosql-vs-sql-demystifying-nosql-databases/
 - Blazor Fluent UI - https://www.youtube.com/watch?v=_LLqdP6ZRbI, https://www.fluentui-blazor.net/
 - SUPER - Everything You NEED to Know About Client Architecture Patterns - MVC, MVVM, MVP, MVVM-C, VIPER - https://www.youtube.com/watch?v=I5c7fBgvkNY
+- NET ASPIRE To Azure - https://devblogs.microsoft.com/dotnet/how-to-deploy-dotnet-aspire-apps-to-azure-container-apps/ 
 
 01/2024
 - Blazor - StateHasChanged - Hasn't Changed? Why and when Blazor components re-render - https://jonhilton.net/blazor-rendering/
