@@ -20,6 +20,9 @@
 ## GIT tools ...
 - Git Graph - https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
 
+## Diagrmas 
+- mindmaps as markdown - https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode
+
 ## Database
 - MSSQL - https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
 
