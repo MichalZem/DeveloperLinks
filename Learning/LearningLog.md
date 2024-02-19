@@ -8,6 +8,7 @@
 - NET ASPIRE To Azure - https://devblogs.microsoft.com/dotnet/how-to-deploy-dotnet-aspire-apps-to-azure-container-apps/
 - NET Messaging Lib wolverine https://wolverine.netlify.app/ + https://github.com/JasperFx/wolverine + https://www.youtube.com/watch?v=p1gsK69m94Y
 - REACTIVE NET Rektivní progamování NET https://introtorx.com/
+- markmap - mindmap as code markdown - https://markmap.js.org/repl
 
 01/2024
 - Blazor - StateHasChanged - Hasn't Changed? Why and when Blazor components re-render - https://jonhilton.net/blazor-rendering/
