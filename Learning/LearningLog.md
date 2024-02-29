@@ -13,6 +13,7 @@
 - .NET 8 & GDPR - https://www.youtube.com/watch?v=rK3-tO7K6i8
 - Notification System - https://www.youtube.com/watch?v=wUFo0fy3Tao - .NET Architecture | Building a Notification System using the Modular-Monolith approach
 - C# NET Dump Object Log - https://github.com/MoaidHathot/Dumpify - https://www.youtube.com/watch?v=ERWAMSgz-vc
+- .NET, Reporitng, FastReport, https://github.com/FastReports/FastReport
 
 01/2024
 - Blazor - StateHasChanged - Hasn't Changed? Why and when Blazor components re-render - https://jonhilton.net/blazor-rendering/
