@@ -3,6 +3,8 @@
 # Learning Log
 03/2024
 - ASP.NET CORE RequestBody Multiple Times - https://weblog.west-wind.com/posts/2024/Feb/20/Reading-Raw-ASPNET-RequestBody-Multiple-Times
+- Using named pipes with ASP.NET Core and HttpClient - https://andrewlock.net/using-named-pipes-with-aspnetcore-and-httpclient/
+- Using Unix domain sockets with ASP.NET Core and HttpClient - https://andrewlock.net/using-unix-domain-sockets-with-aspnetcore-and-httpclient/
 - 
 02/2024
 - NOSQL - https://build5nines.com/nosql-vs-sql-demystifying-nosql-databases/
