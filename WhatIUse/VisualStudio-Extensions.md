@@ -4,6 +4,8 @@
 
 ### BLAZOR
 - https://marketplace.visualstudio.com/items?itemName=EngstromJimmy.BlazmExtension
+- https://marketplace.visualstudio.com/items?itemName=neozhu.247365 - CleanArchitecture CodeGenerator For Blazor App
+- https://marketplace.visualstudio.com/items?itemName=KevinMueller.HtmlCssClassCompletion22 - Better Razor CSS Class Intellisense
 
 ### Testování
 - Unit Test Boilerplate Generator - https://marketplace.visualstudio.com/items?itemName=RandomEngy.UnitTestBoilerplateGenerator
