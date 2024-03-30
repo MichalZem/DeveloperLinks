@@ -25,8 +25,10 @@
 - Rest Client - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.RestClient
 
 ## EF CORE
-- View Entity Framework Core query plan directly inside Visual Studio. - https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer
 - A package that contains EF Core Power Tools and some DDEX providers that improve your experience when using EF Core Power Tools. - https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerpack
+- Entity Framework Visual Editor - https://marketplace.visualstudio.com/items?itemName=michaelsawczyn.EFDesigner2022
+- View Entity Framework Core query plan directly inside Visual Studio. - https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer
+    
 ## Další
 - Exception Visualizer - https://marketplace.visualstudio.com/items?itemName=elmahio.exceptioninspector
 - GutHub Action https://marketplace.visualstudio.com/items?itemName=TimHeuer.GitHubActionsVS
