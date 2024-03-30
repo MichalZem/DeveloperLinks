@@ -21,6 +21,7 @@
 - 
 
 ## REST API
+- Generátor Clienta ze Swager Konfigurace - https://marketplace.visualstudio.com/items?itemName=Unchase.unchaseopenapiconnectedservicevs22
 - Rest Client - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.RestClient
 
 ## EF CORE
