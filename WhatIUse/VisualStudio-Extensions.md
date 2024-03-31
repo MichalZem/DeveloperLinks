@@ -18,7 +18,6 @@
 
 ### Benchmarking
 - Benchmark Templates - https://marketplace.visualstudio.com/items?itemName=JeremyJeanson.benchmarktemplates
-- 
 
 ## REST API
 - Generátor Clienta ze Swager Konfigurace - https://marketplace.visualstudio.com/items?itemName=Unchase.unchaseopenapiconnectedservicevs22
@@ -28,6 +27,9 @@
 - A package that contains EF Core Power Tools and some DDEX providers that improve your experience when using EF Core Power Tools. - https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerpack
 - Entity Framework Visual Editor - https://marketplace.visualstudio.com/items?itemName=michaelsawczyn.EFDesigner2022
 - View Entity Framework Core query plan directly inside Visual Studio. - https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer
+
+## Database
+- SQLite and SQL Server Compact Toolbox - https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox
     
 ## Další
 - Exception Visualizer - https://marketplace.visualstudio.com/items?itemName=elmahio.exceptioninspector
@@ -99,6 +101,5 @@ nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices
 - AutoRunCustomTool - Automatically runs the custom tool on another file when a file is modified.  https://marketplace.visualstudio.com/items?itemName=ThomasLevesque.AutoRunCustomTool 
 - Move Type To File - 2017/19 - https://marketplace.visualstudio.com/items?itemName=OlegShilo.MoveTypeToFile
 - MOLE - lepší debug visualiser -https://marketplace.visualstudio.com/items?itemName=KarlShifflettkdawg.MoleforVisualStudio2019
-- SQLite/SQL Server Compact Toolbox - https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox
 - Snippet Designer - https://marketplace.visualstudio.com/items?itemName=vs-publisher-2795.SnippetDesigner
 - Snippetica (přes 700 snippetů) https://marketplace.visualstudio.com/items?itemName=josefpihrt.Snippetica
