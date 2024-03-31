@@ -10,6 +10,7 @@
 - BLAZOR - RADZEN BLAZOR Komponenty -https://blazor.radzen.com/dashboard, https://www.youtube.com/watch?v=TcH87xJVylw, https://www.youtube.com/watch?v=0PaPPf7wFOo
 - VectorDB & .NET - https://devblogs.microsoft.com/dotnet/get-started-milvus-vector-db-dotnet/
 - T4 - https://web.archive.org/web/20130812005612/http://blogs.microsoft.co.il/blogs/gilf/archive/2009/12/12/reading-a-xml-file-in-t4-templates.aspx
+- Embedding Power BI Reports in your Blazor 6 , PowerBi, Blazor - https://www.youtube.com/watch?v=O8vmnYBUkbc
   
 02/2024
 - NOSQL - https://build5nines.com/nosql-vs-sql-demystifying-nosql-databases/
