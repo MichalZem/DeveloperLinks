@@ -1,6 +1,10 @@
 [Root](../README.md)
 
 # Learning Log
+04/2024
+- Blazor 8 Render mode Detection - https://blog.lhotka.net/2024/03/30/Blazor-8-Render-Mode-Detection
+- 
+
 03/2024
 - ASP.NET CORE RequestBody Multiple Times - https://weblog.west-wind.com/posts/2024/Feb/20/Reading-Raw-ASPNET-RequestBody-Multiple-Times
 - Using named pipes with ASP.NET Core and HttpClient - https://andrewlock.net/using-named-pipes-with-aspnetcore-and-httpclient/
