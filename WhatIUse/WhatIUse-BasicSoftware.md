@@ -28,6 +28,7 @@
 - Toogle (local client) - evidence práce na Projektech - Online + Local Client
 - VirtualBox https://www.virtualbox.org/ - Android Image https://www.osboxes.org/virtualbox-images/
 - Sandbox v PC - https://sandboxie-plus.com/
+- Enigma Virtual Box - https://enigmaprotector.com/en/downloads.html
 
 ### MultiMédia - Video, Music, Image
 - All-in-one audio & video editing, as easy as a doc - https://www.descript.com/
