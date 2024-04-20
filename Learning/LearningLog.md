@@ -3,7 +3,7 @@
 # Learning Log
 04/2024
 - Blazor 8 Render mode Detection - https://blog.lhotka.net/2024/03/30/Blazor-8-Render-Mode-Detection
-- 
+- C# NET API Client REFIT https://www.youtube.com/watch?v=pJDIdIcOH6s
 
 03/2024
 - ASP.NET CORE RequestBody Multiple Times - https://weblog.west-wind.com/posts/2024/Feb/20/Reading-Raw-ASPNET-RequestBody-Multiple-Times
