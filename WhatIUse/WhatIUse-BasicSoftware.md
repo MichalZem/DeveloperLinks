@@ -59,6 +59,7 @@
 ### Střih Videa
 - Pinnacle Studio 25
 - DaVinci Resolve
+- Kdenlive - https://kdenlive.org/en/
 
 ### Animace
 - CartoonAnimator Pro 4.51
