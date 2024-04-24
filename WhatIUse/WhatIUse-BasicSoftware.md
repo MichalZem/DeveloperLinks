@@ -35,7 +35,8 @@
 - VLC Player + https://github.com/nurupo/vlc-pause-click-plugin   Click to Play/Pause Plugin
 - Krita image editor(ala PhotoShop) - https://krita.org/cs/post-download/ (https://www.youtube.com/watch?v=v8TEW8rZCmA , https://github.com/Acly/krita-ai-tools , https://github.com/Acly/krita-ai-diffusion)
 - Paint .Net - Image Editor - https://www.getpaint.net/
-- Image Resizer - Right Click - https://www.bricelam.net/ImageResizer/ 
+- Image Resizer - Right Click - https://www.bricelam.net/ImageResizer/
+- Inkscape - https://inkscape.org/ - Vector Graphics
 - HandBrake – Videkonventor
 - Audacity , sound editor - https://www.audacityteam.org/download/windows/    +  Mp3 Export https://lame.buanzo.org/#lamewindl
 - Audacity AI Moduly - https://github.com/intel/openvino-plugins-ai-audacity/releases
