@@ -3,6 +3,7 @@
 ### Chrome Extension
 
 - Instant Data Scarper - https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah/related
+- Automate your browser - https://www.automa.site/
 - Deepl
 - Google Translator + TransOver
 - Chrome Remote Desktop
