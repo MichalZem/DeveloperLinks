@@ -10,6 +10,7 @@
  - https://pipedream.com/ - možno debugovat webhhok HTTP request
 
 ### Kreslení diagrmů
+- https://kroki.io
 - https://draw.io
 - https://www.cloudskew.com/ (cloudové diagramy)
 - https://miro.com/
