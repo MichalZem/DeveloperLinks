@@ -24,3 +24,4 @@
 - YouTube Ad Auto-skipper - https://chrome.google.com/webstore/detail/youtube-ad-auto-skipper/lokpenepehfdekijkebhpnpcjjpngpnd
 - Loom Record obrazovky - https://www.loom.com/
 - YouTube Summary with ChatGPT & Claude - https://chromewebstore.google.com/detail/nmmicjeknamkfloonkhhcjmomieiodli
+- AI vygenervani Tutorialu pro Aplikaci WEB - https://scribehow.com/
