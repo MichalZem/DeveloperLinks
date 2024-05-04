@@ -1,6 +1,10 @@
 [Root](../README.md)
 
 # Learning Log
+05/2024
+- SQl Server in Docker container - https://www.youtube.com/watch?v=zqNr0wiKaMM
+-
+  
 04/2024
 - Blazor 8 Render mode Detection - https://blog.lhotka.net/2024/03/30/Blazor-8-Render-Mode-Detection
 - C# NET API Client REFIT https://www.youtube.com/watch?v=pJDIdIcOH6s
