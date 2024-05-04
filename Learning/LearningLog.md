@@ -3,7 +3,7 @@
 # Learning Log
 05/2024
 - SQl Server in Docker container - https://www.youtube.com/watch?v=zqNr0wiKaMM
--
+- Blazor file upload - https://github.com/alex-wolf-ps/blazor-file-uploads
   
 04/2024
 - Blazor 8 Render mode Detection - https://blog.lhotka.net/2024/03/30/Blazor-8-Render-Mode-Detection
