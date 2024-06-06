@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+06/2024
+- Blazor, Blazor Audio, Blazor Doom, Blazor knihovny....https://github.com/KristofferStrube?tab=repositories
+- 
 05/2024
 - SQl Server in Docker container - https://www.youtube.com/watch?v=zqNr0wiKaMM
 - Blazor file upload - https://github.com/alex-wolf-ps/blazor-file-uploads
