@@ -76,6 +76,7 @@
 - WGET - https://eternallybored.org/misc/wget/  + gui http://winwget.sourceforge.net/ 
 - Ngrok - Localní TCP port forwarduje na internet - https://ngrok.com/download
 - Microsoft PowerToys - https://github.com/microsoft/PowerToys
+- Network TCP Scanner - https://www.advanced-ip-scanner.com/download/
 
 ### Servisní SW
  - Analyzer sítě - WireShark - https://www.wireshark.org/#download
