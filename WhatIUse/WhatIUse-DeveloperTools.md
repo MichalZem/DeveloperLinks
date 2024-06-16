@@ -131,6 +131,7 @@ NoSQL Manager MongoDb - https://www.mongodbmanager.com/
 
 ## API/REST
 - Nightingale REST Client - for Windows / alternativa PostMan
+- Mock API REST - https://mockoon.com/
 - Fake API Json Server (C#) - https://github.com/ttu/dotnet-fake-json-server
 - Fake API Json Server (běží pod NODE) -  https://github.com/typicode/json-server
  
