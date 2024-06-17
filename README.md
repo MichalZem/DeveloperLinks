@@ -2,7 +2,7 @@
 
 - https://stackshare.io/michalzem - Under Construction
 
-
+- [CheatSheets](CheatSheets/)
 - [Zdroje pro učení](Learning/LearningSources.md)
 - [Learning Log](Learning/LearningLog.md)
 
