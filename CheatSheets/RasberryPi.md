@@ -1,13 +1,19 @@
 # Rasberry PI CheatSheets
 
 
-# Other Links
+## Other Links
 https://gist.github.com/hofmannsven/9132419
 
-# Common 
+## Shop
+## Remote Access
+https://www.dataplicity.com/  
+https://www.pitunnel.com/
+
+
+## Common 
 raspi-config Open Raspberry Pi configuration
 
-# Manage software
+## Manage software
 sudo apt update Check for updates over the Internet  
 sudo apt full-upgrade Apply updates to all installed software  
 apt search trash Search for an application containing the word trash  
@@ -15,7 +21,7 @@ sudo apt install trash-cli Install the trash-cli command
 sudo apt remove foo Uninstall the foo command  
 sudo apt purge foo Uninstall the foo command and erase its configuration files  
 
-# Basic Linux commands
+## Basic Linux commands
 ls List contents of current directory  
 cd ~ Change directory to your home directory  
 cd ~/Documents Change directory to your Documents directory  
