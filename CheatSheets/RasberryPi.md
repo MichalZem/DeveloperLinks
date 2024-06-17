@@ -1,3 +1,10 @@
+# Rasberry PI CheatSheets
+
+
+# Other Links
+https://gist.github.com/hofmannsven/9132419
+
+# Common 
 raspi-config Open Raspberry Pi configuration
 
 # Manage software
