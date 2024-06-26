@@ -1,5 +1,8 @@
 # Rasberry PI CheatSheets
 
+# Commom command
+sudo raspi-config
+
 
 ## Other Links
 https://gist.github.com/hofmannsven/9132419
