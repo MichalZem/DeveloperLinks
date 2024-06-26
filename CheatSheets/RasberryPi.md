@@ -55,4 +55,11 @@ sudo apt install mc - midnight commander
 sudo apt install webmin - UI WEB admin portal for Linux
 
 
+# Teplomer DS18B20
+IOT knihovna MS Dotnet -  https://github.com/dotnet/iot/blob/main/src/devices/OneWire/README.md  
+https://charlieblog.eu/clanek-raspberry-pi-meteostanice-ds18b20  
+Multiple Temp - https://www.hackster.io/vinayyn/multiple-ds18b20-temp-sensors-interfacing-with-raspberry-pi-d8a6b0  
+
+# PWM
+https://randomnerdtutorials.com/raspberry-pi-pwm-python/
 
