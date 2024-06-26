@@ -2,6 +2,7 @@
 
 # Commom command
 sudo raspi-config
+journalctl -fu servicename.service
 
 
 ## Other Links
