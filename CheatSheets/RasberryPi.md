@@ -16,6 +16,7 @@ https://console.hivemq.cloud/
 https://mqtt-explorer.com/  
 https://mqttx.app/  
 https://mqttboard.flespi.io/#/  
+https://www.bevywise.com/mqtt-broker/ - Enterprise  
 
 ## Shop
 ## Remote Access
