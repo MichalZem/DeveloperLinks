@@ -76,8 +76,7 @@ https://charlieblog.eu/clanek-raspberry-pi-meteostanice-ds18b20
 Multiple Temp - https://www.hackster.io/vinayyn/multiple-ds18b20-temp-sensors-interfacing-with-raspberry-pi-d8a6b0  
 
 # Camera 
-.NET Camera - https://www.youtube.com/watch?v=haY_wMKHq-E
-
+.NET Camera - https://neilsnotes.net/Software/Coding/dotnetPiCam.html   -   https://www.youtube.com/watch?v=haY_wMKHq-E   - https://www.youtube.com/watch?v=-KYH78spofs
 # PWM
 https://randomnerdtutorials.com/raspberry-pi-pwm-python/
 
