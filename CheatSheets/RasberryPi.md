@@ -75,6 +75,9 @@ IOT knihovna MS Dotnet -  https://github.com/dotnet/iot/blob/main/src/devices/On
 https://charlieblog.eu/clanek-raspberry-pi-meteostanice-ds18b20  
 Multiple Temp - https://www.hackster.io/vinayyn/multiple-ds18b20-temp-sensors-interfacing-with-raspberry-pi-d8a6b0  
 
+# Camera 
+.NET Camera - https://www.youtube.com/watch?v=haY_wMKHq-E
+
 # PWM
 https://randomnerdtutorials.com/raspberry-pi-pwm-python/
 
