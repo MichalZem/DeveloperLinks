@@ -77,6 +77,8 @@ Multiple Temp - https://www.hackster.io/vinayyn/multiple-ds18b20-temp-sensors-in
 
 # Camera 
 .NET Camera - https://neilsnotes.net/Software/Coding/dotnetPiCam.html   -   https://www.youtube.com/watch?v=haY_wMKHq-E   - https://www.youtube.com/watch?v=-KYH78spofs
+https://learn.microsoft.com/en-us/answers/questions/1608328/getting-recording-to-work-with-multiple-usb-camera  
+
 # PWM
 https://randomnerdtutorials.com/raspberry-pi-pwm-python/
 
