@@ -14,6 +14,7 @@
 - PDF Creator
 - Windows USB/DVD Download Tool
 - RUFUS - ISO to USB - https://rufus.ie/cs_CZ.html
+- Midnight Commander for Windows - https://github.com/adamyg/mcwin32  
 - TotalComander  (Plná verze koupená)
 - Skype + Microsoft Teams
 - AnyDesk Client + TeamViewer Client
