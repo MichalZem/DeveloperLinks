@@ -3,7 +3,7 @@
 # Learning Log
 07/2024
 - 101 - Linux - https://www.youtube.com/watch?v=LKCVKw9CzFo
-- 
+- Authentication made easy with ASP.NET Core Identity in .NET 8 - https://www.youtube.com/watch?v=S0RSsHKiD6Y
 
 06/2024
 - Blazor, Blazor Audio, Blazor Doom, Blazor knihovny....https://github.com/KristofferStrube?tab=repositories
