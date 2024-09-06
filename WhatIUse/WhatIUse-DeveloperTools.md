@@ -78,6 +78,7 @@
 - https://www.heidisql.com/  – Alternativa k ManagementStudiuu (umí různé db -MySQL,PostgreSQL,SQLIte)
 - https://sqlitebrowser.org/ - SQLite management
 - http://www.sqliteexpert.com/ - SQLite management
+- https://antares-sql.app/ - SQLITE, Postgre,Mysql,...
 
 ### Práce s logy
 - Log parser - https://www.microsoft.com/en-us/download/details.aspx?id=24659 (https://knowledge-base.havit.cz/2017/12/12/tip-microsoft-logparser-studio-rychle-sql-dotazovani-do-textovych-log-souboru/)
