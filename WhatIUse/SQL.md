@@ -2,6 +2,10 @@
 
 # SQL Tools
 
+## SQLITE
+- https://antares-sql.app/
+
+- 
 ## SQL Management studio - Addon
 - https://www.ssmsboost.com/Download/SSMSBoost
 
