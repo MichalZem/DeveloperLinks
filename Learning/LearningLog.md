@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+10/2024
+- Python in C# - https://tonybaloney.github.io/CSnakes/getting-started/
+- 
 07/2024
 - 101 - Linux - https://www.youtube.com/watch?v=LKCVKw9CzFo
 - Authentication made easy with ASP.NET Core Identity in .NET 8 - https://www.youtube.com/watch?v=S0RSsHKiD6Y
