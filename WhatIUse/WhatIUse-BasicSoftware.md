@@ -54,12 +54,14 @@
 - Titulky - Přehrávač - https://github.com/carsonip/Penguin-Subtitle-Player
 - Titulky - Subtitle editor - https://nikse.dk/SubtitleEdit/
 
+# Sound Lib
+- BBC - https://sound-effects.bbcrewind.co.uk/
+  
 # DAW
 - Pro Tools
 - Reaper
 
 ### Střih Videa
-- Pinnacle Studio 25
 - DaVinci Resolve
 - Kdenlive - https://kdenlive.org/en/
 
