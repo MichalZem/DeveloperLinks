@@ -32,6 +32,7 @@
 - SQLite and SQL Server Compact Toolbox - https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox
     
 ## Další
+- Multiline Search and Replace - https://marketplace.visualstudio.com/items?itemName=PeterMacej.MultilineSearchandReplace
 - Exception Visualizer - https://marketplace.visualstudio.com/items?itemName=elmahio.exceptioninspector
 - GutHub Action https://marketplace.visualstudio.com/items?itemName=TimHeuer.GitHubActionsVS
 - JWT Tools - https://marketplace.visualstudio.com/items?itemName=TimHeuer.JwtTools
