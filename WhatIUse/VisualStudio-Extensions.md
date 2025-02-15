@@ -32,6 +32,7 @@
 - SQLite and SQL Server Compact Toolbox - https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox
     
 ## Další
+- Event Time Line (log událostí ve Visual Studiu) - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EventLog 
 - EditorInfo - text length, coding, etc,.. - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DocumentMargin
 - FileExplorer in Sollution - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WorkflowBrowser
 - Multiline Search and Replace - https://marketplace.visualstudio.com/items?itemName=PeterMacej.MultilineSearchandReplace
