@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+02/2025
+-C# InterpolatedParser - https://github.com/AntonBergaker/InterpolatedParser?tab=readme-ov-file 
+
 10/2024
 - OpenCV in NET - https://www.youtube.com/watch?v=vQr5N2E_6AM - prace s videm - OpenCV is the world's biggest computer vision library.
 - Python in C# - https://tonybaloney.github.io/CSnakes/getting-started/
