@@ -32,6 +32,7 @@
 - SQLite and SQL Server Compact Toolbox - https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox
     
 ## Další
+- EditorInfo - text length, coding, etc,.. - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DocumentMargin
 - FileExplorer in Sollution - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WorkflowBrowser
 - Multiline Search and Replace - https://marketplace.visualstudio.com/items?itemName=PeterMacej.MultilineSearchandReplace
 - Exception Visualizer - https://marketplace.visualstudio.com/items?itemName=elmahio.exceptioninspector
