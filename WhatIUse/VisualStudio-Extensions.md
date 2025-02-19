@@ -2,6 +2,9 @@
  
 # Visual Studio Extensions
 
+### Time
+- https://wakapi.dev/summary - https://marketplace.visualstudio.com/items?itemName=WakaTime.WakaTime-2022
+  
 ### BLAZOR
 - https://marketplace.visualstudio.com/items?itemName=EngstromJimmy.BlazmExtension
 - https://marketplace.visualstudio.com/items?itemName=neozhu.247365 - CleanArchitecture CodeGenerator For Blazor App
