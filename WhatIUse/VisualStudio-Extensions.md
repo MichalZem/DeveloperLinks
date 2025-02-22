@@ -35,6 +35,7 @@
 - SQLite and SQL Server Compact Toolbox - https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox
     
 ## Další
+- https://erikej.github.io/sql/dacfx/2025/02/17/sql-dacfx-analyzer.html 
 - Event Time Line (log událostí ve Visual Studiu) - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EventLog 
 - EditorInfo - text length, coding, etc,.. - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DocumentMargin
 - FileExplorer in Sollution - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WorkflowBrowser
