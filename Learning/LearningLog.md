@@ -2,7 +2,7 @@
 
 # Learning Log
 02/2025
-- Chrome Extension - https://github.com/mingyaulee/Blazor.BrowserExtension + https://www.youtube.com/watch?v=oyH3G_ntpKk
+- Chrome Extension - https://github.com/mingyaulee/Blazor.BrowserExtension + https://github.com/mingyaulee/Blazor.BrowserExtension.Samples + https://www.youtube.com/watch?v=oyH3G_ntpKk
 - C# InterpolatedParser - https://github.com/AntonBergaker/InterpolatedParser?tab=readme-ov-file 
 
 10/2024
