@@ -35,7 +35,7 @@
 - SQLite and SQL Server Compact Toolbox - https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox
     
 ## Kvalita kodu
-- Cyclomatic complexity,Halstead volume,Lines of executable, .... -  codehttps://marketplace.visualstudio.com/items?itemName=ognjen-babic.CodeMaintainability2022
+- Cyclomatic complexity,Halstead volume,Lines of executable, .... -  codehttps://marketplace.visualstudio.com/items?itemName=ognjen-babic.CodeMaintainability2022   Podobne - https://marketplace.visualstudio.com/items?itemName=tackme31.howmessy
 
 ## Další
 - https://erikej.github.io/sql/dacfx/2025/02/17/sql-dacfx-analyzer.html 
