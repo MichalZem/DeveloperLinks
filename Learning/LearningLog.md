@@ -2,7 +2,8 @@
 
 # Learning Log
 02/2025
--C# InterpolatedParser - https://github.com/AntonBergaker/InterpolatedParser?tab=readme-ov-file 
+- Chrome Extension - https://github.com/mingyaulee/Blazor.BrowserExtension + https://www.youtube.com/watch?v=oyH3G_ntpKk
+- C# InterpolatedParser - https://github.com/AntonBergaker/InterpolatedParser?tab=readme-ov-file 
 
 10/2024
 - OpenCV in NET - https://www.youtube.com/watch?v=vQr5N2E_6AM - prace s videm - OpenCV is the world's biggest computer vision library.
