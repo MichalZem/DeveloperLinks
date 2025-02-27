@@ -35,6 +35,7 @@
 - SQLite and SQL Server Compact Toolbox - https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox
     
 ## Kvalita kodu
+- SonarQube - https://marketplace.visualstudio.com/items?itemName=SonarSource.SonarLintforVisualStudio2022
 - Cyclomatic complexity,Halstead volume,Lines of executable, .... -  codehttps://marketplace.visualstudio.com/items?itemName=ognjen-babic.CodeMaintainability2022   Podobne - https://marketplace.visualstudio.com/items?itemName=tackme31.howmessy
 
 ## Další
