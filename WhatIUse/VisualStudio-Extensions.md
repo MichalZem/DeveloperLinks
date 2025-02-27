@@ -34,6 +34,9 @@
 ## Database
 - SQLite and SQL Server Compact Toolbox - https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox
     
+## Kvalita kodu
+- Cyclomatic complexity,Halstead volume,Lines of executable, .... -  codehttps://marketplace.visualstudio.com/items?itemName=ognjen-babic.CodeMaintainability2022
+
 ## Další
 - https://erikej.github.io/sql/dacfx/2025/02/17/sql-dacfx-analyzer.html 
 - Event Time Line (log událostí ve Visual Studiu) - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EventLog 
@@ -69,8 +72,6 @@
 - GitFlow for Visual Studio 2019 - https://marketplace.visualstudio.com/items?itemName=vs-publisher-57624.GitFlowforVisualStudio2019
 - Codist A productivity enhancer for C# - https://marketplace.visualstudio.com/items?itemName=wmj.Codist 
 - Web Compiler - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebCompiler (compile LESS, Scss, Stylus, JSX,..)
-- CodeMetrices – Měří počet Ifů - https://marketplace.visualstudio.com/items?itemName=vkacmar.RoslynCodeMetrices
-nebo i https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices 
 - T4 Editor
 	- Devart - https://www.devart.com/t4-editor/download.html  nebo  https://marketplace.visualstudio.com/items?itemName=DevartSoftware.DevartT4EditorforVisualStudio 
 	- T4Editor – Tangible -  https://t4-editor.tangible-engineering.com/T4-Editor-Visual-T4-Editing.html nebo https://marketplace.visualstudio.com/items?itemName=tangibleengineeringGmbH.tangibleT4Editor2019 
