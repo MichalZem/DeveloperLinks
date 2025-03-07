@@ -9,7 +9,10 @@
 ### Vývojářské
  - https://pipedream.com/ - možno debugovat webhhok HTTP request
 
-### Kreslení diagrmů
+### Skicování
+- https://excalidraw.com/
+
+### Kreslení - diagrmů
 - https://kroki.io
 - https://draw.io
 - https://www.cloudskew.com/ (cloudové diagramy)
