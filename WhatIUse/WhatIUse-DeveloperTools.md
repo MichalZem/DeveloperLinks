@@ -2,10 +2,19 @@
 
 # Developer Tool
 
+### AI Developer Tool
+- https://repomix.com/
+- https://www.cursor.com/
+- 
+### Developer Statistics 
+- https://wakapi.dev/
+- https://wakatime.com/dashboard
+- https://www.manictime.com/
+    
 ### Windows Terminal
 - Custom Color Prompt https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup
 
-### Prototiping 
+### Prototyping 
 - https://www.justinmind.com/
 - 
 ### Developer tools - Online
