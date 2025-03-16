@@ -31,7 +31,9 @@
 - VirtualBox https://www.virtualbox.org/ - Android Image https://www.osboxes.org/virtualbox-images/
 - Sandbox v PC - https://sandboxie-plus.com/
 - Enigma Virtual Box - https://enigmaprotector.com/en/downloads.html
-
+### VPN
+- https://tailscale.com/
+  
 ### MultiMédia - Video, Music, Image
 - All-in-one audio & video editing, as easy as a doc - https://www.descript.com/
 - VLC Player + https://github.com/nurupo/vlc-pause-click-plugin   Click to Play/Pause Plugin
