@@ -21,6 +21,7 @@
 - Git Graph - https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
 
 ## Diagrmas 
+- Debug Visualizer - https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer
 - mindmaps as markdown - https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode
 
 ## Database
