@@ -8,7 +8,9 @@
 AI Tools - https://www.facebook.com/photo/?fbid=10159612036513927&set=gm.3594274550891934&idorvanity=1468526826800061
 
 https://stability.ai/
-
+# MCP Servers
+- MS SQl MCP https://github.com/RichardHan/mssql_mcp_server
+- memory bank - https://github.com/alioshr/memory-bank-mcp + https://github.com/IncomeStreamSurfer/roo-code-memory-bank-mcp-server?tab=readme-ov-file
 # Chats
 - https://beta.character.ai/
   
