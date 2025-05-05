@@ -18,6 +18,7 @@
 
 
 ## GIT tools ...
+- GitLens - https://marketplace.visualstudio.com/items/?itemName=eamodio.gitlens
 - Git Graph - https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
 
 ## Diagrmas 
