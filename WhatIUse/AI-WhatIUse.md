@@ -9,8 +9,11 @@ AI Tools - https://www.facebook.com/photo/?fbid=10159612036513927&set=gm.3594274
 
 https://stability.ai/
 # MCP Servers
-- MS SQl MCP https://github.com/RichardHan/mssql_mcp_server
-- memory bank - https://github.com/alioshr/memory-bank-mcp + https://github.com/IncomeStreamSurfer/roo-code-memory-bank-mcp-server?tab=readme-ov-file
+- playwright-mcp - https://github.com/microsoft/playwright-mcp
+- Context7 MCP - https://context7.com/
+- MS SQl MCP - https://github.com/RichardHan/mssql_mcp_server
+- desktopcommander MCP - https://desktopcommander.app/#installation
+- memory bank MCP - https://github.com/alioshr/memory-bank-mcp + https://github.com/IncomeStreamSurfer/roo-code-memory-bank-mcp-server?tab=readme-ov-file
 # Chats
 - https://beta.character.ai/
   
