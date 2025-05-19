@@ -28,6 +28,7 @@
 
 ## EF CORE
 - A package that contains EF Core Power Tools and some DDEX providers that improve your experience when using EF Core Power Tools. - https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerpack
+- EFCoreVisualizer - query plan Visualiser - https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer
 - Entity Framework Visual Editor - https://marketplace.visualstudio.com/items?itemName=michaelsawczyn.EFDesigner2022
 - View Entity Framework Core query plan directly inside Visual Studio. - https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer
 
