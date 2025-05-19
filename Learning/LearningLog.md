@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+05/2025
+- MCP Servers in ASP.NET Core- https://www.youtube.com/watch?v=x_6iUhdHnhc
+
 02/2025
 - testing database integrations - https://medium.com/@kova98/testing-database-integrations-in-net-with-xunit-b2cea2cb4bc2
 - Chrome Extension - https://github.com/mingyaulee/Blazor.BrowserExtension + https://github.com/mingyaulee/Blazor.BrowserExtension.Samples + https://www.youtube.com/watch?v=oyH3G_ntpKk
