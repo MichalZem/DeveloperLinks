@@ -1,5 +1,9 @@
 [Root](../README.md)
  
+# Github copilot
+- /.github/copilot-instruction.md
+- /.github/prompts/
+
 # Last 
 - https://github.com/KillianLucas/open-interpreter  
 - https://claude.ai/chat/   
@@ -8,6 +12,16 @@
 AI Tools - https://www.facebook.com/photo/?fbid=10159612036513927&set=gm.3594274550891934&idorvanity=1468526826800061
 
 https://stability.ai/
+# AI Coding
+- Github Copilot
+- https://kilocode.ai/
+- https://windsurf.com/editor
+- https://www.cursor.com/
+- https://www.augmentcode.com/
+- https://cline.bot/
+- Roo Code
+
+
 # MCP Servers
 - MCP inspector - https://github.com/modelcontextprotocol/inspector
 - MCP Proxy - https://github.com/TBXark/mcp-proxy
