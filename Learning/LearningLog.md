@@ -2,6 +2,8 @@
 
 # Learning Log
 05/2025
+- LLM in MS SQL - https://www.mssqltips.com/sqlservertip/8245/large-language-model-ollama-with-sql-server/?utm_source=rss&utm_medium=rss&utm_campaign=large-language-model-ollama-with-sql-server
+- 
 - MCP Servers in ASP.NET Core- https://www.youtube.com/watch?v=x_6iUhdHnhc
 
 02/2025
