@@ -32,6 +32,7 @@ https://stability.ai/
 - MCP inspector - https://github.com/modelcontextprotocol/inspector
 - MCP Proxy - https://github.com/TBXark/mcp-proxy
 - MCP Sample + Signal R- https://github.com/halter73/mcpR/tree/main/server
+  - https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp/
 - MCP Browser integration
    - playwright-mcp - https://github.com/microsoft/playwright-mcp
    - browser-use - https://github.com/co-browser/browser-use-mcp-server
