@@ -31,6 +31,7 @@ https://stability.ai/
 - https://github.com/modelcontextprotocol/servers
 - 
 # MCP Servers
+- mcp-with-azure-functions - https://techcommunity.microsoft.com/blog/AppsonAzureBlog/build-ai-agent-tools-using-remote-mcp-with-azure-functions/4401059
 - MCP inspector - https://github.com/modelcontextprotocol/inspector
 - MCP Proxy - https://github.com/TBXark/mcp-proxy
 - MCP Sample + Signal R- https://github.com/halter73/mcpR/tree/main/server
