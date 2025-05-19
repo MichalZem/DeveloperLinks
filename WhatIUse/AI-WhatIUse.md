@@ -22,6 +22,11 @@ https://stability.ai/
 - Roo Code
 
 
+# MCP Servers - List
+- https://www.mcpoogle.com/
+- https://mcp.so/
+- https://github.com/modelcontextprotocol/servers
+- 
 # MCP Servers
 - MCP inspector - https://github.com/modelcontextprotocol/inspector
 - MCP Proxy - https://github.com/TBXark/mcp-proxy
