@@ -35,6 +35,7 @@
 - https://tailscale.com/
   
 ### MultiMédia - Video, Music, Image
+- Free Tube app YouTube Client & Download - https://freetubeapp.io/
 - All-in-one audio & video editing, as easy as a doc - https://www.descript.com/
 - VLC Player + https://github.com/nurupo/vlc-pause-click-plugin   Click to Play/Pause Plugin
 - Krita image editor(ala PhotoShop) - https://krita.org/cs/post-download/ (https://www.youtube.com/watch?v=v8TEW8rZCmA , https://github.com/Acly/krita-ai-tools , https://github.com/Acly/krita-ai-diffusion)
