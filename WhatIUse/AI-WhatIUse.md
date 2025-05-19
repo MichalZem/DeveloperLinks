@@ -26,6 +26,8 @@ https://stability.ai/
 - Standard - https://modelcontextprotocol.io/introduction
 - https://www.mcpoogle.com/
 - https://mcp.so/
+- https://mcpservers.com/
+- https://www.pulsemcp.com/
 - https://github.com/modelcontextprotocol/servers
 - 
 # MCP Servers
