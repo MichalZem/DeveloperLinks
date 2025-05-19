@@ -22,7 +22,8 @@ https://stability.ai/
 - Roo Code
 
 
-# MCP Servers - List
+# MCP + Servers - List
+- Standard - https://modelcontextprotocol.io/introduction
 - https://www.mcpoogle.com/
 - https://mcp.so/
 - https://github.com/modelcontextprotocol/servers
@@ -30,6 +31,7 @@ https://stability.ai/
 # MCP Servers
 - MCP inspector - https://github.com/modelcontextprotocol/inspector
 - MCP Proxy - https://github.com/TBXark/mcp-proxy
+- MCP Sample + Signal R- https://github.com/halter73/mcpR/tree/main/server
 - MCP Browser integration
    - playwright-mcp - https://github.com/microsoft/playwright-mcp
    - browser-use - https://github.com/co-browser/browser-use-mcp-server
