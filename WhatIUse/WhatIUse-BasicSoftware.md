@@ -45,6 +45,7 @@
 - HandBrake – Videkonventor
 - Audacity , sound editor - https://www.audacityteam.org/download/windows/    +  Mp3 Export https://lame.buanzo.org/#lamewindl
 - Audacity AI Moduly - https://github.com/intel/openvino-plugins-ai-audacity/releases
+- vb-audio -SW Audio Kabel https://vb-audio.com/
 - EarTrumpet - Volume Control
 - StreamWriter - Record Audi Stream & Internet Radio  -  https://streamwriter.org/en/ 
 - FlashBack recorder - Free Screen recorder - https://www.flashbackrecorder.com/
