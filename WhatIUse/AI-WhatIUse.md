@@ -23,6 +23,7 @@ https://stability.ai/
 
 
 # MCP + Servers - List
+- https://www.claudemcp.com/
 - Standard - https://modelcontextprotocol.io/introduction
 - https://www.mcpoogle.com/
 - https://mcp.so/
