@@ -29,6 +29,7 @@ https://stability.ai/
 - https://mcpservers.com/
 - https://www.pulsemcp.com/
 - https://github.com/modelcontextprotocol/servers
+- https://github.com/regenrek/deepwiki-mcp
 - 
 # MCP Servers
 - mcp-with-azure-functions - https://techcommunity.microsoft.com/blog/AppsonAzureBlog/build-ai-agent-tools-using-remote-mcp-with-azure-functions/4401059
