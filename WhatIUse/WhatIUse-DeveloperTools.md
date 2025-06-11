@@ -14,6 +14,9 @@
 ### Windows Terminal
 - Custom Color Prompt https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup
 
+### Testing
+- API Testing - api's response times - https://github.com/parsecph/clobbr?tab=readme-ov-file
+
 ### Prototyping 
 - https://www.justinmind.com/
 - 
