@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+06/2025
+- Python in C# - https://www.youtube.com/watch?v=znLeq9altLY
+- 
 05/2025
 - LLM in MS SQL - https://www.mssqltips.com/sqlservertip/8245/large-language-model-ollama-with-sql-server/?utm_source=rss&utm_medium=rss&utm_campaign=large-language-model-ollama-with-sql-server
 - 
