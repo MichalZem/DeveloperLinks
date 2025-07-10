@@ -23,7 +23,7 @@
 - [Azure Data Studio + Extensions](WhatIUse/AzureDataStudio.md)
 - [Developer tools](WhatIUse/WhatIUse-DeveloperTools.md)
 - [Developer toolbox](WhatIUse/DevToolbox.md)
-- [SQL](WhatIUse/SQL-DATA.md)
+- [SQL-DATA](WhatIUse/SQL-DATA.md)
 - [AI](WhatIUse/AI-WhatIUse.md)
 - [API](WhatIUse/API-WhatIUse.md)
 - [Cloud - Azure, App,..](WhatIUse/WhatIUseInCloud.md)
