@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+08/2025
+- https://shinylib.net/ - (např GPS Background services) - Shiny je cross-platform framework pro .NET, který usnadňuje vývoj mobilních aplikací pro iOS a Android
+
 06/2025
 - Python in C# - https://www.youtube.com/watch?v=znLeq9altLY
 - 
