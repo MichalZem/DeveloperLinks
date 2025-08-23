@@ -2,6 +2,7 @@
 
 # Learning Log
 08/2025
+- https://www.youtube.com/watch?v=6N2oFh6YTTc - Python in c#
 - https://github.com/adospace/CoreSync - CoreSync is a .NET library that provides data synchronization between databases 
 - https://shinylib.net/ - (např GPS Background services) - Shiny je cross-platform framework pro .NET, který usnadňuje vývoj mobilních aplikací pro iOS a Android
 
