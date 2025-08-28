@@ -6,6 +6,7 @@
 - https://superface.ai/ - katalog + napojieni na ostatni sluzby (takový proxy pro dalsi API)
 - Ruzné placené, ale i free služby - https://rapidapi.com/hub
 - https://apislist.com/
+- https://www.rendi.dev/pricing - FFMPEG
 
 - https://www.gosms.eu/ - SMS
 - https://sendgrid.com/pricing/ - Emaily
