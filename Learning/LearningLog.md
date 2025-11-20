@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+11/25
+- Microsoft Identity - https://www.youtube.com/watch?v=r7821QX6ri0 - ASP.NET Core Identity UNDER THE HOOD (.NET 10) | Master Authentication & Authorization in .NET 10
+
 08/2025
 - https://www.youtube.com/watch?v=6N2oFh6YTTc - Python in c#
 - https://github.com/adospace/CoreSync - CoreSync is a .NET library that provides data synchronization between databases 
