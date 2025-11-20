@@ -2,6 +2,7 @@
 
 # Learning Log
 11/25
+- microsoft-agent-framework - https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/
 - Microsoft Identity - https://www.youtube.com/watch?v=r7821QX6ri0 - ASP.NET Core Identity UNDER THE HOOD (.NET 10) | Master Authentication & Authorization in .NET 10
 
 08/2025
