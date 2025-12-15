@@ -6,7 +6,9 @@
 - https://github.com/ChromeDevTools/chrome-devtools-mcp/ + https://developer.chrome.com/blog/chrome-devtools-mcp
 
 
+
 ## Others
+- Docker MCP - https://docs.docker.com/ai/mcp-catalog-and-toolkit/get-started/
 - mcp-with-azure-functions - https://techcommunity.microsoft.com/blog/AppsonAzureBlog/build-ai-agent-tools-using-remote-mcp-with-azure-functions/4401059
 - MCP inspector - https://github.com/modelcontextprotocol/inspector
 - MCP Proxy - https://github.com/TBXark/mcp-proxy
