@@ -2,12 +2,16 @@
 [Root](../README.md)
 
 ## Active
-- https://github.com/microsoft/playwright-mcp
-- https://github.com/ChromeDevTools/chrome-devtools-mcp/ + https://developer.chrome.com/blog/chrome-devtools-mcp
+- playwright - https://github.com/microsoft/playwright-mcp
+- MS SQL - https://github.com/Aaronontheweb/mssql-mcp
+
+
+ 
 
 
 
 ## Others
+- https://github.com/ChromeDevTools/chrome-devtools-mcp/ + https://developer.chrome.com/blog/chrome-devtools-mcp
 - Docker MCP - https://docs.docker.com/ai/mcp-catalog-and-toolkit/get-started/
 - mcp-with-azure-functions - https://techcommunity.microsoft.com/blog/AppsonAzureBlog/build-ai-agent-tools-using-remote-mcp-with-azure-functions/4401059
 - MCP inspector - https://github.com/modelcontextprotocol/inspector
