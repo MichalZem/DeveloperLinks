@@ -8,6 +8,10 @@
 
 <br>
 
+# AI
+- [AI](WhatIUse/AI-WhatIUse.md)
+- [MCP](WhatIUse/mcp.md)
+  
 # SW, HW, Tools,
 
 - [Hardware](WhatIUse/WhatIUse-Hardware.md)
@@ -24,7 +28,6 @@
 - [Developer tools](WhatIUse/WhatIUse-DeveloperTools.md)
 - [Developer toolbox](WhatIUse/DevToolbox.md)
 - [SQL-DATA](WhatIUse/SQL-DATA.md)
-- [AI](WhatIUse/AI-WhatIUse.md)
 - [API](WhatIUse/API-WhatIUse.md)
 - [Cloud - Azure, App,..](WhatIUse/WhatIUseInCloud.md)
 - [Online](WhatIUse/WhatIUseOnline.md)
