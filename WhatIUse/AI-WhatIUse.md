@@ -4,6 +4,9 @@
 - /.github/copilot-instruction.md
 - /.github/prompts/
 
+# AI Specifikace Frameworky
+- https://github.com/Fission-AI/OpenSpec
+
 # Last 
 - https://github.com/KillianLucas/open-interpreter  
 - https://claude.ai/chat/   
