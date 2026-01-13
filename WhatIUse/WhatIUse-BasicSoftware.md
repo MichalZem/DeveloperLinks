@@ -34,6 +34,7 @@
 - File & App Search  - https://www.listary.com/
 ### VPN
 - https://tailscale.com/
+- Open VPN - https://openvpn.net/connect-docs/connect-for-windows.html
   
 ### MultiMédia - Video, Music, Image
 - Free Tube app YouTube Client & Download - https://freetubeapp.io/
