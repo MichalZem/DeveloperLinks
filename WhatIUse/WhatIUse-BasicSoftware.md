@@ -31,6 +31,7 @@
 - VirtualBox https://www.virtualbox.org/ - Android Image https://www.osboxes.org/virtualbox-images/
 - Sandbox v PC - https://sandboxie-plus.com/
 - Enigma Virtual Box - https://enigmaprotector.com/en/downloads.html
+- File & App Search  - https://www.listary.com/
 ### VPN
 - https://tailscale.com/
   
