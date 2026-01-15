@@ -3,6 +3,7 @@
 # Visual Studio Extensions
 
 # TOP
+- File Explorer - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WorkflowBrowser
 - VSHistory - Visual Studio File Histories - https://marketplace.visualstudio.com/items?itemName=KenCross.VSHistory 
 - String Resource Visualizer - https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer 
 - ResXManager - https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager XPath Tools  -  https://marketplace.visualstudio.com/items?itemName=UliWeltersbach.XPathInformation 
