@@ -2,6 +2,14 @@
  
 # Visual Studio Extensions
 
+# TOP
+- VSHistory - Visual Studio File Histories - https://marketplace.visualstudio.com/items?itemName=KenCross.VSHistory 
+- String Resource Visualizer - https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer 
+- ResXManager - https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager XPath Tools  -  https://marketplace.visualstudio.com/items?itemName=UliWeltersbach.XPathInformation 
+- A package that contains EF Core Power Tools and some DDEX providers that improve your experience when using EF Core Power Tools. - https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerpack
+
+
+
 ### Time
 - https://wakapi.dev/summary - https://marketplace.visualstudio.com/items?itemName=WakaTime.WakaTime-2022
   
@@ -27,8 +35,7 @@
 - Rest Client - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.RestClient
 
 ## EF CORE
-- A package that contains EF Core Power Tools and some DDEX providers that improve your experience when using EF Core Power Tools. - https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerpack
-- EFCoreVisualizer - query plan Visualiser - https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer
+-- EFCoreVisualizer - query plan Visualiser - https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer
 - Entity Framework Visual Editor - https://marketplace.visualstudio.com/items?itemName=michaelsawczyn.EFDesigner2022
 - View Entity Framework Core query plan directly inside Visual Studio. - https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer
 
@@ -82,11 +89,9 @@
 - REST API Client Code Generator  - https://marketplace.visualstudio.com/items?itemName=ChristianResmaHelle.ApiClientCodeGenerator 
 - Open Command Line -  https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine 
 - Add New File - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile 
-- String Resource Visualizer - https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer 
-- ResXManager - https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager XPath Tools  -  https://marketplace.visualstudio.com/items?itemName=UliWeltersbach.XPathInformation 
-- Find in Solution Explorer - https://marketplace.visualstudio.com/items?itemName=SamHarwell.FindinSolutionExplorer
+-- Find in Solution Explorer - https://marketplace.visualstudio.com/items?itemName=SamHarwell.FindinSolutionExplorer
 - Local History - https://github.com/LostAlloy/LocalHistory-for-Visual-Studio/releases/  + https://github.com/curzona/local-history-visual-studio  
-- VSHistory jako LocalHisotry ale jede i pod 2019 - Visual Studio File Histories - https://marketplace.visualstudio.com/items?itemName=KenCross.VSHistory 
+
 - PackageInstaller (Npm,Bower, JSPM, TSD, Typings and NuGet) - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PackageInstaller
 - jQuery Code Snippets
 - Roslyn Security Guard
