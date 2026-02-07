@@ -1,5 +1,9 @@
 [Root](../README.md)
 
+
+ScreenStream - vysílání obrazovky telefonu - Dmytro Kryvoruchko
+- https://play.google.com/store/apps/details?id=info.dvkr.screenstream&pli=1 
+
 # LG
 
 - OneDrive
