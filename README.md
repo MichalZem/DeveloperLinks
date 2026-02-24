@@ -6,7 +6,10 @@
 - [Zdroje pro učení](Learning/LearningSources.md)
 - [Learning Log](Learning/LearningLog.md)
 
-<br>
+# Skills
+- https://roadmap.sh/aspnet-core
+- https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+- 
 
 # AI
 - [AI](WhatIUse/AI-WhatIUse.md)
