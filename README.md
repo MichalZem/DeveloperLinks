@@ -34,6 +34,7 @@
 - [API](WhatIUse/API-WhatIUse.md)
 - [Cloud - Azure, App,..](WhatIUse/WhatIUseInCloud.md)
 - [Online](WhatIUse/WhatIUseOnline.md)
+- [FreeServices](WhatIUse/FreeApp.md)
 - [Linux](WhatIUse/WhatIUseLinux.md)
 - [Windows](WhatIUse/Windows.md)
 - [Mobil](WhatIUse/WhatIUseMobileApp.md)
