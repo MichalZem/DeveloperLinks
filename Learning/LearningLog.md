@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+03/2026
+- https://github.com/Redth/MauiDevFlow - MAUI AI
+- https://github.com/ZiggyCreatures/FusionCache - hybrdiCache in C#
 11/25
 - dotnet new install Microsoft.Agents.AI.ProjectTemplates
 - microsoft-agent-framework - https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/
