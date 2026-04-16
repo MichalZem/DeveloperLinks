@@ -1,6 +1,9 @@
 [Root](../README.md)
 
 # Learning Log
+04/2026
+- https://github.com/a1dancole/OpenAI-Code-Review - Azure Devops Code Review
+  
 03/2026
 - https://github.com/Redth/MauiDevFlow - MAUI AI
 - https://github.com/ZiggyCreatures/FusionCache - hybrdiCache in C#
