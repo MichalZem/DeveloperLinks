@@ -37,6 +37,7 @@
 - Open VPN - https://openvpn.net/connect-docs/connect-for-windows.html
   
 ### MultiMédia - Video, Music, Image
+- Download Videa - https://github.com/tonhowtf/omniget/releases + https://github.com/yt-dlp/yt-dlp
 - Free Tube app YouTube Client & Download - https://freetubeapp.io/
 - All-in-one audio & video editing, as easy as a doc - https://www.descript.com/
 - VLC Player + https://github.com/nurupo/vlc-pause-click-plugin   Click to Play/Pause Plugin
