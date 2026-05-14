@@ -21,7 +21,6 @@
 - AnyDesk Client + TeamViewer Client
 - VNC  - http://www.tightvnc.com 
 - 7Zip
-- Antivir – Avast
 - Notepad++ https://notepad-plus-plus.org 
 - ShareX  - https://getsharex.com/
 - Chocolate + Chocolate Gui
@@ -32,8 +31,14 @@
 - Sandbox v PC - https://sandboxie-plus.com/
 - Enigma Virtual Box - https://enigmaprotector.com/en/downloads.html
 - File & App Search  - https://www.listary.com/
+
+### Antivir a čištěnní
+- Cleaning - https://github.com/builtbybel/FluentCleaner
+- Antivir – Avast/AVG
+ 
 ### VPN
 - https://tailscale.com/
+- https://www.cloudflare.com/plans/zero-trust-services/ 
 - Open VPN - https://openvpn.net/connect-docs/connect-for-windows.html
   
 ### MultiMédia - Video, Music, Image
